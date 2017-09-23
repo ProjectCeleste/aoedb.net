@@ -1,0 +1,598 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<stringtable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="0" locstart="700000" locend="799999" loccurrent="701212">
+	<language name="English">
+		<string _locid="700000">Webstuhl</string>
+		<string _locid="700001">Erhöht Lebenspunkte von &lt;color=0.32 0.65 1.0&gt;Dorfbewohnern&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +50%&lt;/color&gt;</string>
+		<string _locid="700002">Verbessert die Geschwindigkeit, mit der &lt;color=0.32 0.65 1.0&gt;Dorfbewohner&lt;/color&gt; Nahrung von&lt;color=0.32 0.65 1.0&gt;jagdbaren&lt;/color&gt; Tieren.*&lt;color=0.0 1.0 0.0&gt;Sammelgeschwindigkeit +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Extraschaden +50% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;jagdbare Tiere&lt;/color&gt;</string>
+		<string _locid="700003">Jagdhunde</string>
+		<string _locid="700004">Schubkarren</string>
+		<string _locid="700005">Erhöht Effizienz von &lt;color=0.32 0.65 1.0&gt;Dorfbewohnern&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Tragvermögen +20%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +5%&lt;/color&gt;</string>
+		<string _locid="700006">Marktkarren</string>
+		<string _locid="700008">Lagerhaus</string>
+		<string _locid="700009">Pflückhandschuhe</string>
+		<string _locid="700010">Erhöht die Geschwindigkeit, mit der &lt;color=0.32 0.65 1.0&gt;Dorfbewohner&lt;/color&gt; Nahrung von &lt;color=0.32 0.65 1.0&gt;Beerensträuchern sammeln&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Sammelrate +20%&lt;/color&gt;</string>
+		<string _locid="700021">Erhöht die Geschwindigkeit, mit der &lt;color=0.32 0.65 1.0&gt;Dorfbewohner&lt;/color&gt; Holz von &lt;color=0.32 0.65 1.0&gt;Bäumen&lt;/color&gt; sammeln.*&lt;color=0.0 1.0 0.0&gt;Sammelrate +15%&lt;/color&gt;</string>
+		<string _locid="700023">Erhöht die Geschwindigkeit, mit der &lt;color=0.32 0.65 1.0&gt;Dorfbewohner&lt;/color&gt; Nahrung von &lt;color=0.32 0.65 1.0&gt;Feldern&lt;/color&gt; sammeln.*&lt;color=0.0 1.0 0.0&gt;Sammelrate +10%&lt;/color&gt;</string>
+		<string _locid="700025">Erhöht die Geschwindigkeit, mit der &lt;color=0.32 0.65 1.0&gt;Dorfbewohner&lt;/color&gt; Gold von &lt;color=0.32 0.65 1.0&gt;Goldminen&lt;/color&gt; sammeln.*&lt;color=0.0 1.0 0.0&gt;Sammelrate +12%&lt;/color&gt;</string>
+		<string _locid="700027">Erhöht die Geschwindigkeit, mit der &lt;color=0.32 0.65 1.0&gt;Dorfbewohner&lt;/color&gt; Stein von &lt;color=0.32 0.65 1.0&gt;Steinminen&lt;/color&gt; sammeln.*&lt;color=0.0 1.0 0.0&gt;Sammelrate +12%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Ersparnis +50%&lt;/color&gt;</string>
+		<string _locid="700028">Dock</string>
+		<string _locid="700029">Bildet &lt;color=0.32 0.65 1.0&gt;Boote&lt;/color&gt; aus. Dient als Lagerplatz, an dem Rohstoffe abgeladen werden können.</string>
+		<string _locid="700031">Verbessert &lt;color=0.32 0.65 1.0&gt;Fischerboote&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Sammelrate +20%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Transportkapazität +50%&lt;/color&gt;</string>
+		<string _locid="700032">Trireme</string>
+		<string _locid="700033">Die Trireme ist ein kampffähiges Schiff, das bei Kämpfen gegen Feinde seine volle Stärke in die Schlacht wirft.</string>
+		<string _locid="700034">Katapult-Trireme</string>
+		<string _locid="700035">Durch eine Kombination von Belagerungs- und Seefähigkeiten lässt die Ballisten-Trireme Schrecken auf die Befestigungen an Land regnen.</string>
+		<string _locid="700036">Feuerschiff</string>
+		<string _locid="700037">Als vernichtende Ergänzung für jede Flotte bekämpft das Feuerschiff bei Seeschlachten andere Schiffe mit Feuer.</string>
+		<string _locid="700044">Handelsschiff</string>
+		<string _locid="700045">Das Handelsschiff befördert Landeinheiten über Wasser und treibt zwischen Docks für Gold Handel.</string>
+		<string _locid="700046">Wall</string>
+		<string _locid="700047">Legt Grenzen fest und stärkt die Verteidigung.</string>
+		<string _locid="700048">Wachposten</string>
+		<string _locid="700049">Ein Turm, der Sichtweite bietet.</string>
+		<string _locid="700050">Wachturm</string>
+		<string _locid="700051">Eine einfache Verteidigungseinrichtung. &lt;color=0.32 0.65 1.0&gt;Dorfbewohner&lt;/color&gt; können sich hier einquartieren.</string>
+		<string _locid="700053">Verbessert &lt;color=0.32 0.65 1.0&gt;Wälle&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +100%&lt;/color&gt;</string>
+		<string _locid="700062">Hoplit</string>
+		<string _locid="700063">Hopliten sind schwer gepanzerte Einheiten, die gut gegen Fernkampf-Einheiten geschützt sind und effektiv gegen Kavallerie- und Belagerungs-Einheiten kämpfen können.</string>
+		<string _locid="700064">Hypaspist</string>
+		<string _locid="700065">Der Hypaspist schneidet mit seinen zwei Schwertern mit Leichtigkeit durch andere Infanterie-Einheiten.</string>
+		<string _locid="700078">Schießanlage</string>
+		<string _locid="700079">Bildet &lt;color=0.32 0.65 1.0&gt;Fernkampf&lt;/color&gt;-Einheiten aus.</string>
+		<string _locid="700080">Peltast</string>
+		<string _locid="700081">Der mit Speeren bewaffnete Peltast ist hervorragend dazu geeignet, andere Fernkampf-Einheiten anzugreifen.</string>
+		<string _locid="700082">Gastraphetes</string>
+		<string _locid="700083">Der mit einer frühen Armbrust bewaffnete Gastraphetes kann durch große Reichweite und hohen Schaden Infanterie sogar aus großer Entfernung vernichten.</string>
+		<string _locid="700096">Stall</string>
+		<string _locid="700097">Bildet &lt;color=0.32 0.65 1.0&gt;Kavallerie&lt;/color&gt;-Einheiten aus.</string>
+		<string _locid="700098">Hippikon</string>
+		<string _locid="700099">Durch seine große Stärke und Ausdauer ist der Hippikon die perfekt abgerundete Kavallerie-Einheit.</string>
+		<string _locid="700100">Prodromos</string>
+		<string _locid="700101">Da der Prodromos unglaublich schnell und präzise zuschlagen kann, ist er für den Kampf gegen Kavallerie gut geeignet, während er gegen Speerkämpfer nur wenig Chancen hat.</string>
+		<string _locid="700114">Waffenkammer</string>
+		<string _locid="700115">Erforscht Einheiten-Weiterentwicklungen.</string>
+		<string _locid="700128">Waffenschmiede</string>
+		<string _locid="700129">Bildet &lt;color=0.32 0.65 1.0&gt;Belagerungs&lt;/color&gt;-Einheiten aus.</string>
+		<string _locid="700130">Balliste</string>
+		<string _locid="700131">Die Balliste ist eine alte griechische Belagerungsmaschine, die Fernkampf-Einheiten und Gebäuden schweren Schaden zufügt.</string>
+		<string _locid="700136">Marktplatz</string>
+		<string _locid="700137">Betreibt Tauschhandel mit Rohstoffen. Bildet &lt;color=0.32 0.65 1.0&gt;Karawanen&lt;/color&gt; aus.</string>
+		<string _locid="700138">Karawane</string>
+		<string _locid="700139">Die Karawane ist ein wichtiger Stützpfeiler für eine dauerhafte Wirtschaft, da sie zwischen Marktplätzen und Dorfzentren für Gold Handel treibt.</string>
+		<string _locid="700140">Münzwesen</string>
+		<string _locid="700141">Reduziert die Tauschraten am &lt;color=0.32 0.65 1.0&gt;Markt&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Kauf/Verkauf-Strafe -40%&lt;/color&gt;</string>
+		<string _locid="700142">Handelsrouten</string>
+		<string _locid="700143">Reduziert Straftribut.*&lt;color=0.0 1.0 0.0&gt;Straftribut -50%&lt;/color&gt;</string>
+		<string _locid="700144">Satteltaschen</string>
+		<string _locid="700145">Verbessert &lt;color=0.32 0.65 1.0&gt;Karawanen&lt;/color&gt;-Handel.*&lt;color=0.0 1.0 0.0&gt;Goldhandel +20%&lt;/color&gt;</string>
+		<string _locid="700146">Festung</string>
+		<string _locid="700147">Eine starke Verteidigungseinrichtung. Bildet &lt;color=0.32 0.65 1.0&gt;Palintonoi&lt;/color&gt; und Berater-Einheiten aus.</string>
+		<string _locid="700148">Palintonon</string>
+		<string _locid="700149">Das Palintonon ist eine überlegene Belagerungs-Einheit mit großer Reichweite, die schwere Verteidigungsanlagen in wenigen Sekunden in Schutt und Asche legt.</string>
+		<string _locid="700158">Akademie</string>
+		<string _locid="700159">Erforscht verbesserte Weiterentwicklungen.</string>
+		<string _locid="700166">Tempel</string>
+		<string _locid="700167">Bildet &lt;color=0.32 0.65 1.0&gt;Priester&lt;/color&gt; aus.</string>
+		<string _locid="700183">Kaserne</string>
+		<string _locid="700184">Bildet &lt;color=0.32 0.65 1.0&gt;Infanterie&lt;/color&gt;-Einheiten aus.</string>
+		<string _locid="700185">Speerkämpfer</string>
+		<string _locid="700186">Der Speerkämpfer ist die einfachste Militäreinheit und kämpft besonders effektiv gegen Kavallerie.</string>
+		<string _locid="700188">Verbessert &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Schaden +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Stichrüstung +25%&lt;/color&gt;</string>
+		<string _locid="700193">Helden-Speerkämpfer</string>
+		<string _locid="700195">Verbessert &lt;color=0.32 0.65 1.0&gt;Hopliten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Extraschaden +50% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Kavallerie&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Stichrüstung +50%&lt;/color&gt;</string>
+		<string _locid="700197">Helden-Hoplit</string>
+		<string _locid="700199">Verbessert &lt;color=0.32 0.65 1.0&gt;Hypaspisten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +15%&lt;/color&gt;</string>
+		<string _locid="700201">Helden-Hypaspist</string>
+		<string _locid="700202">Toxote</string>
+		<string _locid="700203">Der Toxote ist der einfachste Bogenschütze und fügt, vor allem in größeren Verbänden, von weitem massiven Schaden zu.</string>
+		<string _locid="700205">Verbessert &lt;color=0.32 0.65 1.0&gt;Toxoten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Schaden +10%&lt;/color&gt;</string>
+		<string _locid="700207">Helden-Toxote</string>
+		<string _locid="700210">Verbessert &lt;color=0.32 0.65 1.0&gt;Peltasten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +15%&lt;/color&gt;</string>
+		<string _locid="700211">Helden-Peltast</string>
+		<string _locid="700212">Helden-Gastraphetes</string>
+		<string _locid="700213">Verbessert &lt;color=0.32 0.65 1.0&gt;Gastrapheten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Angriffsrate +25%&lt;/color&gt;</string>
+		<string _locid="700214">Sarissophoroi</string>
+		<string _locid="700215">Die Sarissophoroi reiten auf Pferden und können mit ihren Speeren Bogenschützen leicht besiegen, können aber von Speerkämpfern und anderer Kavallerie verwundet werden.</string>
+		<string _locid="700218">Helden-Sarissophoroi</string>
+		<string _locid="700219">Verbessert &lt;color=0.32 0.65 1.0&gt;Sarissophoroi&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Maximale Reichweite +40%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +10%&lt;/color&gt;</string>
+		<string _locid="700220">Helden-Hippikon</string>
+		<string _locid="700221">Verbessert &lt;color=0.32 0.65 1.0&gt;Hippikon&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bevölkerungszahl -1&lt;/color&gt;</string>
+		<string _locid="700223">Helden-Prodromos</string>
+		<string _locid="700224">Verbessert &lt;color=0.32 0.65 1.0&gt;Prodromos&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Extraschaden +50% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Belagerungs&lt;/color&gt;-Einheiten*&lt;color=0.0 1.0 0.0&gt;Extraschaden +50% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Gebäude&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Verlangsamung +50%&lt;/color&gt;</string>
+		<string _locid="700225">Rammbock</string>
+		<string _locid="700226">Der Rammbock ist eine langsame, aber robuste Kriegsmaschine, die mit unglaublicher Kraft in Wälle und Gebäude einschlägt.</string>
+		<string _locid="700228">Helden-Rammbock</string>
+		<string _locid="700229">Verbessert &lt;color=0.32 0.65 1.0&gt;Rammböcke&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Schaden +50%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bietet Verlangsamungsimmunität&lt;/color&gt;</string>
+		<string _locid="700230">Helden-Balliste</string>
+		<string _locid="700231">Verbessert &lt;color=0.32 0.65 1.0&gt;Ballisten&lt;/color&gt; enorm.*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +20%&lt;/color&gt;</string>
+		<string _locid="700244">Steinwall</string>
+		<string _locid="700245">Verstärkter Wall</string>
+		<string _locid="700246">Festungswall</string>
+		<string _locid="700248">Befestigter Turm</string>
+		<string _locid="700250">Festungsturm</string>
+		<string _locid="700251">Verbessert &lt;color=0.32 0.65 1.0&gt;Wachtürme&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +30%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Schaden +30%&lt;/color&gt;</string>
+		<string _locid="700253">Fischerboot</string>
+		<string _locid="700254">Das Fischerboot ist ein grundlegender Schiffstyp, der Nahrung von Fischen sammelt und andere beschädigte Schiffe und Gebäude repariert.</string>
+		<string _locid="700259">Helden-Trireme</string>
+		<string _locid="700260">Verbessert &lt;color=0.32 0.65 1.0&gt;Triremen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Maximale Reichweite +15%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +20%&lt;/color&gt;</string>
+		<string _locid="700262">Helden-Feuerschiff</string>
+		<string _locid="700263">Preisregulierung</string>
+		<string _locid="700264">Schifffahrtswege</string>
+		<string _locid="700279">Erhöht Nahkampfschaden für alle &lt;color=0.32 0.65 1.0&gt;Militär-Einheiten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Nahkampfschaden Infanterie +20%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Nahkampfschaden Kavallerie +20%&lt;/color&gt;</string>
+		<string _locid="700283">Erhöht Stechschaden für alle &lt;color=0.32 0.65 1.0&gt;Militär-Einheiten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Stechschaden +20%&lt;/color&gt;</string>
+		<string _locid="700293">Helden-Palintonon</string>
+		<string _locid="700294">Verbessert &lt;color=0.32 0.65 1.0&gt;Palintonon&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Maximale Reichweite +20%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Sichtweite +20%&lt;/color&gt;</string>
+		<string _locid="700295">Priester</string>
+		<string _locid="700296">Der Priester bietet während und außerhalb von Kämpfen Unterstützung, bekehrt feindliche Einheiten und heilt freundliche Einheiten nach dem Kampf.</string>
+		<string _locid="700297">Feld</string>
+		<string _locid="700298">Bietet unbegrenzte Nahrungsquelle, von der &lt;color=0.32 0.65 1.0&gt;Dorfbewohner&lt;/color&gt; sammeln können.</string>
+		<string _locid="700299">Helden-Katapult-Trireme</string>
+		<string _locid="700300">Verbessert &lt;color=0.32 0.65 1.0&gt;Katapult-Triremen&lt;/color&gt; enorm.*&lt;color=0.0 1.0 0.0&gt;Schaden +25%&lt;/color&gt;</string>
+		<string _locid="700301">Verbessert &lt;color=0.32 0.65 1.0&gt;Feuerschiffe&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Schutz vor Extraschaden +100%&lt;/color&gt;</string>
+		<string _locid="700364">Werkstein</string>
+		<string _locid="700365">Verbessert &lt;color=0.32 0.65 1.0&gt;Gebäude&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +25%&lt;/color&gt;</string>
+		<string _locid="700366">Göttlicher Blick</string>
+		<string _locid="700367">Verbessert &lt;color=0.32 0.65 1.0&gt;Priester&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bekehrungsreichweite +20%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Sichtweite +20%&lt;/color&gt;</string>
+		<string _locid="700376">Ein Ressourcen-Lagerplatz, der dazu dient, die Entfernungen zu den Sammelplätzen zu verringern.</string>
+		<string _locid="700377">Dorfzentrum</string>
+		<string _locid="700378">Bildet &lt;color=0.32 0.65 1.0&gt;Dorfbewohner&lt;/color&gt; aus. Dient als Ressourcen-Lagerplatz. Erhöht die Bevölkerungsgrenze um 20.</string>
+		<string _locid="700379">Dorfbewohner</string>
+		<string _locid="700380">Der Dorfbewohner ist ein einfacher Arbeiter, der Ressourcen sammelt, Gebäude errichtet und beschädigte Gebäude und Belagerungs-Einheiten repariert.</string>
+		<string _locid="700381">Schleuderkämpfer</string>
+		<string _locid="700385">Helden-Schleuderkämpfer</string>
+		<string _locid="700386">Axtkämpfer</string>
+		<string _locid="700389">Helden-Axtkämpfer</string>
+		<string _locid="700391">Bildet &lt;color=0.32 0.65 1.0&gt;Kamelreiter&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Wagenschützen&lt;/color&gt; aus.</string>
+		<string _locid="700392">Stall</string>
+		<string _locid="700393">Wagenschütze</string>
+		<string _locid="700394">Der Wagenschütze verursacht aus der Entfernung großen Schaden und kontrolliert mit seiner Reichweite und Mobilität das Schlachtfeld.</string>
+		<string _locid="700396">Helden-Wagenschütze</string>
+		<string _locid="700399">Kamelreiter</string>
+		<string _locid="700401">Helden-Kamelreiter</string>
+		<string _locid="700405">Kriegselefant</string>
+		<string _locid="700406">Der mächtige Kriegselefant lehrt seine Feinde das Fürchten und fügt denen, die sich ihm in den Weg stellen, massiven Flächenschaden zu.</string>
+		<string _locid="700407">Helden-Kriegselefant</string>
+		<string _locid="700408">Elefanten-Bogenschütze</string>
+		<string _locid="700410">Der Elefanten-Bogenschütze ist eine mächtige berittene Einheit, die einen Hagel tödlicher Pfeile auf ihre Feinde regnen lässt.</string>
+		<string _locid="700411">Helden-Elefanten-Bogenschütze</string>
+		<string _locid="700413">Verbessert &lt;color=0.32 0.65 1.0&gt;Elefanten-Bogenschützen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bevölkerungszahl -1&lt;/color&gt;</string>
+		<string _locid="700414">Bildet &lt;color=0.32 0.65 1.0&gt;Belagerungs&lt;/color&gt;-Einheiten aus.</string>
+		<string _locid="700415">Belagerungsturm</string>
+		<string _locid="700417">Helden-Belagerungsturm</string>
+		<string _locid="700419">Katapult</string>
+		<string _locid="700421">Das Katapult schleudert große Steine über das Schlachtfeld und vernichtet Fernkampf-Einheiten und Gebäude.</string>
+		<string _locid="700422">Helden-Katapult</string>
+		<string _locid="700423">Verbessert &lt;color=0.32 0.65 1.0&gt;Katapulte&lt;/color&gt; enorm.*&lt;color=0.0 1.0 0.0&gt;Schaden +25%&lt;/color&gt;</string>
+		<string _locid="700430">Eine starke Verteidigungseinrichtung. Bildet &lt;color=0.32 0.65 1.0&gt;Kriegselefanten&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Elefanten-Bogenschützen&lt;/color&gt; und Berater-Einheiten aus.</string>
+		<string _locid="700431">Kriegsakademie</string>
+		<string _locid="700432">Tempel des Ra</string>
+		<string _locid="700434">Tempel des Set</string>
+		<string _locid="700435">Bildet &lt;color=0.32 0.65 1.0&gt;Priester des Set&lt;/color&gt; aus. Führt die Kultur in das Silber-Zeitalter.</string>
+		<string _locid="700436">Tempel des Ptah</string>
+		<string _locid="700437">Bildet &lt;color=0.32 0.65 1.0&gt;Priester des Ptah&lt;/color&gt; aus. Führt die Kultur in das Gold-Zeitalter.</string>
+		<string _locid="700439">Die Priesterin des Ra heilt nicht nur befreundete Einheiten, sondern verbessert auch Gebäude, indem sie ihnen eine höhere Wirtschafts- und Ausbildungsgeschwindigkeit verleiht.</string>
+		<string _locid="700441">Bildet &lt;color=0.32 0.65 1.0&gt;Priesterinnen des Ra&lt;/color&gt; aus. Führt die Kultur in das Bronze-Zeitalter.</string>
+		<string _locid="700442">Priesterin des Ra</string>
+		<string _locid="700444">Priester des Set</string>
+		<string _locid="700445">Der Priester des Set stürzt feindliche Einheiten in Verwirrung, wodurch diese allen anderen Einheiten gegenüber feindlich gesonnen sind.</string>
+		<string _locid="700446">Priester des Ptah</string>
+		<string _locid="700447">Der Priester des Ptah ist eine mächtige Einheit, die in einem kleinen Umkreis mehrere feindliche Einheiten und Gebäude gleichzeitig bekehren kann.</string>
+		<string _locid="700448">Berührung des Ra</string>
+		<string _locid="700449">Verbessert ägyptische &lt;color=0.32 0.65 1.0&gt;Priester&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Heilungsrate +40%&lt;/color&gt;</string>
+		<string _locid="700450">Sonnenblick</string>
+		<string _locid="700451">Verbessert ägyptische &lt;color=0.32 0.65 1.0&gt;Priester&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Heilungsreichweite +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Verwirrungsreichweite +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bekehrungsreichweite +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Sichtweite +25%&lt;/color&gt;</string>
+		<string _locid="700452">Blutzoll</string>
+		<string _locid="700453">Reduziert die Kosten für ägyptische &lt;color=0.32 0.65 1.0&gt;Priester&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Kosten -30%&lt;/color&gt;</string>
+		<string _locid="700454">Essenz der Kobra</string>
+		<string _locid="700455">Verbessert ägyptische &lt;color=0.32 0.65 1.0&gt;Priester&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +30%&lt;/color&gt;</string>
+		<string _locid="700456">Stärke der Götter</string>
+		<string _locid="700457">Verbessert ägyptische &lt;color=0.32 0.65 1.0&gt;Priester&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +50%&lt;/color&gt;</string>
+		<string _locid="700458">Göttliche Ausbildung</string>
+		<string _locid="700459">Senkt die Ausbildungsdauer von ägyptischen &lt;color=0.32 0.65 1.0&gt;Priestern&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Ausbildungsdauer -40%&lt;/color&gt;</string>
+		<string _locid="700485">Technologien des Kupfer-Zeitalters</string>
+		<string _locid="700486">Technologien, die in dieser Reihe freigeschaltet sind, stehen in Missionen sofort zur Verfügung.</string>
+		<string _locid="700487">Technologien des Bronze-Zeitalters</string>
+		<string _locid="700488">Diese Technologien werden freigeschaltet, wenn das Bronze-Zeitalter erreicht wurde.</string>
+		<string _locid="700489">Technologien des Silber-Zeitalters</string>
+		<string _locid="700490">Diese Technologien werden freigeschaltet, wenn das Silber-Zeitalter erreicht wurde.</string>
+		<string _locid="700491">Technologien des Gold-Zeitalters</string>
+		<string _locid="700492">Diese Technologien werden freigeschaltet, wenn das Gold-Zeitalter erreicht wurde.</string>
+		<string _locid="700496">Haus</string>
+		<string _locid="700497">Erhöht die Bevölkerungsgrenze um 5.</string>
+		<string _locid="700498">Weltwunder</string>
+		<string _locid="700499">Führt in PvP-Gefechten zum Sieg, sofern eines davon lange genug kontrolliert wird.</string>
+		<string _locid="700500">Späher</string>
+		<string _locid="700501">Der Späher ist eine schnelle Einheit mit großer Sichtweite, die sich auf die Erkundung der Karte und des feindlichen Gebiets spezialisiert hat. Errichtet &lt;color=0.32 0.65 1.0&gt;Wachposten&lt;/color&gt;.</string>
+		<string _locid="700502">Ballisten-Trireme</string>
+		<string _locid="700503">Helden-Ballisten-Trireme</string>
+		<string _locid="700504">Verbessert &lt;color=0.32 0.65 1.0&gt;Ballisten-Triremen&lt;/color&gt; enorm.*&lt;color=0.0 1.0 0.0&gt;Schaden +25%&lt;/color&gt;</string>
+		<string _locid="700505">Verbessert &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Goldkosten -100%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Ausbildungsdauer -50%&lt;/color&gt;</string>
+		<string _locid="700512">Verbessert &lt;color=0.32 0.65 1.0&gt;Rammböcke&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Schaden +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +15%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bietet Verlangsamungsimmunität&lt;/color&gt;</string>
+		<string _locid="700516">Verbessert &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Extraschaden +20% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Kavallerie&lt;/color&gt;&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +15%&lt;/color&gt;</string>
+		<string _locid="700517">Verbessert &lt;color=0.32 0.65 1.0&gt;Schleuderkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Stichrüstung +50%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Ausbildungsdauer -20%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Sichtweite +25%&lt;/color&gt;</string>
+		<string _locid="700518">Verbessert &lt;color=0.32 0.65 1.0&gt;Axtkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Schaden +15%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bietet Flächenschaden&lt;/color&gt;</string>
+		<string _locid="700519">Verbessert &lt;color=0.32 0.65 1.0&gt;Wagenschützen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Extraschaden +50% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Infanterie&lt;/color&gt;</string>
+		<string _locid="700520">Verbessert &lt;color=0.32 0.65 1.0&gt;Kamelreiter&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Extraschaden +100% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Fernkämpfer&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Stichrüstung +25%&lt;/color&gt;</string>
+		<string _locid="700521">Verbessert &lt;color=0.32 0.65 1.0&gt;Kriegselefanten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Stichrüstung +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bekehrungswiderstand +50%&lt;/color&gt;</string>
+		<string _locid="700522">Verbessert &lt;color=0.32 0.65 1.0&gt;Belagerungstürme&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +50%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bietet Verlangsamungsimmunität&lt;/color&gt;</string>
+		<string _locid="700527">Langschwert-Kämpfer</string>
+		<string _locid="700528">Held</string>
+		<string _locid="700529">Bogenkämpfer</string>
+		<string _locid="700530">Ramme</string>
+		<string _locid="700531">Reiter</string>
+		<string _locid="700532">Carpentom</string>
+		<string _locid="700533">Pikten-Plünderer</string>
+		<string _locid="700534">Magus</string>
+		<string _locid="700535">Goldbergwerk</string>
+		<string _locid="700536">Druide</string>
+		<string _locid="700537">Augur</string>
+		<string _locid="700538">Heiliger Hain</string>
+		<string _locid="700539">Bardenhalle</string>
+		<string _locid="700543">Erweiterter Laderaum</string>
+		<string _locid="700544">Erhöht Fassungsvermögen von &lt;color=0.32 0.65 1.0&gt;Handelsschiffen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Transportkapazität +8&lt;/color&gt;</string>
+		<string _locid="700547">Schwanschiff</string>
+		<string _locid="700551">Helden-Schwanschiff</string>
+		<string _locid="700552">Ruf zu den Waffen</string>
+		<string _locid="700553">Erhöht den Schaden von &lt;color=0.32 0.65 1.0&gt;keltischen Dorfbewohnern&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Nahkampf-Infanterieschaden +150%&lt;/color&gt;</string>
+		<string _locid="700557">Helden-Langschwert-Kämpfer</string>
+		<string _locid="700558">Verbessert &lt;color=0.32 0.65 1.0&gt;Langschwertkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Nahkampf-Infanterierüstung +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Stichrüstung +25%&lt;/color&gt;</string>
+		<string _locid="700559">Helden-Held</string>
+		<string _locid="700560">Verbessert &lt;color=0.32 0.65 1.0&gt;Helden&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +35%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Schaden +35%&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Kosten +50%&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Bevölkerungszahl +1&lt;/color&gt;</string>
+		<string _locid="700562">Helden-Ramme</string>
+		<string _locid="700568">Helden-Bogenkämpfer</string>
+		<string _locid="700569">Verbessert &lt;color=0.32 0.65 1.0&gt;Bogenkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Angriffsrate +25%&lt;/color&gt;</string>
+		<string _locid="700573">Helden-Reiter</string>
+		<string _locid="700574">Verbessert &lt;color=0.32 0.65 1.0&gt;Reiter&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Stichrüstung +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Verlangsamung +50%&lt;/color&gt;</string>
+		<string _locid="700575">Helden-Carpentom</string>
+		<string _locid="700576">Verbessert &lt;color=0.32 0.65 1.0&gt;Carpentom&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bietet Flächenschaden&lt;/color&gt;</string>
+		<string _locid="700578">Helden-Pikten-Plünderer</string>
+		<string _locid="700580">Verbessert &lt;color=0.32 0.65 1.0&gt;Pikten-Plünderer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bietet Flächenschaden für Sturmangriff&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bietet Verlangsamungsimmunität&lt;/color&gt;</string>
+		<string _locid="700583">Keltische Raserei</string>
+		<string _locid="700585">Balors Geschenk</string>
+		<string _locid="700586">Verbessert &lt;color=0.32 0.65 1.0&gt;Druiden&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Schaden +25%&lt;/color&gt;</string>
+		<string _locid="700587">Sequanas Geschenk</string>
+		<string _locid="700588">Verbessert &lt;color=0.32 0.65 1.0&gt;Druiden&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Auguren&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Heilungsrate +40%&lt;/color&gt;</string>
+		<string _locid="700589">Damara-Ritus</string>
+		<string _locid="700590">Verleiht &lt;color=0.32 0.65 1.0&gt;Auguren&lt;/color&gt; die Fähigkeit, Tiere für &lt;color=0.0 1.0 0.0&gt;-20% Ausbildungsdauer&lt;/color&gt; zu opfern. Wirkt sich kurzzeitig auf alle &lt;color=0.32 0.65 1.0&gt;Gebäude&lt;/color&gt; aus.</string>
+		<string _locid="700591">Andrasta-Ritus</string>
+		<string _locid="700592">Verleiht &lt;color=0.32 0.65 1.0&gt;Auguren&lt;/color&gt; die Fähigkeit, Tiere für &lt;color=0.0 1.0 0.0&gt;Schaden +15%&lt;/color&gt; zu opfern. Wirkt sich kurzzeitig auf alle &lt;color=0.32 0.65 1.0&gt;Militär-Einheiten&lt;/color&gt; aus.</string>
+		<string _locid="700593">Rudiobus-Ritus</string>
+		<string _locid="700594">Verleiht &lt;color=0.32 0.65 1.0&gt;Auguren&lt;/color&gt; die Fähigkeit, Tiere für &lt;color=0.0 1.0 0.0&gt;+15% Bewegungsgeschwindigkeit&lt;/color&gt; zu opfern. Wirkt sich kurzzeitig auf alle &lt;color=0.32 0.65 1.0&gt;Militär-Einheiten&lt;/color&gt; aus.</string>
+		<string _locid="700595">Ratis-Ritus</string>
+		<string _locid="700596">Verleiht &lt;color=0.32 0.65 1.0&gt;Auguren&lt;/color&gt; die Fähigkeit, Tiere für &lt;color=0.0 1.0 0.0&gt;+30% Schaden gegen Gebäude&lt;/color&gt; zu opfern. Wirkt sich kurzzeitig auf alle &lt;color=0.32 0.65 1.0&gt;Militär-Einheiten&lt;/color&gt; aus.</string>
+		<string _locid="700600">Hölzerne Pfade</string>
+		<string _locid="700601">Verbessert &lt;color=0.32 0.65 1.0&gt;Karawanen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +20%&lt;/color&gt;</string>
+		<string _locid="700627">Erhöht &lt;color=0.32 0.65 1.0&gt;Infanterie&lt;/color&gt;-Lebenspunkte.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +10%&lt;/color&gt;</string>
+		<string _locid="700628">Philosophie</string>
+		<string _locid="700629">Verringert die Erforschungsdauer aller Weiterentwicklungen bei &lt;color=0.32 0.65 1.0&gt;Gebäuden&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Erforschungsdauer -40%&lt;/color&gt;</string>
+		<string _locid="700630">Agoge-Schule</string>
+		<string _locid="700631">Reduziert die Ausbildungsdauer von &lt;color=0.32 0.65 1.0&gt;Infanterie&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Fernkampf&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Kavallerie&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-25% Ausbildungsdauer&lt;/color&gt;</string>
+		<string _locid="700632">Schießscharten</string>
+		<string _locid="700633">Verbessert &lt;color=0.32 0.65 1.0&gt;Wachtürme&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Schaden +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Entfernt Mindestangriffsreichweite&lt;/color&gt;</string>
+		<string _locid="700634">Griechisches Feuer</string>
+		<string _locid="700635">Verbessert &lt;color=0.32 0.65 1.0&gt;Toxoten&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Gastrapheten&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Gebäude&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Extraschaden +50% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Gebäude&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Extraschaden +25% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Belagerungs&lt;/color&gt;-Einheiten*&lt;color=0.0 1.0 0.0&gt;Extraschaden +25% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Schiffe&lt;/color&gt;</string>
+		<string _locid="700636">Durch seine schwere Rüstung schüttelt der Held die meisten Angriffe ab, während er seine Feinde angreift und anderen Feinden in der Nähe Flächenschaden zufügt.</string>
+		<string _locid="700637">Das Carpentom ist ein widerstandsfähiger Kampfwagen, der sich besonders im Kampf gegen andere große Fernkampf-Einheiten auszeichnet.</string>
+		<string _locid="700638">Der Pikten-Plünderer ist wegen seiner Mobilität und Reichweite gefürchtet und stürzt sich mit einem vernichtenden Angriff in die Schlacht.</string>
+		<string _locid="700639">Eine starke Verteidigungseinrichtung. Bildet &lt;color=0.32 0.65 1.0&gt;Rammen&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Steinwerfer&lt;/color&gt; und Beratereinheiten aus.</string>
+		<string _locid="700640">Quartiert &lt;color=0.32 0.65 1.0&gt;Dorfbewohner&lt;/color&gt; ein und beschützt sie, damit sie besser Gold sammeln können.*&lt;color=0.0 1.0 0.0&gt;Goldkonservierung +50%&lt;/color&gt;</string>
+		<string _locid="700641">Der in Kampf und Heilung ausgebildete Druide verbessert auch den Schaden, den freundliche verwundete Einheiten austeilen.</string>
+		<string _locid="700642">Erforscht Infanterie-Weiterentwicklungen.</string>
+		<string _locid="700643">Bildet &lt;color=0.32 0.65 1.0&gt;Priester&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;heilige Hirsche&lt;/color&gt; aus.</string>
+		<string _locid="700644">Auguren können Rituale zur Opferung von Tieren erlernen, aber auch feindliche Einheiten bekehren und freundliche Einheiten nach dem Kampf heilen.</string>
+		<string _locid="700645">Verbessert &lt;color=0.32 0.65 1.0&gt;Schwanschiffe&lt;/color&gt; enorm.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +50%&lt;/color&gt;</string>
+		<string _locid="700646">Asabara</string>
+		<string _locid="700648">Erhöht Bewegungsgeschwindigkeit von &lt;color=0.32 0.65 1.0&gt;Infanterie&lt;/color&gt;-Einheiten.*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +10%&lt;/color&gt;</string>
+		<string _locid="700649">Der Schleuderkämpfer ist leicht gerüstet und schnell zu Fuß und besonders gut für den Kampf gegen andere Fernkampf-Einheiten geeignet.</string>
+		<string _locid="700650">Der Schleuderkämpfer ist leicht gerüstet und besonders gut dafür geeignet, andere Fernkampf-Einheiten zu bekämpfen, kann aber selbst nicht viel Schaden aushalten.</string>
+		<string _locid="700655">Verbessert Effizienz von &lt;color=0.32 0.65 1.0&gt;Dorfbewohnern&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Tragvermögen +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +10%&lt;/color&gt;</string>
+		<string _locid="700656">Verbessert &lt;color=0.32 0.65 1.0&gt;Sparabara&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +15%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Verlangsamung +15%&lt;/color&gt;</string>
+		<string _locid="700658">Sparabara</string>
+		<string _locid="700662">Helden-Sparabara</string>
+		<string _locid="700663">Die Sparabara können viel Stechschaden einstecken und sind deshalb als fast undurchdringliche Verteidigungslinie geeignet.</string>
+		<string _locid="700664">Lager der Unsterblichen</string>
+		<string _locid="700665">Bildet &lt;color=0.32 0.65 1.0&gt;Unsterbliche&lt;/color&gt; aus.</string>
+		<string _locid="700666">Unsterblicher</string>
+		<string _locid="700667">Unsterbliche besitzen Nah- und Fernkampfwaffen und stellen die Elite der persischen Armee dar.</string>
+		<string _locid="700669">Helden-Unsterblicher</string>
+		<string _locid="700670">Verbessert &lt;color=0.32 0.65 1.0&gt;Takabara&lt;/color&gt;-Einheiten enorm.*&lt;color=0.0 1.0 0.0&gt;Maximale Reichweite +20%&lt;/color&gt;</string>
+		<string _locid="700672">Verbessert &lt;color=0.32 0.65 1.0&gt;Unsterbliche&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bevölkerungszahl -1&lt;/color&gt;</string>
+		<string _locid="700675">Takabara</string>
+		<string _locid="700677">Helden-Takabara</string>
+		<string _locid="700680">Berittener Bogenschütze</string>
+		<string _locid="700682">Berittener Helden-Bogenschütze</string>
+		<string _locid="700683">Unermüdlicher Eifer</string>
+		<string _locid="700685">Verbessert &lt;color=0.32 0.65 1.0&gt;Asabara&lt;/color&gt;-Einheiten enorm.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Schaden +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +10%&lt;/color&gt;</string>
+		<string _locid="700687">Verbessert &lt;color=0.32 0.65 1.0&gt;berittene Bogenschützen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Goldkosten -50%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Extraschaden +50% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Kavallerie&lt;/color&gt;</string>
+		<string _locid="700688">Kataphrakt</string>
+		<string _locid="700689">Helden-Kataphrakt</string>
+		<string _locid="700690">Verbessert &lt;color=0.32 0.65 1.0&gt;Kataphrakten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Schaden +20%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Stichrüstung +50%&lt;/color&gt;</string>
+		<string _locid="700691">Kriegswagen</string>
+		<string _locid="700692">Helden-Kriegswagen</string>
+		<string _locid="700693">Verbessert &lt;color=0.32 0.65 1.0&gt;Kriegswagen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bietet größeren Flächenschaden&lt;/color&gt;</string>
+		<string _locid="700694">Sanitätszelt</string>
+		<string _locid="700695">Galeere</string>
+		<string _locid="700698">Helden-Galeere</string>
+		<string _locid="700699">Rammenschiff</string>
+		<string _locid="700701">Verbessert &lt;color=0.32 0.65 1.0&gt;Galeere&lt;/color&gt; .*&lt;color=0.0 1.0 0.0&gt;Maximale Reichweite +15%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +20%&lt;/color&gt;</string>
+		<string _locid="700703">Helden-Rammenschiff</string>
+		<string _locid="700704">Mangonel-Galeere</string>
+		<string _locid="700705">Verbessert &lt;color=0.32 0.65 1.0&gt;Mangonel-Galeere&lt;/color&gt; enorm.*&lt;color=0.0 1.0 0.0&gt;Schaden +25%&lt;/color&gt;</string>
+		<string _locid="700706">Helden-Mangonel-Galeere</string>
+		<string _locid="700707">Lohnarbeit</string>
+		<string _locid="700709">Verbessert &lt;color=0.32 0.65 1.0&gt;Rammenschiffe&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Extraschaden +25% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Gebäude&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +20%&lt;/color&gt;</string>
+		<string _locid="700711">Harte Ausbildung</string>
+		<string _locid="700712">Schildwall</string>
+		<string _locid="700713">Verdunkelung der Sonne</string>
+		<string _locid="700714">Königliche Wege</string>
+		<string _locid="700715">Zahllos</string>
+		<string _locid="700738">Verbessert &lt;color=0.32 0.65 1.0&gt;Magus&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bekehrungsrate +50%&lt;/color&gt;</string>
+		<string _locid="700740">Helden-Bogenkämpfer</string>
+		<string _locid="700742">&lt;color=0.32 0.65 1.0&gt;Lagerhäuser&lt;/color&gt; können nahe verbündete Einheiten heilen.</string>
+		<string _locid="700745">Steinwerfer</string>
+		<string _locid="700759">Reduziert die Ausbildungsdauer von &lt;color=0.32 0.65 1.0&gt;Dorfbewohnern&lt;/color&gt;, ändert aber ihre Kosten in Gold.*&lt;color=0.0 1.0 0.0&gt;Ausbildungsdauer -45%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Nahrungskosten -40&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Goldkosten +40&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Kann ein- und ausgeschaltet werden&lt;/color&gt;</string>
+		<string _locid="700761">Verbessert &lt;color=0.32 0.65 1.0&gt;Rammen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Ausbildungsdauer -40%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bietet Verlangsamungsimmunität&lt;/color&gt;</string>
+		<string _locid="700765">Helden-Steinwerfer</string>
+		<string _locid="700769">Reduziert Ausbildungsdauer von &lt;color=0.32 0.65 1.0&gt;Kasernen&lt;/color&gt;-, &lt;color=0.32 0.65 1.0&gt;Schießanlagen&lt;/color&gt;- und &lt;color=0.32 0.65 1.0&gt;Stall&lt;/color&gt;-Einheiten, aber erhöht ihre Kosten.*&lt;color=0.0 1.0 0.0&gt;Ausbildungsdauer -30%&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;+15%Kosten&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Kann ein- und ausgeschaltet werden&lt;/color&gt;</string>
+		<string _locid="700770">Erhöht Lebenspunkte und Vernichtungsrüstung von &lt;color=0.32 0.65 1.0&gt;Sparabaras&lt;/color&gt;, senkt aber ihre Geschwindigkeit.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +20%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Vernichtungsrüstung +180%&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Bewegungsgeschwindigkeit -10%&lt;/color&gt;</string>
+		<string _locid="700772">Erhöht Angriffsreichweite von &lt;color=0.32 0.65 1.0&gt;Bogenkämpfern&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Takabara&lt;/color&gt;, aber verringert ihre Lebenspunkte.*&lt;color=0.0 1.0 0.0&gt;Maximale Reichweite +30%&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Lebenspunkte -15%&lt;/color&gt;</string>
+		<string _locid="700773">Reduziert Ausbildungsdauer von Einheiten im &lt;color=0.32 0.65 1.0&gt;Lager der Unsterblichen&lt;/color&gt;, in &lt;color=0.32 0.65 1.0&gt;Waffenschmieden&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Festungen&lt;/color&gt;, aber erhöht auch ihre Kosten.*&lt;color=0.0 1.0 0.0&gt;Ausbildungsdauer -60%&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Kosten +30%&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Kann ein- und ausgeschaltet werden&lt;/color&gt;</string>
+		<string _locid="700779">Die Ramme ist eine relativ schnelle und entbehrliche Belagerungs-Einheit, die die Fundamente jeder festen Struktur erschüttert.</string>
+		<string _locid="700784">Helden-Asabara</string>
+		<string _locid="700785">Die Asabara ist eine vielseitige, anpassungsfähige Kavallerie-Einheit, die am besten zu Überfällen und konzentrierten Angriffen eingesetzt wird.</string>
+		<string _locid="700786">Der berittene Bogenschütze sitzt auf seinem Reittier und kann sich leicht anderen berittenen Kavallerie-Einheiten stellen.</string>
+		<string _locid="700787">Der Kataphrakt ist von Kopf bis Fuß in schwere Rüstung gehüllt und vernichtet jede andere Infanterie-Einheit, die sich ihm in den Weg stellt.</string>
+		<string _locid="700788">Der Kriegswagen ist eine mobile Minifestung, die einen Pfeilhagel auf ihre Feinde regnen lässt.</string>
+		<string _locid="700789">Erhöht &lt;color=0.32 0.65 1.0&gt;Infanterie&lt;/color&gt;-Schaden.*&lt;color=0.0 1.0 0.0&gt;Schaden +10%&lt;/color&gt;</string>
+		<string _locid="700790">Bildet &lt;color=0.32 0.65 1.0&gt;Magi&lt;/color&gt; aus. Erforscht verbesserte Weiterentwicklungen.</string>
+		<string _locid="700791">Heiliger Hirsch</string>
+		<string _locid="700792">Ein heiliges Tier, das als Nahrungsquelle verwendet oder von Auguren geopfert werden kann.</string>
+		<string _locid="700793">Verbessert &lt;color=0.32 0.65 1.0&gt;Steinwerfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Extraschaden +50% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Belagerungs&lt;/color&gt;-Einheiten*&lt;color=0.0 1.0 0.0&gt;Bevölkerungszahl -1&lt;/color&gt;</string>
+		<string _locid="700794">Zugsäge</string>
+		<string _locid="700830">Bildet &lt;color=0.32 0.65 1.0&gt;Fernkampf&lt;/color&gt;- und &lt;color=0.32 0.65 1.0&gt;Kavallerie&lt;/color&gt;-Einheiten aus.</string>
+		<string _locid="700927">Handsäge</string>
+		<string _locid="700929">Zweimannsäge</string>
+		<string _locid="700930">Pickel</string>
+		<string _locid="700931">Waschgold-Abbau</string>
+		<string _locid="700932">Meißel</string>
+		<string _locid="700934">Steinspalten</string>
+		<string _locid="700935">Pflug</string>
+		<string _locid="700937">Bewässerung</string>
+		<string _locid="700938">Widerhakenpfeile</string>
+		<string _locid="700939">Breitkopfpfeile</string>
+		<string _locid="700940">Eisenschmelze</string>
+		<string _locid="700941">Damaszenerstahl</string>
+		<string _locid="700943">Bodkin-Pfeile</string>
+		<string _locid="700944">Kettenhemd</string>
+		<string _locid="700946">Netzköder</string>
+		<string _locid="700947">Netzgewichte</string>
+		<string _locid="700948">Netzschnur</string>
+		<string _locid="700949">Schuppenhemd</string>
+		<string _locid="700950">Temperierung</string>
+		<string _locid="700951">Schildkrempe</string>
+		<string _locid="700952">Schildbund</string>
+		<string _locid="700954">Lamellenrüstung</string>
+		<string _locid="700956">Schildbuckel</string>
+		<string _locid="700957">Pflückhandschuhe</string>
+		<string _locid="700958">Konditionierung</string>
+		<string _locid="700959">Hydraulischer Abbau</string>
+		<string _locid="700960">Kombinierte Waffen</string>
+		<string _locid="700961">Nahkampf-Erfahrung</string>
+		<string _locid="700962">Treffsicherheit</string>
+		<string _locid="700963">Steinsäge</string>
+		<string _locid="700964">Verbesserte Pfeilherstellung</string>
+		<string _locid="700965">Reitkunst</string>
+		<string _locid="700966">Reinrassiges Tier</string>
+		<string _locid="700971">Verbessert &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Hypaspisten&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Hopliten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-20% Ausbildungsdauer&lt;/color&gt;</string>
+		<string _locid="700972">Verbessert &lt;color=0.32 0.65 1.0&gt;Toxoten&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Peltasten&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Gastrapheten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Sichtweite +20%&lt;/color&gt;</string>
+		<string _locid="700973">Verbessert &lt;color=0.32 0.65 1.0&gt;Sarissophoroi&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Prodromos&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Hippikon&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +10%&lt;/color&gt;</string>
+		<string _locid="700975">Verbessert die Nahkampfrüstung aller &lt;color=0.32 0.65 1.0&gt;Militär-Einheiten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Nahkampf-Infanterierüstung +20%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Nahkampf-Kavallerierüstung +20%&lt;/color&gt;</string>
+		<string _locid="700976">Stadtwache</string>
+		<string _locid="700977">Verbessert die Stichrüstung aller &lt;color=0.32 0.65 1.0&gt;Militär-Einheiten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Stichrüstung +20%&lt;/color&gt;</string>
+		<string _locid="700978">Kompositbogen</string>
+		<string _locid="700979">Hufeisen</string>
+		<string _locid="700980">Verbessert &lt;color=0.32 0.65 1.0&gt;Toxoten&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Peltast&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Gastrapheten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Sichtweite +30%&lt;/color&gt;</string>
+		<string _locid="700981">Verbessert &lt;color=0.32 0.65 1.0&gt;Toxoten&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Peltasten&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Gastraphetes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Schaden +10%&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Maximale Reichweite +20%&lt;/color&gt;</string>
+		<string _locid="700982">Verbessert &lt;color=0.32 0.65 1.0&gt;Sarissophoroi&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Prodromos&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Hippikon&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +10%&lt;/color&gt;</string>
+		<string _locid="700983">Verbessert &lt;color=0.32 0.65 1.0&gt;Sarissophoroi&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Prodromos&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Hippikon&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Schaden +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +5%&lt;/color&gt;</string>
+		<string _locid="700984">Verbessert &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Hypaspisten&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Hopliten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Ausbildungsdauer -30%&lt;/color&gt;</string>
+		<string _locid="700985">Verbessert &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Hypaspisten&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Hopliten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +15%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Schaden +15%&lt;/color&gt;</string>
+		<string _locid="700987">Verbessert &lt;color=0.32 0.65 1.0&gt;Gebäude&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Sichtweite +25%&lt;/color&gt;</string>
+		<string _locid="700989">Reitausbildung</string>
+		<string _locid="700990">Wüstentraining</string>
+		<string _locid="700994">Schuppenhemd und Fellrüstung</string>
+		<string _locid="700995">Kettenhemd und Kochlederrüstung</string>
+		<string _locid="700996">Lamellen- und Lacklederrüstung</string>
+		<string _locid="700997">Verbessert &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Axtkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Schleuderkämpfer&lt;/color&gt;.*&lt;color=1.0 1.0 0.0&gt;-20% Ausbildungsdauer&lt;/color&gt;</string>
+		<string _locid="700998">Verbessert &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Axtkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Schleuderkämpfer&lt;/color&gt;.*&lt;color=1.0 1.0 0.0&gt;Ausbildungsdauer -30%&lt;/color&gt;</string>
+		<string _locid="700999">Verbessert &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Axtkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Schleuderkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +15%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Schaden +15%&lt;/color&gt;</string>
+		<string _locid="701001">Erhöht die Nahkampf- und Stichrüstung für alle &lt;color=0.32 0.65 1.0&gt;Militär-Einheiten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Nahkampf-Infanterierüstung +20%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Nahkampf-Kavallerierüstung +20%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Stichrüstung +20%&lt;/color&gt;</string>
+		<string _locid="701002">Fruchtwechsel</string>
+		<string _locid="701003">Braukunst</string>
+		<string _locid="701004">Kopfjagd</string>
+		<string _locid="701005">Verbessert &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Extraschaden +25% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Kavallerie&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Extraschaden +50% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Gebäude&lt;/color&gt;</string>
+		<string _locid="701006">Verbessert &lt;color=0.32 0.65 1.0&gt;Schleuderkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Extraschaden +50% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Dorfbewohner&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +15% &lt;/color&gt;</string>
+		<string _locid="701007">Verbessert &lt;color=0.32 0.65 1.0&gt;Bogenkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Maximale Reichweite +20%&lt;/color&gt;</string>
+		<string _locid="701008">Der Axtkämpfer ist Ägyptens Waffenspezialist, der Infanterie-Einheiten mit Leichtigkeit aus dem Weg räumt.</string>
+		<string _locid="701009">Kamelreiter sind sehr mobil und besiegen problemlos andere Kavallerie-Einheiten, können aber von Speerkämpfern leicht verwundet werden.</string>
+		<string _locid="701010">Die Katapult-Trireme vereint Belagerungs- und Seefähigkeiten und lässt Schrecken auf feindliche Befestigungen vor der Küste herabregnen.</string>
+		<string _locid="701011">Der Belagerungsturm ist eine langsame, aber robuste Kriegsmaschine, die mit unglaublicher Kraft in Wälle und Gebäude einschlägt.</string>
+		<string _locid="701012">Der Bogenkämpfer ist ein einfacher Bogenschütze, der besonders in großen Gruppen aus der Ferne massiven Schaden anrichtet.</string>
+		<string _locid="701013">Der Takabara ist gegen Stichangriffe gerüstet und trägt einen Wurfspeer bei sich, wodurch er hervorragend für den Kampf gegen Fernkampf-Einheiten gewappnet ist.</string>
+		<string _locid="701014">Die Galeere ist ein frühes Kriegsschiff, das es bereits vor der Erfindung der Trireme gegeben hat, und kann es in einer Seeschlacht mit jedem Schiff aufnehmen.</string>
+		<string _locid="701015">Die Mangonel-Galeere vereint Belagerungs- und Seefähigkeiten und lässt Schrecken auf feindliche Befestigungen vor der Küste herabregnen.</string>
+		<string _locid="701016">Das Rammschiff ist auf die direkte Kollision ausgelegt und rammt feindliche Schiffe und Gebäude, um massiven Strukturschaden zu verursachen.</string>
+		<string _locid="701017">Der Magus bietet im Kampf und außerhalb des Kampfes Unterstützung, bekehrt feindliche Einheiten und heilt freundliche Einheiten nach dem Kampf.</string>
+		<string _locid="701018">Der Langschwertkämpfer ist berühmt für seinen Mut und hackt sich voller fieberhafter Leidenschaft durch die Infanterie.</string>
+		<string _locid="701019">Der Reiter ist ein kräftiger berittener Krieger, der hervorragend dazu geeignet ist, andere Kavallerie-Einheiten in Schach zu halten.</string>
+		<string _locid="701020">Schwanschiffe werden aus den härtesten Eichen gebaut und segeln mit außergewöhnlicher Kraft über die See.</string>
+		<string _locid="701021">Der Steinwerfer schleudert mit unglaublicher Kraft große Steine auf seine Opfer.</string>
+		<string _locid="701022">Verbessert &lt;color=0.32 0.65 1.0&gt;Kamelreiter&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Wagenschützen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +10%&lt;/color&gt;</string>
+		<string _locid="701023">Verbessert &lt;color=0.32 0.65 1.0&gt;Kamelreiter&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Wagenschützen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +10%&lt;/color&gt;</string>
+		<string _locid="701024">Verbessert &lt;color=0.32 0.65 1.0&gt;Kamelreiter&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Wagenschützen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Schaden +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +5%&lt;/color&gt;</string>
+		<string _locid="701025">Verbessert &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Langschwertkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Pikten-Plünderer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Helden&lt;/color&gt;.*&lt;color=1.0 1.0 0.0&gt;Ausbildungsdauer -30%&lt;/color&gt;</string>
+		<string _locid="701026">Verbessert &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Langschwertkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Pikten-Plünderer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Helden&lt;/color&gt;.*&lt;color=1.0 1.0 0.0&gt;Ausbildungsdauer -30%&lt;/color&gt;</string>
+		<string _locid="701027">Verbessert &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Langschwertkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Pikten-Plünderer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Helden&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +15%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Schaden +15%&lt;/color&gt;</string>
+		<string _locid="701028">Verbessert &lt;color=0.32 0.65 1.0&gt;Schleuderkämpfer&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Bogenkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Sichtweite +20%&lt;/color&gt;</string>
+		<string _locid="701029">Verbessert &lt;color=0.32 0.65 1.0&gt;Schleuderkämpfer&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Bogenkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Sichtweite +30%&lt;/color&gt;</string>
+		<string _locid="701030">Verbessert &lt;color=0.32 0.65 1.0&gt;Schleuderkämpfer&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Bogenkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Schaden +10%&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Maximale Reichweite +20%&lt;/color&gt;</string>
+		<string _locid="701031">Verbessert &lt;color=0.32 0.65 1.0&gt;Reiter&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Carpentom&lt;/color&gt;.*&lt;color=1.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +10%&lt;/color&gt;</string>
+		<string _locid="701032">Verbessert &lt;color=0.32 0.65 1.0&gt;Reiter&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Carpentom&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Schaden +10%&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +5%&lt;/color&gt;</string>
+		<string _locid="701033">Verbessert &lt;color=0.32 0.65 1.0&gt;Sparabara&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-20% Ausbildungsdauer&lt;/color&gt;</string>
+		<string _locid="701034">Verbessert &lt;color=0.32 0.65 1.0&gt;Sparabara&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Ausbildungsdauer -30%&lt;/color&gt;</string>
+		<string _locid="701035">Verbessert &lt;color=0.32 0.65 1.0&gt;Sparabara&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +15%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Schaden +15%&lt;/color&gt;</string>
+		<string _locid="701036">Verbessert &lt;color=0.32 0.65 1.0&gt;Bogenkämpfer&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Takabara&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Sichtweite +20%&lt;/color&gt;</string>
+		<string _locid="701037">Verbessert &lt;color=0.32 0.65 1.0&gt;Wälle&lt;/color&gt; enorm.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +125%&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Wandelt Kosten in Stein um&lt;/color&gt;</string>
+		<string _locid="701038">Verbessert &lt;color=0.32 0.65 1.0&gt;Bogenkämpfer&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Takabaras&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Sichtweite +30%&lt;/color&gt;</string>
+		<string _locid="701039">Verbessert &lt;color=0.32 0.65 1.0&gt;Bogenkämpfer&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Takabaras&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Schaden +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Maximale Reichweite +20%&lt;/color&gt;</string>
+		<string _locid="701040">Verbessert &lt;color=0.32 0.65 1.0&gt;Asabara&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;berittene Bogenschützen&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Kataphrakten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +10%&lt;/color&gt;</string>
+		<string _locid="701041">Verbessert &lt;color=0.32 0.65 1.0&gt;Asabara&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;berittene Bogenschützen&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Kataphrakten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +10%&lt;/color&gt;</string>
+		<string _locid="701042">Verbessert &lt;color=0.32 0.65 1.0&gt;Asabaras&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;berittene Bogenschützen&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Kataphrakten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Schaden +10%&lt;*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +5%&lt;/color&gt;</string>
+		<string _locid="701043">Schildträger</string>
+		<string _locid="701044">Schildträger-Held</string>
+		<string _locid="701045">Pionier</string>
+		<string _locid="701046">Pionier-Held</string>
+		<string _locid="701047">Königliche Wache</string>
+		<string _locid="701048">Königliche Helden-Wache</string>
+		<string _locid="701049">Verbessert &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Schildträger&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Pionier&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Königliche Wache&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-20% Ausbildungsdauer&lt;/color&gt;</string>
+		<string _locid="701050">Verbessert &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Schildträger&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Pionier&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Königliche Wache&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-30% Ausbildungsdauer&lt;/color&gt;</string>
+		<string _locid="701051">Verbessert &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Schildträger&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Pionier&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Königliche Wache&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +15%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Schaden +15%&lt;/color&gt;</string>
+		<string _locid="701052">Verbessert &lt;color=0.32 0.65 1.0&gt;Schleuderkämpfer&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Bogenkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Sichtweite +20%&lt;/color&gt;</string>
+		<string _locid="701053">Verbessert &lt;color=0.32 0.65 1.0&gt;Schleuderkämpfer&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Bogenkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Sichtweite +30%&lt;/color&gt;</string>
+		<string _locid="701054">Verbessert &lt;color=0.32 0.65 1.0&gt;Schleuderkämpfer&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Bogenkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Schaden +10%&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Maximale Reichweite +20%&lt;/color&gt;</string>
+		<string _locid="701055">Lanzenkämpfer</string>
+		<string _locid="701056">Helden-Lanzenkämpfer</string>
+		<string _locid="701057">Kriegsstreitwagen</string>
+		<string _locid="701058">Kriegsstreitwagen-Held</string>
+		<string _locid="701059">Verbessert &lt;color=0.32 0.65 1.0&gt;Lanzenkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;berittene Bogenschützen&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Wagenschützen&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Kriegsstreitwagen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +10%&lt;/color&gt;</string>
+		<string _locid="701060">Verbessert &lt;color=0.32 0.65 1.0&gt;Lanzenkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;berittene Bogenschützen&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Wagenschützen&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Kriegsstreitwagen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +10%&lt;/color&gt;</string>
+		<string _locid="701061">Verbessert &lt;color=0.32 0.65 1.0&gt;Lanzenkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;berittene Bogenschützen&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Wagenschützen&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Kriegsstreitwagen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Schaden +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +5%&lt;/color&gt;</string>
+		<string _locid="701062">Verstärkter Karren</string>
+		<string _locid="701063">Erweiterter Laderaum</string>
+		<string _locid="701064">Bireme</string>
+		<string _locid="701065">Bireme-Held</string>
+		<string _locid="701066">Ochsenkarren</string>
+		<string _locid="701067">Garten</string>
+		<string _locid="701069">Zikkurat</string>
+		<string _locid="701070">Einfallsreichtum</string>
+		<string _locid="701071">Arzneimittellehre</string>
+		<string _locid="701072">Arithmetik</string>
+		<string _locid="701073">Eisenräder</string>
+		<string _locid="701074">Anbau</string>
+		<string _locid="701075">Code von Hummurabi </string>
+		<string _locid="701076">Kompromissloser Krieg</string>
+		<string _locid="701077">Tonmauer</string>
+		<string _locid="701078">Verbessert &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Schaden +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Verlangsamung +20%&lt;/color&gt;</string>
+		<string _locid="701079">Verbessert &lt;color=0.32 0.65 1.0&gt;Schildträger&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Stichrüstung +50%&lt;/color&gt;</string>
+		<string _locid="701080">Verbessert &lt;color=0.32 0.65 1.0&gt;Pionier&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;&gt;Nahrungskosten -100%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Extraschaden +50% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Gebäude&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +15%&lt;/color&gt;</string>
+		<string _locid="701081">Verbessert &lt;color=0.32 0.65 1.0&gt;Schleuderkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bietet Extraschaden-Immunität&lt;/color&gt;</string>
+		<string _locid="701082">Verbessert &lt;color=0.32 0.65 1.0&gt;Bogenschützen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Goldkosten -100%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Ausbildungszeit -20%&lt;/color&gt;</string>
+		<string _locid="701083">Verbessert &lt;color=0.32 0.65 1.0&gt;Lanzenkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +20%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bietet Sturmangriff\n(Extraschaden x 3)&lt;/color&gt;</string>
+		<string _locid="701084">Verbessert &lt;color=0.32 0.65 1.0&gt;berittene Bogenschützen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Schaden +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Verlangsamung +25%&lt;/color&gt;</string>
+		<string _locid="701085">Verbessert &lt;color=0.32 0.65 1.0&gt;Wagenschützen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Kosten -50%&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Lebenspunkte -20%&lt;/color&gt;</string>
+		<string _locid="701086">Verbessert &lt;color=0.32 0.65 1.0&gt;Kriegsstreitwagen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Extraschaden +500% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Belagerungs&lt;/color&gt;-Einheiten</string>
+		<string _locid="701087">Verbessert &lt;color=0.32 0.65 1.0&gt;Belagerungstürme&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +100%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bietet größeren Flächenschaden&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bietet Verlangsamungsimmunität &lt;/color&gt;</string>
+		<string _locid="701088">Verbessert &lt;color=0.32 0.65 1.0&gt;Ochsenkarren&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +50%&lt;/color&gt;</string>
+		<string _locid="701089">Verbessert &lt;color=0.32 0.65 1.0&gt;Ochsenkarren&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bietet Fähigkeit, 8 &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Dorfbewohner&lt;/color&gt;einzuquartieren</string>
+		<string _locid="701090">Verbessert &lt;color=0.32 0.65 1.0&gt;Wachtürme&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Festungen&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Dorfzentrum&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Kosten -25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bauzeit -25%&lt;/color&gt;</string>
+		<string _locid="701091">Verbessert &lt;color=0.32 0.65 1.0&gt;Infanterie&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Fernkampf&lt;/color&gt;-Einheiten, &lt;color=0.32 0.65 1.0&gt;Kavallerie&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkteregen. +1 pro Sekunde&lt;/color&gt;</string>
+		<string _locid="701092">Erhöht Geschwindigkeit, mit der &lt;color=0.32 0.65 1.0&gt;Dorfbewohner&lt;/color&gt; Nahrung von &lt;color=0.32 0.65 1.0&gt;Beerensträuchern&lt;/color&gt; und Holz von &lt;color=0.32 0.65 1.0&gt;Bäumen sammeln &lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Ersparnis +25%&lt;/color&gt;</string>
+		<string _locid="701093">Verbessert &lt;color=0.32 0.65 1.0&gt;Ochsenkarren&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Wagenschützen&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Kriegsstreitwagen&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Belagerungstürme&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +10%&lt;/color&gt;&lt;color=0.0 1.0 0.0&gt;\n(&lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Ochsenkarren&lt;/color&gt;&lt;color=0.0 1.0 0.0&gt; +20%)&lt;/color&gt;</string>
+		<string _locid="701094">Verbessert&lt;color=0.32 0.65 1.0&gt;Gärten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Zuflussrate +0,5 Nahrung pro Sekunde&lt;/color&gt;</string>
+		<string _locid="701095">Verbessert &lt;color=0.32 0.65 1.0&gt;Priester&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bekehrungsgeschwindigkeit +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bekehrungsreichweite +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Sichtweite +10%&lt;/color&gt;</string>
+		<string _locid="701096">Verbessert &lt;color=0.32 0.65 1.0&gt;Militär-Einheiten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Schaden +10%&lt;/color&gt;&lt;color=0.0 1.0 0.0&gt;Extraschaden +50% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Dorfbewohner&lt;/color&gt;</string>
+		<string _locid="701097">Verbessert &lt;color=0.32 0.65 1.0&gt;Königliche Wachen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Angriffsrate +50%&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Extraschaden +50% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Gebäude&lt;/color&gt;</string>
+		<string _locid="701098">Die Schildträger können viel Stechschaden einstecken und sind deshalb als fast undurchdringliche Verteidigungslinie geeignet.</string>
+		<string _locid="701099">Mobiles Lagerhaus, das dazu dient, die Entfernungen beim Sammeln zu verkürzen.</string>
+		<string _locid="701100">Der mit zahlreichen Waffen und Kriegsgeräten ausgerüstete Pionier ist darauf spezialisiert, Befestigungen zu untergraben.</string>
+		<string _locid="701101">Die dem Schutz von Königen dienende Königliche Wache trifft im Kampf Mann gegen Mann nur selten auf Gegner, die ihr gewachsen sind.</string>
+		<string _locid="701102">Der mit einem außergewöhnlich langen Speer ausgerüstete Lanzenkämpfer stürzt sich in die Linien der Infanterie und richtet gewaltigen Schaden an.</string>
+		<string _locid="701103">Der widerstandsfähige Kriegsstreitwagen eignet sich hervorragend dazu, andere große Fernkampf-Einheiten zu besiegen.</string>
+		<string _locid="701104">Der Belagerungsturm, der eine große Besatzung aufnehmen kann, bereitet dem Gegner bei einer Belagerung oft eine unangenehme Überraschung.</string>
+		<string _locid="701105">Verbessert alle &lt;color=0.32 0.65 1.0&gt;Gebäude&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Ausbildungszeit -3%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Erforschungsdauer -3%&lt;/color&gt;</string>
+		<string _locid="701106">Verbessert &lt;color=0.32 0.65 1.0&gt;Bireme &lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Maximale Reichweite +15%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +20%&lt;/color&gt;</string>
+		<string _locid="701107">Die Bireme ist der Vorgänger der Trireme und ein wirkungsvolles Schlachtschiff für den Kampf auf hoher See.</string>
+		<string _locid="701108">Bildet &lt;color=0.32 0.65 1.0&gt;Priester&lt;/color&gt; aus. Erforscht verbesserte Weiterentwicklungen. Führt die Kultur in das Bronze-, Silber- und Gold-Zeitalter.</string>
+		<string _locid="701109">Großer Garten</string>
+		<string _locid="701110">Königlicher Garten</string>
+		<string _locid="701111">Verbessert &lt;color=0.32 0.65 1.0&gt;Gärten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Reduzierung der Ausbildungsdauer um +1%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Reduzierung der Erforschungsdauer um +1%&lt;/color&gt;</string>
+		<string _locid="701112">Verbessert &lt;color=0.32 0.65 1.0&gt;Gärten&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Reduzierung der Ausbildungsdauer um +1%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Reduzierung der Erforschungsdauer um +1%&lt;/color&gt;</string>
+		<string _locid="701113">Verbessert &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Extraschaden +15% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Kavallerie&lt;/color&gt;</string>
+		<string _locid="701114">Axtwerfer</string>
+		<string _locid="701115">Helden-Axtwerfer</string>
+		<string _locid="701116">Verbessert &lt;color=0.32 0.65 1.0&gt;Axtwerfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Rüstung ignorieren +40%&lt;/color&gt;</string>
+		<string _locid="701117">Der im Schleudern von Äxten ausgebildete Axtwerfer mäht Infanterie-Einheiten nieder, bevor sie ihre Waffe einsetzen können. Errichtet &lt;color=0.32 0.65 1.0&gt;Gebäude&lt;/color&gt; für Militär und Verteidigung.</string>
+		<string _locid="701118">Harjar</string>
+		<string _locid="701119">Der durch Krieg und kalte Winter gestählte Harjar macht es jedem Gegner schwer, die vorderste Linie zu durchbrechen. Errichtet &lt;color=0.32 0.65 1.0&gt;Gebäude&lt;/color&gt; für Militär und Verteidigung.</string>
+		<string _locid="701120">Helden-Harjar</string>
+		<string _locid="701121">Verbessert &lt;color=0.32 0.65 1.0&gt;Harjar&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Nahkampf-Infanterierüstung +50%&lt;/color&gt;</string>
+		<string _locid="701122">Berserker</string>
+		<string _locid="701123">Der mit einer unbändigen Kampflust beseelte Berserker zerhackt seine Gegner und reißt sie in wahnsinniger Wut in Stücke. Errichtet &lt;color=0.32 0.65 1.0&gt;Gebäude&lt;/color&gt; für Militär und Verteidigung.</string>
+		<string _locid="701124">Helden-Berserker</string>
+		<string _locid="701125">Verbessert &lt;color=0.32 0.65 1.0&gt;Berserker&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkteregen. +4 pro Sekunde&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bietet Sturmangriff&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bietet Verlangsamungsimmunität&lt;/color&gt;</string>
+		<string _locid="701126">Ulfheðinn</string>
+		<string _locid="701127">Der völlig in Wolfspelze gekleidete Ulfheðinn zieht Fernkampf- und Kavallerie-Einheiten mit unglaublicher Schnelligkeit und Gewandtheit aus dem Verkehr.</string>
+		<string _locid="701128">Helden-Ulfheðinn</string>
+		<string _locid="701129">Verbessert &lt;color=0.32 0.65 1.0&gt;Ulfheðinn&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Extraschaden +100% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Fernkampf&lt;/color&gt;-Einheiten*&lt;color=0.0 1.0 0.0&gt;Extraschaden +100% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Priester&lt;/color&gt;</string>
+		<string _locid="701130">Plünderer</string>
+		<string _locid="701131">Der billige und entbehrliche Plünderer ist auf dem Schlachtfeld genauso gefährlich wie beim Plündern.</string>
+		<string _locid="701132">Helden-Plünderer</string>
+		<string _locid="701133">Verbessert &lt;color=0.32 0.65 1.0&gt;Plünderer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Extraschaden +100% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Dorfbewohner&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bietet Verlangsamungsimmunität&lt;/color&gt;</string>
+		<string _locid="701134">Plänkler</string>
+		<string _locid="701135">Der mit einem ganzen Arsenal an Wurfspießen ausgerüstete Plänkler eignet sich hervorragend dazu, andere Fernkampf-Einheiten auszuschalten.</string>
+		<string _locid="701136">Helden-Plänkler</string>
+		<string _locid="701137">Verbessert &lt;color=0.32 0.65 1.0&gt;Plänkler&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Extraschaden +50% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Fernkampf&lt;/color&gt;-Einheiten*&lt;color=0.0 1.0 0.0&gt;Ausbildungszeit -25%&lt;/color&gt;</string>
+		<string _locid="701138">Verbessert &lt;color=0.32 0.65 1.0&gt;Bogenkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Verlangsamung +20%&lt;/color&gt;</string>
+		<string _locid="701139">Verbessert &lt;color=0.32 0.65 1.0&gt;Reiter&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Extraschaden +50% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Kavallerie&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Extraschaden +100% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Belagerungs&lt;/color&gt;-Einheiten</string>
+		<string _locid="701140">Verbessert &lt;color=0.32 0.65 1.0&gt;Farbjoðr&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bietet die Fähigkeit, mobile Einheiten anzugreifen&lt;/color&gt;</string>
+		<string _locid="701141">Verbessert &lt;color=0.32 0.65 1.0&gt;Stämmewerfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Extraschaden +50% gegen &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Belagerungs&lt;/color&gt;-Einheiten*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bevölkerungszahl -1&lt;/color&gt;</string>
+		<string _locid="701142">Verbessert &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Axtwerfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Harjar&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Berserker&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Ulfheðinn&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Ausbildungszeit -20%&lt;/color&gt;</string>
+		<string _locid="701143">Verbessert &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Axtwerfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Harjar&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Berserker&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Ulfheðinn&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Ausbildungszeit -30%&lt;/color&gt;</string>
+		<string _locid="701144">Verbessert &lt;color=0.32 0.65 1.0&gt;Speerkämpfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Axtwerfer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Harjar&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Berserker&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Ulfheðinn&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +15%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Schaden +15%&lt;/color&gt;</string>
+		<string _locid="701145">Verbessert &lt;color=0.32 0.65 1.0&gt;Plänkler&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Bogenkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Sichtweite +20%&lt;/color&gt;</string>
+		<string _locid="701146">Verbessert &lt;color=0.32 0.65 1.0&gt;Plänkler&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Bogenkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Sichtweite +30%&lt;/color&gt;</string>
+		<string _locid="701147">Verbessert &lt;color=0.32 0.65 1.0&gt;Plänkler&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Bogenkämpfer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Schaden +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Maximale Reichweite +20%&lt;/color&gt;</string>
+		<string _locid="701148">Verbessert &lt;color=0.32 0.65 1.0&gt;Plünderer&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Reiter&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +10%&lt;/color&gt;</string>
+		<string _locid="701149">Verbessert &lt;color=0.32 0.65 1.0&gt;Plünderer&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Reiter&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Schaden +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Bewegungsgeschwindigkeit +5%&lt;/color&gt;</string>
+		<string _locid="701150">Große Halle</string>
+		<string _locid="701151">Langschiff</string>
+		<string _locid="701152">Das stromlinienförmige, leichte und schlanke Langschiff kann es auf dem Meer mit einigen der mächtigsten Schiffe aufnehmen und eignet sich auch als recht großes Transportschiff.</string>
+		<string _locid="701153">Helden-Langschiff</string>
+		<string _locid="701154">Verbessert &lt;color=0.32 0.65 1.0&gt;Langschiffe&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Schaden +15%&lt;/color&gt;</string>
+		<string _locid="701155">Seher</string>
+		<string _locid="701156">Rhapsode</string>
+		<string _locid="701157">Langhaus</string>
+		<string _locid="701158">Verbessert &lt;color=0.32 0.65 1.0&gt;Seher&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Raben&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Sichtweite +50%&lt;/color&gt;</string>
+		<string _locid="701159">Verbessert &lt;color=0.32 0.65 1.0&gt;Rhapsoden&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Heilungsrate +30%&lt;/color&gt;</string>
+		<string _locid="701160">Anführer</string>
+		<string _locid="701161">Helden-Anführer</string>
+		<string _locid="701162">Auge von Odin</string>
+		<string _locid="701163">Trank von Ägir</string>
+		<string _locid="701164">Verbessert &lt;color=0.32 0.65 1.0&gt;Anführer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Lebenspunkte +50%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Schaden +50%&lt;/color&gt;</string>
+		<string _locid="701165">Außenposten</string>
+		<string _locid="701166">Bildet &lt;color=0.32 0.65 1.0&gt;Kriegshunde&lt;/color&gt; aus. Bietet Sichtweite.</string>
+		<string _locid="701167">Kriegshund</string>
+		<string _locid="701168">Der sofort einsatzbereite Kriegshund hindert Gegner daran, vom Schlachtfeld zu entkommen.</string>
+		<string _locid="701169">Hundedressur</string>
+		<string _locid="701170">Verbessert &lt;color=0.32 0.65 1.0&gt;Kriegshunde&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Ausbildungszeit -30%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Erstellungsgrenze +12&lt;/color&gt;</string>
+		<string _locid="701171">Der Seher kann nicht nur feindliche Einheiten bekehren, sondern auch Raben heraufbeschwören, die umherfliegen und wichtige Informationen sammeln können.</string>
+		<string _locid="701172">Der Rhapsode bringt als begabter Musikant und Poet für große Gruppen freundlicher Einheiten, die gerade nicht im Einsatz sind, Trost und Heilung.</string>
+		<string _locid="701173">Der Anführer steigert als furchterregender Kriegskommandant die Lebenspunkte und den Mut aller freundlichen Einheiten in seiner Nähe.</string>
+		<string _locid="701174">Brennendes Pech</string>
+		<string _locid="701175">Verbessert &lt;color=0.32 0.65 1.0&gt;Festungen&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;8 Sekunden lang Brandschaden +80&lt;/color&gt;</string>
+		<string _locid="701176">Stämmewerfer</string>
+		<string _locid="701177">Helden-Stämmewerfer</string>
+		<string _locid="701178">Der Stämmewerfer schleudert mit seiner unglaublichen Kraft große Holzstämme auf seine Opfer.</string>
+		<string _locid="701179">Erhöht die Bevölkerungsgrenze um 10. &lt;color=0.32 0.65 1.0&gt;Dorfbewohner&lt;/color&gt; können sich hier einquartieren.</string>
+		<string _locid="701180">Bildet &lt;color=0.32 0.65 1.0&gt;Anführer&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Priester&lt;/color&gt; aus.</string>
+		<string _locid="701181">Der Späher kann sich schnell bewegen und verfügt über ein außergewöhnlich gutes Sehvermögen. Er ist darauf spezialisiert, die Karte zu erkunden und das Territorium des Gegners auszukundschaften. Errichtet &lt;color=0.32 0.65 1.0&gt;Außenposten&lt;/color&gt;.</string>
+		<string _locid="701182">Der Späher kann sich schnell bewegen und verfügt über ein außergewöhnlich gutes Sehvermögen. Er ist darauf spezialisiert, die Karte zu erkunden und das Territorium des Gegners auszukundschaften. Errichtet &lt;color=0.32 0.65 1.0&gt;Kasernen&lt;/color&gt;.</string>
+		<string _locid="701183">Farbjoðr</string>
+		<string _locid="701185">Der Farbjoðr schleppt einen riesigen Felsen mit sich und räumt schnell jedes Gebäude aus dem Weg.</string>
+		<string _locid="701186">Helden-Farbjoðr</string>
+		<string _locid="701209">Ein starkes Verteidigungsgebäude. Bildet &lt;color=0.32 0.65 1.0&gt;Farbjoðr&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Stämmewerfer&lt;/color&gt; und Berater aus.</string>
+		<string _locid="701210">Der Speerkämpfer ist die einfachste Militäreinheit und ist hervorragend für den Kampf gegen Kavallerie geeignet. Errichtet &lt;color=0.32 0.65 1.0&gt;Gebäude&lt;/color&gt; für Militär und Verteidigung.</string>
+		<string _locid="701211">Bildet &lt;color=0.32 0.65 1.0&gt;Infanterie&lt;/color&gt; und &lt;color=0.32 0.65 1.0&gt;Schleuderkämpfer&lt;/color&gt; aus.</string>
+	</language>
+</stringtable>

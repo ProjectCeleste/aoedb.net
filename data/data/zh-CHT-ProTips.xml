@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<protips xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" locstart="201000" locend="299999" loccurrent="201037">
+	<protip name="TIP_UI_GeneralStore_FirstUse" title="雜貨店" filename="protips\Shared\TIP_UI_GeneralStore_FirstUse.xml" _locid="290001" immediate="true">您可在雜貨店中購買和出售物品及材料以賺取錢幣。</protip>
+	<protip name="TIP_UI_VanityStore_FirstUse" title="鎖定的商店內容" filename="protips\Shared\TIP_UI_VanityStore_FirstUse.xml" _locid="290002" immediate="true">您已經開啟了必須先要在 Xbox LIVE Marketplace 中購買才能解除鎖定好的出售物品的商店。</protip>
+	<protip name="TIP_UI_EmpireStore_FirstUse" title="帝國點數" filename="protips\Shared\TIP_UI_EmpireStore_FirstUse.xml" _locid="290003" immediate="true">帝國點數商店出售的物品僅能用帝國點數購買。</protip>
+	<protip name="TIP_UI_PvP_FirstUse" title="玩家對戰" filename="protips\Shared\TIP_UI_PvP_FirstUse.xml" _locid="290004" immediate="true">玩家對戰建築物支援配對。</protip>
+	<protip name="TIP_UI_BlueprintStore_FirstUse" title="設計圖商店" filename="protips\Shared\TIP_UI_BlueprintStore_FirstUse.xml" _locid="290005" immediate="true">您可在出售設計圖的商店裡獲得大量的工藝配方。</protip>
+	<protip name="TIP_UI_PDLCStore_FirstUse" title="帝國市集" filename="protips\Shared\TIP_UI_PDLCStore_FirstUse.xml" _locid="290006" immediate="true">您可在帝國集市中為遊戲購買新內容和特色。</protip>
+	<protip name="TIP_UI_Workshop_FirstUse" title="作坊" filename="protips\Shared\TIP_UI_Workshop_FirstUse.xml" uiname="Production Dialog" uievent="OnFirstOpen" _locid="291001" immediate="true" initiallydisabled="true">即使您不在線上，工坊可持續生產材料。在工坊開啟時，您可進行生產和收集工坊已經生產出的材料。</protip>
+	<protip name="TIP_UI_QuestMap_FirstUse" title="使用任務地圖" filename="protips\Shared\TIP_UI_QuestMap_FirstUse.xml" uiname="Quest Dock Dialog" uievent="OnFirstOpen" _locid="291002" immediate="true" initiallydisabled="true">您可在任務地圖或在地圖上的左邊列表選取任務。要開啟任務，請按開始任務按鈕。</protip>
+	<protip name="TIP_UI_TechTree_FirstOpen" title="消費科技點數" filename="protips\Shared\TIP_UI_TechTree_FirstOpen.xml" uiname="EquipmentDialog" uievent="OnFirstOpen" _locid="291003" immediate="true" initiallydisabled="true">哇，看看這些技術！這裡就是您可以使用在升級中所獲得技術點數的地方。將滑鼠停在每個項目上可檢視它的說明，並瀏覽全部三個所需技術的選項夾（經濟、軍事和民用）。</protip>
+	<protip name="TIP_UI_GearHall_FirstUse" title="裝備大廳" filename="protips\Shared\TIP_UI_GearHall_FirstUse.xml" uiname="Trait Editor" uievent="OnFirstOpen" _locid="291004" immediate="true" initiallydisabled="true">在裝備大廳中，佩戴裝備以加強單位和建築物的品質和外觀。要佩戴一件裝備，請在裝備大廳開啟時，打開您的物品欄，並對想要佩戴的裝備按一下滑鼠右鍵。裝備一旦被佩戴就不可再交換。</protip>
+	<protip name="TIP_UI_TechTree_FirstAgeUp" title="第二時代科技" filename="protips\Shared\TIP_UI_TechTree_FirstAgeUp.xml" uiname="EquipmentDialog" uievent="OnFirstOpen" _locid="291005" immediate="true" initiallydisabled="true">當您到達新時代時，您可使用技術點數購買新添加的技術。</protip>
+	<protip name="TIP_UI_TechTree_Reset" title="如何重設科技點數" filename="protips\Shared\TIP_UI_TechTree_Reset.xml" uiname="equipmentDialogRespecButton" uievent="OnFirstHover" _locid="291006" immediate="true" initiallydisabled="true">如果您想重設科技樹，請按一下重設按鈕。在您達到 10 級以後，重設將開始花費錢幣。</protip>
+	<protip name="TIP_UI_QuestMap_FirstCoop" title="啟動合作任務" filename="protips\Shared\TIP_UI_QuestMap_FirstCoop.xml" uiname="Quest Dock Dialog" uievent="OnFirstOpen" _locid="291007" immediate="true" initiallydisabled="true">對於想玩聯合任務的隊伍，可使用聯合按鈕同時開啟任務。</protip>
+	<protip name="TIP_UI_Arena_FirstUse" title="競技場" filename="protips\Shared\TIP_UI_Arena_FirstUse.xml" uiname="ArenaDialog" uievent="OnFirstOpen" _locid="291008" immediate="true" initiallydisabled="true">使用競技場來設定與好友的玩家對戰遊戲。想使用此設定，需按一下組黨圖示來與另一個玩家組成一個黨或在交談視窗中輸入/邀請 以及玩家的名稱。之後再使用競技場來開啟比賽。</protip>
+	<protip name="TIP_UI_CraftingHall_FirstUse" title="工藝大廳" filename="protips\Shared\TIP_UI_CraftingHall_FirstUse.xml" uiname="Craft School Dialog" uievent="OnFirstOpen" _locid="291009" immediate="true" initiallydisabled="true">您可在工藝大廳為您的首都選取工藝學校。</protip>
+	<protip name="TIP_UI_CraftingSchool_FirstUse" title="工藝學校" filename="protips\Shared\TIP_UI_CraftingSchool_FirstUse.xml" uiname="Crafting Dialog" uievent="OnFirstOpen" _locid="291010" immediate="true" initiallydisabled="true">工藝學校持有您已經學習過的工藝配方。如果您的物品欄內有足夠的所需材料，選取一個配方並按一下建立開始生產配方中所說明的物品。</protip>
+	<protip name="TIP_UI_AdvisorHall_FirstUse" title="如何使用顧問" filename="protips\Shared\TIP_UI_AdvisorHall_FirstUse.xml" uiname="Advisor Dialog" uievent="OnFirstOpen" _locid="291011" immediate="true" initiallydisabled="true">顧問大廳允許選擇影響您任務進度的顧問，收集不同的顧問可以獲得最全面的顧問選擇。</protip>
+	<protip name="TIP_Shared_FirstMaterials" title="材料" filename="protips\Shared\TIP_Shared_FirstMaterials.xml" _locid="280001">箱子通常含有材料。它們可用於城市建設和工藝製作。您可以保存、與其他玩家交易或在首都的雜貨店裡出售它們。</protip>
+	<protip name="TIP_Shared_CraftingRecipes" title="工藝配方" filename="protips\Shared\TIP_Shared_CraftingRecipes.xml" _locid="280002" immediate="true">請查看您的物品欄中的新工藝配方。要在工藝學校中使用它，請在配方上按一下滑鼠右鍵來學習。</protip>
+	<protip name="TIP_Shared_VisitingOtherPlayers" title="拜訪其他玩家" filename="protips\Shared\TIP_Shared_VisitingOtherPlayers.xml" _locid="280003" immediate="true">要造訪其他玩家的首都，請在交談視窗中的玩家名稱上按一下滑鼠右鍵並選取查看帝國。或是在好友名單中圖示上按一下就可找到相同的選擇。</protip>
+	<protip name="TIP_Shared_QuestMapAccessCity" title="查看您的任務" filename="protips\Shared\TIP_Shared_QuestMapAccessCity.xml" _locid="281001" immediate="true">按一下任務地圖按鈕來查看您的目前任務。</protip>
+	<protip name="TIP_Shared_QuestMapAccessQuest" title="返回首頁" filename="protips\Shared\TIP_Shared_QuestMapAccessCity.xml" _locid="281002" immediate="true">當已經完成任務時，您可繼續探索地圖或進入任務地圖並按一下返回任務城市按鈕來結束任務。</protip>
+	<protip name="TIP_Shared_NuggetsLoot" title="尋寶" filename="protips\Shared\TIP_Shared_NuggetsLoot.xml" _locid="281003" immediate="true">您已經發現了寶藏！選取一個單位並在寶藏上按一下滑鼠右鍵可將它加到您的物品欄。</protip>
+	<protip name="TIP_Shared_ExploreReminder" title="提示：搜索地圖" filename="protips\Shared\TIP_Shared_ExploreReminder.xml" _locid="281004" immediate="true">要找到寶藏，請務必探索整個地圖包含隱藏在黑霧中的部份。</protip>
+	<protip name="TIP_Shared_QuestMapAccessCityReminder" title="提示：查看任務" filename="protips\Shared\TIP_Shared_QuestMapAccessCity.xml" _locid="281005">按一下任務地圖按鈕以查看您目前的任務。</protip>
+	<protip name="TIP_Shared_NuggetReminder" title="有人守衛的寶藏" filename="protips\Shared\TIP_Shared_NuggetsLoot.xml" _locid="281006" immediate="true">您所發現的寶藏有守護者保護著。擊敗守護者並在寶藏上按一下滑鼠右鍵以收到獎勵。</protip>
+	<protip name="TIP_Shared_QuestMapReminder" title="提示：返回首頁" filename="protips\Shared\TIP_Shared_QuestMapAccessCity.xml" _locid="281007">當已經完成任務時，您可繼續探索地圖或進入任務地圖並按一下返回任務城市按鈕來結束任務。</protip>
+	<protip name="TIP_Shared_GettingHelp" title="獲得幫助" filename="protips\Shared\TIP_Shared_GettingHelp.xml" _locid="281008" immediate="true">如果您卡住或在進行任務中有困難，您也可以在交談視窗中尋求幫助。</protip>
+	<protip name="TIP_Shared_BuildingBlueprintUsage" title="城市改善" filename="protips\Shared\TIP_Shared_BuildingBlueprintUsage.xml" _locid="281009" immediate="true">要在城市中建造建築物，請打開您的物品欄並在建築物設計圖上按一下滑鼠右鍵。建築物變成您的遊標；在您想放置的地方按一下以建造它。</protip>
+	<protip name="TIP_Shared_FirstNewGear" title="配備裝備" filename="protips\Shared\TIP_Shared_FirstNewGear.xml" _locid="281010" immediate="true">您已經獲得第一件裝備獎勵。打開您的物品欄並在裝備上按一下滑鼠右鍵以進入裝備大廳。</protip>
+	<protip name="TIP_Shared_LevelUpAgeUp" title="新時代" filename="protips\Shared\TIP_Shared_LevelUpAgeUp.xml" _locid="281011" immediate="true">恭喜，您已經達到第二時代，青銅時代。您現在可以取得更多高等的技術。</protip>
+	<protip name="TIP_Shared_FirstRegionTravel" title="區域旅遊" filename="protips\Shared\TIP_Shared_QuestMapAccessCity.xml" _locid="281012" immediate="true">要旅行到新的地區，在您的任務地圖中選取它，在按一下旅行到城市按鈕。</protip>
+	<protip name="TIP_Shared_AgeUpII" title="在任務中升級時代" filename="protips\Shared\TIP_Shared_AgeUpII.xml" _locid="281013" immediate="true">要在任務中查看可否升級時代，選取您的市鎮中心，再按一下時代圖示。如果您沒有達到必要條件，它會顯示為紅色。</protip>
+	<protip name="TIP_Shared_FirstReturnHome" title="回到您的首都" filename="protips\Shared\TIP_Shared_QuestMapAccessCity.xml" _locid="281014" immediate="true">要回到首都，在您的任務地圖上選取它的名稱，再按一下旅行到城市按鈕。</protip>
+	<protip name="TIP_Shared_NewUnitsAgeII" title="第二時代單位" filename="protips\Shared\TIP_Shared_NewUnitsAgeII.xml" _locid="281015">這任務開始於第二時代，您可控制許多新的單位。在您首都的科技樹上將它們解除鎖定以應對未來的任務。</protip>
+	<protip name="TIP_Shared_FirstCoop" title="進行合作遊戲" filename="protips\Shared\TIP_Shared_FirstCoop.xml" _locid="281016" immediate="true">您已經接受可與其他玩家合作遊戲的任務。您可在隊伍中按一下組黨圖示或在交談視窗中輸入/邀請 以及玩家的名稱來合作。當您再打開任務地圖時再查看合作按鈕。</protip>
+	<protip name="TIP_Shared_Tribute" title="進貢" filename="protips\Shared\TIP_Shared_Tribute.xml" _locid="281017">您可將資源提供給您的盟友玩家。這被稱為進貢。要進入進貢銀幕，按一下在銀幕頂部的資源數量。</protip>
+	<protip name="TIP_Shared_CoopReminder" title="提示：合作" filename="protips\Shared\TIP_Shared_CoopReminder.xml" _locid="281018">如果您要和隊伍中的其他的玩家合作，可按一下組黨圖示或在交談視窗中輸入 /邀請 以及玩家的名稱來合作，再在您打開任務地圖時查找合作按鈕。</protip>
+	<protip name="TIP_Shared_WarCouncil" title="斯巴達競技場" filename="protips\Shared\TIP_Shared_WarCouncil.xml" _locid="281019" immediate="true">使用斯巴達競技場開啟玩家對戰組團。選取您要進行遊戲的模式， 再按一下查找比賽按鈕和其他玩家組團。</protip>
+	<protip name="TIP_Shared_AmbassadorQuests" title="新大使任務！" filename="protips\Shared\TIP_Shared_NewQuests.xml" _locid="281020" immediate="true">您的城市大使處有新的任務。</protip>
+	<protip name="TIP_Shared_QuestType_TimedDefense" title="定時防禦任務" filename="protips\Shared\TIP_Shared_QuestType_TimedDefense.xml" _locid="281021">在這次任務中，您必須防衛市鎮中心。您仍然可以試著去擊敗敵人，但是這將是個挑戰。</protip>
+	<protip name="TIP_Shared_QuestType_Repeatable_01" title="可重複任務" filename="protips\Shared\TIP_Shared_QuestType_Repeatable_01.xml" _locid="281022">您已經接受可選重複任務。這些任務可一直或間隔可用。</protip>
+	<protip name="TIP_Shared_QuestType_Global_01" title="全球任務" filename="protips\Shared\TIP_Shared_QuestType_Global_01.xml" _locid="281023">全球任務中有可在其他任務中完成的目標。</protip>
+	<protip name="TIP_Shared_QuestType_Challenge_01" title="挑戰任務" filename="protips\Shared\TIP_Shared_QuestType_Challenge.xml" _locid="281024" immediate="true">您剛剛接受了一個選擇性挑戰任務。這個系列的每個任務都比前一個任務要難。如果不能完成任務，可在您有更多經驗時重試一次。</protip>
+	<protip name="TIP_Shared_QuestType_Challenge_02" title="提示：挑戰任務" filename="protips\Shared\TIP_Shared_QuestType_Challenge.xml" _locid="281025" immediate="true">請記住，您並不需要完成每一個任務。如果碰到太難的任務，您可稍後再試一次。</protip>
+	<protip name="TIP_Shared_SkipAhead_EmpireBazaar" title="帝國市集" filename="protips\Shared\TIP_Shared_NewQuests.xml" _locid="281026">與馬庫斯波呂克斯交談，他有禮物要給你。</protip>
+	<protip name="TIP_Shared_SkipAhead_QuestMap" title="查看任務" filename="protips\Shared\TIP_Shared_QuestMapAccessCity.xml" _locid="281027">左鍵單擊任務地圖按鈕以查看當前任務。還可以從此處導航至其他遊戲區如斯巴達（玩家對戰）和塞浦勒斯（小規模戰鬥）。</protip>
+	<protip name="TIP_Shared_EmpirePoints" title="帝國點數" filename="protips\Shared\TIP_Shared_EmpirePoints.xml" _locid="281028">帝國點數用於在世紀帝國 Online 遊戲世界中購買許多物品。可以在遊戲中賺取，或者在帝國點數商店中購買。點擊帝國點數圖示查看該商店。</protip>
+	<protip name="TIP_Shared_TechTree_Reset" title="重設科技樹" filename="protips\Shared\TIP_Shared_TechTree_Reset.xml" _locid="281029" immediate="true">科技樹已因發生重大變化而被重設，因而所有賺取的科技點數皆未被消費。請點選宮殿以重新消費您的點數。</protip>
+	<protip name="TIP_B01_Usage" title="米諾斯戰爭議會" filename="protips\B01\TIP_B01_Usage.xml" _locid="271001" immediate="true">使用米諾斯戰爭議會來啟動克里特防禦任務。每次啟動，您都可感受自己選擇帶來的不同體驗。</protip>
+	<protip name="TIP_B01_Demo" title="遊戲示範" filename="protips\B01\TIP_B01_Demo.xml" _locid="271002" excludeoffertype="cOfferBooster1">請和米諾斯國王交談，以進行克里特防禦示範遊戲。</protip>
+	<protip name="TIP_B01_DemoEnd" title="升級獲得更多？" filename="protips\B01\TIP_B01_DemoEnd.xml" _locid="271003" excludeoffertype="cOfferBooster1"/>
+	<protip name="TIP_B01_DemoTurnIn" title="升級獲得更多？" filename="protips\B01\TIP_B01_DemoEnd.xml" _locid="271004" immediate="true" excludeoffertype="cOfferBooster1"/>
+	<protip name="TIP_B02_Usage" title="小規模戰鬥大廳" filename="protips\B02\TIP_B02_Usage.xml" _locid="272001" immediate="true">使用小規模戰鬥大廳開啟小規模戰鬥組團。每次開啟您都可嘗試不同的體驗，您可選擇與多達三位好友組團或電腦聯盟對抗多達四位的電腦敵人。</protip>
+	<protip name="TIP_B02_DemoEnd" title="升級獲得更多？" filename="protips\B02\TIP_B02_DemoEnd.xml" _locid="272003" excludeoffertype="cOfferBooster2"/>
+	<protip name="TIP_B02_DemoTurnIn" title="升級獲得更多？" filename="protips\B02\TIP_B02_DemoEnd.xml" _locid="272004" immediate="true" excludeoffertype="cOfferBooster2"/>
+	<protip name="Billboard_Shared_Legendary" title="您是個傳奇人物！" filename="billboards\milestones\Billboard_Shared_Legendary.xml" _locid="260001" minlevel="40" maxlevel="99" capcityonly="true"/>
+	<protip name="Billboard_Shared_AmbassadorQuests01" title="新大使任務！" filename="protips\Shared\TIP_Shared_NewQuests.xml" _locid="260002" minlevel="4" maxlevel="99" capcityonly="true">您的城市大使處有新的任務。</protip>
+	<protip name="Billboard_Shared_AmbassadorQuests02" title="新大使任務！" filename="protips\Shared\TIP_Shared_NewQuests.xml" _locid="260003" minlevel="5" maxlevel="99" capcityonly="true">您的城市大使處有新的任務。</protip>
+	<protip name="Billboard_Shared_EmpirePoints" title="已說明帝國點數" filename="billboards\milestones\Billboard_Empire_Points.xml" _locid="260004" minlevel="2" maxlevel="99" capcityonly="true"/>
+	<protip name="TIP_C01_StorehouseReminder" title="提示：倉庫" filename="protips\C01\TIP_C01_StorehouseInfo.xml" _locid="201001">建造靠近採集資源地點的倉庫可以增加您的採集速率。</protip>
+	<protip name="TIP_C01_QueuedCommands" title="已排程命令" filename="protips\C01\TIP_C01_QueuedCommands.xml" _locid="201002">要安置單位跟隨的中繼點，按住 Shift 鍵並發出移動命令。</protip>
+	<protip name="TIP_C01_SelectMove" title="如何選擇單位" filename="protips\C01\TIP_C01_SelectMove.xml" _locid="201101">要選取一個單位，按一下它。要命令單位移動或攻擊，在目的地或敵方單位按一下滑鼠右鍵。</protip>
+	<protip name="TIP_C01_SelectMoveMultiple" title="選擇多個單位" filename="protips\C01\TIP_C01_SelectMoveMultiple.xml" _locid="201102">按住滑鼠左鍵並在一組單位周圍拖動出方形以選取它們。對敵方單位按一下滑鼠右鍵以命令它們攻擊該目標。</protip>
+	<protip name="TIP_C01_TrainVillagers" title="訓練村民" filename="protips\C01\TIP_C01_TrainVillagers.xml" _locid="201103" immediate="true">您已經採集足夠的食物以訓練第一個村民。選取您的市鎮中心並按一下建造選單裡的村民圖示。</protip>
+	<protip name="TIP_C01_VillagerGatherGeneral" title="收集資源" filename="protips\C01\TIP_C01_VillagerGatherGeneral.xml" _locid="201104" immediate="true">村民可採集用於訓練單位和建造建築的資源。按一下村民並對您要採集的資源按一下滑鼠右鍵。</protip>
+	<protip name="TIP_C01_TechTreeAccess" title="科技樹" filename="protips\C01\TIP_C01_TechTreeAccess.xml" _locid="201105" immediate="true">恭喜，您已有權限使用科技樹。要查看可用的選項，請按一下宮殿。</protip>
+	<protip name="TIP_C01_VillagerBuildStructure" title="如何建造建築" filename="protips\C01\TIP_C01_VillagerBuildStructure.xml" _locid="201106" immediate="true">要建造一座建築物，請選取一個村民並按一下建築物圖示，再選取一個地點放置它。如果建築物變成紅色，就代表不能再那個地點建造。</protip>
+	<protip name="TIP_C01_MoreVillagers" title="如何更快建造" filename="protips\C01\TIP_C01_MoreVillagers.xml" _locid="201107">要加快建造速度，指定一個以上的村民一起建造。</protip>
+	<protip name="TIP_C01_PredatorInfo" title="危險！" filename="protips\C01\TIP_C01_PredatorInfo.xml" _locid="201108">小心掠食者如狼和獅子。它們是食物的來源，但它們在受到攻擊時會反擊。</protip>
+	<protip name="TIP_C01_PopCapInfo" title="總人口" filename="protips\C01\TIP_C01_PopCapInfo.xml" _locid="201109" immediate="true">房屋可增加您的人口上限。一旦房屋建成，它可增加您的總人口數，使您可在市鎮中心訓練更多的村民。</protip>
+	<protip name="TIP_C01_StorehouseInfo" title="倉庫" filename="protips\C01\TIP_C01_StorehouseInfo.xml" _locid="201110">倉庫是用來給村民卸落資源的。在採集資源地點附近建造它們可加快您的採集速度。</protip>
+	<protip name="TIP_C01_Livestock" title="牛" filename="protips\C01\TIP_C01_Livestock.xml" _locid="201111">嘿，快看啊，您現在有一頭牛了。村民可以屠宰它作為食物；但是，敵方單位可以偷取它。哞。</protip>
+	<protip name="TIP_C01_TrainInfantry" title="訓練長矛兵" filename="protips\C01\TIP_C01_TrainInfantry.xml" _locid="201112" immediate="true">您已經建造了軍營。要訓練新的步兵單位，選取建築物然後按一下建造選單中的單位圖示。</protip>
+	<protip name="TIP_C01_PopCapReminder" title="提示：人口上限" filename="protips\C01\TIP_C01_PopCapInfo.xml" _locid="201113">建造房屋以增加您的人口上限</protip>
+	<protip name="TIP_C01_TransportLoad" title="裝載運輸船" filename="protips\C01\TIP_C01_TransportLoad.xml" _locid="201114" immediate="true">運輸商船可攜帶您的陸地單位穿過水域。要裝載，請選取您要運輸的陸地單位，再對運輸商船按一下滑鼠右鍵。</protip>
+	<protip name="TIP_C01_TransportUnload" title="卸載運輸船" filename="protips\C01\TIP_C01_TransportUnload.xml" _locid="201115" immediate="true">您有單位在運輸商船上。要卸載它們，請先選取單位，按一下釋出按鈕，然後點擊您要卸載的地點。</protip>
+	<protip name="TIP_C01_QuestConvertibleUnits" title="任務單位" filename="protips\C01\TIP_C01_QuestConvertibleUnits.xml" _locid="201116">有些特殊的單位在您的單位移動到它們位置時會變成您這邊的單位。幾秒鐘後，您就能控制這些單位。</protip>
+	<protip name="TIP_C01_Repair" title="修復建築物" filename="protips\C01\TIP_C01_Repair.xml" _locid="201117" immediate="true">要修理建築物，請選取一個村民，按一下修理按鈕，再選取您要修理的建築物。修理要花費資源。</protip>
+	<protip name="TIP_C01_VillagerGatherFarm" title="耕作" filename="protips\C01\TIP_C01_VillagerGatherFarm.xml" _locid="201118">只要村民在農田上工作就能生產無限的食物。但是農田可被攻擊和破壞。</protip>
+	<protip name="TIP_C01_TechTreeReminder" title="您有科技點數！" filename="protips\C01\TIP_C01_TechTreeAccess.xml" _locid="201119" immediate="true">恭喜，您已經升級了。每次升級您都可以獲得科技點數來使您的文明更加強大。</protip>
+	<protip name="TIP_C01_BuildingDocks" title="如何建造碼頭" filename="protips\C01\TIP_C01_BuildingDocks.xml" _locid="201120" immediate="true">要建造碼頭，請選取一個村民，按一下碼頭圖示，再把它放置在離岸近的位置上。</protip>
+	<protip name="TIP_C01_UsingDocks" title="碼頭有何用途？" filename="protips\C01\TIP_C01_UsingDocks.xml" _locid="201121" immediate="true">您已經建造了碼頭。要建造漁船，請選取碼頭，在按一下建造選單中的漁船圖示。</protip>
+	<protip name="TIP_C01_FishingBoats" title="漁船" filename="protips\C01\TIP_C01_FishingBoats.xml" _locid="201122">漁船能從釣魚點採集食物。他們也可以修理海軍單位和建築物。</protip>
+	<protip name="TIP_C01_BuildingFarms" title="如何建造農場" filename="protips\C01\TIP_C01_BuildingFarms.xml" _locid="201123" immediate="true">要建造農場，請選取一個村民，按一下農場圖示，再把它放置在地點上。</protip>
+	<protip name="TIP_C01_RepairReminder" title="提示：修復" filename="protips\C01\TIP_C01_Repair.xml" _locid="201124">要修理建築物，請選取村民，按一下修理按鈕，再選取您要修理的建築物。修理花費資源。</protip>
+	<protip name="TIP_C01_Rams" title="公羊" filename="protips\C01\TIP_C01_Rams.xml" _locid="201125" immediate="true">攻城木是強大的能快速摧毀建築物的攻城武器。但是它們很容易受到敵方的傷害，所以請務必保護它們。</protip>
+	<protip name="TIP_C01_QuestTechUnlock_TC_Villagers" title="新科技已解鎖" filename="protips\C01\TIP_C01_QuestTechUnlock_TC_Villagers.xml" _locid="201201">恭喜！您現在可以在任務中使用村民和市鎮中心。這些將會是您的經濟支柱。</protip>
+	<protip name="TIP_C01_QuestTechUnlock_House" title="新科技已解鎖" filename="protips\C01\TIP_C01_QuestTechUnlock_House.xml" _locid="201202">您現在可以在任務中建造房屋。房屋允許您增加軍隊的最大規模。</protip>
+	<protip name="TIP_C01_QuestTechUnlock_Scout" title="新科技已解鎖" filename="protips\C01\TIP_C01_QuestTechUnlock_Scout.xml" _locid="201203">從現在開始，在大部份任務起始時，有個斥候為您服務。您的斥候速度快並擁有廣闊的視野，使用斥候快速查找資源和敵人。</protip>
+	<protip name="TIP_C01_QuestTechUnlock_BarracksSpearmen" title="新科技已解鎖" filename="protips\C01\TIP_C01_QuestTechUnlock_BarracksSpearmen.xml" _locid="201204">您現在可以在任務中建造軍營和訓練長槍兵。</protip>
+	<protip name="TIP_C01_QuestTechUnlock_Farm" title="新科技已解鎖" filename="protips\C01\TIP_C01_QuestTechUnlock_Farm.xml" _locid="201205">在您的土地上耕種農田。與其他食物資源不同的是農田永不枯竭。</protip>
+	<protip name="TIP_C01_QuestTechUnlock_Dock" title="新科技已解鎖" filename="protips\C01\TIP_C01_QuestTechUnlock_Dock.xml" _locid="201206">碼頭允許您建造海軍單位，從漁船開始。</protip>
+	<protip name="TIP_C01_SpecialUnit_TroyTrireme" title="阿伽門農的三列槳戰船" filename="protips\C01\TIP_C01_SpecialUnit_TroyTrireme.xml" _locid="201301" immediate="true">使用阿伽門農的三列槳戰船向您的侵略軍隊新增更多部隊。</protip>
+	<protip name="TIP_C01_SpecialUnit_Hetairoi" title="特殊單位：御前騎士" filename="protips\C01\TIP_C01_SpecialUnit_Hetairoi.xml" _locid="201302" immediate="true">您麾下有一種特殊的顧問單位，御前騎士。要訓練這種單位，需購買高級文明並在您的顧問大廳中培養傑森指揮官。</protip>
+	<protip name="TIP_C01_SpecialUnit_Phalanx" title="特殊單位：方陣兵" filename="protips\C01\TIP_C01_SpecialUnit_Phalanx.xml" _locid="201303" immediate="true">您麾下有一種特殊的顧問單位，方陣兵。要訓練這種單位，需購買高級文明並在您的顧問大廳中培養海克羅斯指揮官。</protip>
+	<protip name="TIP_C01_SpecialUnit_Somatophylaz" title="特殊單位：近身護衛官" filename="protips\C01\TIP_C01_SpecialUnit_Somatophylaz.xml" _locid="201304" immediate="true">您麾下有一種特殊的顧問單位，近身護衛官。要訓練這種單位，需購買高級文明並在您的顧問大廳中培養馬爾舍斯指揮官。</protip>
+	<protip name="TIP_C01_NewQuests_FirstNewQuestGivers" title="首都新任務！" filename="protips\Shared\TIP_Shared_NewQuests.xml" _locid="201401" immediate="true">在您的首都有可執行的新任務！與海力斯商人和港長交談以瞭解他們的任務。然後再和馬庫斯波勒克斯交談，他有禮物要給您。</protip>
+	<protip name="TIP_C01_NewQuests_HeliceMerchant" title="首都新任務！" filename="protips\Shared\TIP_Shared_NewQuests.xml" _locid="201402">在您首都的海力斯商人有新的任務給您。</protip>
+	<protip name="TIP_C01_NewQuests_VillageScout" title="首都新任務！" filename="protips\Shared\TIP_Shared_NewQuests.xml" _locid="201403">在您首都的村落斥候有新任務給您。</protip>
+	<protip name="TIP_C01_NewQuests_PortMaster" title="首都新任務！" filename="protips\Shared\TIP_Shared_NewQuests.xml" _locid="201404">在您首都的港長有新任務給您。</protip>
+	<protip name="TIP_C01_NewQuests_CapitalCity" title="首都新任務！" filename="protips\Shared\TIP_Shared_NewQuests.xml" _locid="201405">在您的首都有新任務給您。</protip>
+	<protip name="TIP_C01_NewQuests_Mycenae" title="邁錫尼新任務！" filename="protips\Shared\TIP_Shared_NewQuests.xml" _locid="201406">在邁錫尼有新的任務給您！</protip>
+	<protip name="TIP_C01_NewQuests_TroyBeachCamp" title="特洛伊海灘營地新任務！" filename="protips\Shared\TIP_Shared_NewQuests.xml" _locid="201407">在特洛伊海灘營地有新的任務給您！</protip>
+	<protip name="TIP_C01_NewQuests_Troy" title="特洛伊新任務！" filename="protips\Shared\TIP_Shared_NewQuests.xml" _locid="201408">在特洛伊有新的任務給您！</protip>
+	<protip name="TIP_C01_NewQuests_Argos" title="阿戈斯新任務！" filename="protips\Shared\TIP_Shared_NewQuests.xml" _locid="201409">在阿戈斯有新的任務給您！</protip>
+	<protip name="TIP_C01_SkipAhead_Technology" title="科技樹" filename="protips\C01\TIP_C01_TechTreeAccess.xml" _locid="201410" immediate="true">您已進入科技樹和幾個預先選定的科技選單。要查看您當前的解鎖科技，按一下宮殿。</protip>
+	<protip name="TIP_C01_FirstQuest_QG" title="我們的第一個敵人" filename="protips\C01\TIP_C01_FirstQuest_QG.xml" _locid="201411" immediate="true"/>
+	<protip name="TIP_C02_StorehouseReminder" title="提示：倉庫" filename="protips\C02\TIP_C02_StorehouseInfo.xml" _locid="202001">在靠近採集點的地點建造倉庫以增加您的採集速率。</protip>
+	<protip name="TIP_C02_QueuedCommands" title="已排程命令" filename="protips\C02\TIP_C02_QueuedCommands.xml" _locid="202002">要放置單位跟隨的中繼點，按住 Shift 鍵，再下達移動命令。</protip>
+	<protip name="TIP_C02_SelectMove" title="如何選擇單位" filename="protips\C02\TIP_C02_SelectMove.xml" _locid="202101">要選取一個單位，按一下它。要命令單位移動或攻擊，在目的地或敵方單位按一下滑鼠右鍵。</protip>
+	<protip name="TIP_C02_SelectMoveMultiple" title="選擇多個單位" filename="protips\C02\TIP_C02_SelectMoveMultiple.xml" _locid="202102">按住滑鼠左鍵並在一組單位周圍拖動出方形以選取它們。對敵方單位按一下滑鼠右鍵以命令它們攻擊目標。</protip>
+	<protip name="TIP_C02_TrainVillagers" title="訓練村民" filename="protips\C02\TIP_C02_TrainVillagers.xml" _locid="202103" immediate="true">您已經採集足夠多的食物以訓練第一個村民。選取您的市鎮中心並按一下建造選單裡的村民圖示。</protip>
+	<protip name="TIP_C02_VillagerGatherGeneral" title="收集資源" filename="protips\C02\TIP_C02_VillagerGatherGeneral.xml" _locid="202104" immediate="true">村民可採集用於訓練單位和建造建築的資源。按一下村民並對您要採集的資源按一下滑鼠右鍵。</protip>
+	<protip name="TIP_C02_TechTreeAccess" title="科技樹" filename="protips\C02\TIP_C02_TechTreeAccess.xml" _locid="202105" immediate="true">恭喜，您已經進入科技樹。要查看可用的選項，請按一下宮殿。</protip>
+	<protip name="TIP_C02_VillagerBuildStructure" title="如何建造建築" filename="protips\C02\TIP_C02_VillagerBuildStructure.xml" _locid="202106" immediate="true">要建造一個建築物，請選取一個村民，按一下建築物圖示，再按一個地點以放置它。如果建築物變成紅色，它不能再那個地點進行建造。</protip>
+	<protip name="TIP_C02_MoreVillagers" title="如何更快建造" filename="protips\C02\TIP_C02_MoreVillagers.xml" _locid="202107">要提高建造速度，命令一個以上的村民來建造它。</protip>
+	<protip name="TIP_C02_PredatorInfo" title="危險！" filename="protips\C02\TIP_C02_PredatorInfo.xml" _locid="202108">小心掠食者如狼和獅子。它們是食物的來源，但它們在受到攻擊時會反擊。</protip>
+	<protip name="TIP_C02_PopCapInfo" title="總人口" filename="protips\C02\TIP_C02_PopCapInfo.xml" _locid="202109" immediate="true">房屋可增加您的人口上限。一旦房屋建成，它可增加您的總人口數，使您可在市鎮中心訓練更多的村民。</protip>
+	<protip name="TIP_C02_StorehouseInfo" title="倉庫" filename="protips\C02\TIP_C02_StorehouseInfo.xml" _locid="202110">倉庫是用來給村民卸落資源的。在靠近採集資源地點建造它們可提高您的採集速率。</protip>
+	<protip name="TIP_C02_Livestock" title="山羊" filename="protips\C02\TIP_C02_Livestock.xml" _locid="202111">嘿，快看啊，您現在有一頭山羊了。村民可以屠宰它作為食物；但是，敵方單位可以偷取它。咩。</protip>
+	<protip name="TIP_C02_TrainInfantry" title="訓練長矛兵" filename="protips\C02\TIP_C02_TrainInfantry.xml" _locid="202112" immediate="true">您已經建造了兵營。要訓練新的步兵單位，選取建築物，在按一下建造選單中的單位圖示。</protip>
+	<protip name="TIP_C02_PopCapReminder" title="提示：人口上限" filename="protips\C02\TIP_C02_PopCapInfo.xml" _locid="202113">建造房屋以增加您的人口上限</protip>
+	<protip name="TIP_C02_AgeUpII_Custom" title="在任務中時代升級" filename="protips\C02\TIP_C02_AgeUpII_Custom.xml" _locid="202114" immediate="true">要在任務中查看時效，選取一個村民，再建造一個拉神神殿。</protip>
+	<protip name="TIP_C02_TransportLoad" title="裝載運輸船" filename="protips\C02\TIP_C02_TransportLoad.xml" _locid="202115" immediate="true">運輸商船可攜帶您的陸地單位穿過水域。要裝載，請選取您要運輸的陸地單位，再對運輸商船按一下滑鼠右鍵。</protip>
+	<protip name="TIP_C02_TransportUnload" title="卸載運輸船" filename="protips\C02\TIP_C02_TransportUnload.xml" _locid="202116" immediate="true">您有單位在運輸商船上。要卸載它們，請先選取單位，按一下釋出按鈕，然後點擊您要卸載的地點。</protip>
+	<protip name="TIP_C02_QuestConvertibleUnits" title="任務單位" filename="protips\C02\TIP_C02_QuestConvertibleUnits.xml" _locid="202117">有些特殊的單位在您的單位移動到它們位置時會變成您這邊的單位。幾秒鐘後，您就能控制這些單位。</protip>
+	<protip name="TIP_C02_Repair" title="修復建築物" filename="protips\C02\TIP_C02_Repair.xml" _locid="202118" immediate="true">要修理建築物，請選取一個村民，按一下修理按鈕，再選取您要修理的建築物。修理要花費資源。</protip>
+	<protip name="TIP_C02_VillagerGatherFarm" title="耕作" filename="protips\C02\TIP_C02_VillagerGatherFarm.xml" _locid="202119">只要村民在農場上工作，農場就能生產無限的食物。但是它可以被攻擊和摧毀。</protip>
+	<protip name="TIP_C02_TechTreeReminder" title="您有科技點數！" filename="protips\C02\TIP_C02_TechTreeAccess.xml" _locid="202120" immediate="true">恭喜，您已經升級了。每次升級您都可以獲得科技點數來使您的文明更加強大。</protip>
+	<protip name="TIP_C02_BuildingDocks" title="如何建造碼頭" filename="protips\C02\TIP_C02_BuildingDocks.xml" _locid="202121" immediate="true">要建造碼頭，請選取一個村民，按一下碼頭圖示，再把它放置在離岸近的位置上。</protip>
+	<protip name="TIP_C02_UsingDocks" title="碼頭有何用途？" filename="protips\C02\TIP_C02_UsingDocks.xml" _locid="202122" immediate="true">您已經建造了碼頭。要建造漁船，請選取碼頭，在按一下建造選單中的漁船圖示。</protip>
+	<protip name="TIP_C02_FishingBoats" title="漁船" filename="protips\C02\TIP_C02_FishingBoats.xml" _locid="202123">漁船能從釣魚點採集食物。他們也可以修理海軍單位和建築物。</protip>
+	<protip name="TIP_C02_BuildingFarms" title="如何建造農場" filename="protips\C02\TIP_C02_BuildingFarms.xml" _locid="202124" immediate="true">要建造農場，請選取一個村民，按一下農場圖示，再把它放置在地點上。</protip>
+	<protip name="TIP_C02_RepairReminder" title="提示：修復" filename="protips\C02\TIP_C02_Repair.xml" _locid="202125">要修理建築物，請選取村民，按一下修理按鈕，再選取您要修理的建築物。修理花費資源。</protip>
+	<protip name="TIP_C02_Rams" title="攻城塔" filename="protips\C02\TIP_C02_Rams.xml" _locid="202126" immediate="true">攻城塔是強大的能快速摧毀建築物的攻城武器。但是它們很容易受到敵方的傷害，所以請務必保護它們。</protip>
+	<protip name="TIP_C02_QuestTechUnlock_TC_Villagers" title="新科技已解鎖" filename="protips\C02\TIP_C02_QuestTechUnlock_TC_Villagers.xml" _locid="202201">恭喜，您已經收到新科技。您現在可以在任務中使用村民和市鎮中心。這些將形成您的經濟支柱。</protip>
+	<protip name="TIP_C02_QuestTechUnlock_House" title="新科技已解鎖" filename="protips\C02\TIP_C02_QuestTechUnlock_House.xml" _locid="202202">您現在可以在任務中建造房屋。房屋允許您增加軍隊的最大規模。</protip>
+	<protip name="TIP_C02_QuestTechUnlock_Scout" title="新科技已解鎖" filename="protips\C02\TIP_C02_QuestTechUnlock_Scout.xml" _locid="202203">從現在開始，在大部份任務起始時，有個斥候為您服務。您的斥候速度快並擁有廣闊的視野，使用斥候快速查找資源和敵人。</protip>
+	<protip name="TIP_C02_QuestTechUnlock_BarracksSpearmen" title="新科技已解鎖" filename="protips\C02\TIP_C02_QuestTechUnlock_BarracksSpearmen.xml" _locid="202204">您現在可以在任務中建造軍營和訓練長槍兵。</protip>
+	<protip name="TIP_C02_QuestTechUnlock_Farm" title="新科技已解鎖" filename="protips\C02\TIP_C02_QuestTechUnlock_Farm.xml" _locid="202205">在您的土地上耕種農田。與其他食物資源不同的是農田永不枯竭。</protip>
+	<protip name="TIP_C02_QuestTechUnlock_Dock" title="新科技已解鎖" filename="protips\C02\TIP_C02_QuestTechUnlock_Dock.xml" _locid="202206">碼頭允許您建造海軍單位，從漁船開始。</protip>
+	<protip name="TIP_C02_SpecialUnit_PriestessRa" title="拉神的女祭司" filename="protips\C02\TIP_C02_SpecialUnit_PriestessRa.xml" _locid="202301" immediate="true">指派拉神女祭司到建築物以提升訓練速率、建造速率和卸載資源的數量。</protip>
+	<protip name="TIP_C02_SpecialUnit_Temples" title="神殿" filename="protips\C02\TIP_C02_SpecialUnit_Temples.xml" _locid="202302" immediate="true">建造神殿解鎖埃及新單位和科技。拉神神殿能解除第一組單位和科技的鎖定。</protip>
+	<protip name="TIP_C02_SpecialUnit_DesertSwordsman" title="沙漠劍兵" filename="protips\C02\TIP_C02_SpecialUnit_DesertSwordsman.xml" _locid="202303" immediate="true">您麾下有一種特殊的顧問單位，沙漠彎刀兵。要訓練這種單位，需購買高級文明並在您的顧問大廳中培養迷失者的守護神邁荷貝特。</protip>
+	<protip name="TIP_C02_SpecialUnit_NomadArcher" title="沙漠弓兵" filename="protips\C02\TIP_C02_SpecialUnit_NomadArchers.xml" _locid="202304" immediate="true">您麾下有一種特殊的顧問單位，沙漠弓兵。要訓練這種單位，需購買高級文明並在您的顧問大廳中培養狩獵之王尼內特吉。</protip>
+	<protip name="TIP_C02_SpecialUnit_DesertCavalry" title="沙漠騎兵" filename="protips\C02\TIP_C02_SpecialUnit_DesertCavalry.xml" _locid="202305" immediate="true">您麾下有一種特殊的顧問單位，沙漠騎兵。要訓練這種單位，需購買高級文明並在您的顧問大廳中培養漫遊者哲爾。</protip>
+	<protip name="TIP_C02_SpecialUnit_KhopeshSwordsman" title="彎刀兵" filename="protips\C02\TIP_C02_SpecialUnit_KhopeshSwordsman.xml" _locid="202306" immediate="true">您麾下有一種特殊的顧問單位，寇派斯彎刀兵。要訓練這種單位，需購買高級文明並在您的顧問大廳中培養劍聖卡巴。</protip>
+	<protip name="TIP_C02_NewQuests_FirstNewQuestGivers" title="首都新任務！" filename="protips\Shared\TIP_Shared_NewQuests.xml" _locid="202401" immediate="true">在您的首都有可執行的新任務！與海力斯商人和港長交談以瞭解他們的任務。然後再和馬庫斯波勒克斯交談，他有禮物要給您。</protip>
+	<protip name="TIP_C02_NewQuests_KingNarmer" title="首都新任務！" filename="protips\Shared\TIP_Shared_NewQuests.xml" _locid="202402">在您首都的納爾邁國王有新的任務給您。</protip>
+	<protip name="TIP_C02_NewQuests_PortMaster" title="首都新任務！" filename="protips\Shared\TIP_Shared_NewQuests.xml" _locid="202403">在您首都的港長有新的任務給您。</protip>
+	<protip name="TIP_C02_NewQuests_Nubia" title="努比亞新任務！" filename="protips\Shared\TIP_Shared_NewQuests.xml" _locid="202404">在努比亞有新的任務給您！</protip>
+	<protip name="TIP_C02_NewQuests_Libya" title="利比亞新任務！" filename="protips\Shared\TIP_Shared_NewQuests.xml" _locid="202405">在利比亞有新的任務給您！</protip>
+	<protip name="TIP_C02_NewQuests_Argos" title="阿戈斯新任務！" filename="protips\Shared\TIP_Shared_NewQuests.xml" _locid="202406">在阿戈斯有新的任務給您！</protip>
+	<protip name="TIP_C02_SkipAhead_Technology" title="科技樹" filename="protips\C02\TIP_C02_TechTreeAccess.xml" _locid="202407" immediate="true">您已進入科技樹和幾個預先選定的科技選單。要查看您當前的解鎖科技，按一下宮殿。</protip>
+	<protip name="TIP_C02_FirstQuest_QG" title="尼羅河黃金" filename="protips\C02\TIP_C02_FirstQuest_QG.xml" _locid="202408" immediate="true"/>
+	<protip name="TIP_C03_StorehouseReminder" title="提示：倉庫" filename="protips\C03\TIP_C03_StorehouseInfo.xml" _locid="203001">在靠近採集點的地點建造倉庫以增加您的採集速率。</protip>
+	<protip name="TIP_C03_QueuedCommands" title="已排程命令" filename="protips\C03\TIP_C03_QueuedCommands.xml" _locid="203002">要放置單位跟隨的中繼點，按住 Shift 鍵，再下達移動命令。</protip>
+	<protip name="TIP_C03_SelectMove" title="如何選擇單位" filename="protips\C03\TIP_C03_SelectMove.xml" _locid="203101">要選取一個單位，按一下它。要命令單位移動或攻擊，在目的地或敵方單位按一下滑鼠右鍵。</protip>
+	<protip name="TIP_C03_SelectMoveMultiple" title="選擇多個單位" filename="protips\C03\TIP_C03_SelectMoveMultiple.xml" _locid="203102">按住滑鼠左鍵並在一組單位周圍拖動出方形以選取它們。對敵方單位按一下滑鼠右鍵以命令它們攻擊目標。</protip>
+	<protip name="TIP_C03_TrainVillagers" title="訓練村民" filename="protips\C03\TIP_C03_TrainVillagers.xml" _locid="203103" immediate="true">您已經採集足夠多的食物以訓練第一個村民。選取您的市鎮中心並按一下建造選單裡的村民圖示。</protip>
+	<protip name="TIP_C03_VillagerGatherGeneral" title="收集資源" filename="protips\C03\TIP_C03_VillagerGatherGeneral.xml" _locid="203104" immediate="true">村民可採集用於訓練單位和建造建築的資源。按一下村民並對您要採集的資源按一下滑鼠右鍵。</protip>
+	<protip name="TIP_C03_TechTreeAccess" title="科技樹" filename="protips\C03\TIP_C03_TechTreeAccess.xml" _locid="203105" immediate="true">恭喜，您已經進入科技樹。要查看可用的選項，請按一下宮殿。</protip>
+	<protip name="TIP_C03_VillagerBuildStructure" title="如何建造結構" filename="protips\C03\TIP_C03_VillagerBuildStructure.xml" _locid="203106" immediate="true">要建造一個建築物，請選取一個村民，按一下建築物圖示，再按一個地點以放置它。如果建築物變成紅色，它不能再那個地點進行建造。</protip>
+	<protip name="TIP_C03_MoreVillagers" title="如何更快建造" filename="protips\C03\TIP_C03_MoreVillagers.xml" _locid="203107">要提高建造速度，命令一個以上的村民來建造它。</protip>
+	<protip name="TIP_C03_PredatorInfo" title="危險！" filename="protips\C03\TIP_C03_PredatorInfo.xml" _locid="203108">小心掠食者如狼和獅子。它們是食物的來源，但它們在受到攻擊時會反擊。</protip>
+	<protip name="TIP_C03_PopCapInfo" title="總人口" filename="protips\C03\TIP_C03_PopCapInfo.xml" _locid="203109" immediate="true">房屋可增加您的人口上限。一旦房屋建成，它可增加您的總人口數，使您可在市鎮中心訓練更多的村民。</protip>
+	<protip name="TIP_C03_StorehouseInfo" title="倉庫" filename="protips\C03\TIP_C03_StorehouseInfo.xml" _locid="203110">倉庫是用來給村民卸落資源的。在靠近採集資源地點建造它們可提高您的採集速率。</protip>
+	<protip name="TIP_C03_Livestock" title="羊" filename="protips\C03\TIP_C03_Livestock.xml" _locid="203111">嘿，快看啊，您現在有一頭綿羊了。村民可以屠宰它作為食物；但是，敵方單位可以偷取它。咩。</protip>
+	<protip name="TIP_C03_TrainInfantry" title="訓練長矛兵" filename="protips\C03\TIP_C03_TrainInfantry.xml" _locid="203112" immediate="true">您已經建造了兵營。要訓練新的步兵單位，選取建築物，在按一下建造選單中的單位圖示。</protip>
+	<protip name="TIP_C03_PopCapReminder" title="提示：流行帽" filename="protips\C03\TIP_C03_PopCapInfo.xml" _locid="203113">要增加您的人口上限，建造更多的房屋。</protip>
+	<protip name="TIP_C03_TransportLoad" title="裝載運輸船" filename="protips\C03\TIP_C03_TransportLoad.xml" _locid="203114" immediate="true">運輸商船可攜帶您的陸地單位穿過水域。要裝載，請選取您要運輸的陸地單位，再對運輸商船按一下滑鼠右鍵。</protip>
+	<protip name="TIP_C03_TransportUnload" title="卸載運輸船" filename="protips\C03\TIP_C03_TransportUnload.xml" _locid="203115" immediate="true">您有單位在運輸商船上。要卸載它們，請先選取單位，按一下釋出按鈕，然後點擊您要卸載的地點。</protip>
+	<protip name="TIP_C03_QuestConvertibleUnits" title="任務單位" filename="protips\C03\TIP_C03_QuestConvertibleUnits.xml" _locid="203116">有些特殊的單位在您的單位移動到它們位置時會變成您這邊的單位。幾秒鐘後，您就能控制這些單位。</protip>
+	<protip name="TIP_C03_Repair" title="修復建築物" filename="protips\C03\TIP_C03_Repair.xml" _locid="203117" immediate="true">要修理建築物，請選取一個村民，按一下修理按鈕，再選取您要修理的建築物。修理要花費資源。</protip>
+	<protip name="TIP_C03_VillagerGatherFarm" title="耕作" filename="protips\C03\TIP_C03_VillagerGatherFarm.xml" _locid="203118">只要村民在農場上工作，農場就能生產無限的食物。但是它可以被攻擊和摧毀。</protip>
+	<protip name="TIP_C03_TechTreeReminder" title="您有科技點數！" filename="protips\C03\TIP_C03_TechTreeAccess.xml" _locid="203119" immediate="true">恭喜，您已經升級了。每次升級您都可以獲得科技點數來使您的文明更加強大。</protip>
+	<protip name="TIP_C03_BuildingDocks" title="如何建造碼頭" filename="protips\C03\TIP_C03_BuildingDocks.xml" _locid="203120" immediate="true">要建造碼頭，請選取一個村民，按一下碼頭圖示，再把它放置在離岸近的位置上。</protip>
+	<protip name="TIP_C03_UsingDocks" title="碼頭有何用途？" filename="protips\C03\TIP_C03_UsingDocks.xml" _locid="203121" immediate="true">您已經建造了碼頭。要建造漁船，請選取碼頭，在按一下建造選單中的漁船圖示。</protip>
+	<protip name="TIP_C03_FishingBoats" title="漁船" filename="protips\C03\TIP_C03_FishingBoats.xml" _locid="203122">漁船能從釣魚點採集食物。他們也可以修理海軍單位和建築物。</protip>
+	<protip name="TIP_C03_BuildingFarms" title="如何建造農場" filename="protips\C03\TIP_C03_BuildingFarms.xml" _locid="203123" immediate="true">要建造農場，請選取一個村民，按一下農場圖示，再把它放置在地點上。</protip>
+	<protip name="TIP_C03_RepairReminder" title="提示：修復" filename="protips\C03\TIP_C03_Repair.xml" _locid="203124">要修理建築物，請選取村民，按一下修理按鈕，再選取您要修理的建築物。修理花費資源。</protip>
+	<protip name="TIP_C03_Rams" title="公羊" filename="protips\C03\TIP_C03_Rams.xml" _locid="203125" immediate="true">槌是強大的能快速摧毀建築物的攻城武器。但是它們很容易受到敵方的傷害，所以請務必保護它們。</protip>
+	<protip name="TIP_C03_AgeUpII_Custom" title="在任務中時代升級" filename="protips\C03\TIP_C03_AgeUpII_Custom.xml" _locid="203126" immediate="true">要在任務中升級時代，選中您的市鎮中心，然後再按一下升級時代圖示。在達到時代 II 前您需要 3 間房屋。</protip>
+	<protip name="TIP_C03_Market" title="市場" filename="protips\C03\TIP_C03_Market.xml" _locid="203127" immediate="true">市場允許您出售資源換取黃金、使用黃金購買資源和訓練篷車。隨著您使用市場次數的增加，購買和出售匯率會越來越重。</protip>
+	<protip name="TIP_C03_Caravans" title="大篷車" filename="protips\C03\TIP_C03_Caravans.xml" _locid="203128" immediate="true">您已經建造了一輛篷車。按一下市鎮中心或市場創建貿易路線。篷車可在完成它們的貿易路線時生成黃金。</protip>
+	<protip name="TIP_C03_Druid" title="德魯伊" filename="protips\C03\TIP_C03_Druid.xml" _locid="203129" immediate="true">德魯伊可在小範圍內治療友方單位並可為他們提供傷害加成。 他們還可進行作戰。</protip>
+	<protip name="TIP_C03_AlpsDamage" title="穿越阿爾卑斯山" filename="protips\C03\TIP_C03_AlpsDamage.xml" _locid="203130" immediate="true">阿爾卑斯山寒風凜冽！奧吉在穿越阿爾卑斯山時不斷受到傷害。快速抵達德魯伊處進行治療。</protip>
+	<protip name="TIP_C03_AlpsDamageReminder" title="提示：穿越阿爾卑斯山" filename="protips\C03\TIP_C03_AlpsDamageReminder.xml" _locid="203131">警示，阿爾卑斯山仍然很冷。奧吉和他的朋友們將不斷受到傷害。快速抵達德魯伊處進行治療。</protip>
+	<protip name="TIP_C03_M81Mechanics" title="招募新兵" filename="protips\C03\TIP_C03_M81Mechanics.xml" _locid="203132" immediate="true">將布雷努斯帶至軍營、馬廄或箭術靶場招募單位。 他在建築物中呆的越久，就能招募越多的單位。招募最優秀的部隊反擊敵軍！</protip>
+	<protip name="TIP_C03_M85Conversion" title="變節" filename="protips\C03\TIP_C03_M85Conversion.xml" _locid="203133">奧吉占卜師和他的占卜師盟友可將敵方單位轉化為己方單位。按一下敵方單位進行轉化。轉化需要一定的時間。</protip>
+	<protip name="TIP_C03_Spearman" title="長矛兵" filename="protips\C03\TIP_C03_Spearman.xml" _locid="203135">長槍兵和大多數軍事單位有所區別，他的生產不需要黃金。</protip>
+	<protip name="TIP_C03_M65_COOP" title="合作" filename="protips\C03\TIP_C03_M65_COOP.xml" _locid="203134" immediate="true">在此次任務中，團隊合作夥伴控制著拉特斯的希臘小鎮並擁有完整的希臘文明。一起合作保住小鎮！</protip>
+	<protip name="TIP_C03_SpecialUnit_Headhunter" title="獵頭者" filename="protips\C03\TIP_C03_SpecialUnit_Headhunter.xml" _locid="203301" immediate="true">您麾下有一種特殊的顧問單位，獵頭者。要訓練這種單位，需購買高級文明並在您的顧問大廳中培養獵頭者伊塔。</protip>
+	<protip name="TIP_C03_SpecialUnit_Gaesatae" title="蓋薩塔依戰士" filename="protips\C03\TIP_C03_SpecialUnit_Gaesatae.xml" _locid="203302" immediate="true">您麾下有一種特殊的顧問單位，蓋薩塔依戰士。要訓練這種單位，需購買高級文明並在您的顧問大廳中培養製毒工匠歐勒斯托里斯。</protip>
+	<protip name="TIP_C03_SpecialUnit_LongBowman" title="長弓兵" filename="protips\C03\TIP_C03_SpecialUnit_LongBowman.xml" _locid="203303" immediate="true">您麾下有一種特殊的顧問單位，長弓兵。要訓練這種單位，需購買高級文明並在您的顧問大廳中培養戰爭女皇布迪卡。</protip>
+	<protip name="TIP_C03_QuestTechUnlock_TC_Villagers" title="新科技已解鎖" filename="protips\C03\TIP_C03_QuestTechUnlock_TC_Villagers.xml" _locid="203201">恭喜，您已經收到新科技。您現在可以在任務中使用村民和市鎮中心。這些將形成您的經濟支柱。</protip>
+	<protip name="TIP_C03_QuestTechUnlock_House" title="新科技已解鎖" filename="protips\C03\TIP_C03_QuestTechUnlock_House.xml" _locid="203202">您現在可以在任務中建造房屋。房屋允許您增加軍隊的最大規模。</protip>
+	<protip name="TIP_C03_QuestTechUnlock_Scout" title="新科技已解鎖" filename="protips\C03\TIP_C03_QuestTechUnlock_Scout.xml" _locid="203203">從現在開始，在大部份任務起始時，有個斥候為您服務。您的斥候速度快並擁有廣闊的視野，使用斥候快速查找資源和敵人。</protip>
+	<protip name="TIP_C03_QuestTechUnlock_BarracksSpearmen" title="新科技已解鎖" filename="protips\C03\TIP_C03_QuestTechUnlock_BarracksSpearmen.xml" _locid="203204">您現在可以在任務中建造軍營和訓練長槍兵。</protip>
+	<protip name="TIP_C03_QuestTechUnlock_Farm" title="新科技已解鎖" filename="protips\C03\TIP_C03_QuestTechUnlock_Farm.xml" _locid="203205">在您的土地上耕種農田。與其他食物資源不同的是農田永不枯竭。</protip>
+	<protip name="TIP_C03_QuestTechUnlock_Dock" title="新科技已解鎖" filename="protips\C03\TIP_C03_QuestTechUnlock_Dock.xml" _locid="203206">碼頭允許您建造海軍單位，從漁船開始。</protip>
+	<protip name="TIP_C03_QuestTechUnlock_SacredGroveDruids" title="新科技已解鎖" filename="protips\C03\TIP_C03_QuestTechUnlock_SacredGroveDruids.xml" _locid="203207">現在，您可以建造神聖小樹林並在任務中訓練德魯伊。</protip>
+	<protip name="TIP_C03_SkipAhead_Technology" title="科技樹" filename="protips\C03\TIP_C03_TechTreeAccess.xml" _locid="203401" immediate="true">您已進入科技樹和幾個預先選定的科技選單。要查看您當前的解鎖科技，按一下宮殿。</protip>
+	<protip name="TIP_C03_FirstQuest_QG" title="文明的搖籃" filename="protips\C03\TIP_C03_FirstQuest_QG.xml" _locid="203402" immediate="true"/>
+	<protip name="TIP_C04_CollectLoot" title="新科技！免費裝備！" filename="protips\C04\TIP_C04_CollectLoot.xml" _locid="204001" immediate="true">OBSOLETE - SHOULD NOT DISPLAY</protip>
+	<protip name="TIP_C04_DemoStart" title="波斯歡迎您" filename="protips\C04\TIP_C04_DemoStart.xml" _locid="204002" immediate="true">如您所願，您已選擇了強大的波斯帝國軍隊。可訓練波斯獨有的單位，如，在軍營中訓練波斯混合方陣兵、在箭術靶場中訓練東方輕步兵、在馬廄中訓練重甲騎兵和在不死戰士營地中訓練不死戰士。</protip>
+	<protip name="TIP_C04_DemoEnd" title="升級以獲得更多？" filename="protips\C04\TIP_C04_DemoEnd.xml" _locid="204003"/>
+	<protip name="TIP_C04_DemoTurnIn" title="升級以獲得更多？" filename="protips\C04\TIP_C04_DemoEnd.xml" _locid="204012" immediate="true"/>
+	<protip name="TIP_C04_TheImmortal" title="不死戰士" filename="protips\C04\TIP_C04_TheImmortal.xml" _locid="204004">不死戰士是一種全面單位，可在近身戰鬥和遠程狀態間切換。靠近敵人時可進行近戰；遠離敵人時可進行遠程攻擊。</protip>
+	<protip name="TIP_C04_WarAcademy" title="戰爭學院" filename="protips\C04\TIP_C04_WarAcademy.xml" _locid="204005">使用村民建造戰爭學院並生產大法師——一種支援單位，具備轉換敵方單位和治療脫離戰鬥的友方單位的能力。</protip>
+	<protip name="TIP_C04_WarWagon" title="戰爭篷車" filename="protips\C04\TIP_C04_WarWagon.xml" _locid="204006">可從波斯攻城武器廠中建造戰車。它們擅長剋制移動單位，但不擅長剋制建築物。</protip>
+	<protip name="TIP_C04_AidTent" title="急救帳篷" filename="protips\C04\TIP_C04_AidTent.xml" _locid="204007">採用獨特的波斯急救帳篷科技升級您的倉庫，並治療附近的盟友單位。</protip>
+	<protip name="TIP_C04_ToggleTech" title="切換科技" filename="protips\C04\TIP_C04_ToggleTech.xml" _locid="204008">可在戰爭學院中進行切換技術，如可學習、啟用和禁用嚴格訓練和有酬勞動。啟用它們可獲得成本獎賞；也可在不需要的時候禁用它們。</protip>
+	<protip name="TIP_C04_StartTech" title="您有新科技！" filename="protips\C04\TIP_C04_StartTech.xml" _locid="204009">拜訪宮殿查看您當前的解鎖科技和使用您剩下的科技點數。</protip>
+	<protip name="TIP_C04_StartGear" title="準備就緒！" filename="protips\C04\TIP_C04_StartGear.xml" _locid="204010">選擇您的裝備大廳查看專業版波斯文明所賦予的裝備。</protip>
+	<protip name="TIP_C04_StartPlay" title="斯巴達和阿戈斯！" filename="protips\C04\TIP_C04_StartPlay.xml" _locid="204011">與大流士交談關於獨特波斯任務並進入阿戈斯。與城市大使交談獲取任務拜訪斯巴達玩家對戰區域。</protip>
+	<protip name="TIP_C05_StorehouseReminder" title="提示：倉庫" filename="protips\C05\TIP_C05_StorehouseInfo.xml" _locid="205001">在靠近採集點的地點建造倉庫以增加您的採集速率。</protip>
+	<protip name="TIP_C05_QueuedCommands" title="已排程命令" filename="protips\C05\TIP_C05_QueuedCommands.xml" _locid="205002">要放置單位跟隨的中繼點，按住 Shift 鍵，再下達移動命令。</protip>
+	<protip name="TIP_C05_SelectMove" title="如何選擇單位" filename="protips\C05\TIP_C05_SelectMove.xml" _locid="205101">要選取一個單位，按一下它。要命令單位移動或攻擊，在目的地或敵方單位按一下滑鼠右鍵。</protip>
+	<protip name="TIP_C05_SelectMoveMultiple" title="選擇多個單位" filename="protips\C05\TIP_C05_SelectMoveMultiple.xml" _locid="205102">按住滑鼠左鍵並在一組單位周圍拖動出方形以選取它們。對敵方單位按一下滑鼠右鍵以命令它們攻擊目標。</protip>
+	<protip name="TIP_C05_TrainVillagers" title="訓練村民" filename="protips\C05\TIP_C05_TrainVillagers.xml" _locid="205103" immediate="true">您已經採集足夠多的食物以訓練第一個村民。選取您的市鎮中心並按一下建造選單裡的村民圖示。</protip>
+	<protip name="TIP_C05_VillagerGatherGeneral" title="收集資源" filename="protips\C05\TIP_C05_VillagerGatherGeneral.xml" _locid="205104" immediate="true">村民可採集用於訓練單位和建造建築的資源。按一下村民並對您要採集的資源按一下滑鼠右鍵。</protip>
+	<protip name="TIP_C05_TechTreeAccess" title="科技樹" filename="protips\C05\TIP_C05_TechTreeAccess.xml" _locid="205105" immediate="true">恭喜，您已經進入科技樹。要查看可用的選項，請按一下宮殿。</protip>
+	<protip name="TIP_C05_VillagerBuildStructure" title="如何建造結構" filename="protips\C05\TIP_C05_VillagerBuildStructure.xml" _locid="205106" immediate="true">要建造一個建築物，請選取一個村民，按一下建築物圖示，再按一個地點以放置它。如果建築物變成紅色，它不能再那個地點進行建造。</protip>
+	<protip name="TIP_C05_MoreVillagers" title="如何更快建造" filename="protips\C05\TIP_C05_MoreVillagers.xml" _locid="205107">要提高建造速度，命令一個以上的村民來建造它。</protip>
+	<protip name="TIP_C05_PredatorInfo" title="危險！" filename="protips\C05\TIP_C05_PredatorInfo.xml" _locid="205108">小心掠食者如狼和獅子。它們是食物的來源，但它們在受到攻擊時會反擊。</protip>
+	<protip name="TIP_C05_PopCapInfo" title="總人口" filename="protips\C05\TIP_C05_PopCapInfo.xml" _locid="205109" immediate="true">房屋可增加您的人口上限。一旦房屋建成，它可增加您的總人口數，使您可在市鎮中心訓練更多的村民。</protip>
+	<protip name="TIP_C05_StorehouseInfo" title="倉庫" filename="protips\C05\TIP_C05_StorehouseInfo.xml" _locid="205110">倉庫是用來給村民卸落資源的。在靠近採集資源地點建造它們可提高您的採集速率。</protip>
+	<protip name="TIP_C05_Livestock" title="乳牛" filename="protips\C05\TIP_C05_Livestock.xml" _locid="205111">嘿，快看啊，您現在有一頭牛了。村民可以屠宰它作為食物；但是，敵方單位可以偷取它。哞。</protip>
+	<protip name="TIP_C05_TrainInfantry" title="訓練長矛兵" filename="protips\C05\TIP_C05_TrainInfantry.xml" _locid="205112" immediate="true">您已經建造了兵營。要訓練新的步兵單位，選取建築物，在按一下建造選單中的單位圖示。</protip>
+	<protip name="TIP_C05_PopCapReminder" title="提示：人口上限" filename="protips\C05\TIP_C05_PopCapInfo.xml" _locid="205113">要增加您的人口上限，建造更多的房屋。</protip>
+	<protip name="TIP_C05_TransportLoad" title="裝載運輸船" filename="protips\C05\TIP_C05_TransportLoad.xml" _locid="205114" immediate="true">運輸商船可攜帶您的陸地單位穿過水域。要裝載，請選取您要運輸的陸地單位，再對運輸商船按一下滑鼠右鍵。</protip>
+	<protip name="TIP_C05_TransportUnload" title="卸載運輸船" filename="protips\C05\TIP_C05_TransportUnload.xml" _locid="205115" immediate="true">您有單位在運輸商船上。要卸載它們，請先選取單位，按一下釋出按鈕，然後點擊您要卸載的地點。</protip>
+	<protip name="TIP_C05_QuestConvertibleUnits" title="任務單位" filename="protips\C05\TIP_C05_QuestConvertibleUnits.xml" _locid="205116">有些特殊的單位在您的單位移動到它們位置時會變成您這邊的單位。幾秒鐘後，您就能控制這些單位。</protip>
+	<protip name="TIP_C05_Repair" title="修復建築物" filename="protips\C05\TIP_C05_Repair.xml" _locid="205117" immediate="true">要修理建築物，請選取一個村民，按一下修理按鈕，再選取您要修理的建築物。修理要花費資源。</protip>
+	<protip name="TIP_C05_VillagerGatherFarm" title="耕作" filename="protips\C05\TIP_C05_VillagerGatherFarm.xml" _locid="205118">只要村民在農場上工作，農場就能生產無限的食物。但是它可以被攻擊和摧毀。</protip>
+	<protip name="TIP_C05_TechTreeReminder" title="您有科技點數！" filename="protips\C05\TIP_C05_TechTreeAccess.xml" _locid="205119" immediate="true">恭喜，您已經升級了。每次升級您都可以獲得科技點數來使您的文明更加強大。</protip>
+	<protip name="TIP_C05_BuildingDocks" title="如何建造碼頭" filename="protips\C05\TIP_C05_BuildingDocks.xml" _locid="205120" immediate="true">要建造碼頭，請選取一個村民，按一下碼頭圖示，再把它放置在離岸近的位置上。</protip>
+	<protip name="TIP_C05_UsingDocks" title="碼頭有何用途？" filename="protips\C05\TIP_C05_UsingDocks.xml" _locid="205121" immediate="true">您已經建造了碼頭。要建造漁船，請選取碼頭，在按一下建造選單中的漁船圖示。</protip>
+	<protip name="TIP_C05_FishingBoats" title="漁船" filename="protips\C05\TIP_C05_FishingBoats.xml" _locid="205122">漁船能從釣魚點採集食物。他們也可以修理海軍單位和建築物。</protip>
+	<protip name="TIP_C05_BuildingFarms" title="如何建造農場" filename="protips\C05\TIP_C05_BuildingFarms.xml" _locid="205123" immediate="true">要建造農場，請選取一個村民，按一下農場圖示，再把它放置在地點上。</protip>
+	<protip name="TIP_C05_RepairReminder" title="提示：修復" filename="protips\C05\TIP_C05_Repair.xml" _locid="205124">要修理建築物，請選取村民，按一下修理按鈕，再選取您要修理的建築物。修理花費資源。</protip>
+	<protip name="TIP_C05_Rams" title="公羊" filename="protips\C05\TIP_C05_Rams.xml" _locid="205125" immediate="true">攻城木是強大的能快速摧毀建築物的攻城武器。但是它們很容易受到敵方的傷害，所以請務必保護它們。</protip>
+	<protip name="TIP_C05_QuestTechUnlock_TC_Villagers" title="新科技已解鎖" filename="protips\C05\TIP_C05_QuestTechUnlock_TC_Villagers.xml" _locid="205201">恭喜，您已經收到新科技。您現在可以在任務中使用村民和市鎮中心。這些將形成您的經濟支柱。</protip>
+	<protip name="TIP_C05_QuestTechUnlock_House" title="新科技已解鎖" filename="protips\C05\TIP_C05_QuestTechUnlock_House.xml" _locid="205202">您現在可以在任務中建造房屋。房屋允許您增加軍隊的最大規模。</protip>
+	<protip name="TIP_C05_QuestTechUnlock_Scout" title="新科技已解鎖" filename="protips\C05\TIP_C05_QuestTechUnlock_Scout.xml" _locid="205203">從現在開始，在大部份任務開始時會有個斥候為您服務。您的斥候速度快並擁有廣闊的視野，使用斥候快速找到資源和敵人的所在地。</protip>
+	<protip name="TIP_C05_QuestTechUnlock_BarracksSpearmen" title="新科技已解鎖" filename="protips\C05\TIP_C05_QuestTechUnlock_BarracksSpearmen.xml" _locid="205204">您現在可以在任務中建造軍營和訓練長槍兵。</protip>
+	<protip name="TIP_C05_QuestTechUnlock_Farm" title="新科技已解鎖" filename="protips\C05\TIP_C05_QuestTechUnlock_Farm.xml" _locid="205205">在您的土地上耕種農田。與其他食物資源不同的是農田永不枯竭。</protip>
+	<protip name="TIP_C05_QuestTechUnlock_Dock" title="新科技已解鎖" filename="protips\C05\TIP_C05_QuestTechUnlock_Dock.xml" _locid="205206">碼頭允許您建造海軍單位，從漁船開始。</protip>
+	<protip name="DIALOGUE_TributeWood" title="進貢木材" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201003" immediate="true">本次比賽您的敵人需要木材。</protip>
+	<protip name="DIALOGUE_TributeFood" title="進貢食物" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201004" immediate="true">本次比賽您的敵人需要食物。</protip>
+	<protip name="DIALOGUE_TributeGold" title="進貢黃金" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201005" immediate="true">本次比賽您的敵人需要黃金。</protip>
+	<protip name="DIALOGUE_TributeStone" title="進貢石材" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201006" immediate="true">本次比賽您的敵人需要石材。</protip>
+	<protip name="DIALOGUE_Tribute100Wood_SeaPeople" title="向海洋民族進貢 100 單位木材" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201007" immediate="true">海洋民族需要 100 單位的木材。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute200Wood_SeaPeople" title="向海洋民族進貢 200 單位木材" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201008" immediate="true">海洋民族需要 200 單位的木材。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute100Food_SeaPeople" title="向海洋民族進貢 100 單位食物" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201009" immediate="true">海洋民族需要 100 單位的食物。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute200Food_SeaPeople" title="向海洋民族進貢 200 單位食物" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201010" immediate="true">海洋民族需要 200 單位的食物。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute100Gold_SeaPeople" title="向海洋民族進貢 100 單位黃金" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201011" immediate="true">海洋民族需要 100 單位的黃金。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute200Gold_SeaPeople" title="向海洋民族進貢 200 單位黃金" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201012" immediate="true">海洋民族需要 200 單位的黃金。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute100Stone_SeaPeople" title="向海洋民族進貢 100 單位石材" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201013" immediate="true">海洋民族需要 100 單位的石材。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute200Stone_SeaPeople" title="向海洋民族進貢 200 單位石材" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201014" immediate="true">海洋民族需要 200 單位的石材。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute100Wood_Followers" title="向信徒進貢 100 單位木材" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201015" immediate="true">奧托呂科斯的信徒需要 100單位的木材。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute200Wood_Followers" title="向信徒進貢 200 單位木材" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201016" immediate="true">奧托呂科斯的信徒需要 200單位的木材。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute100Food_Followers" title="向信徒進貢 100 單位食物" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201017" immediate="true">奧托呂科斯的信徒需要 100單位的食物。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute200Food_Followers" title="向信徒進貢 200 單位食物" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201018" immediate="true">奧托呂科斯的信徒需要 200單位的食物。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute100Gold_Followers" title="向信徒進貢 100 單位黃金" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201019" immediate="true">奧托呂科斯的信徒需要 100單位的黃金。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute200Gold_Followers" title="向信徒進貢 200 單位黃金" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201020" immediate="true">奧托呂科斯的信徒需要 200單位的黃金。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute100Stone_Followers" title="向信徒進貢 100 單位石材" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201021" immediate="true">奧托呂科斯的信徒需要 100單位的單位的石材。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute200Stone_Followers" title="向信徒進貢 200 單位石材" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201022" immediate="true">奧托呂科斯的信徒需要 200單位的石材。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute100Wood_Troy" title="向特洛伊進貢 100 單位木材" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201023" immediate="true">特洛伊需要 100 單位的木材。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute200Wood_Troy" title="向特洛伊進貢 200 單位木材" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201024" immediate="true">特洛伊需要 200 單位的木材。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute100Food_Troy" title="向特洛伊進貢 100 單位食物" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201025" immediate="true">特洛伊需要 100 單位的食物。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute200Food_Troy" title="向特洛伊進貢 200 食物" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201026" immediate="true">特洛伊需要 200 單位的食物。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute100Gold_Troy" title="向特洛伊進貢 100 單位黃金" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201027" immediate="true">特洛伊需要 100 單位的黃金。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute200Gold_Troy" title="向特洛伊進貢 200 單位黃金" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201028" immediate="true">特洛伊需要 200 單位的黃金。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute100Stone_Troy" title="向特洛伊進貢 100 單位石材" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201029" immediate="true">特洛伊需要 100 單位的木材。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_Tribute200Stone_Troy" title="向特洛伊進貢 200 單位石材" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201030" immediate="true">特洛伊需要 200 單位的木材。如果你沒有滿足此需要，他們會攻擊你。</protip>
+	<protip name="DIALOGUE_TributeSuccessful_SeaPeople" title="向海洋民族進貢成功！" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201031" immediate="true">目前，海洋民族對您的進貢很滿意。</protip>
+	<protip name="DIALOGUE_TributeFailed_SeaPeople" title="向海洋民族進貢失敗！" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201032" immediate="true">你沒有向海洋民族進貢他們需要的資源。準備接受報復吧。</protip>
+	<protip name="DIALOGUE_TributeSuccessful_Followers" title="向信徒進貢成功！" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201033" immediate="true">目前，奧托呂科斯的信徒對您的進貢很滿意。</protip>
+	<protip name="DIALOGUE_TributeFailed_Followers" title="向信徒進貢失敗!" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201034" immediate="true">你沒有向奧托呂科斯的信徒進貢他們所要求的資源。準備接受報復吧。</protip>
+	<protip name="DIALOGUE_TributeSuccessful_Troy" title="向特洛伊進貢成功！" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201035" immediate="true">目前，特洛伊對您的進貢很滿意。</protip>
+	<protip name="DIALOGUE_TributeFailed_Troy" title="向特洛伊進貢失敗！" filename="protips\Dialogue\DIALOGUE_TributeWood.xml" _locid="201036" immediate="true">你沒有向特洛伊進貢他們索要的資源。準備接受報復吧。</protip>
+</protips>

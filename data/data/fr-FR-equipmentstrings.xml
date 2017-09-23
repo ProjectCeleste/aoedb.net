@@ -1,0 +1,598 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<stringtable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="0" locstart="700000" locend="799999" loccurrent="701212">
+	<language name="English">
+		<string _locid="700000">Métier à tisser</string>
+		<string _locid="700001">Augmente la santé des &lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +50%&lt;/color&gt;</string>
+		<string _locid="700002">Aide les &lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt; à collecter de la Nourriture de &lt;color=0.32 0.65 1.0&gt;Gibier&lt;/color&gt; *&lt;color=0.0 1.0 0.0&gt;Taux de collecte +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% de bonus aux dégâts contre le &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Gibier&lt;/color&gt;</string>
+		<string _locid="700003">Chiens de chasse</string>
+		<string _locid="700004">Brouette</string>
+		<string _locid="700005">Augmente l&apos;efficacité des &lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Capacité de transport +20%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +5%&lt;/color&gt;</string>
+		<string _locid="700006">Charrette à bras</string>
+		<string _locid="700008">Dépôt</string>
+		<string _locid="700009">Gants de cueilleur</string>
+		<string _locid="700010">Les &lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt; collectent la Nourriture provenant des &lt;color=0.32 0.65 1.0&gt;buissons de baies&lt;/color&gt; plus vite.*&lt;color=0.0 1.0 0.0&gt;Taux de collecte +20%&lt;/color&gt;</string>
+		<string _locid="700021">Les &lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt; collectent le Bois provenant des &lt;color=0.32 0.65 1.0&gt;arbres&lt;/color&gt; plus vite.*&lt;color=0.0 1.0 0.0&gt;Taux de collecte +15%&lt;/color&gt;</string>
+		<string _locid="700023">Les &lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt; collectent la Nourriture dans les &lt;color=0.32 0.65 1.0&gt;fermes&lt;/color&gt; plus vite.*&lt;color=0.0 1.0 0.0&gt;Taux de collecte +10%&lt;/color&gt;</string>
+		<string _locid="700025">Les &lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt; collectent l&apos;Or dans les &lt;color=0.32 0.65 1.0&gt;gisements d&apos;or&lt;/color&gt; plus rapidement.*&lt;color=0.0 1.0 0.0&gt;Taux de collecte +12%&lt;/color&gt;</string>
+		<string _locid="700027">Les &lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt; collectent de la Pierre dans les &lt;color=0.32 0.65 1.0&gt;mines de pierre&lt;/color&gt; plus vite.*&lt;color=0.0 1.0 0.0&gt;Taux de collecte +12%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Conservation +25%&lt;/color&gt;</string>
+		<string _locid="700028">Port</string>
+		<string _locid="700029">Construit des &lt;color=0.32 0.65 1.0&gt;bateaux&lt;/color&gt;. Permet d&apos;y déposer des ressources.</string>
+		<string _locid="700031">Améliore les &lt;color=0.32 0.65 1.0&gt;bateaux de pêche&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Taux de collecte +20%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Capacité de transport +50%&lt;/color&gt;</string>
+		<string _locid="700032">Trirème</string>
+		<string _locid="700033">En tant que navire de combat, la trirème pèse de tout son poids dans les batailles.</string>
+		<string _locid="700034">Trirème à catapulte</string>
+		<string _locid="700035">Combinant à la fois des unités de siège et des aptitudes navales, la trirème à baliste sème la terreur sur les fortifications ennemies en tirant depuis le large.</string>
+		<string _locid="700036">Brûlot</string>
+		<string _locid="700037">Un plus dévastateur à toute armada, le brûlot attaque les autres bateaux avec du feu durant le combat.</string>
+		<string _locid="700044">Transport marchand</string>
+		<string _locid="700045">Capable de transporter des unités terrestres par voie maritime, le transport marchand fait également le commerce de l&apos;or entre les différents ports.</string>
+		<string _locid="700046">Mur</string>
+		<string _locid="700047">Crée des démarcations et renforce les défenses.</string>
+		<string _locid="700048">Poste d&apos;observation</string>
+		<string _locid="700049">Une tour augmentant le champ de vision.</string>
+		<string _locid="700050">Tour de garde</string>
+		<string _locid="700051">Bâtiment défensif, fournit un lieu de garnison pour les &lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt;.</string>
+		<string _locid="700053">Augmente la santé des &lt;color=0.32 0.65 1.0&gt;murs&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +100 %&lt;/color&gt;</string>
+		<string _locid="700062">Hoplite</string>
+		<string _locid="700063">Lourdement cuirassé, l&apos;hoplite résiste aux dégâts causés par les unités à distance, en étant tout aussi efficace contre les unités d&apos;infanterie et de cavalerie.</string>
+		<string _locid="700064">Hypaspiste</string>
+		<string _locid="700065">Maniant deux épées, l&apos;hypaspiste découpe les autres unités d&apos;infanterie avec la plus gande facilité.</string>
+		<string _locid="700078">Archerie</string>
+		<string _locid="700079">Forme les unités &lt;color=0.32 0.65 1.0&gt;à distance&lt;/color&gt;.</string>
+		<string _locid="700080">Peltaste</string>
+		<string _locid="700081">Armé contre les attaques perforantes, le peltaste, muni d&apos;un javelot, excelle dans l&apos;art de se débarasser des unités à distance.</string>
+		<string _locid="700082">Gastrophète</string>
+		<string _locid="700083">Armé d&apos;une arbalète ancienne, le gastrophète maintient l&apos;infanterie ennemie à distance grâce à la longue portée et les dégâts importants de son arme.</string>
+		<string _locid="700096">Écurie</string>
+		<string _locid="700097">Forme les unités de &lt;color=0.32 0.65 1.0&gt;cavalerie&lt;/color&gt;.</string>
+		<string _locid="700098">Acontiste</string>
+		<string _locid="700099">Ayant une grande force et une bonne résistance, l&apos;acontiste est l&apos;unité polyvalente de la cavalerie.</string>
+		<string _locid="700100">Prodromos</string>
+		<string _locid="700101">Capable de frapper avec une vitesse et une précision incroyables, le prodromos mène la guerre contre la cavalerie, mais tombe facilement contre les lanciers.</string>
+		<string _locid="700114">Armurerie</string>
+		<string _locid="700115">Recherche les améliorations d&apos;unités.</string>
+		<string _locid="700128">Atelier de siège</string>
+		<string _locid="700129">Forme les unités de &lt;color=0.32 0.65 1.0&gt;siège&lt;/color&gt;.</string>
+		<string _locid="700130">Baliste</string>
+		<string _locid="700131">Ancien engin de siège de la Grèce antique, la baliste est dévastatrice, à la fois contre les unités à distance et les bâtiments.</string>
+		<string _locid="700136">Marché</string>
+		<string _locid="700137">Échange des ressources. Forme des &lt;color=0.32 0.65 1.0&gt;caravanes&lt;/color&gt;.</string>
+		<string _locid="700138">Caravane</string>
+		<string _locid="700139">D&apos;importance cruciale pour le soutien d&apos;une économie durable, la caravane fait le commerce d&apos;or entre les marchés et les forums.</string>
+		<string _locid="700140">Monnaie</string>
+		<string _locid="700141">Réduit les taux de change au &lt;color=0.32 0.65 1.0&gt;marché&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Pénalité achat/vente -40%&lt;/color&gt;</string>
+		<string _locid="700142">Routes de commerce</string>
+		<string _locid="700143">Réduit le tribut à payer.*&lt;color=0.0 1.0 0.0&gt;Tribut à payer -50%&lt;/color&gt;</string>
+		<string _locid="700144">Sacoches</string>
+		<string _locid="700145">Augmente le profit des &lt;color=0.32 0.65 1.0&gt;caravanes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Or rapporté +20%&lt;/color&gt;</string>
+		<string _locid="700146">Forteresse</string>
+		<string _locid="700147">Puissant bâtiment défensif. Forme des &lt;color=0.32 0.65 1.0&gt;palintones&lt;/color&gt; et des conseillers.</string>
+		<string _locid="700148">Palintone</string>
+		<string _locid="700149">Étant une unité de siège supérieure à longue portée, le palintone réduit les défenses lourdes en cendres en quelques secondes.</string>
+		<string _locid="700158">Académie</string>
+		<string _locid="700159">Recherche les améliorations avancées.</string>
+		<string _locid="700166">Temple</string>
+		<string _locid="700167">Forme les &lt;color=0.32 0.65 1.0&gt;prêtres&lt;/color&gt;.</string>
+		<string _locid="700183">Caserne</string>
+		<string _locid="700184">Forme les unités d&apos;&lt;color=0.32 0.65 1.0&gt;infanterie&lt;/color&gt;.</string>
+		<string _locid="700185">Lancier</string>
+		<string _locid="700186">En tant qu&apos;unité militaire de base, le lancier domine facilement la cavalerie.</string>
+		<string _locid="700188">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Perforation d&apos;armure +25%&lt;/color&gt;</string>
+		<string _locid="700193">Lancier champion</string>
+		<string _locid="700195">Améliore les &lt;color=0.32 0.65 1.0&gt;hoplites&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50 % de bonus aux dégâts contre la&lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;cavalerie&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Perforation d&apos;armure +50 %&lt;/color&gt;</string>
+		<string _locid="700197">Hoplite champion</string>
+		<string _locid="700199">Améliore les &lt;color=0.32 0.65 1.0&gt;hypaspistes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +15%&lt;/color&gt;</string>
+		<string _locid="700201">Hypaspiste champion</string>
+		<string _locid="700202">Toxote</string>
+		<string _locid="700203">Étant l&apos;archer de base, le Toxote inflige d&apos;énormes dégâts à distance, surtout lorsqu&apos;il vient en grand nombre.</string>
+		<string _locid="700205">Améliore les &lt;color=0.32 0.65 1.0&gt;toxotes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +10%&lt;/color&gt;</string>
+		<string _locid="700207">Toxote champion</string>
+		<string _locid="700210">Améliore les &lt;color=0.32 0.65 1.0&gt;peltastes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +15%&lt;/color&gt;</string>
+		<string _locid="700211">Peltaste champion</string>
+		<string _locid="700212">Gastrophète champion</string>
+		<string _locid="700213">Améliore les &lt;color=0.32 0.65 1.0&gt;gastrophètes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Aux d&apos;attaque +25%&lt;/color&gt;</string>
+		<string _locid="700214">Sarissophore</string>
+		<string _locid="700215">À cheval et armé de javelots, le Sarissophore défait facilement les archers, mais est vulnérable aux attaques des lanciers et autres unités de cavalerie.</string>
+		<string _locid="700218">Sarissophore champion</string>
+		<string _locid="700219">Améliore les &lt;color=0.32 0.65 1.0&gt;sarissophores&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Portée maximale +40%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +10%&lt;/color&gt;</string>
+		<string _locid="700220">Acontiste champion</string>
+		<string _locid="700221">Améliore les &lt;color=0.32 0.65 1.0&gt;acontistes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Population -1&lt;/color&gt;</string>
+		<string _locid="700223">Prodromos champion</string>
+		<string _locid="700224">Améliore les &lt;color=0.32 0.65 1.0&gt;prodromos&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50 % de bonus aux dégâts contre les unités de &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;siège&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50 de bonus aux dégâts contre les% vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;bâtiments&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Pièges +50 %&lt;/color&gt;</string>
+		<string _locid="700225">Bélier</string>
+		<string _locid="700226">En tant que machine de guerre lente mais solide, le bélier défonce les murs et les bâtiments avec une force incroyable.</string>
+		<string _locid="700228">Bélier champion</string>
+		<string _locid="700229">Améliore les &lt;color=0.32 0.65 1.0&gt;béliers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts +50%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Immunise contre les pièges&lt;/color&gt;</string>
+		<string _locid="700230">Baliste championne</string>
+		<string _locid="700231">Améliore les &lt;color=0.32 0.65 1.0&gt;balistes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +20%&lt;/color&gt;</string>
+		<string _locid="700244">Mur de pierre</string>
+		<string _locid="700245">Mur renforcé</string>
+		<string _locid="700246">Rempart</string>
+		<string _locid="700248">Tour fortifiée</string>
+		<string _locid="700250">Tour bastion</string>
+		<string _locid="700251">Améliore les &lt;color=0.32 0.65 1.0&gt;tours de garde&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +30 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +30 %&lt;/color&gt;</string>
+		<string _locid="700253">Bateau de pêche</string>
+		<string _locid="700254">En tant qu&apos;unité navale élémentaire, le bateau de pêche récolte la nourriture des poissons et répare les autres navires et bâtiments endommagés.</string>
+		<string _locid="700259">Trirème championne</string>
+		<string _locid="700260">Améliore les &lt;color=0.32 0.65 1.0&gt;trirèmes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Portée maximale +15%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +20%&lt;/color&gt;</string>
+		<string _locid="700262">Brûlot champion</string>
+		<string _locid="700263">Ajustement des prix</string>
+		<string _locid="700264">Routes maritimes</string>
+		<string _locid="700279">Augmente les dégâts de mêlée pour toutes les unités &lt;color=0.32 0.65 1.0&gt;militaires.&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts en mêlée contre l&apos;infanterie +20 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts en mêlée contre la cavalerie +20 %&lt;/color&gt;</string>
+		<string _locid="700283">Augmente les dégâts perforants pour toutes les unités &lt;color=0.32 0.65 1.0&gt;militaires&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts perforants +20%&lt;/color&gt;</string>
+		<string _locid="700293">Palintone champion</string>
+		<string _locid="700294">Améliore les &lt;color=0.32 0.65 1.0&gt;palintones&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Portée maximale +20%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Champ de vision +20%&lt;/color&gt;</string>
+		<string _locid="700295">Prêtre</string>
+		<string _locid="700296">En fournissant un soutien avant et après le combat, le prêtre convertit les unités ennemies et guérit les unités amies lorsqu&apos;elles sont hors combat.</string>
+		<string _locid="700297">Ferme</string>
+		<string _locid="700298">Source illimitée de Nourriture pouvant être collectée par les villageois.</string>
+		<string _locid="700299">Trirème à catapulte championne</string>
+		<string _locid="700300">Améliore grandement les &lt;color=0.32 0.65 1.0&gt;trirèmes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts +25%&lt;/color&gt;</string>
+		<string _locid="700301">Améliore les &lt;color=0.32 0.65 1.0&gt;brûlots&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Protection contre les dégâts bonus +100%&lt;/color&gt;</string>
+		<string _locid="700364">Maçonnerie Ashlar</string>
+		<string _locid="700365">Améliore les &lt;color=0.32 0.65 1.0&gt;bâtiments&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +25%&lt;/color&gt;</string>
+		<string _locid="700366">Vision divine</string>
+		<string _locid="700367">Améliore les &lt;color=0.32 0.65 1.0&gt;prêtres&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Portée de conversion +20 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Ligne de mire +20 %&lt;/color&gt;</string>
+		<string _locid="700376">Les ressources peuvent être entreposées dans ce bâtiment pour réduire le temps de collecte.</string>
+		<string _locid="700377">Forum</string>
+		<string _locid="700378">Forme les &lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt;. Dépôt de ressources. Augmente la limite de population de 20.</string>
+		<string _locid="700379">Villageois</string>
+		<string _locid="700380">En tant qu&apos;unité de travail de base, le villageois récolte des ressources, construit des bâtiments et répare les unités de siège et les bâtiments endommagés.</string>
+		<string _locid="700381">Frondeur</string>
+		<string _locid="700385">Frondeur champion</string>
+		<string _locid="700386">Homme d&apos;armes</string>
+		<string _locid="700389">Homme d&apos;armes champion</string>
+		<string _locid="700391">Forme les &lt;color=0.32 0.65 1.0&gt;méharistes&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;archers sur char&lt;/color&gt;.</string>
+		<string _locid="700392">Écurie</string>
+		<string _locid="700393">Archer sur char</string>
+		<string _locid="700394">Capable d&apos;infliger d&apos;importants dégâts à distance, l&apos;archer sur char contrôle le champ de bataille avec sa portée et sa mobilité.</string>
+		<string _locid="700396">Archer sur char champion</string>
+		<string _locid="700399">Méhariste</string>
+		<string _locid="700401">Méhariste champion</string>
+		<string _locid="700405">Éléphant de guerre</string>
+		<string _locid="700406">Semant la peur dans le coeur de ses ennemis, le puissant éléphant de guerre inflige des dégâts étendus à tous ceux qui s&apos;y opposent.</string>
+		<string _locid="700407">Éléphant de guerre champion</string>
+		<string _locid="700408">Archer sur éléphant</string>
+		<string _locid="700410">En tant que puissante unité montée, l&apos;archer sur éléphants envoie une pluie de flèches mortelles vers ses ennemis.</string>
+		<string _locid="700411">Archer sur éléphant champion</string>
+		<string _locid="700413">Améliore les &lt;color=0.32 0.65 1.0&gt;archers sur éléphants&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt; Population -1&lt;/color&gt;</string>
+		<string _locid="700414">Forme les unités de &lt;color=0.32 0.65 1.0&gt;siège&lt;/color&gt;.</string>
+		<string _locid="700415">Tour de siège</string>
+		<string _locid="700417">Tour de siège championne</string>
+		<string _locid="700419">Catapulte</string>
+		<string _locid="700421">Lançant des rochers sur le champ de bataille, la catapulte est dévastatrice pour les unités à distance et les bâtiments.</string>
+		<string _locid="700422">Catapulte championne</string>
+		<string _locid="700423">Améliore les &lt;color=0.32 0.65 1.0&gt;catapultes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts +25%&lt;/color&gt;</string>
+		<string _locid="700430">Puissant bâtiment défensif. Forme les &lt;color=0.32 0.65 1.0&gt;éléphants de guerre&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;archers sur éléphant&lt;/color&gt; et les conseillers.</string>
+		<string _locid="700431">Académie de guerre</string>
+		<string _locid="700432">Temple de Ra</string>
+		<string _locid="700434">Temple de Seth</string>
+		<string _locid="700435">Forme les &lt;color=0.32 0.65 1.0&gt;prêtres de Seth&lt;/color&gt;. Permet d&apos;atteindre l&apos;Âge d&apos;Argent.</string>
+		<string _locid="700436">Temple de Ptah</string>
+		<string _locid="700437">Forme les &lt;color=0.32 0.65 1.0&gt;prêtres de Ptah&lt;/color&gt;. Permet d&apos;atteindre l&apos;Âge d&apos;Or.</string>
+		<string _locid="700439">Capable de soigner les unités amies, la Prêtresse de Ra donne aux bâtiments des boosts économiques et de vitesse de formation.</string>
+		<string _locid="700441">Forme les &lt;color=0.32 0.65 1.0&gt;prêtresses de Ra&lt;/color&gt;. Permet d&apos;atteindre l&apos;Âge du Bronze.</string>
+		<string _locid="700442">Prêtresse de Ra</string>
+		<string _locid="700444">Prêtre de Seth</string>
+		<string _locid="700445">Étant un signe avant-coureur du chaos, le Prêtre de Seth inflige le chaos aux unités ennemies, les obligeant à être hostiles envers toutes les autres unités.</string>
+		<string _locid="700446">Prêtre de Ptah</string>
+		<string _locid="700447">En tant qu&apos;unité de soutien puissante, le Prêtre de Ptah convertit les unités ennemies multiples et les bâtiments sur une petite zone.</string>
+		<string _locid="700448">Main de Ra</string>
+		<string _locid="700449">Améliore les unités de &lt;color=0.32 0.65 1.0&gt;prêtres égyptiens&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Taux de guérison +40%&lt;/color&gt;</string>
+		<string _locid="700450">Vision solaire</string>
+		<string _locid="700451">Améliore les unités de &lt;color=0.32 0.65 1.0&gt;prêtres égyptiens&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Portée de guérison +25 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Portée du chaos +25 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Portée de conversion +25 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Champ de vision +25 %&lt;/color&gt;</string>
+		<string _locid="700452">Dette de sang</string>
+		<string _locid="700453">Réduit les coûts des &lt;color=0.32 0.65 1.0&gt;prêtres égyptiens&lt;/color&gt; .*&lt;color=0.0 1.0 0.0&gt;Coût -30% &lt;/color&gt;</string>
+		<string _locid="700454">Essence du cobra</string>
+		<string _locid="700455">Améliore les &lt;color=0.32 0.65 1.0&gt;prêtres égyptiens&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +30%&lt;/color&gt;</string>
+		<string _locid="700456">Force des dieux</string>
+		<string _locid="700457">Améliore les &lt;color=0.32 0.65 1.0&gt;prêtres égyptiens&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +50%&lt;/color&gt;</string>
+		<string _locid="700458">Production divine</string>
+		<string _locid="700459">Réduit le temps de formation des &lt;color=0.32 0.65 1.0&gt;prêtres égyptiens&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Temps de formation -40%&lt;/color&gt;</string>
+		<string _locid="700485">Technologies de l&apos;Âge du Cuivre</string>
+		<string _locid="700486">Les technologies déverrouillées dans cette rangée sont immédiatement utilisables pendant les quêtes.</string>
+		<string _locid="700487">Technologies de l&apos;Âge du Bronze</string>
+		<string _locid="700488">Les technologies dans cette rangée sont déverrouillées lorsque vous atteignez l&apos;Âge du Bronze.</string>
+		<string _locid="700489">Technologies de l&apos;Âge d&apos;Argent</string>
+		<string _locid="700490">Les technologies dans cette rangée sont déverrouillées lorsque vous atteignez l&apos;Âge d&apos;Argent.</string>
+		<string _locid="700491">Technologies de l&apos;Âge d&apos;Or</string>
+		<string _locid="700492">Les technologies dans cette rangée sont déverrouillées lorsque vous atteignez l&apos;Âge d&apos;Or.</string>
+		<string _locid="700496">Maison</string>
+		<string _locid="700497">Augmente la limite de population de 5.</string>
+		<string _locid="700498">Merveille</string>
+		<string _locid="700499">En posséder une pendant un certain temps assure la victoire lors des combats joueur contre joueur.</string>
+		<string _locid="700500">Éclaireur</string>
+		<string _locid="700501">Les éclaireurs forment une unité rapide à la vision exceptionnelle, qui se spécialise en exploration de cartes et de territoires ennemis. Ajoute &lt;color=0.32 0.65 1.0&gt;Postes d&apos;observation&lt;/color&gt;.</string>
+		<string _locid="700502">Trirème à baliste</string>
+		<string _locid="700503">Trirème à baliste championne</string>
+		<string _locid="700504">Améliore les &lt;color=0.32 0.65 1.0&gt;trirèmes à baliste&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts +25%&lt;/color&gt;</string>
+		<string _locid="700505">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Coût de l&apos;Or -100%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Temps de formation -50%&lt;/color&gt;</string>
+		<string _locid="700512">Améliore les &lt;color=0.32 0.65 1.0&gt;béliers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Immunise contre les pièges&lt;/color&gt;</string>
+		<string _locid="700516">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts bonus +20% vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;cavalerie&lt;/color&gt;&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +15%&lt;/color&gt;</string>
+		<string _locid="700517">Améliore les &lt;color=0.32 0.65 1.0&gt;frondeurs&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Performation armure +50%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Vitesse de formation -20%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Champ de vision +25%&lt;/color&gt;</string>
+		<string _locid="700518">Améliore les &lt;color=0.32 0.65 1.0&gt;hommes d&apos;armes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +15%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Donne dégâts de zone&lt;/color&gt;</string>
+		<string _locid="700519">Améliore les &lt;color=0.32 0.65 1.0&gt;archers sur char&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts bonus +50% vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;infanterie&lt;/color&gt;</string>
+		<string _locid="700520">Améliore les &lt;color=0.32 0.65 1.0&gt;méharistes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts bonus +100% vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;À distance&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% Perforation d&apos;armure&lt;/color&gt;</string>
+		<string _locid="700521">Améliore les &lt;color=0.32 0.65 1.0&gt;éléphants de guerre&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Perforation d&apos;armure +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Résistance à la conversion +50%&lt;/color&gt;</string>
+		<string _locid="700522">Améliore les &lt;color=0.32 0.65 1.0&gt;tours de siège&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +50%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Immunise contre les pièges&lt;/color&gt;</string>
+		<string _locid="700527">Spadassin à épée longue</string>
+		<string _locid="700528">Champion</string>
+		<string _locid="700529">Archer</string>
+		<string _locid="700530">Bélier</string>
+		<string _locid="700531">Écuyer</string>
+		<string _locid="700532">Carpentom</string>
+		<string _locid="700533">Pillard picte</string>
+		<string _locid="700534">Mage</string>
+		<string _locid="700535">Mine d&apos;or</string>
+		<string _locid="700536">Druide</string>
+		<string _locid="700537">Augure</string>
+		<string _locid="700538">Bosquet sacré</string>
+		<string _locid="700539">Hall des bardes</string>
+		<string _locid="700543">Extension de cale</string>
+		<string _locid="700544">Augmente la capacité des &lt;color=0.32 0.65 1.0&gt;transports marchands&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Capacité de transport +8&lt;/color&gt;</string>
+		<string _locid="700547">Bateau-cygne</string>
+		<string _locid="700551">Bateau-cygne champion</string>
+		<string _locid="700552">Appel aux armes</string>
+		<string _locid="700553">Augmente les &lt;/color&gt;dégâts infligés aux&lt;color=0.32 0.65 1.0&gt; villageois celtes.*&lt;color=0.0 1.0 0.0&gt;Dégâts en mêlée contre l&apos;infanterie +150 %&lt;/color&gt;</string>
+		<string _locid="700557">Spadassin à épée longue champion</string>
+		<string _locid="700558">Améliore les &lt;color=0.32 0.65 1.0&gt;spadassins à épée longue&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Armure d&apos;infanterie de mêlée  +25 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Perforation d&apos;armure +25 %&lt;/color&gt;</string>
+		<string _locid="700559">Champion champion</string>
+		<string _locid="700560">Améliore les &lt;color=0.32 0.65 1.0&gt;champions&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +35 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +35 %&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Coût +50 %&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Compte démographique +1&lt;/color&gt;</string>
+		<string _locid="700562">Bélier champion</string>
+		<string _locid="700568">Archer champion</string>
+		<string _locid="700569">Améliore les &lt;color=0.32 0.65 1.0&gt;archers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Taux d&apos;attaque +25%&lt;/color&gt;</string>
+		<string _locid="700573">Écuyer champion</string>
+		<string _locid="700574">Améliore l&apos; &lt;color=0.32 0.65 1.0&gt;écuyer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Perforation d&apos;armure +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Pièges +50%&lt;/color&gt;</string>
+		<string _locid="700575">Carpentom champion</string>
+		<string _locid="700576">Améliore les &lt;color=0.32 0.65 1.0&gt;carpentom&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Donne dégâts de zone&lt;/color&gt;</string>
+		<string _locid="700578">Pillard picte champion</string>
+		<string _locid="700580">Améliore les &lt;color=0.32 0.65 1.0&gt;pillards pictes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Donne dégâts de zone pour charger attaque&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Immunise contre les pièges&lt;/color&gt;</string>
+		<string _locid="700583">Furor Celtica</string>
+		<string _locid="700585">Don de Balor</string>
+		<string _locid="700586">Améliore les &lt;color=0.32 0.65 1.0&gt;druides&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +25%&lt;/color&gt;</string>
+		<string _locid="700587">Don de Sequana</string>
+		<string _locid="700588">Améliore les &lt;color=0.32 0.65 1.0&gt;druides&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;augures&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Taux de guérison +40%&lt;/color&gt;</string>
+		<string _locid="700589">Rite de Damara</string>
+		<string _locid="700590">Confère aux &lt;color=0.32 0.65 1.0&gt;augures&lt;/color&gt; la capacité de sacrifier des animaux contre une réduction du &lt;color=0.0 1.0 0.0&gt;temps de formation de -20%&lt;/color&gt;. Affecte tous les &lt;color=0.32 0.65 1.0&gt;bâtiments&lt;/color&gt; temporairement.</string>
+		<string _locid="700591">Rite d&apos;Andraste</string>
+		<string _locid="700592">Confère aux &lt;color=0.32 0.65 1.0&gt;augures&lt;/color&gt; la capacité de sacrifier des animaux contre une amélioration des &lt;color=0.0 1.0 0.0&gt;dégâts de +15%&lt;/color&gt;. Affecte toutes les unités &lt;color=0.32 0.65 1.0&gt;militaires&lt;/color&gt; temporairement.</string>
+		<string _locid="700593">Rite de Rudiobus</string>
+		<string _locid="700594">Confère aux &lt;color=0.32 0.65 1.0&gt;augures&lt;/color&gt; la capacité de sacrifier des animaux contre une amélioration de la &lt;color=0.0 1.0 0.0&gt;vitesse de déplacement de +15%&lt;/color&gt;. Affecte toutes les unités &lt;color=0.32 0.65 1.0&gt;militaires&lt;/color&gt; temporairement.</string>
+		<string _locid="700595">Rite de Ratis</string>
+		<string _locid="700596">Confère aux &lt;color=0.32 0.65 1.0&gt;augures&lt;/color&gt; la capacité de sacrifier des animaux contre une amélioration des &lt;color=0.0 1.0 0.0&gt;dégâts causés aux bâtiments de +30%&lt;/color&gt;. Affecte toutes les unités &lt;color=0.32 0.65 1.0&gt;militaires&lt;/color&gt; temporairement.</string>
+		<string _locid="700600">Rade en bois</string>
+		<string _locid="700601">Améliore les &lt;color=0.32 0.65 1.0&gt;caravanes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +20%&lt;/color&gt;</string>
+		<string _locid="700627">Augmente la santé de &lt;color=0.32 0.65 1.0&gt;l&apos;infanterie&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +10%&lt;/color&gt;</string>
+		<string _locid="700628">Philosophie</string>
+		<string _locid="700629">Réduit le temps de recherche des &lt;color=0.32 0.65 1.0&gt;bâtiments&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Temps de recherche -40%&lt;/color&gt;</string>
+		<string _locid="700630">Discipline Agôgè</string>
+		<string _locid="700631">Réduit le temps de formation des unités &lt;color=0.32 0.65 1.0&gt;d&apos;infanterie&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;à distance&lt;/color&gt; et de &lt;color=0.32 0.65 1.0&gt;cavalerie&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Temps de formation -25%&lt;/color&gt;</string>
+		<string _locid="700632">Meurtrières</string>
+		<string _locid="700633">Améliore les &lt;color=0.32 0.65 1.0&gt;tour de garde&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Supprime la portée d&apos;attaque minimale&lt;/color&gt;</string>
+		<string _locid="700634">Feu grégeois</string>
+		<string _locid="700635">Améliore les &lt;color=0.32 0.65 1.0&gt;toxotes&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;gastrophète&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;bâtiments&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts bonus +50% vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;bâtiments&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts bonus +25% vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;siège&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts bonus + 25% vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;bateaux&lt;/color&gt;</string>
+		<string _locid="700636">Lourdement blindé, le Champion ignore les attaques en haussant les épaules et inflige des dégâts de zone aux autres à proximité.</string>
+		<string _locid="700637">Étant un chariot durable, le carpentom défait facilement les autres grandes unités à distance.</string>
+		<string _locid="700638">Redouté pour sa mobilité et sa puissance, le pillard picte s&apos;engage dans le combat avec une attaque dévastatrice.</string>
+		<string _locid="700639">Puissant bâtiment défensif. Forme les &lt;color=0.32 0.65 1.0&gt;béliers&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt; &lt;color=0.32 0.65 1.0&gt;lanceurs de pierre&lt;/color&gt; et les unités des conseillers.</string>
+		<string _locid="700640">Met en garnison et protège les &lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt; pour une collecte d&apos;Or plus efficace.*&lt;color=0.0 1.0 0.0&gt;Conservation de l&apos;Or +50%&lt;/color&gt;</string>
+		<string _locid="700641">Adepte à la fois du combat et de la guérison, le druide augmente également les dégâts des unitées amies blessées.</string>
+		<string _locid="700642">Recherche les améliorations &lt;color=0.32 0.65 1.0&gt;d&apos;infanterie&lt;/color&gt;.</string>
+		<string _locid="700643">Forme les &lt;color=0.32 0.65 1.0&gt;prêtres&lt;/color&gt; et le &lt;color=0.32 0.65 1.0&gt;cerf sacré&lt;/color&gt;.</string>
+		<string _locid="700644">Capable d&apos;apprendre des rituels afin de sacrifier des animaux, l&apos;augure convertit aussi les unités ennemies et guérit les unités amies après le combat.</string>
+		<string _locid="700645">Améliore les &lt;color=0.32 0.65 1.0&gt;bateaux-cygnes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +50%&lt;/color&gt;</string>
+		<string _locid="700646">Asabara</string>
+		<string _locid="700648">Améliore la vitesse de l&apos;&lt;color=0.32 0.65 1.0&gt;infanterie&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +10%&lt;/color&gt;</string>
+		<string _locid="700649">Légèrement blindé et rapide sur ses pieds, le frondeur élimine facilement les unités à distance.</string>
+		<string _locid="700650">Doté d&apos;une armure légère, le frondeur élimine facilement les autres unités à distance, mais possède une faible résistance aux dégâts.</string>
+		<string _locid="700655">Améliore l&apos;efficacité des &lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Capacité de transport +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +10%&lt;/color&gt;</string>
+		<string _locid="700656">Améliore les &lt;color=0.32 0.65 1.0&gt;sparabaras&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +15 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Pièges +15 %&lt;/color&gt;</string>
+		<string _locid="700658">Sparabara</string>
+		<string _locid="700662">Sparabara champion</string>
+		<string _locid="700663">Capable d&apos;absorber une bonne quantité de dégâts perforants, le Porteur de bouclier assure une ligne de défense impénétrable.</string>
+		<string _locid="700664">Camp des immortels</string>
+		<string _locid="700665">Forme les &lt;color=0.32 0.65 1.0&gt;immortels&lt;/color&gt;.</string>
+		<string _locid="700666">Immortel</string>
+		<string _locid="700667">Possédant à la fois de l&apos;armement de mêlée et à distance, l&apos;immortel se présente comme l&apos;élite de l&apos;armée perse.</string>
+		<string _locid="700669">Immortel champion</string>
+		<string _locid="700670">Améliore les &lt;color=0.32 0.65 1.0&gt;takabaras&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Portée maximale +20%&lt;/color&gt;</string>
+		<string _locid="700672">Améliore les &lt;color=0.32 0.65 1.0&gt;immortels&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Population -1&lt;/color&gt;</string>
+		<string _locid="700675">Takabara</string>
+		<string _locid="700677">Takabara champion</string>
+		<string _locid="700680">Archer monté</string>
+		<string _locid="700682">Archer monté champion</string>
+		<string _locid="700683">Ferveur inébranlable</string>
+		<string _locid="700685">Améliore considérablement les &lt;color=0.32 0.65 1.0&gt;asabara&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +10%&lt;/color&gt;</string>
+		<string _locid="700687">Améliore les &lt;color=0.32 0.65 1.0&gt;archers montés&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Coût de l&apos;Or -50% &lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts bonus +50% vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;cavalerie&lt;/color&gt;</string>
+		<string _locid="700688">Cataphractaire</string>
+		<string _locid="700689">Cataphractaire champion</string>
+		<string _locid="700690">Améliore les &lt;color=0.32 0.65 1.0&gt;cataphractaires&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts +20%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Perforation d&apos;armure +50%&lt;/color&gt;</string>
+		<string _locid="700691">Chariot de guerre</string>
+		<string _locid="700692">Chariot de guerre champion</string>
+		<string _locid="700693">Améliore les &lt;color=0.32 0.65 1.0&gt;chariots de guerre&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Donne de plus grands dégâts de zone&lt;/color&gt;</string>
+		<string _locid="700694">Tente de soins</string>
+		<string _locid="700695">Galère</string>
+		<string _locid="700698">Galère championne</string>
+		<string _locid="700699">Bateau bélier</string>
+		<string _locid="700701">Améliore les &lt;color=0.32 0.65 1.0&gt;galères&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Portée maximale +15%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +20% &lt;/color&gt;</string>
+		<string _locid="700703">Bateau bélier champion</string>
+		<string _locid="700704">Galère à mangonneau</string>
+		<string _locid="700705">Améliore les &lt;color=0.32 0.65 1.0&gt;galères à mangonneau&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts +25%&lt;/color&gt;</string>
+		<string _locid="700706">Galère à mangonneau championne</string>
+		<string _locid="700707">Main d&apos;oeuvre payée</string>
+		<string _locid="700709">Améliore &lt;color=0.32 0.65 1.0&gt;Bateau bélier&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25 % dégâts bonus vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Bâtiments&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20 % vitesse de mouvement&lt;/color&gt;</string>
+		<string _locid="700711">Entraînement rigoureux</string>
+		<string _locid="700712">Enceinte</string>
+		<string _locid="700713">Obscurcir le soleil</string>
+		<string _locid="700714">Routes royales</string>
+		<string _locid="700715">Sans nombre</string>
+		<string _locid="700738">Améliore les &lt;color=0.32 0.65 1.0&gt;mages&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Taux de conversion +50%&lt;/color&gt;</string>
+		<string _locid="700740">Archer champion</string>
+		<string _locid="700742">Accorde aux &lt;color=0.32 0.65 1.0&gt;dépôts&lt;/color&gt; la capacité de soigner les unités alliées à proximité.</string>
+		<string _locid="700745">Lanceur de pierres</string>
+		<string _locid="700759">Réduit le temps de formation des &lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt;, mais ils coûtent désormais de l&apos;Or.*&lt;color=0.0 1.0 0.0&gt;Temps de formation -40%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Coût en Nourriture -40%&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Coût de l&apos;Or +40%&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Peut être activé ou désactivé&lt;/color&gt;</string>
+		<string _locid="700761">Améliore les &lt;color=0.32 0.65 1.0&gt;béliers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Temps de formation -40%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Immunise contre les pièges&lt;/color&gt;</string>
+		<string _locid="700765">Lanceur de pierres champion</string>
+		<string _locid="700769">Réduit le temps de formation des unités dans les &lt;color=0.32 0.65 1.0&gt;casernes&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;archeries&lt;/color&gt;, et les &lt;color=0.32 0.65 1.0&gt;écuries&lt;/color&gt;, mais augmente leur coût.*&lt;color=0.0 1.0 0.0&gt;Temps de formation -30%&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Coût +15%&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Peut être activé/désactivé&lt;/color&gt;</string>
+		<string _locid="700770">Augmente la santé et l&apos;armure écrasante des &lt;color=0.32 0.65 1.0&gt;sparabaras&lt;/color&gt; mais diminue leur vitesse.*&lt;color=0.0 1.0 0.0&gt;Santé +20%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Armure écrasante +180%&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Vitesse de déplacement -10%&lt;/color&gt;</string>
+		<string _locid="700772">Augmente la portée des &lt;color=0.32 0.65 1.0&gt;archers&lt;/color&gt; et des &lt;color=0.32 0.65 1.0&gt;takabaras&lt;/color&gt;, mais diminue leur santé.*&lt;color=0.0 1.0 0.0&gt;Portée maximale +30%&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Santé -15%&lt;/color&gt;</string>
+		<string _locid="700773">Réduit le temps de formation des unités dans les &lt;color=0.32 0.65 1.0&gt;camps des immortels&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;ateliers de siège&lt;/color&gt;, et les &lt;color=0.32 0.65 1.0&gt;forteresses&lt;/color&gt;, mais augmente leur coût.*&lt;color=0.0 1.0 0.0&gt;Temps de formation -60%&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Coût +30%&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Peut être activé/désactivé&lt;/color&gt;</string>
+		<string _locid="700779">En tant qu&apos;unité de siège relativement rapide et disponible, le bélier ébranle le fondement de toute structure solide.</string>
+		<string _locid="700784">Asabara champion</string>
+		<string _locid="700785">En tant qu&apos;unité versatile et polyvalente de la cavalerie, l&apos;asabara excelle dans les raids et les attaques ciblées.</string>
+		<string _locid="700786">L&apos;archer monté est très efficace contre les unités montées de la cavalerie.</string>
+		<string _locid="700787">Vêtu d&apos;une armure lourde de la tête aux pieds, le cataphractaire décime toute unité d&apos;infanterie dans son sillage.</string>
+		<string _locid="700788">Étant une mini forteresse mobile, le chariot de guerre inonde ses ennemis de flèches perforantes.</string>
+		<string _locid="700789">Augmente les dégâts des unités d&apos;&lt;color=0.32 0.65 1.0&gt;infanterie&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts +10%&lt;/color&gt;</string>
+		<string _locid="700790">Forme &lt;color=0.32 0.65 1.0&gt;les mages&lt;/color&gt;. Recherche les améliorations avancées.</string>
+		<string _locid="700791">Cerf sacré</string>
+		<string _locid="700792">Animal sacré qui peut être utilisé comme source de Nourriture ou sacrifié par l&apos;augure.</string>
+		<string _locid="700793">Améliore les &lt;color=0.32 0.65 1.0&gt;lanceurs de pierre&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts bonus +50% vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;siège&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Population -1&lt;/color&gt;</string>
+		<string _locid="700794">Scie à tirer</string>
+		<string _locid="700830">Forme les unités &lt;color=0.32 0.65 1.0&gt;à distance&lt;/color&gt; et de &lt;color=0.32 0.65 1.0&gt;cavalerie&lt;/color&gt;.</string>
+		<string _locid="700927">Scie égoïne</string>
+		<string _locid="700929">Scie à deux hommes</string>
+		<string _locid="700930">Pioche</string>
+		<string _locid="700931">Orpaillage</string>
+		<string _locid="700932">Ciseau</string>
+		<string _locid="700934">Fendre la pierre</string>
+		<string _locid="700935">Charrue</string>
+		<string _locid="700937">Irrigation</string>
+		<string _locid="700938">Flèches barbelées</string>
+		<string _locid="700939">Flèches à large pointe</string>
+		<string _locid="700940">Fonte de fer</string>
+		<string _locid="700941">Acier de Damas</string>
+		<string _locid="700943">Flèches-poignards</string>
+		<string _locid="700944">Cotte de mailles</string>
+		<string _locid="700946">Appâts à filet</string>
+		<string _locid="700947">Poids à filet</string>
+		<string _locid="700948">Ligne à filet</string>
+		<string _locid="700949">Maille d&apos;écailles</string>
+		<string _locid="700950">Caractère</string>
+		<string _locid="700951">Bordure de bouclier</string>
+		<string _locid="700952">Armature de bouclier</string>
+		<string _locid="700954">Armure laminaire</string>
+		<string _locid="700956">Umbo de bouclier</string>
+		<string _locid="700957">Gants de cueilleur</string>
+		<string _locid="700958">Conditionnement</string>
+		<string _locid="700959">Minage hydraulique</string>
+		<string _locid="700960">Bras combinés</string>
+		<string _locid="700961">Expertise au Corps à Corps</string>
+		<string _locid="700962">Adresse au tir</string>
+		<string _locid="700963">Scie à pierre</string>
+		<string _locid="700964">Plumier amélioré</string>
+		<string _locid="700965">Équitation</string>
+		<string _locid="700966">Pure race</string>
+		<string _locid="700971">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;hypaspistes&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;hoplites&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Temps de formation -20%&lt;/color&gt;</string>
+		<string _locid="700972">Améliore les &lt;color=0.32 0.65 1.0&gt;toxotes&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;peltastes&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;gastrophètes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Champ de vision +20%&lt;/color&gt;</string>
+		<string _locid="700973">Améliore les &lt;color=0.32 0.65 1.0&gt;sarissophores&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;prodromoi&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;acontistes&lt;/color&gt;.*&lt;color=1.0 1.0 0.0&gt;Vitesse de déplacement +10%&lt;/color&gt;</string>
+		<string _locid="700975">Augmente l&apos;armure de mêlée pour toute les unités &lt;color=0.32 0.65 1.0&gt;militaires&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Armure de mêlée de l&apos;infanterie +20%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Armure de mêlée de la cavalerie +20%&lt;/color&gt;</string>
+		<string _locid="700976">Surveillance de la ville</string>
+		<string _locid="700977">Augmente la perforation de l&apos;armure pour toutes les unités &lt;color=0.32 0.65 1.0&gt;militaires&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Perforation d&apos;armure +20%&lt;/color&gt;</string>
+		<string _locid="700978">Arc composite</string>
+		<string _locid="700979">Fers à cheval</string>
+		<string _locid="700980">Améliore les &lt;color=0.32 0.65 1.0&gt;toxotes&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;peltastes&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;gastrophètes&lt;/color&gt;.*&lt;color=1.0 1.0 0.0&gt;Champ de vision +20%&lt;/color&gt;</string>
+		<string _locid="700981">Améliore les &lt;color=0.32 0.65 1.0&gt;toxotes&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;peltastes&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;gastrophètes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts +10%&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Portée maximale +20%&lt;/color&gt;</string>
+		<string _locid="700982">Améliore les &lt;color=0.32 0.65 1.0&gt;sarissophores&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;prodromoi&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;acontistes&lt;/color&gt;.*&lt;color=1.0 1.0 0.0&gt;Vitesse de déplacement +10%&lt;/color&gt;</string>
+		<string _locid="700983">Améliore les &lt;color=0.32 0.65 1.0&gt;sarissophores&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;prodromoi&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;acontistes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +10%&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Vitesse de déplacement +5%&lt;/color&gt;</string>
+		<string _locid="700984">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;hypaspistes&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;hoplites&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Temps de formation -30%&lt;/color&gt;</string>
+		<string _locid="700985">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;hypaspistes&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;hoplites&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +15%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +15%&lt;/color&gt;</string>
+		<string _locid="700987">Améliore les &lt;color=0.32 0.65 1.0&gt;bâtiments&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Champ de vision +25%&lt;/color&gt;</string>
+		<string _locid="700989">Formation montée</string>
+		<string _locid="700990">Conditionnement dans le désert</string>
+		<string _locid="700994">Maille d&apos;écailles et armure en peaux</string>
+		<string _locid="700995">Cotte de maille et armure de cuir bouilli</string>
+		<string _locid="700996">Armure lamellaire de cuir laqué</string>
+		<string _locid="700997">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;hommes d&apos;armes&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;frondeurs&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Temps de formation -20%&lt;/color&gt;</string>
+		<string _locid="700998">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;hommes d&apos;armes&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;frondeurs&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Temps de formation -30%&lt;/color&gt;</string>
+		<string _locid="700999">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;hommes d&apos;armes&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;frondeurs&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +15%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +15%&lt;/color&gt;</string>
+		<string _locid="701001">Augmente l&apos;armure de mêlée et de perforation de toutes les unités &lt;color=0.32 0.65 1.0&gt;militaires&lt;/color&gt; .*&lt;color=0.0 1.0 0.0&gt;Armure de mêlée de l&apos;infanterie +20%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Armure de mêlée de la cavalerie +20%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Perforation d&apos;armure +20%&lt;/color&gt;</string>
+		<string _locid="701002">Rotation des cultures</string>
+		<string _locid="701003">Brassage</string>
+		<string _locid="701004">Chasseur de têtes</string>
+		<string _locid="701005">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts bonus +25% vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;cavalerie&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts bonus +50% vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;bâtiments&lt;/color&gt;</string>
+		<string _locid="701006">Améliore les &lt;color=0.32 0.65 1.0&gt;frondeurs&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts bonus +50% vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +15%&lt;/color&gt;</string>
+		<string _locid="701007">Améliore les &lt;color=0.32 0.65 1.0&gt;archers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Portée maximale +20%&lt;/color&gt;</string>
+		<string _locid="701008">Spécialiste des armes de l&apos;Égypte, les hommes d&apos;armes sont très efficaces contre les unités d&apos;infanterie.</string>
+		<string _locid="701009">Bien que mobile, le méhariste défait facilement les autres unités de cavalerie, mais est vulnérable aux attaques des lanciers.</string>
+		<string _locid="701010">Combinant à la fois des aptitudes navales et de siège, la trirème à catapulte sème la terreur sur les fortifications ennemies en tirant depuis le large.</string>
+		<string _locid="701011">Étant une machine de guerre lente mais solide, les tours de siège détruisent les murs et les bâtiments avec une force incroyable.</string>
+		<string _locid="701012">Étant un tireur à l&apos;arc de base, l&apos;archer négocie une quantité massive de dégâts à distance, spécialement lorsqu&apos;ils sont en grand nombre.</string>
+		<string _locid="701013">Armé contre les attaques perforantes, le takabara dispose aisément des unités à distance.</string>
+		<string _locid="701014">Étant un navire de guerre des débuts, avant l&apos;invention de la trirème, la Galère est prête pour tout combat naval.</string>
+		<string _locid="701015">Combinant à la fois des aptitudes navales et de siège, la galère à mangonneau sème la terreur sur les fortifications ennemies en tirant depuis le large.</string>
+		<string _locid="701016">Conçu pour les collisions frontales, le bateau bélier fonce dans les navires et bâtiments ennemis pour infliger d&apos;importants dégâts aux structures.</string>
+		<string _locid="701017">Fournissant aussi du soutien avant et après le combat, le mage convertit les unités ennemies et guérit les unités amies après le combat.</string>
+		<string _locid="701018">Réputé pour sa bravoure, le spadassin à épée longue traverse l&apos;infanterie avec une vigueur féroce.</string>
+		<string _locid="701019">L&apos;écuyer, robuste guerrier monté, excelle à garder les autres unités de cavalerie à distance.</string>
+		<string _locid="701020">Construit à partir du chêne le plus résistant, le bateau-cygne navigue dans les mers avec une puissance exceptionnelle.</string>
+		<string _locid="701021">Mobilisant une force incroyable, le lanceur de pierres jette de grosses pierres à ses victimes.</string>
+		<string _locid="701022">Améliore les &lt;color=0.32 0.65 1.0&gt;méharistes&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;archers sur char&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +10%&lt;/color&gt;</string>
+		<string _locid="701023">Améliore les &lt;color=0.32 0.65 1.0&gt;méharistes&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;archers sur char&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +10%&lt;/color&gt;</string>
+		<string _locid="701024">Améliore les &lt;color=0.32 0.65 1.0&gt;méharistes&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;archers sur char&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +10%&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Vitesse de déplacement +5%&lt;/color&gt;</string>
+		<string _locid="701025">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;spadassins à épée longue&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;pillards pictes&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;champions&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Temps de formation -20%&lt;/color&gt;</string>
+		<string _locid="701026">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;spadassins à épée longue&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;pillards pictes&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;champions&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Temps de formation -30%&lt;/color&gt;</string>
+		<string _locid="701027">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;spadassins à épée longue&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;pillards pictes&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;champions&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +15%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +15%&lt;/color&gt;</string>
+		<string _locid="701028">Améliore les &lt;color=0.32 0.65 1.0&gt;frondeurs&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;archers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Champ de vision +20%&lt;/color&gt;</string>
+		<string _locid="701029">Améliore les &lt;color=0.32 0.65 1.0&gt;frondeurs&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;archers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Champ de vision +30%&lt;/color&gt;</string>
+		<string _locid="701030">Améliore les &lt;color=0.32 0.65 1.0&gt;tirailleurs&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;archers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +10%&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Portée maximale +20%</string>
+		<string _locid="701031">Améliore les &lt;color=0.32 0.65 1.0&gt;écuyers&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;carpentoms&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +10%&lt;/color&gt;</string>
+		<string _locid="701032">Améliore les &lt;color=0.32 0.65 1.0&gt;écuyers&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;carpentoms&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +10%&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Vitesse de déplacement +5%&lt;/color&gt;</string>
+		<string _locid="701033">Améliore les &lt;color=0.32 0.65 1.0&gt;sparabaras&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Temps de formation -20%</string>
+		<string _locid="701034">Améliore les &lt;color=0.32 0.65 1.0&gt;sparabaras&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Temps de formation -30%</string>
+		<string _locid="701035">Améliore les &lt;color=0.32 0.65 1.0&gt;sparabaras&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +15%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +15%&lt;/color&gt;</string>
+		<string _locid="701036">Améliore les &lt;color=0.32 0.65 1.0&gt;archers&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;takabaras&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Champ de vision +20%&lt;/color&gt;</string>
+		<string _locid="701037">Améliore grandement les &lt;color=0.32 0.65 1.0&gt; murs&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +125%&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Convertit le coût en Pierre&lt;/color&gt;</string>
+		<string _locid="701038">Améliore les &lt;color=0.32 0.65 1.0&gt;archers&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;takabaras&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Champ de vision +30%&lt;/color&gt;</string>
+		<string _locid="701039">Améliore les &lt;color=0.32 0.65 1.0&gt;archers&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;takabaras&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts +10%&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Portée maximale +20%&lt;/color&gt;</string>
+		<string _locid="701040">Améliore les &lt;color=0.32 0.65 1.0&gt;asabaras&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;les archers montés&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;et les cataphractaires&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +10%&lt;/color&gt;</string>
+		<string _locid="701041">Améliore les &lt;color=0.32 0.65 1.0&gt;asabaras&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;les archers montés&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;et les cataphractaires&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +10%&lt;/color&gt;</string>
+		<string _locid="701042">Améliore les &lt;color=0.32 0.65 1.0&gt;asabaras&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;les archers montés&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;et les cataphractaires&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +10%&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Vitesse de déplacement +5%&lt;/color&gt;</string>
+		<string _locid="701043">Porteur de bouclier</string>
+		<string _locid="701044">Porteur de bouclier champion</string>
+		<string _locid="701045">Sapeur</string>
+		<string _locid="701046">Sapeur champion</string>
+		<string _locid="701047">Garde royal</string>
+		<string _locid="701048">Garde royal champion</string>
+		<string _locid="701049">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;porteurs de bouclier&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;sapeurs&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;gardes royaux&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Temps de formation -20%&lt;/color&gt;</string>
+		<string _locid="701050">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;porteurs de bouclier&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;sapeurs&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;gardes royaux&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Temps de formation -30%&lt;/color&gt;</string>
+		<string _locid="701051">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;porteurs de bouclier&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;sapeurs&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;gardes royaux&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +15%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +15%&lt;/color&gt;</string>
+		<string _locid="701052">Améliore les &lt;color=0.32 0.65 1.0&gt;frondeurs&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;archers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Champ de vision +20%&lt;/color&gt;</string>
+		<string _locid="701053">Améliore les &lt;color=0.32 0.65 1.0&gt;frondeurs&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;archers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Champ de vision +30%&lt;/color&gt;</string>
+		<string _locid="701054">Améliore les &lt;color=0.32 0.65 1.0&gt;tirailleurs&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;archers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +10%&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Portée maximale +20%</string>
+		<string _locid="701055">Lanceur</string>
+		<string _locid="701056">Lanceur champion</string>
+		<string _locid="701057">Char de guerre</string>
+		<string _locid="701058">Char de guerre champion</string>
+		<string _locid="701059">Améliore les &lt;color=0.32 0.65 1.0&gt;lanceurs&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;archers montés&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;archers sur char&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;chars de guerre&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +10%&lt;/color&gt;</string>
+		<string _locid="701060">Améliore les &lt;color=0.32 0.65 1.0&gt;lanceurs&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;archers montés&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;archers sur char&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;chars de guerre&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +10%&lt;/color&gt;</string>
+		<string _locid="701061">Améliore les &lt;color=0.32 0.65 1.0&gt;lanceurs&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;archers montés&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;archers sur char&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;chars de guerre&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +10%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +5%&lt;/color&gt;</string>
+		<string _locid="701062">Chariot renforcé</string>
+		<string _locid="701063">Extension de cale</string>
+		<string _locid="701064">Birème</string>
+		<string _locid="701065">Birème championne</string>
+		<string _locid="701066">Char à boeufs</string>
+		<string _locid="701067">Jardin</string>
+		<string _locid="701069">Ziggurat</string>
+		<string _locid="701070">Ingéniosité</string>
+		<string _locid="701071">Pharmacologie</string>
+		<string _locid="701072">Arithmétique</string>
+		<string _locid="701073">Roues de fer</string>
+		<string _locid="701074">Culture</string>
+		<string _locid="701075">Code de Hammurabi </string>
+		<string _locid="701076">Guerre totale</string>
+		<string _locid="701077">Mur d&apos;argile</string>
+		<string _locid="701078">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Pièges +20%&lt;/color&gt;</string>
+		<string _locid="701079">Améliore &lt;color=0.32 0.65 1.0&gt;Porteur de bouclier&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Perforation d&apos;armure +50%&lt;/color&gt;</string>
+		<string _locid="701080">Améliore &lt;color=0.32 0.65 1.0&gt;Sapeur&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Coût en Nourriture -100%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts bonus +50% vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Bâtiments&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +15%&lt;/color&gt;</string>
+		<string _locid="701081">Améliore les &lt;color=0.32 0.65 1.0&gt;frondeurs&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Immunité contre les bonus aux dégâts&lt;/color&gt;</string>
+		<string _locid="701082">Améliore les &lt;color=0.32 0.65 1.0&gt;archers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Coût de l&apos;Or -100%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;temps de formation de -20%&lt;/color&gt;</string>
+		<string _locid="701083">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +20 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Octroie l&apos;attaque Charge\n(Bonus dégâts x3.0)&lt;/color&gt;</string>
+		<string _locid="701084">Améliore les &lt;color=0.32 0.65 1.0&gt;archers montés&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts +25%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Pièges +25%&lt;/color&gt;</string>
+		<string _locid="701085">Améliore les &lt;color=0.32 0.65 1.0&gt;archers sur char&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Coût -50%&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Santé -20%&lt;/color&gt;</string>
+		<string _locid="701086">Améliore les &lt;color=0.32 0.65 1.0&gt;chars de guerre&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+500% de bonus aux dégâts contre les unités de &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;siège&lt;/color&gt;</string>
+		<string _locid="701087">Améliore les &lt;color=0.32 0.65 1.0&gt;tours de siège&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +100 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Elargit l&apos;aire d&apos;effet des dégâts&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Immunité contre les pièges&lt;/color&gt;</string>
+		<string _locid="701088">Améliore les &lt;color=0.32 0.65 1.0&gt;Char à boeufs&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +50%&lt;/color&gt;</string>
+		<string _locid="701089">Améliore les &lt;color=0.32 0.65 1.0&gt;chars à boeufs&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Permet de mettre en garnison 8 &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;villageois8&lt;/color&gt;</string>
+		<string _locid="701090">Améliore les &lt;color=0.32 0.65 1.0&gt;tours de garde&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;forteresses&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;forums&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Coût -25%&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;-25% délais de construction&lt;/color&gt;</string>
+		<string _locid="701091">Améliore les &lt;color=0.32 0.65 1.0&gt;infanterie&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;à distance&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Cavalier&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+1  régén. par seconde de santé&lt;/color&gt;</string>
+		<string _locid="701092">Améliore les &lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt; collectent la Nourriture provenant des &lt;color=0.32 0.65 1.0&gt;buissons de baies&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;arbres&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Conservation +25%&lt;/color&gt;</string>
+		<string _locid="701093">Améliore les &lt;color=0.32 0.65 1.0&gt;chars à boeufs&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;archers sur char&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;chars de guerre&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;tours de siège&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +10 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +10 %&lt;/color&gt;/color&gt;&lt;color=0.0 1.0 0.0&gt;\n(+20% pour les &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;chars à boeufs&lt;/color&gt;&lt;color=0.0 1.0 0.0&gt;)&lt;/color&gt;</string>
+		<string _locid="701094">Permet une faible sources de nourriture dans le &lt;color=0.32 0.65 1.0&gt;jardin&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Nourriture par seconde +0,5&lt;/color&gt;</string>
+		<string _locid="701095">Améliore les &lt;color=0.32 0.65 1.0&gt;prêtres&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Taux de conversion +25 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Portée de conversion+10 %&lt;/color&gt;Champ de vision +10%&lt;/color&gt;</string>
+		<string _locid="701096">Améliore &lt;color=0.32 0.65 1.0&gt;Unités&lt;/color&gt; militaires.*&lt;color=0.0 1.0 0.0&gt;+10% de daño&lt;/color&gt;&lt;color=0.0 1.0 0.0&gt;Dégâts bonus +50% vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt;</string>
+		<string _locid="701097">Améliore &lt;color=0.32 0.65 1.0&gt;Garde royal&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Aux d&apos;attaque +50%;/color&gt;&lt;color=0.0 1.0 0.0&gt;Dégâts bonus -50% vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Bâtiments&lt;/color&gt;</string>
+		<string _locid="701098">Capable d&apos;absorber une bonne quantité de dégâts perforants, le sparabara assure une ligne de défense impénétrable.</string>
+		<string _locid="701099">Dépôt mobile, permet de réduire les distances de collecte.</string>
+		<string _locid="701100">Équipé de divers armements, le sapeur se spécialise en destruction de fortifications.</string>
+		<string _locid="701101">Protecteur des rois, le garde royal est imbattable en combat au corps à corps.</string>
+		<string _locid="701102">Avec sa lance exceptionnellement longue, le lancier fracasse les lignes d&apos;infanterie en lui infligeant des dégâts dévastateurs.</string>
+		<string _locid="701103">Le solide char de guerre est idéal pour vaincre de grandes unités à distance.</string>
+		<string _locid="701104">Capable de placer de vastes armées en garnison, la Tour de siège surprend souvent ses ennemis en les assiégeant.</string>
+		<string _locid="701105">Renforce tous les &lt;color=0.32 0.65 1.0&gt;bâtiments&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Temps de formation -3 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Temps de recherche -3 %&lt;/color&gt;</string>
+		<string _locid="701106">Améliore &lt;color=0.32 0.65 1.0&gt;Birème&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Portée maximale +15%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +20%&lt;/color&gt;</string>
+		<string _locid="701107">Précurseur de la trirème, la birème est efficace en combat en haute mer.</string>
+		<string _locid="701108">Forme les &lt;color=0.32 0.65 1.0&gt;prêtres&lt;/color&gt;. Recherche des améliorations avancées. Fait progresser la civilisation vers les Âges du Bronze, d&apos;Argent et d&apos;Or.</string>
+		<string _locid="701109">Grand jardin</string>
+		<string _locid="701110">Jardin royal</string>
+		<string _locid="701111">Améliore les &lt;color=0.32 0.65 1.0&gt;jardins&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Réduction du temps de formation +1 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Réduction du temps de recherche +1 %&lt;/color&gt;</string>
+		<string _locid="701112">Améliore les &lt;color=0.32 0.65 1.0&gt;jardins&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Réduction du temps de formation +1 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Réduction du temps de recherche +1 %&lt;/color&gt;</string>
+		<string _locid="701113">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +25 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15 % de bonus aux dégâts contre la &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;cavalerie&lt;/color&gt;</string>
+		<string _locid="701114">Lanceur de haches</string>
+		<string _locid="701115">Lanceur de haches champion</string>
+		<string _locid="701116">Améliore les &lt;color=0.32 0.65 1.0&gt;lanceurs de haches&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Ignorer l&apos;armure +40 %&lt;/color&gt;</string>
+		<string _locid="701117">Expert au lancer de la hache, le lanceur de haches réduit au silence les unités d&apos;infanterie avant même qu&apos;elles ne lèvent leurs armes. Construit des &lt;color=0.32 0.65 1.0&gt;bâtiments&lt;/color&gt; militaires et défensifs.</string>
+		<string _locid="701118">Harjar</string>
+		<string _locid="701119">Endurcis par la guerre et les hivers cruels, les harjars sont les féroces gardiens du front. Construisent des &lt;color=0.32 0.65 1.0&gt;bâtiments&lt;/color&gt; militaires et défensifs.</string>
+		<string _locid="701120">Harjar champion</string>
+		<string _locid="701121">Améliore les &lt;color=0.32 0.65 1.0&gt;harjars&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Armure d&apos;infanterie de mêlée +50 %&lt;/color&gt;</string>
+		<string _locid="701122">Berserker</string>
+		<string _locid="701123">Les berserkers ont un appétit insatiable pour le combat, et leur soif de sang fait d&apos;eux de terribles meurtriers. Construisent des &lt;color=0.32 0.65 1.0&gt;bâtiments&lt;/color&gt; militaires et défensifs.</string>
+		<string _locid="701124">Berserker champion</string>
+		<string _locid="701125">Améliore les &lt;color=0.32 0.65 1.0&gt;berserkers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Régén. santé par seconde +4&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Octroie Charge&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Immunité contre les pièges&lt;/color&gt;</string>
+		<string _locid="701126">Ulfheðinn</string>
+		<string _locid="701127">Vêtu de peaux de loup, l&apos;ulfheðinn massacre les unités à distance et la cavalerie avec rapidité et agilité. Construisent des &lt;color=0.32 0.65 1.0&gt;bâtiments&lt;/color&gt; militaires et défensifs.</string>
+		<string _locid="701128">Ulfheðinn champion</string>
+		<string _locid="701129">Améliore les &lt;color=0.32 0.65 1.0&gt;ulfheðinns&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+100 % de bonus aux dégâts contre les unités&lt;/color&gt;&lt;color=0.32 0.65 1.0&gt; à distance&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+100 % de bonus aux dégâts contre les &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;prêtres&lt;/color&gt;</string>
+		<string _locid="701130">Pillard</string>
+		<string _locid="701131">Le pillard est bon marché et facilement remplaçable, mais ne le sous-estimez pas, il est dangereux en raid comme au combat.</string>
+		<string _locid="701132">Pillard champion</string>
+		<string _locid="701133">Améliore les &lt;color=0.32 0.65 1.0&gt;pillards&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+100 % de bonus aux dégâts contre les &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Immunité contre les pièges&lt;/color&gt;</string>
+		<string _locid="701134">Tirailleur</string>
+		<string _locid="701135">Grâce à ses nombreux javelots, le tirailleur est expert en élimination d&apos;unités à distance.</string>
+		<string _locid="701136">Tirailleur champion</string>
+		<string _locid="701137">Améliore les &lt;color=0.32 0.65 1.0&gt;tirailleurs&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50 % de bonus aux dégâts contre les unités &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;à distance&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Période d&apos;entraînement -25 %&lt;/color&gt;</string>
+		<string _locid="701138">Améliore les &lt;color=0.32 0.65 1.0&gt;archers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Pièges +20 %&lt;/color&gt;</string>
+		<string _locid="701139">Améliore les &lt;color=0.32 0.65 1.0&gt;écuyers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50 % de bonus aux dégâts contre la &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;cavalerie&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+100 % de bonus aux dégâts contre les unités de &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;siège&lt;/color&gt;</string>
+		<string _locid="701140">Améliore les &lt;color=0.32 0.65 1.0&gt;farbjoðrs&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Octroie la capacité d&apos;attaquer des unités mobiles&lt;/color&gt;</string>
+		<string _locid="701141">Améliore les &lt;color=0.32 0.65 1.0&gt;lanceurs de bûches&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50 % de bonus aux dégâts contre les unités de &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;siège&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +10 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Compte démographique -1&lt;/color&gt;</string>
+		<string _locid="701142">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;lanceurs de haches&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;harjars&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;berserkers&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;ulfheðinns&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Temps de formation -20 %&lt;/color&gt;</string>
+		<string _locid="701143">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;lanceurs de haches&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;harjars&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;berserkers&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;ulfheðinns&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Temps de formation -30 %&lt;/color&gt;</string>
+		<string _locid="701144">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;lanceurs de haches&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;harjars&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;berserkers&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;ulfheðinns&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +15 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +15%&lt;/color&gt;</string>
+		<string _locid="701145">Améliore les &lt;color=0.32 0.65 1.0&gt;tirailleurs&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;archers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Champ de vision +20 %&lt;/color&gt;</string>
+		<string _locid="701146">Améliore les &lt;color=0.32 0.65 1.0&gt;tirailleurs&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;archers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Champ de vision +30 %&lt;/color&gt;</string>
+		<string _locid="701147">Améliore les &lt;color=0.32 0.65 1.0&gt;tirailleurs&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;archers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts +10 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Portée maximale +20 %&lt;/color&gt;</string>
+		<string _locid="701148">Améliore les &lt;color=0.32 0.65 1.0&gt;pillards&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;écuyers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +10 %&lt;/color&gt;</string>
+		<string _locid="701149">Améliore les &lt;color=0.32 0.65 1.0&gt;pillards&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;écuyers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +10 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +10 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +5 %&lt;/color&gt;</string>
+		<string _locid="701150">Grand hall</string>
+		<string _locid="701151">Drakkar</string>
+		<string _locid="701152">Le drakkar est un navire léger, élancé et gracieux, qui possède une puissance rarement égalée,  et qui permet de transporter une lourde cargaison.</string>
+		<string _locid="701153">Drakkar champion</string>
+		<string _locid="701154">Améliore les &lt;color=0.32 0.65 1.0&gt;drakkars&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts +15 %&lt;/color&gt;</string>
+		<string _locid="701155">Prophète</string>
+		<string _locid="701156">Rhapsode</string>
+		<string _locid="701157">Maison longue</string>
+		<string _locid="701158">Améliore les &lt;color=0.32 0.65 1.0&gt;prophètes&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;corbeaux&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Champ de vision +50 %&lt;/color&gt;</string>
+		<string _locid="701159">Améliore les &lt;color=0.32 0.65 1.0&gt;rhapsodes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Vitesse de soin +30 %&lt;/color&gt;</string>
+		<string _locid="701160">Chef</string>
+		<string _locid="701161">Chef champion</string>
+		<string _locid="701162">Oeil d&apos;Odin</string>
+		<string _locid="701163">Boisson d&apos;Aegir</string>
+		<string _locid="701164">Améliore les &lt;color=0.32 0.65 1.0&gt;chefs&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +50 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +50 %&lt;/color&gt;</string>
+		<string _locid="701165">Avant-poste</string>
+		<string _locid="701166">Forme des &lt;color=0.32 0.65 1.0&gt;molosses de guerre&lt;/color&gt;. Fournit un champ de vision.</string>
+		<string _locid="701167">Molosse de guerre</string>
+		<string _locid="701168">Toujours prêt, le molosse de guerre empêche les ennemis de fuir le champ de bataille.</string>
+		<string _locid="701169">Entraînement canin</string>
+		<string _locid="701170">Améliore les &lt;color=0.32 0.65 1.0&gt;molosses de guerre&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Temps de formation -30 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Limite de construction +12&lt;/color&gt;</string>
+		<string _locid="701171">Capable de convertir des unités ennemies, le prophète peut également faire appel aux corbeaux afin qu&apos;ils glanent des informations utiles.</string>
+		<string _locid="701172">Le rhapsode est un poète et musicien talentueux qui apporte bien-être et réconfort à des groupes d&apos;unités alliées hors des combats.</string>
+		<string _locid="701173">Le chef est un commandant de guerre redoutable qui amplifie les niveaux de santé et de courage de toutes les unités alliées qui l&apos;entourent.</string>
+		<string _locid="701174">Poix enflammée</string>
+		<string _locid="701175">Améliore les &lt;color=0.32 0.65 1.0&gt;forteresses&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Dégâts du feu +80 pendant 8 secondes&lt;/color&gt;</string>
+		<string _locid="701176">Lanceur de bûches</string>
+		<string _locid="701177">Lanceur de bûches champion</string>
+		<string _locid="701178">Le lanceur de bûches est extrêmement fort. Il lance de véritables troncs qui font de nombreuses victimes.</string>
+		<string _locid="701179">Augmente la limite de population de 10 et fournit des garnisons pour les &lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt;.</string>
+		<string _locid="701180">Forme les &lt;color=0.32 0.65 1.0&gt;chefs&lt;/color&gt; et les &lt;color=0.32 0.65 1.0&gt;prêtres&lt;/color&gt;.</string>
+		<string _locid="701181">Les éclaireurs forment une unité rapide à la vision exceptionnelle, qui se spécialise en exploration de cartes et de territoires ennemis. Construisent les &lt;color=0.32 0.65 1.0&gt;avant-postes&lt;/color&gt;.</string>
+		<string _locid="701182">Unité rapide à la vision exceptionnelle, l&apos;éclaireur se spécialise dans l&apos;exploration de la carte et la reconnaissance des territoires ennemis. Construit les &lt;color=0.32 0.65 1.0&gt;casernes&lt;/color&gt;.</string>
+		<string _locid="701183">Farbjoðr</string>
+		<string _locid="701185">Grâce au gros roc qu&apos;il transporte à mains nues, le farbjoðr ne fait qu&apos;une bouchée de tout bâtiment se trouvant sur son chemin.</string>
+		<string _locid="701186">Farbjoðr champion</string>
+		<string _locid="701209">Un puissant bâtiment défensif. Forme les &lt;color=0.32 0.65 1.0&gt;farbjoðrs&lt;/color&gt;, les &lt;color=0.32 0.65 1.0&gt;lanceurs de bûches&lt;/color&gt;, et les conseillers.</string>
+		<string _locid="701210">En tant qu&apos;unité militaire de base, le lancier excelle contre la cavalerie. Construit des &lt;color=0.32 0.65 1.0&gt;bâtiments&lt;/color&gt; militaires et défensifs.</string>
+		<string _locid="701211">Forme les unités &lt;color=0.32 0.65 1.0&gt;d&apos;infanterie&lt;/color&gt; et de &lt;color=0.32 0.65 1.0&gt;frondeurs&lt;/color&gt;.</string>
+	</language>
+</stringtable>

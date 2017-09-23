@@ -1,0 +1,598 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<stringtable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="0" locstart="700000" locend="799999" loccurrent="701212">
+	<language name="English">
+		<string _locid="700000">Telar</string>
+		<string _locid="700001">Aumenta la salud de los &lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de salud&lt;/color&gt;</string>
+		<string _locid="700002">Mejora la velocidad a la que los &lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt; recogen comida de los animales &lt;color=0.32 0.65 1.0&gt;de caza&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de velocidad de recogida&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% de daño extra contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;animales de caza&lt;/color&gt;</string>
+		<string _locid="700003">Perros de caza</string>
+		<string _locid="700004">Carretilla</string>
+		<string _locid="700005">Aumenta la efectividad de los &lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% de capacidad de carga&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+5% de velocidad&lt;/color&gt;</string>
+		<string _locid="700006">Carro de mano</string>
+		<string _locid="700008">Almacén</string>
+		<string _locid="700009">Guantes de recolector</string>
+		<string _locid="700010">Aumenta la velocidad a la que los &lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt; recogen de los &lt;color=0.32 0.65 1.0&gt;arbustos de bayas&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% de velocidad de recogida&lt;/color&gt;</string>
+		<string _locid="700021">Aumenta la velocidad a la que los &lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt; obtienen madera de los &lt;color=0.32 0.65 1.0&gt;árboles&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% de velocidad de obtención&lt;/color&gt;</string>
+		<string _locid="700023">Aumenta la velocidad a la que los &lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt; recolectan en las &lt;color=0.32 0.65 1.0&gt;granjas&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de velocidad de obtención&lt;/color&gt;</string>
+		<string _locid="700025">Aumenta la velocidad a la que los &lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt; extraen oro de los &lt;color=0.32 0.65 1.0&gt;depósitos de oro&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+12% de velocidad de extracción&lt;/color&gt;</string>
+		<string _locid="700027">Aumenta la velocidad a la que los &lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt; obtienen piedra de las &lt;color=0.32 0.65 1.0&gt;minas de piedra&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+12% de velocidad de obtención&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% de conservación&lt;/color&gt;</string>
+		<string _locid="700028">Muelle</string>
+		<string _locid="700029">Forma &lt;color=0.32 0.65 1.0&gt;barcos&lt;/color&gt;. Sirve de lugar para depositar recursos.</string>
+		<string _locid="700031">Mejora el &lt;color=0.32 0.65 1.0&gt;pesquero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% de velocidad de obtención&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% de capacidad de carga&lt;/color&gt;</string>
+		<string _locid="700032">Trirreme</string>
+		<string _locid="700033">El trirreme, una nave preparada para el combate, aprovecha al máximo su tonelaje al entablar combate con el enemigo.</string>
+		<string _locid="700034">Trirreme catapulta</string>
+		<string _locid="700035">Combinando capacidades de asedio y náuticas, el trirreme balista hace llover terror sobre las fortificaciones enemigas desde el mar.</string>
+		<string _locid="700036">Brulote</string>
+		<string _locid="700037">Un devastador añadido a cualquier ejército de marina, el brulote utiliza el fuego contra otras naves durante el combate.</string>
+		<string _locid="700044">Barco de transporte</string>
+		<string _locid="700045">Con capacidad para transportar unidades de tierra a través del agua, el barco de transporte también comercia en los muelles a cambio de oro.</string>
+		<string _locid="700046">Muralla</string>
+		<string _locid="700047">Crea fronteras y fortalece las defensas.</string>
+		<string _locid="700048">Puesto de vigilancia</string>
+		<string _locid="700049">Torre que proporciona campo visual.</string>
+		<string _locid="700050">Torre de vigilancia</string>
+		<string _locid="700051">Edificio defensivo básico. Los aldeanos se pueden guarnecer en él.</string>
+		<string _locid="700053">Mejora los &lt;color=0.32 0.65 1.0&gt;muros&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+100% de salud&lt;/color&gt;</string>
+		<string _locid="700062">Hoplita</string>
+		<string _locid="700063">El hoplita, con su pesada armadura, soporta daños de unidades a distancia a la vez que hace frente a unidades de caballería y asedio.</string>
+		<string _locid="700064">Hipaspista</string>
+		<string _locid="700065">Con sus dos espadas, el hipaspista se abre camino con facilidad a través de otras unidades de infantería.</string>
+		<string _locid="700078">Galería de tiro con arco</string>
+		<string _locid="700079">Forma unidades &lt;color=0.32 0.65 1.0&gt;de largo alcance&lt;/color&gt;.</string>
+		<string _locid="700080">Peltasta</string>
+		<string _locid="700081">Armado contra ataques perforantes, el peltasta armado de jabalina sobresale en el combate contra otras unidades a distancia.</string>
+		<string _locid="700082">Gastrafita</string>
+		<string _locid="700083">Armados con una antigua ballesta, el alcance y los daños infligidos por los gastrafitas les permiten barrer la infantería desde lejos.</string>
+		<string _locid="700096">Establo</string>
+		<string _locid="700097">Forma unidades de &lt;color=0.32 0.65 1.0&gt;caballería&lt;/color&gt;.</string>
+		<string _locid="700098">Hippikon</string>
+		<string _locid="700099">La combinación de su fuerza y resistencia hacen del hippikon la unidad de caballería ideal para uso general.</string>
+		<string _locid="700100">Pródromos</string>
+		<string _locid="700101">El pródomos, con su increíble velocidad y precisión al golpear, es muy eficaz contra la caballería pero mucho menos contra los lanceros.</string>
+		<string _locid="700114">Armería</string>
+		<string _locid="700115">Desarrolla mejoras de unidad.</string>
+		<string _locid="700128">Taller de maq. de asedio</string>
+		<string _locid="700129">Forma unidades de &lt;color=0.32 0.65 1.0&gt;asedio&lt;/color&gt;.</string>
+		<string _locid="700130">Balista</string>
+		<string _locid="700131">La balista, una antigua máquina de asedio griega, asola tanto unidades a distancia como edificios.</string>
+		<string _locid="700136">Mercado</string>
+		<string _locid="700137">Intercambia recursos. Forma &lt;color=0.32 0.65 1.0&gt;caravanas&lt;/color&gt;.</string>
+		<string _locid="700138">Caravana</string>
+		<string _locid="700139">La caravana, vital a la hora de establecer economías de larga duración, comercia entre mercados y centros urbanos a cambio de oro.</string>
+		<string _locid="700140">Acuñación de monedas</string>
+		<string _locid="700141">Reduce la tasa de cambio del &lt;color=0.32 0.65 1.0&gt;mercado&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-40% de penalización de compraventa&lt;/color&gt;</string>
+		<string _locid="700142">Rutas comerciales</string>
+		<string _locid="700143">Reduce la penalización de tributo.*&lt;color=0.0 1.0 0.0&gt;-50% Penalización de tributo&lt;/color&gt;</string>
+		<string _locid="700144">Alforjas</string>
+		<string _locid="700145">Mejora el comercio de &lt;color=0.32 0.65 1.0&gt;caravanas&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% de comercio por oro&lt;/color&gt;</string>
+		<string _locid="700146">Fortaleza</string>
+		<string _locid="700147">Un sólido  edificio defensivo. Forma unidades de &lt;color=0.32 0.65 1.0&gt;palíntono&lt;/color&gt; y consejero.</string>
+		<string _locid="700148">Palíntono</string>
+		<string _locid="700149">El palíntono, una excepcional unidad de asedio a larga distancia, reduce a añicos en pocos segundos cualquier defensa pesada.</string>
+		<string _locid="700158">Academia</string>
+		<string _locid="700159">Desarrolla mejoras avanzadas.</string>
+		<string _locid="700166">Templo</string>
+		<string _locid="700167">Forma &lt;color=0.32 0.65 1.0&gt;sacerdotes&lt;/color&gt;.</string>
+		<string _locid="700183">Cuartel</string>
+		<string _locid="700184">Forma unidades de &lt;color=0.32 0.65 1.0&gt;infantería&lt;/color&gt;.</string>
+		<string _locid="700185">Lancero</string>
+		<string _locid="700186">El lancero, la unidad militar más básica, se destaca al enfrentarse contra la caballería.</string>
+		<string _locid="700188">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% de daño&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% de armadura contra perforación&lt;/color&gt;</string>
+		<string _locid="700193">Lancero campeón</string>
+		<string _locid="700195">Mejora el &lt;color=0.32 0.65 1.0&gt;hoplita&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de daño extra contra la &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;caballería&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% de armadura contra perforación&lt;/color&gt;</string>
+		<string _locid="700197">Hoplita campeón</string>
+		<string _locid="700199">Mejora el &lt;color=0.32 0.65 1.0&gt;hipaspista&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% de velocidad&lt;/color&gt;</string>
+		<string _locid="700201">Hipaspista campeón</string>
+		<string _locid="700202">Toxotes</string>
+		<string _locid="700203">El toxote, un arquero básico, produce enormes daños desde lejos, especialmente si se utiliza en gran número.</string>
+		<string _locid="700205">Mejora el &lt;color=0.32 0.65 1.0&gt;toxote&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% de daño&lt;/color&gt;</string>
+		<string _locid="700207">Toxotes campeón</string>
+		<string _locid="700210">Mejora el &lt;color=0.32 0.65 1.0&gt;peltasta&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% de velocidad&lt;/color&gt;</string>
+		<string _locid="700211">Peltasta campeón</string>
+		<string _locid="700212">Gastrafita campeón</string>
+		<string _locid="700213">Mejora los &lt;color=0.32 0.65 1.0&gt;gastrafitas&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de velocidad de ataque&lt;/color&gt;</string>
+		<string _locid="700214">Sarissophoroi</string>
+		<string _locid="700215">El sarissophoroi, montado a caballo y armado con jabalina, derrota con facilidad a los arqueros pero es vulnerable al ataque de los lanceros y otras unidades de caballería.</string>
+		<string _locid="700218">Sarissophoroi campeón</string>
+		<string _locid="700219">Mejora el &lt;color=0.32 0.65 1.0&gt;sarissophoroi&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+40% de alcance máximo&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% de velocidad&lt;/color&gt;</string>
+		<string _locid="700220">Hippikon campeón</string>
+		<string _locid="700221">Mejora el &lt;color=0.32 0.65 1.0&gt;hippikon&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-1 de población&lt;/color&gt;</string>
+		<string _locid="700223">Pródromos campeón</string>
+		<string _locid="700224">Mejora el &lt;color=0.32 0.65 1.0&gt;pródromos&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de daño extra contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;unidades de asedio&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% de daño extra contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;edificios&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% de ralentización&lt;/color&gt;</string>
+		<string _locid="700225">Ariete</string>
+		<string _locid="700226">El ariete, una máquina de guerra lenta pero robusta, derriba muros y edificios con una increíble fuerza.</string>
+		<string _locid="700228">Ariete campeón</string>
+		<string _locid="700229">Mejora el &lt;color=0.32 0.65 1.0&gt;ariete&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de daño&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga inmunidad contra la ralentización&lt;/color&gt;</string>
+		<string _locid="700230">Balista campeona</string>
+		<string _locid="700231">Mejora enormemente la &lt;color=0.32 0.65 1.0&gt;balista&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% de velocidad&lt;/color&gt;</string>
+		<string _locid="700244">Muro de piedra</string>
+		<string _locid="700245">Muro reforzado</string>
+		<string _locid="700246">Muralla</string>
+		<string _locid="700248">Torre fortificada</string>
+		<string _locid="700250">Torre de la fortaleza</string>
+		<string _locid="700251">Mejora la &lt;color=0.32 0.65 1.0&gt;torre de vigilancia&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+30% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+30% de daño&lt;/color&gt;</string>
+		<string _locid="700253">Pesquero</string>
+		<string _locid="700254">El pesquero, una unidad elemental de embarcación, obtiene alimento del pescado y repara otras embarcaciones y edificios dañados.</string>
+		<string _locid="700259">Trirreme campeón</string>
+		<string _locid="700260">Mejora el &lt;color=0.32 0.65 1.0&gt;trirreme&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% de alcance máximo&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% de velocidad&lt;/color&gt;</string>
+		<string _locid="700262">Brulote campeón</string>
+		<string _locid="700263">Ajuste de precio</string>
+		<string _locid="700264">Rutas marítimas</string>
+		<string _locid="700279">Aumenta los daños cuerpo a cuerpo de todas las &lt;color=0.32 0.65 1.0&gt;unidades&lt;/color&gt; militares.*&lt;color=0.0 1.0 0.0&gt;+20% de daño de infantería cuerpo a cuerpo&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% de daño de caballería cuerpo a cuerpo&lt;/color&gt;</string>
+		<string _locid="700283">Aumenta el daño de perforación de todas las &lt;color=0.32 0.65 1.0&gt;unidades&lt;/color&gt; militares.*&lt;color=0.0 1.0 0.0&gt;+20% daño perforante&lt;/color&gt;</string>
+		<string _locid="700293">Palíntono campeón</string>
+		<string _locid="700294">Mejora el &lt;color=0.32 0.65 1.0&gt;palíntono&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% de alcance máximo&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% de campo visual&lt;/color&gt;</string>
+		<string _locid="700295">Sacerdote</string>
+		<string _locid="700296">El sacerdote proporciona su apoyo dentro y fuera del combate, convierte a las unidades enemigas y cura a las unidades aliadas que quedan fuera de combate.</string>
+		<string _locid="700297">Granja</string>
+		<string _locid="700298">Supone una fuente de comida ilimitada de la que pueden disponer los aldeanos.</string>
+		<string _locid="700299">Trirreme catapulta campeón</string>
+		<string _locid="700300">Mejora enormemente el &lt;color=0.32 0.65 1.0&gt;trirreme catapulta&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de daño&lt;/color&gt;</string>
+		<string _locid="700301">Mejora el &lt;color=0.32 0.65 1.0&gt;brulote&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+100% de protección contra daño extra&lt;/color&gt;</string>
+		<string _locid="700364">Mampostería de sillar</string>
+		<string _locid="700365">Mejora los &lt;color=0.32 0.65 1.0&gt;edificios&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de salud&lt;/color&gt;</string>
+		<string _locid="700366">Visión divina</string>
+		<string _locid="700367">Mejora el &lt;color=0.32 0.65 1.0&gt;sacerdote&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% de alcance de conversión&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% de campo visual&lt;/color&gt;</string>
+		<string _locid="700376">Un lugar para dejar recursos, empleado para acortar las distancias de recogida.</string>
+		<string _locid="700377">Centro urbano</string>
+		<string _locid="700378">Forma &lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt;. Sirve de lugar para depositar recursos. Aumenta el límite de población en 20.</string>
+		<string _locid="700379">Aldeano</string>
+		<string _locid="700380">El aldeano, la unidad básica de trabajador, recoge recursos, construye edificios y repara unidades de asedio y edificios dañados.</string>
+		<string _locid="700381">Lanzador de honda</string>
+		<string _locid="700385">Lanzador de honda campeón</string>
+		<string _locid="700386">Lanzador de hachas</string>
+		<string _locid="700389">Lanzador de hachas campeón</string>
+		<string _locid="700391">Forma &lt;color=0.32 0.65 1.0&gt;jinetes a camello&lt;/color&gt; y &lt;color=0.32 0.65 1.0&gt;arqueros en carro&lt;/color&gt;.</string>
+		<string _locid="700392">Establo</string>
+		<string _locid="700393">Arquero en carro</string>
+		<string _locid="700394">El arquero en carro, capaz de infligir importantes daños a distancia, controla el campo de batalla con su alcance y movilidad.</string>
+		<string _locid="700396">Arquero en carro campeón</string>
+		<string _locid="700399">Jinete a camello</string>
+		<string _locid="700401">Jinete a camello campeón</string>
+		<string _locid="700405">Elefante de guerra</string>
+		<string _locid="700406">El poderoso elefante de guerra inspira temor en el corazón del enemigo y provoca enormes daños zonales contra todos quienes se oponen a él.</string>
+		<string _locid="700407">Elefante de guerra campeón</string>
+		<string _locid="700408">Arquero elefante</string>
+		<string _locid="700410">El arquero en elefante, una poderosa unidad montada, lanza mortíferas flechas sobre sus enemigos.</string>
+		<string _locid="700411">Arquero elefante campeón</string>
+		<string _locid="700413">Mejora los &lt;color=0.32 0.65 1.0&gt;arqueros en elefante&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-1 de población&lt;/color&gt;</string>
+		<string _locid="700414">Forma unidades de &lt;color=0.32 0.65 1.0&gt;asedio&lt;/color&gt;.</string>
+		<string _locid="700415">Torre de asedio</string>
+		<string _locid="700417">Torre de asedio campeona</string>
+		<string _locid="700419">Catapulta</string>
+		<string _locid="700421">La catapulta lanza grandes rocas sobre el campo de batalla asolando unidades a distancia y edificios.</string>
+		<string _locid="700422">Catapulta campeona</string>
+		<string _locid="700423">Mejora enormemente las &lt;color=0.32 0.65 1.0&gt;catapultas&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de daño&lt;/color&gt;</string>
+		<string _locid="700430">Un sólido edificio defensivo. Forma &lt;color=0.32 0.65 1.0&gt;elefantes de guerra&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;arqueros elefante&lt;/color&gt; y unidades de consejero.</string>
+		<string _locid="700431">Academia de guerra</string>
+		<string _locid="700432">Templo de Ra</string>
+		<string _locid="700434">Templo de Set</string>
+		<string _locid="700435">Forma &lt;color=0.32 0.65 1.0&gt;sacerdote de Set&lt;/color&gt;. La civilización avanza a la Edad de Plata.</string>
+		<string _locid="700436">Templo de Ptah</string>
+		<string _locid="700437">Forma &lt;color=0.32 0.65 1.0&gt;sacerdotes de Ptah&lt;/color&gt;. La civilización avanza a la Edad de Oro.</string>
+		<string _locid="700439">La sacerdotisa de Ra puede curar a todas las unidades amigas, además de preparar a los edificios para proporcionar mejoras en la velocidad de formación y económicas.</string>
+		<string _locid="700441">Forma &lt;color=0.32 0.65 1.0&gt;sacerdotisas de Ra&lt;/color&gt;. La civilización avanza a la Edad de Bronce.</string>
+		<string _locid="700442">Sacerdotisa de Ra</string>
+		<string _locid="700444">Sacerdote de Set</string>
+		<string _locid="700445">El sacerdote de Set, precursor del caos, inflige este caos en las unidades enemigas, haciendo que sean hostiles contra todas las demás unidades.</string>
+		<string _locid="700446">Sacerdote de Ptah</string>
+		<string _locid="700447">El sacerdote de Ptah, una poderosa unidad de apoyo, convierte a varias unidades y edificios enemigos dentro de un área reducida.</string>
+		<string _locid="700448">Toque de Ra</string>
+		<string _locid="700449">Mejora los &lt;color=0.32 0.65 1.0&gt;sacerdotes&lt;/color&gt; egipcios.*&lt;color=0.0 1.0 0.0&gt;+40% de velocidad de curación&lt;/color&gt;</string>
+		<string _locid="700450">Visión del sol</string>
+		<string _locid="700451">Mejora las unidades de &lt;color=0.32 0.65 1.0&gt;sacerdote&lt;/color&gt; egipcio.*&lt;color=0.0 1.0 0.0&gt;+25% de velocidad de curación&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% de alcance de caos&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% de alcance de conversión&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% de campo visual&lt;/color&gt;</string>
+		<string _locid="700452">Sacrificio de sangre</string>
+		<string _locid="700453">Reduce el coste de los &lt;color=0.32 0.65 1.0&gt;sacerdotes&lt;/color&gt; egipcios.*&lt;color=0.0 1.0 0.0&gt;-30% de coste&lt;/color&gt;</string>
+		<string _locid="700454">Esencia de la cobra</string>
+		<string _locid="700455">Mejora los &lt;color=0.32 0.65 1.0&gt;sacerdotes&lt;/color&gt; egipcios.*&lt;color=0.0 1.0 0.0&gt;+30% de velocidad&lt;/color&gt;</string>
+		<string _locid="700456">Fuerza de los dioses</string>
+		<string _locid="700457">Mejora los &lt;color=0.32 0.65 1.0&gt;sacerdotes&lt;/color&gt; egipcios.*&lt;color=0.0 1.0 0.0&gt;+50% de salud&lt;/color&gt;</string>
+		<string _locid="700458">Producción divina</string>
+		<string _locid="700459">Reduce el tiempo de formación de los &lt;color=0.32 0.65 1.0&gt;sacerdotes&lt;/color&gt; egipcios.*&lt;color=0.0 1.0 0.0&gt;-40% de tiempo de formación&lt;/color&gt;</string>
+		<string _locid="700485">Tecnología de la Edad de Cobre</string>
+		<string _locid="700486">Los sistemas tecnológicos desbloqueados en esta fila están disponibles inmediatamente durante las misiones.</string>
+		<string _locid="700487">Tecnología de la Edad de Bronce</string>
+		<string _locid="700488">Al alcanzar la Edad de Bronce, se desbloquean los sistemas tecnológicos de esta fila.</string>
+		<string _locid="700489">Tecnología de la Edad de Plata</string>
+		<string _locid="700490">Al alcanzar la Edad de Plata, se desbloquean los sistemas tecnológicos de esta fila.</string>
+		<string _locid="700491">Tecnología de la Edad de Oro</string>
+		<string _locid="700492">Al alcanzar la Edad de Oro, se desbloquean los sistemas tecnológicos de esta fila.</string>
+		<string _locid="700496">Casa</string>
+		<string _locid="700497">Aumenta en 5 el límite de población.</string>
+		<string _locid="700498">Maravilla</string>
+		<string _locid="700499">Si permanece en tu poder un determinado periodo de tiempo, alcanzarás la victoria en el combate jugador contra jugador.</string>
+		<string _locid="700500">Explorador</string>
+		<string _locid="700501">Unidad de movimientos rápidos con excepcional visión, el explorador está especializado en leer el mapa y hacer expediciones en territorio enemigo. Construye &lt;color=0.32 0.65 1.0&gt;puestos de vigilancia&lt;/color&gt;.</string>
+		<string _locid="700502">Trirreme balista</string>
+		<string _locid="700503">Trirreme balista campeón</string>
+		<string _locid="700504">Mejora los &lt;color=0.32 0.65 1.0&gt;trirremes balista&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de daño&lt;/color&gt;</string>
+		<string _locid="700505">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-100% de coste de oro&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-50% de tiempo de formación&lt;/color&gt;</string>
+		<string _locid="700512">Mejora el &lt;color=0.32 0.65 1.0&gt;ariete&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de daño&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% de velocidad&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga inmunidad contra aturdimiento&lt;/color&gt;</string>
+		<string _locid="700516">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% de daño extra contra la &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;caballería&lt;/color&gt;&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% de velocidad&lt;/color&gt;</string>
+		<string _locid="700517">Mejora el &lt;color=0.32 0.65 1.0&gt;lanzador de honda&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de armadura contra perforación&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-20% de tiempo de formación&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% de campo visual&lt;/color&gt;</string>
+		<string _locid="700518">Mejora el &lt;color=0.32 0.65 1.0&gt;lanzador de hacha&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% de daño&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga daño zonal&lt;/color&gt;</string>
+		<string _locid="700519">Mejora el &lt;color=0.32 0.65 1.0&gt;arquero en carro&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% de daño extra contra la &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;infantería&lt;/color&gt;</string>
+		<string _locid="700520">Mejora el &lt;color=0.32 0.65 1.0&gt;jinete a camello&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+100% de daño extra contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;unidades a distancia&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% de armadura contra perforación&lt;/color&gt;</string>
+		<string _locid="700521">Mejora el &lt;color=0.32 0.65 1.0&gt;elefante de guerra&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de armadura contra perforación&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% de resistencia a la conversión&lt;/color&gt;</string>
+		<string _locid="700522">Mejora la &lt;color=0.32 0.65 1.0&gt;torre de asedio&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga inmunidad contra la ralentización&lt;/color&gt;</string>
+		<string _locid="700527">Espadachín de espada larga</string>
+		<string _locid="700528">Campeón</string>
+		<string _locid="700529">Arquero</string>
+		<string _locid="700530">Ariete</string>
+		<string _locid="700531">Jinete</string>
+		<string _locid="700532">Carpentom</string>
+		<string _locid="700533">Asaltante añil</string>
+		<string _locid="700534">Mago</string>
+		<string _locid="700535">Mina de oro</string>
+		<string _locid="700536">Druida</string>
+		<string _locid="700537">Augur</string>
+		<string _locid="700538">Arboleda sagrada</string>
+		<string _locid="700539">Salón de bardos</string>
+		<string _locid="700543">Expansión de carga</string>
+		<string _locid="700544">Aumenta la capacidad de los &lt;color=0.32 0.65 1.0&gt;barcos de transporte&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+8 de capacidad de transporte&lt;/color&gt;</string>
+		<string _locid="700547">Buque cisne</string>
+		<string _locid="700551">Buque cisne campeón</string>
+		<string _locid="700552">Llamamiento a las armas</string>
+		<string _locid="700553">Aumenta el daño del &lt;color=0.32 0.65 1.0&gt;aldeano celta&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+150% de daño de infantería cuerpo a cuerpo&lt;/color&gt;</string>
+		<string _locid="700557">Espadachín de espada larga campeón</string>
+		<string _locid="700558">Mejora el &lt;color=0.32 0.65 1.0&gt;espadachín de espada larga&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de armadura contra infantería cuerpo a cuerpo&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% de armadura contra perforación&lt;/color&gt;</string>
+		<string _locid="700559">Campeón campeón</string>
+		<string _locid="700560">Mejora el &lt;color=0.32 0.65 1.0&gt;campeón&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+35% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+35% de daño&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;+50% de coste&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;+1 de población&lt;/color&gt;</string>
+		<string _locid="700562">Ariete campeón</string>
+		<string _locid="700568">Arquero campeón</string>
+		<string _locid="700569">Mejora el &lt;color=0.32 0.65 1.0&gt;arquero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de velocidad de ataque&lt;/color&gt;</string>
+		<string _locid="700573">Jinete campeón</string>
+		<string _locid="700574">Mejora el &lt;color=0.32 0.65 1.0&gt;jinete&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de armadura contra perforación&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% de ralentización&lt;/color&gt;</string>
+		<string _locid="700575">Carpentom campeón</string>
+		<string _locid="700576">Mejora el &lt;color=0.32 0.65 1.0&gt;carpentom&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de velocidad&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga daño zonal&lt;/color&gt;</string>
+		<string _locid="700578">Asaltante añil campeón</string>
+		<string _locid="700580">Mejora el &lt;color=0.32 0.65 1.0&gt;asaltante añil&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Otorga daño zonal para ataque de carga&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga inmunidad contra la ralentización&lt;/color&gt;</string>
+		<string _locid="700583">Furia celta</string>
+		<string _locid="700585">Don de Balor</string>
+		<string _locid="700586">Mejora el &lt;color=0.32 0.65 1.0&gt;druida&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25%  de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25%  de daño&lt;/color&gt;</string>
+		<string _locid="700587">Don de Sequana</string>
+		<string _locid="700588">Mejora el &lt;color=0.32 0.65 1.0&gt;druida&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;augur&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+40% de velocidad de curación&lt;/color&gt;</string>
+		<string _locid="700589">Rito de Damara</string>
+		<string _locid="700590">Otorga a los &lt;color=0.32 0.65 1.0&gt;augures&lt;/color&gt; la habilidad de sacrificar animales para conseguir un aumento de &lt;color=0.0 1.0 0.0&gt;-20% en tiempo de formación&lt;/color&gt;. Afecta a todos los &lt;color=0.32 0.65 1.0&gt;edificios&lt;/color&gt; durante un corto periodo de tiempo.</string>
+		<string _locid="700591">Rito de Andrasta</string>
+		<string _locid="700592">Otorga a los &lt;color=0.32 0.65 1.0&gt;augures&lt;/color&gt; la habilidad de sacrificar animales para conseguir un aumento de &lt;color=0.0 1.0 0.0&gt;+15% de daño&lt;/color&gt;. Afecta a todas las unidades &lt;color=0.32 0.65 1.0&gt;militares&lt;/color&gt; durante un corto periodo de tiempo.</string>
+		<string _locid="700593">Rito de Rudiobus</string>
+		<string _locid="700594">Otorga a los &lt;color=0.32 0.65 1.0&gt;augures&lt;/color&gt; la habilidad de sacrificar animales para conseguir un aumento de &lt;color=0.0 1.0 0.0&gt;+15% de velocidad&lt;/color&gt;. Afecta a todas las unidades &lt;color=0.32 0.65 1.0&gt;militares&lt;/color&gt; durante un corto periodo de tiempo.</string>
+		<string _locid="700595">Rito de Ratis</string>
+		<string _locid="700596">Otorga a los &lt;color=0.32 0.65 1.0&gt;augures&lt;/color&gt; la capacidad de sacrificar animales para conseguir un aumento de &lt;color=0.0 1.0 0.0&gt;+30% de daños contra edificios&lt;/color&gt;. Afecta a todas las unidades &lt;color=0.32 0.65 1.0&gt;militares&lt;/color&gt; durante un corto periodo de tiempo.</string>
+		<string _locid="700600">Caminos de madera</string>
+		<string _locid="700601">Mejora las &lt;color=0.32 0.65 1.0&gt;caravanas&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% de velocidad&lt;/color&gt;</string>
+		<string _locid="700627">Aumenta la salud de la &lt;color=0.32 0.65 1.0&gt;infantería&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de salud&lt;/color&gt;</string>
+		<string _locid="700628">Filosofía</string>
+		<string _locid="700629">Reduce el tiempo de investigación para mejoras en &lt;color=0.32 0.65 1.0&gt;edificios&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-40% de tiempo de investigación&lt;/color&gt;</string>
+		<string _locid="700630">Disciplina Agogé</string>
+		<string _locid="700631">Reduce el tiempo de formación de la &lt;color=0.32 0.65 1.0&gt;infantería&lt;/color&gt;, de las unidades &lt;color=0.32 0.65 1.0&gt;de largo alcance&lt;/color&gt; y de la &lt;color=0.32 0.65 1.0&gt;caballería&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-25% de tiempo de formación&lt;/color&gt;</string>
+		<string _locid="700632">Matacanes</string>
+		<string _locid="700633">Mejora la &lt;color=0.32 0.65 1.0&gt;torre de vigilancia&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de daño&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Elimina la distancia mínima de ataque&lt;/color&gt;</string>
+		<string _locid="700634">Fuego griego</string>
+		<string _locid="700635">Mejora los &lt;color=0.32 0.65 1.0&gt;toxotes&lt;/color&gt;, los &lt;color=0.32 0.65 1.0&gt;gastrafitas&lt;/color&gt; y los &lt;color=0.32 0.65 1.0&gt;edificios&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de daño extra contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;edificios&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% de daño extra contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;unidades de asedio&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% de daño extra contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;barcos&lt;/color&gt;</string>
+		<string _locid="700636">Con su armadura pesada, el campeón se desentiende de la mayoría de los ataques mientras parte en dos a sus enemigos, infligiendo daño zonal a otros enemigos cercanos.</string>
+		<string _locid="700637">El carpentom, un carro de gran resistencia, destaca por su capacidad de eliminar a otras grandes unidades a distancia.</string>
+		<string _locid="700638">El asaltante añil, temido por su movilidad y potencia, carga en batalla con un ataque devastador.</string>
+		<string _locid="700639">Un sólido edificio defensivo. Forma &lt;color=0.32 0.65 1.0&gt;arietes&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;lanzadores de piedras&lt;/color&gt; y consejeros.</string>
+		<string _locid="700640">Guarece y protege a los &lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt; para que recojan oro de forma más eficiente.*&lt;color=0.0 1.0 0.0&gt;+50% de conservación de oro&lt;/color&gt;</string>
+		<string _locid="700641">El druida, tan adepto para el combate como para la curación, aumenta el daño de las unidades amigas heridas.</string>
+		<string _locid="700642">Desarrolla mejoras de infantería.</string>
+		<string _locid="700643">Forma unidades de &lt;color=0.32 0.65 1.0&gt;sacerdote&lt;/color&gt; y &lt;color=0.32 0.65 1.0&gt;ciervo sagrado&lt;/color&gt;.</string>
+		<string _locid="700644">El augur, capaz de aprender ritos y sacrificar animales, también convierte unidades enemigas y cura a las unidades aliadas fuera de combate.</string>
+		<string _locid="700645">Mejora enormemente los &lt;color=0.32 0.65 1.0&gt;buques cisne&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de salud&lt;/color&gt;</string>
+		<string _locid="700646">Asabara</string>
+		<string _locid="700648">Aumenta la velocidad de la &lt;color=0.32 0.65 1.0&gt;infantería&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de velocidad&lt;/color&gt;</string>
+		<string _locid="700649">El lanzador de honda, de pies ligeros y armadura ligera, destaca contra otras unidades a distancia.</string>
+		<string _locid="700650">El lanzador de honda, con su armadura ligera, destaca contra otras unidades a distancia pero no soporta grandes cantidades de daños.</string>
+		<string _locid="700655">Aumenta la efectividad de los &lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% capacidad de carga&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% de velocidad&lt;/color&gt;</string>
+		<string _locid="700656">Mejora los &lt;color=0.32 0.65 1.0&gt;sparabara&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% de ralentización&lt;/color&gt;</string>
+		<string _locid="700658">Sparabara</string>
+		<string _locid="700662">Sparabara campeón</string>
+		<string _locid="700663">Los sparabara, capaces de soportar gran cantidad de daños perforantes, constituyen una línea de defensa casi impenetrable. </string>
+		<string _locid="700664">Campamento de inmortales</string>
+		<string _locid="700665">Forma &lt;color=0.32 0.65 1.0&gt;inmortales&lt;/color&gt;.</string>
+		<string _locid="700666">Inmortal</string>
+		<string _locid="700667">Con armamento cuerpo a cuerpo y a distancia, el inmortal forma la élite del ejército persa.</string>
+		<string _locid="700669">Inmortal campeón</string>
+		<string _locid="700670">Mejora enormemente los &lt;color=0.32 0.65 1.0&gt;takabara&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% de alcance máximo&lt;/color&gt;</string>
+		<string _locid="700672">Mejora los &lt;color=0.32 0.65 1.0&gt;inmortales&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-1 de población&lt;/color&gt;</string>
+		<string _locid="700675">Takabara</string>
+		<string _locid="700677">Takabara campeón</string>
+		<string _locid="700680">Jinete arquero</string>
+		<string _locid="700682">Jinete arquero campeón</string>
+		<string _locid="700683">Fervor imparable</string>
+		<string _locid="700685">Mejora enormemente los &lt;color=0.32 0.65 1.0&gt;asabara&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de daño&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% de velocidad&lt;/color&gt;</string>
+		<string _locid="700687">Mejora el &lt;color=0.32 0.65 1.0&gt;jinete arquero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-50% de coste de oro&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% de daño extra contra la &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;caballería&lt;/color&gt;</string>
+		<string _locid="700688">Catafracto</string>
+		<string _locid="700689">Catafracto campeón</string>
+		<string _locid="700690">Mejora el &lt;color=0.32 0.65 1.0&gt;catafracto&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% de daño&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% de armadura contra perforación&lt;/color&gt;</string>
+		<string _locid="700691">Carro de combate</string>
+		<string _locid="700692">Carro de combate campeón</string>
+		<string _locid="700693">Mejora el &lt;color=0.32 0.65 1.0&gt;carro de combate&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt; Otorga daño zonal amplio&lt;/color&gt;</string>
+		<string _locid="700694">Puesto de asistencia</string>
+		<string _locid="700695">Galera</string>
+		<string _locid="700698">Galera campeona</string>
+		<string _locid="700699">Barco con espolón</string>
+		<string _locid="700701">Mejora la &lt;color=0.32 0.65 1.0&gt;galera&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% de alcance máximo&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% de velocidad&lt;/color&gt;</string>
+		<string _locid="700703">Barco con espolón campeón</string>
+		<string _locid="700704">Galera con mangana</string>
+		<string _locid="700705">Mejora la &lt;color=0.32 0.65 1.0&gt;galera con mangana&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de daño&lt;/color&gt;</string>
+		<string _locid="700706">Galera con mangana campeona</string>
+		<string _locid="700707">Mano de obra pagada</string>
+		<string _locid="700709">Mejora el &lt;color=0.32 0.65 1.0&gt;barco con espolón&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de daño extra contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;edificios&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% de velocidad&lt;/color&gt;</string>
+		<string _locid="700711">Formación rigurosa</string>
+		<string _locid="700712">Muralla de protección</string>
+		<string _locid="700713">Bloquear el Sol</string>
+		<string _locid="700714">Caminos reales</string>
+		<string _locid="700715">Sin número</string>
+		<string _locid="700738">Mejora el &lt;color=0.32 0.65 1.0&gt;mago&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de tasa de conversión&lt;/color&gt;</string>
+		<string _locid="700740">Arquero campeón</string>
+		<string _locid="700742">Otorga a los &lt;color=0.32 0.65 1.0&gt;almacenes&lt;/color&gt; la capacidad de curar a unidades aliadas cercanas.</string>
+		<string _locid="700745">Lanzador de piedras</string>
+		<string _locid="700759">Reduce el tiempo de formación de los &lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt;, pero cambia el coste a oro.*&lt;color=0.0 1.0 0.0&gt;-45% de tiempo de formación&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-40 de coste de comida&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;+40 de coste de oro&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Puede activarse y desactivarse&lt;/color&gt;</string>
+		<string _locid="700761">Mejora el &lt;color=0.32 0.65 1.0&gt;ariete&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25%  de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-40% de tiempo de formación&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga inmunidad contra la ralentización&lt;/color&gt;</string>
+		<string _locid="700765">Lanzador de piedras campeón</string>
+		<string _locid="700769">Reduce el tiempo de formación de los &lt;color=0.32 0.65 1.0&gt;cuarteles&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;galerías de tiro con arco&lt;/color&gt; y &lt;color=0.32 0.65 1.0&gt;establos&lt;/color&gt;, pero aumenta su coste.*&lt;color=0.0 1.0 0.0&gt;-30% de tiempo de formación&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;+15% de coste&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Puede activarse y desactivarse&lt;/color&gt;</string>
+		<string _locid="700770">Aumenta la salud y la armadura contra ataques demoledores de los &lt;color=0.32 0.65 1.0&gt;sparabara&lt;/color&gt;, pero disminuye su velocidad.*&lt;color=0.0 1.0 0.0&gt;+20% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+180% de armadura contra ataques demoledores&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;-10% de velocidad&lt;/color&gt;</string>
+		<string _locid="700772">Aumenta el alcance del ataque de los &lt;color=0.32 0.65 1.0&gt;arqueros&lt;/color&gt; y &lt;color=0.32 0.65 1.0&gt;takabaras&lt;/color&gt;, pero reduce su salud.*&lt;color=0.0 1.0 0.0&gt;+30% de alcance máximo&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;-15% de salud&lt;/color&gt;</string>
+		<string _locid="700773">Reduce el tiempo de formación de los &lt;color=0.32 0.65 1.0&gt;campamentos de inmortales&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;talleres de maquinaria de asedio&lt;/color&gt; y &lt;color=0.32 0.65 1.0&gt;unidades de fortaleza&lt;/color&gt;, pero aumenta su coste.*&lt;color=0.0 1.0 0.0&gt;-60% de tiempo de formación&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;+30% de coste&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Puede activarse y desactivarse&lt;/color&gt;</string>
+		<string _locid="700779">El ariete, una unidad de acoso relativamente rápida y desechable, hace temblar los cimientos de cualquier estructura por sólida que sea.</string>
+		<string _locid="700784">Asabara campeón</string>
+		<string _locid="700785">El asaraba, una unidad de caballería muy versátil para uso general, sobresale en incursiones y ataques localizados.</string>
+		<string _locid="700786">El jinete arquero contrarresta con facilidad a otras unidades de caballería montadas.</string>
+		<string _locid="700787">El catafracto, con armadura pesada desde la cabeza hasta los pies, diezma a cualquier unidad de infantería que salga a su paso.</string>
+		<string _locid="700788">El carro de combate, una pequeña fortaleza móvil, arroja sobre sus enemigos una lluvia de dardos.</string>
+		<string _locid="700789">Aumenta el daño de la &lt;color=0.32 0.65 1.0&gt;infantería&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de daño&lt;/color&gt;</string>
+		<string _locid="700790">Forma &lt;color=0.32 0.65 1.0&gt;magos&lt;/color&gt;. Desarrolla mejoras avanzadas.</string>
+		<string _locid="700791">Ciervo sagrado</string>
+		<string _locid="700792">Un animal sagrado que puede utilizarse como alimento o ser sacrificado por el augur.</string>
+		<string _locid="700793">Mejora el &lt;color=0.32 0.65 1.0&gt;lanzador de piedras&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de daño extra contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;unidades de asedio&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-1 de población &lt;/color&gt;</string>
+		<string _locid="700794">Sierra de tracción</string>
+		<string _locid="700830">Forma unidades &lt;color=0.32 0.65 1.0&gt;de largo alcance&lt;/color&gt; y &lt;color=0.32 0.65 1.0&gt;caballería&lt;/color&gt;.</string>
+		<string _locid="700927">Sierra de mano</string>
+		<string _locid="700929">Sierra para dos hombres</string>
+		<string _locid="700930">Piqueta</string>
+		<string _locid="700931">Minería aluvial</string>
+		<string _locid="700932">Cincel</string>
+		<string _locid="700934">Corte de piedra</string>
+		<string _locid="700935">Arado</string>
+		<string _locid="700937">Riego</string>
+		<string _locid="700938">Flechas de púas</string>
+		<string _locid="700939">Flechas de cabeza ancha</string>
+		<string _locid="700940">Fundición de hierro</string>
+		<string _locid="700941">Acero de Damasco</string>
+		<string _locid="700943">Flechas de jareta</string>
+		<string _locid="700944">Armadura de cota de malla</string>
+		<string _locid="700946">Anzuelos de red</string>
+		<string _locid="700947">Pesos de red</string>
+		<string _locid="700948">Línea terrestre de red</string>
+		<string _locid="700949">Malla de escamas</string>
+		<string _locid="700950">Temple</string>
+		<string _locid="700951">Borde de escudo</string>
+		<string _locid="700952">Refuerzo de escudo</string>
+		<string _locid="700954">Armadura de láminas</string>
+		<string _locid="700956">Tachón de escudo</string>
+		<string _locid="700957">Guantes de recolector</string>
+		<string _locid="700958">Preparación</string>
+		<string _locid="700959">Minería hidráulica</string>
+		<string _locid="700960">Armas combinadas</string>
+		<string _locid="700961">Experiencia en combate cuerpo a cuerpo</string>
+		<string _locid="700962">Puntería</string>
+		<string _locid="700963">Sierra de piedra</string>
+		<string _locid="700964">Emplumado mejorado</string>
+		<string _locid="700965">Habilidad ecuestre</string>
+		<string _locid="700966">Purasangre</string>
+		<string _locid="700971">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;hipaspista&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;hoplita&lt;/color&gt;.*&lt;color=1.0 1.0 0.0&gt;-20% de tiempo de formación&lt;/color&gt;</string>
+		<string _locid="700972">Mejora los &lt;color=0.32 0.65 1.0&gt;toxotes&lt;/color&gt;, los &lt;color=0.32 0.65 1.0&gt;peltastas&lt;/color&gt; y los &lt;color=0.32 0.65 1.0&gt;gastrafitas&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% de campo visual&lt;/color&gt;</string>
+		<string _locid="700973">Mejora el &lt;color=0.32 0.65 1.0&gt;sarissophoroi&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;prodromos&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;hippikon&lt;/color&gt;.*&lt;color=1.0 1.0 0.0&gt;+10% de velocidad&lt;/color&gt;</string>
+		<string _locid="700975">Aumenta la armadura cuerpo a cuerpo para todas las &lt;color=0.32 0.65 1.0&gt;unidades&lt;/color&gt; militares.*&lt;color=0.0 1.0 0.0&gt;+20% de armadura contra infantería cuerpo a cuerpo&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% de armadura contra caballería cuerpo a cuerpo&lt;/color&gt;</string>
+		<string _locid="700976">Vigía de la ciudad</string>
+		<string _locid="700977">Aumenta la armadura de perforación para todas las &lt;color=0.32 0.65 1.0&gt;unidades&lt;/color&gt; militares.*&lt;color=0.0 1.0 0.0&gt;+20% de armadura contra perforación&lt;/color&gt;</string>
+		<string _locid="700978">Arco compuesto</string>
+		<string _locid="700979">Herraduras</string>
+		<string _locid="700980">Mejora los &lt;color=0.32 0.65 1.0&gt;toxotes&lt;/color&gt;, los &lt;color=0.32 0.65 1.0&gt;peltastas&lt;/color&gt; y los &lt;color=0.32 0.65 1.0&gt;gastrafitas&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+30% de campo visual&lt;/color&gt;</string>
+		<string _locid="700981">Mejora el &lt;color=0.32 0.65 1.0&gt;toxote&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;peltasta&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;gastrafita&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de daño&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;+20% de alcance máximo&lt;/color&gt;</string>
+		<string _locid="700982">Mejora el &lt;color=0.32 0.65 1.0&gt;sarissophoroi&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;prodromos&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;hippikon&lt;/color&gt;.*&lt;color=1.0 1.0 0.0&gt;+10% de velocidad&lt;/color&gt;</string>
+		<string _locid="700983">Mejora el &lt;color=0.32 0.65 1.0&gt;sarissophoroi&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;prodromos&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;hippikon&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% de daño&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;+5% de velocidad&lt;/color&gt;</string>
+		<string _locid="700984">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;hipaspista&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;hoplita&lt;/color&gt;.*&lt;color=1.0 1.0 0.0&gt;-30% de tiempo de formación&lt;/color&gt;</string>
+		<string _locid="700985">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;hipaspista&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;hoplita&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% de salud&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;+15% de daño&lt;/color&gt;</string>
+		<string _locid="700987">Mejora los &lt;color=0.32 0.65 1.0&gt;edificios&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de campo visual&lt;/color&gt;</string>
+		<string _locid="700989">Formación a caballo</string>
+		<string _locid="700990">Preparación para el desierto</string>
+		<string _locid="700994">Armadura de cuero y malla de escamas</string>
+		<string _locid="700995">Armadura de cota de malla y cuero endurecido</string>
+		<string _locid="700996">Armadura de láminas y cuero lacado</string>
+		<string _locid="700997">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;lanzador de hachas&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;lanzador de honda&lt;/color&gt;.*&lt;color=1.0 1.0 0.0&gt;-20% de tiempo de formación&lt;/color&gt;</string>
+		<string _locid="700998">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;lanzador de hachas&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;lanzador de honda&lt;/color&gt;.*&lt;color=1.0 1.0 0.0&gt;-30% de tiempo de formación&lt;/color&gt;</string>
+		<string _locid="700999">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;lanzador de hachas&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;lanzador de honda&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% de daño&lt;/color&gt;</string>
+		<string _locid="701001">Aumenta la armadura cuerpo a cuerpo y contra perforación para todas las unidades &lt;color=0.32 0.65 1.0&gt;militares&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% de armadura contra infantería cuerpo a cuerpo&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% armadura contra caballería cuerpo a cuerpo &lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% armadura contra perforación&lt;/color&gt;</string>
+		<string _locid="701002">Rotación de cultivos</string>
+		<string _locid="701003">Elaboración de cerveza</string>
+		<string _locid="701004">Caza de cabezas</string>
+		<string _locid="701005">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de daño extra contra la &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;caballería&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% de daño extra contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;edificios&lt;/color&gt;</string>
+		<string _locid="701006">Mejora el &lt;color=0.32 0.65 1.0&gt;lanzador de honda&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de daño extra contra los &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% de velocidad&lt;/color&gt;</string>
+		<string _locid="701007">Mejora el &lt;color=0.32 0.65 1.0&gt;arquero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% de alcance máximo&lt;/color&gt;</string>
+		<string _locid="701008">El lanzador de hacha, el especialista en armas de Egipto, despacha con facilidad a las unidades de infantería.</string>
+		<string _locid="701009">El jinete a camello, adepto en movilidad, derrota fácilmente a otras unidades de caballería pero es vulnerable a los ataques de los lanceros.</string>
+		<string _locid="701010">El trirreme catapulta combina capacidades navales y de asedio, y hace llover el terror sobre las fortificaciones enemigas desde el mar.</string>
+		<string _locid="701011">La torre de asedio, una máquina de guerra lenta pero robusta, perfora muros y edificios con una increíble fuerza.</string>
+		<string _locid="701012">El arquero provoca enormes daños desde lejos, especialmente cuando se utiliza en gran número.</string>
+		<string _locid="701013">El takabara, armado con jabalina y protegido contra ataques de perforación, sobresale en el combate contra otras unidades a distancia.</string>
+		<string _locid="701014">La galera, una nave de guerra anterior al trirreme, provoca grandes daños en cualquier batalla naval.</string>
+		<string _locid="701015">Combinando capacidades de asedio y navales, la galera con mangana hace llover el terror en las fortificaciones enemigas desde el mar.</string>
+		<string _locid="701016">El barco con espolón, construido para colisiones frontales, destroza los enemigos y edificios enemigos, produciendo graves daños estructurales.</string>
+		<string _locid="701017">El mago ofrece asistencia en combate o fuera de él. Convierte a las unidades enemigas y cura a las unidades aliadas que quedan fuera de combate.</string>
+		<string _locid="701018">El espadachín de espada larga, afamado por su valentía, ataca a la infantería con febril energía.</string>
+		<string _locid="701019">El intrépido jinete destaca por su capacidad de mantener a distancia a otras unidades de caballería.</string>
+		<string _locid="701020">El buque cisne, construido del roble más resistente, surca los mares con excepcional potencia.</string>
+		<string _locid="701021">El lanzador de piedras, con una impresionante potencia, arroja grandes rocas sobre sus víctimas.</string>
+		<string _locid="701022">Mejora el &lt;color=0.32 0.65 1.0&gt;jinete a camello&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;arquero en carro&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de velocidad&lt;/color&gt;</string>
+		<string _locid="701023">Mejora el &lt;color=0.32 0.65 1.0&gt;jinete a camello&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;arquero en carro&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de velocidad&lt;/color&gt;</string>
+		<string _locid="701024">Mejora el &lt;color=0.32 0.65 1.0&gt;jinete a camello&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;arquero en carro&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% de daño&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;+5% de velocidad&lt;/color&gt;</string>
+		<string _locid="701025">Mejora los &lt;color=0.32 0.65 1.0&gt;lanceros&lt;/color&gt;, los &lt;color=0.32 0.65 1.0&gt;espadachines de espada larga&lt;/color&gt;, los &lt;color=0.32 0.65 1.0&gt;asaltantes añiles&lt;/color&gt; y los &lt;color=0.32 0.65 1.0&gt;campeones&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-20% de tiempo de formación&lt;/color&gt;</string>
+		<string _locid="701026">Mejora los &lt;color=0.32 0.65 1.0&gt;lanceros&lt;/color&gt;, los &lt;color=0.32 0.65 1.0&gt;espadachines de espada larga&lt;/color&gt;, los &lt;color=0.32 0.65 1.0&gt;asaltantes añiles&lt;/color&gt; y los &lt;color=0.32 0.65 1.0&gt;campeones&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-30% de tiempo de formación&lt;/color&gt;</string>
+		<string _locid="701027">Mejora los &lt;color=0.32 0.65 1.0&gt;lanceros&lt;/color&gt;, los &lt;color=0.32 0.65 1.0&gt;espadachines de espada larga&lt;/color&gt;, los &lt;color=0.32 0.65 1.0&gt;asaltantes añiles&lt;/color&gt; y los &lt;color=0.32 0.65 1.0&gt;campeones&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% de daño&lt;/color&gt;</string>
+		<string _locid="701028">Mejora el &lt;color=0.32 0.65 1.0&gt;lanzador de honda&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;arquero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% de campo de visual&lt;/color&gt;</string>
+		<string _locid="701029">Mejora el &lt;color=0.32 0.65 1.0&gt;lanzador de honda&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;arquero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+30% de campo visual&lt;/color&gt;</string>
+		<string _locid="701030">Mejora los &lt;color=0.32 0.65 1.0&gt;lanzadores de honda&lt;/color&gt; y los &lt;color=0.32 0.65 1.0&gt;arqueros&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de daño&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;+20% de alcance máximo&lt;/color&gt;</string>
+		<string _locid="701031">Mejora los &lt;color=0.32 0.65 1.0&gt;jinetes&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;carpentom&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de velocidad&lt;/color&gt;</string>
+		<string _locid="701032">Mejora los &lt;color=0.32 0.65 1.0&gt;jinetes&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;carpentom&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% de daño&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+5% de velocidad&lt;/color&gt;</string>
+		<string _locid="701033">Mejora los &lt;color=0.32 0.65 1.0&gt;Sparabara&lt;/color&gt; y &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;e honda&lt;/color&gt;.*&lt;color=1.0 1.0 0.0&gt;-30% de tiempo de formación&lt;/color&gt;</string>
+		<string _locid="701034">Mejora los &lt;color=0.32 0.65 1.0&gt;Sparabara&lt;/color&gt; y &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;e honda&lt;/color&gt;.*&lt;color=1.0 1.0 0.0&gt;-20% de tiempo de formación&lt;/color&gt;</string>
+		<string _locid="701035">Mejora el &lt;color=0.32 0.65 1.0&gt;sparabara&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% de daño&lt;/color&gt;</string>
+		<string _locid="701036">Mejora el &lt;color=0.32 0.65 1.0&gt;arquero&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;takabara&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% de campo visual&lt;/color&gt;</string>
+		<string _locid="701037">Mejora enormemente el &lt;color=0.32 0.65 1.0&gt;muro&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+125% de salud&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Convierte el coste en piedra&lt;/color&gt;</string>
+		<string _locid="701038">Mejora el &lt;color=0.32 0.65 1.0&gt;arquero&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;takabara&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+30% de campo visual&lt;/color&gt;</string>
+		<string _locid="701039">Mejora el &lt;color=0.32 0.65 1.0&gt;arquero&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;takabara&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de daño&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;+20% de alcance máximo&lt;/color&gt;</string>
+		<string _locid="701040">Mejora el &lt;color=0.32 0.65 1.0&gt;asabara&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;jinete arquero&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;catafracto&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de velocidad&lt;/color&gt;</string>
+		<string _locid="701041">Mejora el &lt;color=0.32 0.65 1.0&gt;asabara&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;jinete arquero&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;catafracto&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de velocidad&lt;/color&gt;</string>
+		<string _locid="701042">Mejora el &lt;color=0.32 0.65 1.0&gt;asabara&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;jinete arquero&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;catafracto&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de velocidad&lt;/color&gt;</string>
+		<string _locid="701043">Escudero</string>
+		<string _locid="701044">Campeón de los escuderos</string>
+		<string _locid="701045">Zapador</string>
+		<string _locid="701046">Campeón de los zapadores</string>
+		<string _locid="701047">Guardia real</string>
+		<string _locid="701048">Campeón de los guardias reales</string>
+		<string _locid="701049">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;escudero&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;zapador&lt;/color&gt; y &lt;color=0.32 0.65 1.0&gt;guardia real&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-20% de tiempo de formación&lt;/color&gt;</string>
+		<string _locid="701050">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;escudero&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;zapador&lt;/color&gt; y &lt;color=0.32 0.65 1.0&gt;guardia real&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-30% de tiempo de formación&lt;/color&gt;</string>
+		<string _locid="701051">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;escudero&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;zapador&lt;/color&gt; y &lt;color=0.32 0.65 1.0&gt;guardia real&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% de daño&lt;/color&gt;</string>
+		<string _locid="701052">Mejora el &lt;color=0.32 0.65 1.0&gt;lanzador de honda&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;arquero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% de campo de visual&lt;/color&gt;</string>
+		<string _locid="701053">Mejora el &lt;color=0.32 0.65 1.0&gt;lanzador de honda&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;arquero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+30% de campo visual&lt;/color&gt;</string>
+		<string _locid="701054">Mejora los &lt;color=0.32 0.65 1.0&gt;lanzadores de honda&lt;/color&gt; y los &lt;color=0.32 0.65 1.0&gt;arqueros&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de daño&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;+20% de alcance máximo&lt;/color&gt;</string>
+		<string _locid="701055">Lancero</string>
+		<string _locid="701056">Campeón de los lanceros</string>
+		<string _locid="701057">Carro de guerra</string>
+		<string _locid="701058">Carro de guerra campeón</string>
+		<string _locid="701059">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;jinete arquero&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;arquero en carro&lt;/color&gt; y &lt;color=0.32 0.65 1.0&gt;carro de guerra&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de velocidad de movimiento&lt;/color&gt;</string>
+		<string _locid="701060">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;jinete arquero&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;arquero en carro&lt;/color&gt; y &lt;color=0.32 0.65 1.0&gt;carro de guerra&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de velocidad de movimiento&lt;/color&gt;</string>
+		<string _locid="701061">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;jinete arquero&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;arquero en carro&lt;/color&gt; y &lt;color=0.32 0.65 1.0&gt;carro de guerra&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% de daño&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+5% de velocidad de movimiento&lt;/color&gt;</string>
+		<string _locid="701062">Carro reforzado</string>
+		<string _locid="701063">Expansión de carga</string>
+		<string _locid="701064">Birreme</string>
+		<string _locid="701065">Birreme campeón</string>
+		<string _locid="701066">Carro de bueyes</string>
+		<string _locid="701067">Jardín</string>
+		<string _locid="701069">Zigurat</string>
+		<string _locid="701070">Capacidad de recursos</string>
+		<string _locid="701071">Farmacología</string>
+		<string _locid="701072">Aritmética</string>
+		<string _locid="701073">Ruedas de hierro</string>
+		<string _locid="701074">Cultivo</string>
+		<string _locid="701075">Código de Hammurabi </string>
+		<string _locid="701076">Guerra total</string>
+		<string _locid="701077">Muralla de arcilla</string>
+		<string _locid="701078">Mejora los &lt;color=0.32 0.65 1.0&gt;lanceros&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de daño&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% de ralentización&lt;/color&gt;</string>
+		<string _locid="701079">Mejora el &lt;color=0.32 0.65 1.0&gt;escudero&lt;/color&gt;en:*&lt;color=0.0 1.0 0.0&gt;+50% Perforación de armadura&lt;/color&gt;</string>
+		<string _locid="701080">Mejora el &lt;color=0.32 0.65 1.0&gt;zapador&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-100% de coste de comida&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% de daño extra contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;edificios&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% de velocidad&lt;/color&gt;</string>
+		<string _locid="701081">Mejora el &lt;color=0.32 0.65 1.0&gt;lanzador de honda&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Otorga inmunidad contra daños extra&lt;/color&gt;</string>
+		<string _locid="701082">Mejora el &lt;color=0.32 0.65 1.0&gt;arquero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-100% de coste de oro&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-20% de tiempo de formación&lt;/color&gt;</string>
+		<string _locid="701083">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga ataque de carga\n(x3,0 de daño extra)&lt;/color&gt;</string>
+		<string _locid="701084">Mejora enormemente los &lt;color=0.32 0.65 1.0&gt;jinetes arquero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de daño&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% de ralentización&lt;/color&gt;</string>
+		<string _locid="701085">Mejora el &lt;color=0.32 0.65 1.0&gt;arquero en carro&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-50% de coste&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-20% de salud&lt;/color&gt;</string>
+		<string _locid="701086">Mejora el &lt;color=0.32 0.65 1.0&gt;carro de guerra&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+500% de daño extra contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;unidades de asedio&lt;/color&gt;</string>
+		<string _locid="701087">Mejora las &lt;color=0.32 0.65 1.0&gt;torres de asedio&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+100% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga un mayor daño zonal&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga inmunidad contra la ralentización&lt;/color&gt;</string>
+		<string _locid="701088">Mejora el &lt;color=0.32 0.65 1.0&gt;carro de buey&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de salud&lt;/color&gt;</string>
+		<string _locid="701089">Mejora el &lt;color=0.32 0.65 1.0&gt;carro de buey&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Otorga capacidad para guarecer a 8 &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt;</string>
+		<string _locid="701090">Mejora las &lt;color=0.32 0.65 1.0&gt;torres de vigilancia&lt;/color&gt;, las &lt;color=0.32 0.65 1.0&gt;fortalezas&lt;/color&gt; y los &lt;color=0.32 0.65 1.0&gt;centros urbanos&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-25% de coste&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-25% de tiempo de construcción&lt;/color&gt;</string>
+		<string _locid="701091">Mejora la &lt;color=0.32 0.65 1.0&gt;infantería&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;de largo alcance&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;caballería&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+1 de regeneración de salud por segundo&lt;/color&gt;</string>
+		<string _locid="701092">Aumenta la velocidad a la que los &lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt; recogen de los &lt;color=0.32 0.65 1.0&gt;arbustos de bayas&lt;/color&gt; y &lt;color=0.32 0.65 1.0&gt;árboles&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de conservación&lt;/color&gt;</string>
+		<string _locid="701093">Mejora el &lt;color=0.32 0.65 1.0&gt;carro de buey&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;arquero en carro&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;carro de guerra&lt;/color&gt; y la &lt;color=0.0 1.0 0.0&gt;torre de asedio&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% de velocidad&lt;/color&gt;&lt;color=0.0 1.0 0.0&gt;\n(+20% &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;carro de buey&lt;/color&gt;&lt;color=0.0 1.0 0.0&gt;)&lt;/color&gt;</string>
+		<string _locid="701094">Aporta un pequeño flujo de comida al &lt;color=0.32 0.65 1.0&gt;jardín&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+0,5 de comida por segundo&lt;/color&gt;</string>
+		<string _locid="701095">Mejora el &lt;color=0.32 0.65 1.0&gt;sacerdote&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de velocidad de conversión&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% de alcance de conversión&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% de campo visual&lt;/color&gt;</string>
+		<string _locid="701096">Mejora las unidades &lt;color=0.32 0.65 1.0&gt;militares&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de daño&lt;/color&gt;&lt;color=0.0 1.0 0.0&gt;+50% de daño adicional contra los &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt;</string>
+		<string _locid="701097">Mejora las unidades &lt;color=0.32 0.65 1.0&gt;Guardia real&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de velocidad de ataque&lt;/color&gt;&lt;color=0.0 1.0 0.0&gt;-50% de daño adicional contra los &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;edificios&lt;/color&gt;</string>
+		<string _locid="701098">Los Escudero, capaces de soportar gran cantidad de daños perforantes, constituyen una línea de defensa casi impenetrable. </string>
+		<string _locid="701099">Almacén móvil, utilizado para acortar las distancias de recogida.</string>
+		<string _locid="701100">El zapador, equipado con distintos armamentos, está especializado en socavar fortificaciones.</string>
+		<string _locid="701101">El guardia real, protector de reyes, rara vez se enfrenta a su oponente en combate mano a mano.</string>
+		<string _locid="701102">El lancero, con su lanza de excepcional longitud, se lanza contra las líneas de infantería provocando increíbles daños.</string>
+		<string _locid="701103">El carro de guerra, muy resistente, destaca por su capacidad de derrotar a otras unidades a distancia de gran tamaño.</string>
+		<string _locid="701104">La torre de asedio, con capacidad para guarecer grandes ejércitos, suele sorprender a su enemigo durante el asedio.</string>
+		<string _locid="701105">Potencia todos los &lt;color=0.32 0.65 1.0&gt;edificios&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-3% de tiempo de formación&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-3% de tiempo de desarrollo&lt;/color&gt;</string>
+		<string _locid="701106">Mejora el &lt;color=0.32 0.65 1.0&gt;Birreme&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% de alcance máximo&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% de velocidad&lt;/color&gt;</string>
+		<string _locid="701107">El birreme, predecesor del trirreme, es muy eficaz en batalla en mar abierto.</string>
+		<string _locid="701108">Forma &lt;color=0.32 0.65 1.0&gt;sacerdotes&lt;/color&gt;. Desarrolla mejoras avanzadas. Avanza la civilización a la Edad de Bronce, Plata y Oro.</string>
+		<string _locid="701109">Gran jardín</string>
+		<string _locid="701110">Jardín real</string>
+		<string _locid="701111">Mejora el &lt;color=0.32 0.65 1.0&gt;jardín&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+1% de reducción del tiempo de formación&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+1% de reducción del tiempo de desarrollo&lt;/color&gt;</string>
+		<string _locid="701112">Mejora el &lt;color=0.32 0.65 1.0&gt;jardín&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+1% de reducción del tiempo de formación&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+1% de reducción del tiempo de desarrollo&lt;/color&gt;</string>
+		<string _locid="701113">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% de daño extra contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;caballería&lt;/color&gt;</string>
+		<string _locid="701114">Lanzador de hachas arrojador</string>
+		<string _locid="701115">Lanzador de hachas arrojador campeón</string>
+		<string _locid="701116">Mejora el &lt;color=0.32 0.65 1.0&gt;lanzador de hachas arrojador&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+40% de armadura que ignora ataques&lt;/color&gt;</string>
+		<string _locid="701117">El lanzador de hachas arrojador, diestro en este arte, derriba unidades de infantería antes incluso de que puedan levantar su arma. Construye &lt;color=0.32 0.65 1.0&gt;edificios&lt;/color&gt; militares y de defensa.</string>
+		<string _locid="701118">Harjar</string>
+		<string _locid="701119">El harjar, endurecido por la guerra y los fríos inviernos, le pone muy difícil a cualquier enemigo romper la primera línea. Construye &lt;color=0.32 0.65 1.0&gt;edificios&lt;/color&gt; militares y de defensa.</string>
+		<string _locid="701120">Harjar campeón</string>
+		<string _locid="701121">Mejora el &lt;color=0.32 0.65 1.0&gt;harjar&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de armadura contra infantería cuerpo a cuerpo&lt;/color&gt;</string>
+		<string _locid="701122">Berserker</string>
+		<string _locid="701123">El berserker, con su insaciable ansia de lucha, parte en dos a sus enemigos y los destroza con furia como un maníaco. Construye &lt;color=0.32 0.65 1.0&gt;edificios&lt;/color&gt; militares y de defensa.</string>
+		<string _locid="701124">Berserker campeón</string>
+		<string _locid="701125">Mejora el &lt;color=0.32 0.65 1.0&gt;berserker&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+4 de regeneración de salud por segundo &lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga capacidad para cargar&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga inmunidad contra ralentización&lt;/color&gt;</string>
+		<string _locid="701126">Ulfhedinn</string>
+		<string _locid="701127">Vestido solo con pieles de lobo, el ulfhedinn asola unidades a distancia y de caballería con increíble rapidez y agilidad. Construye &lt;color=0.32 0.65 1.0&gt;edificios&lt;/color&gt; militares y de defensa.</string>
+		<string _locid="701128">Ulfhedinn campeón</string>
+		<string _locid="701129">Mejora el &lt;color=0.32 0.65 1.0&gt;ulfhedinn&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+100% de daños extra contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;unidades a distancia&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+100% de daños extra contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;sacerdotes&lt;/color&gt;</string>
+		<string _locid="701130">Asaltante</string>
+		<string _locid="701131">El asaltante, barato y prescindible, resulta tan peligroso en el campo de batalla como durante un asalto.</string>
+		<string _locid="701132">Asaltante campeón</string>
+		<string _locid="701133">Mejora el &lt;color=0.32 0.65 1.0&gt;asaltante&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+100% de daños extra contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga inmunidad contra ralentización&lt;/color&gt;</string>
+		<string _locid="701134">Guerrillero</string>
+		<string _locid="701135">Con jabalinas de sobra, el guerrillero sobresale en el combate contra otras unidades a distancia.</string>
+		<string _locid="701136">Guerrillero campeón</string>
+		<string _locid="701137">Mejora el &lt;color=0.32 0.65 1.0&gt;guerrillero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de daño extra contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;unidades a distancia&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-25% de tiempo de formación&lt;/color&gt;</string>
+		<string _locid="701138">Mejora el &lt;color=0.32 0.65 1.0&gt;arquero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% de ralentización&lt;/color&gt;</string>
+		<string _locid="701139">Mejora el &lt;color=0.32 0.65 1.0&gt;jinete&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de daños extra contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;caballería&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+100% de daños extra contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;unidades de asedio&lt;/color&gt;</string>
+		<string _locid="701140">Mejora el &lt;color=0.32 0.65 1.0&gt;farbjoðr&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Otorga capacidad para atacar unidades móviles&lt;/color&gt;</string>
+		<string _locid="701141">Mejora el &lt;color=0.32 0.65 1.0&gt;lanzador de troncos&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de daños contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;unidades de asedio&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% de velocidad&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-1 de población&lt;/color&gt;</string>
+		<string _locid="701142">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;lanzador de hachas arrojador&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;harjar&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;berserker&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;ulfhedinn&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-20% de tiempo de formación&lt;/color&gt;</string>
+		<string _locid="701143">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;lanzador de hachas arrojador&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;harjar&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;berserker&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;ulfhedinn&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-30% de tiempo de formación&lt;/color&gt;</string>
+		<string _locid="701144">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;lanzador de hachas arrojador&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;harjar&lt;/color&gt;, el &lt;color=0.32 0.65 1.0&gt;berserker&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;ulfhedinn&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% de daño&lt;/color&gt;</string>
+		<string _locid="701145">Mejora el &lt;color=0.32 0.65 1.0&gt;guerrillero&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;arquero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% de campo visual&lt;/color&gt;</string>
+		<string _locid="701146">Mejora el &lt;color=0.32 0.65 1.0&gt;guerrillero&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;arquero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+30% de campo visual&lt;/color&gt;</string>
+		<string _locid="701147">Mejora el &lt;color=0.32 0.65 1.0&gt;guerrillero&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;arquero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de daño&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% de alcance máximo&lt;/color&gt;</string>
+		<string _locid="701148">Mejora el &lt;color=0.32 0.65 1.0&gt;asaltante&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;jinete&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de velocidad&lt;/color&gt;</string>
+		<string _locid="701149">Mejora el &lt;color=0.32 0.65 1.0&gt;asaltante&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;jinete&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% de daño&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+5% de velocidad&lt;/color&gt;</string>
+		<string _locid="701150">Gran salón</string>
+		<string _locid="701151">Drakar</string>
+		<string _locid="701152">El drakar, ligero, estilizado y estrecho, compite en el mar contra algunos de los barcos más poderosos y a la vez puede transportar grandes cargas.</string>
+		<string _locid="701153">Drakar campeón</string>
+		<string _locid="701154">Mejora el &lt;color=0.32 0.65 1.0&gt;drakar&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% de daño&lt;/color&gt;</string>
+		<string _locid="701155">Vidente</string>
+		<string _locid="701156">Rapsoda</string>
+		<string _locid="701157">Casa comunal</string>
+		<string _locid="701158">Mejora el &lt;color=0.32 0.65 1.0&gt;vidente&lt;/color&gt; y el &lt;color=0.32 0.65 1.0&gt;cuervo&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de campo visual&lt;/color&gt;</string>
+		<string _locid="701159">Mejora el &lt;color=0.32 0.65 1.0&gt;rapsoda&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+30% de velocidad de curación&lt;/color&gt;</string>
+		<string _locid="701160">Jefe</string>
+		<string _locid="701161">Jefe campeón</string>
+		<string _locid="701162">Ojo de Odín</string>
+		<string _locid="701163">Bebida de Aegir</string>
+		<string _locid="701164">Mejora el &lt;color=0.32 0.65 1.0&gt;jefe&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% de daño&lt;/color&gt;</string>
+		<string _locid="701165">Destacamento</string>
+		<string _locid="701166">Forma a los &lt;color=0.32 0.65 1.0&gt;perros de la guerra&lt;/color&gt;. Proporciona campo visual.</string>
+		<string _locid="701167">Perro de la guerra</string>
+		<string _locid="701168">Preparado para luchar sin previo aviso, el perro de la guerra evita que los enemigos huyan del campo de batalla.</string>
+		<string _locid="701169">Entrenamiento de perros</string>
+		<string _locid="701170">Mejora el &lt;color=0.32 0.65 1.0&gt;perro de la guerra&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-30% de tiempo de formación&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+12 de límite de construcción&lt;/color&gt;</string>
+		<string _locid="701171">Capaz de convertir unidades enemigas, el vidente también llama a los cuervos para que vuelen a su alrededor y recojan información crítica.</string>
+		<string _locid="701172">El rapsoda, músico y poeta de talento, conforta y cura a grandes grupos de unidades amigas fuera de combate.</string>
+		<string _locid="701173">El jefe, un temible líder en la batalla, aumenta la salud y el valor de todas las unidades amigas cercanas.</string>
+		<string _locid="701174">Brea ardiendo</string>
+		<string _locid="701175">Mejora la &lt;color=0.32 0.65 1.0&gt;fortaleza&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+80 de daño por fuego durante 8 segundos&lt;/color&gt;</string>
+		<string _locid="701176">Lanzador de troncos</string>
+		<string _locid="701177">Lanzador de troncos campeón</string>
+		<string _locid="701178">Haciendo alarde de una increíble fuerza, el lanzador de troncos arroja grandes troncos de madera sobre sus víctimas.</string>
+		<string _locid="701179">Aumenta el límite de población en 10. Proporciona guarnición para los &lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt;.</string>
+		<string _locid="701180">Forma a unidades de &lt;color=0.32 0.65 1.0&gt;jefe&lt;/color&gt; y &lt;color=0.32 0.65 1.0&gt;sacerdote&lt;/color&gt;.</string>
+		<string _locid="701181">El explorador, una unidad de rápidos movimientos y vista excepcional, está especializado en explorar el mapa y el territorio enemigo. Construye &lt;color=0.32 0.65 1.0&gt;destacamentos&lt;/color&gt;.</string>
+		<string _locid="701182">El explorador, una unidad de rápidos movimientos y vista excepcional, está especializado en explorar el mapa y el territorio enemigo. Construye &lt;color=0.32 0.65 1.0&gt;cuarteles&lt;/color&gt;.</string>
+		<string _locid="701183">Farbjoðr</string>
+		<string _locid="701185">El farbjoðr arrastra una roca con la que arrasa cualquier edificio que se interponga en su camino.</string>
+		<string _locid="701186">Farbjoðr campeón</string>
+		<string _locid="701209">Un robusto edificio de defensa. Forma a unidades de &lt;color=0.32 0.65 1.0&gt;farbjoðr&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;lanzadores de troncos&lt;/color&gt; y consejeros.</string>
+		<string _locid="701210">El lancero, la unidad militar más básica, sobresale contra la caballería. Construye &lt;color=0.32 0.65 1.0&gt;edificios&lt;/color&gt; militares y de defensa.</string>
+		<string _locid="701211">Forma unidades de &lt;color=0.32 0.65 1.0&gt;infantería&lt;/color&gt; y &lt;color=0.32 0.65 1.0&gt;lanzadores de honda&lt;/color&gt;.</string>
+	</language>
+</stringtable>
