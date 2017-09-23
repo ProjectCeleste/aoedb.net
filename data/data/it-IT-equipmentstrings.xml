@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<stringtable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="0" locstart="700000" locend="799999" loccurrent="700927">
+	<language name="English">
+		<string _locid="700000">Telaio</string>
+		<string _locid="700001">Aumenta la salute dell&apos;&lt;color=0.32 0.65 1.0&gt;abitante&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% salute&lt;/color&gt;</string>
+		<string _locid="700002">Aumenta la velocità di raccolta dell&apos;&lt;color=0.32 0.65 1.0&gt;abitante&lt;/color&gt; dagli animali &lt;color=0.32 0.65 1.0&gt;cacciabili&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% velocità di raccolta&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% danno inflitto dagli &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;abitanti&lt;/color&gt;&lt;color=0.0 1.0 0.0&gt; agli &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;animali cacciabili&lt;/color&gt;</string>
+		<string _locid="700003">Cani da caccia</string>
+		<string _locid="700004">Carriola</string>
+		<string _locid="700005">Migliora l&apos;efficienza dell&apos;&lt;color=0.32 0.65 1.0&gt;abitante&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% capacità di trasporto&lt;/color&gt;</string>
+		<string _locid="700006">Carretto a mano</string>
+		<string _locid="700008">Magazzino</string>
+		<string _locid="700009">Guanti da raccoglitore</string>
+		<string _locid="700010">Aumenta la velocità di raccolta dell&apos;&lt;color=0.32 0.65 1.0&gt;abitante&lt;/color&gt; dai &lt;color=0.32 0.65 1.0&gt;cespugli di bacche&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% velocità di raccolta&lt;/color&gt;</string>
+		<string _locid="700021">Migliora la raccolta di legno dell&apos;&lt;color=0.32 0.65 1.0&gt;abitante&lt;/color&gt; dagli &lt;color=0.32 0.65 1.0&gt;alberi&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+12% velocità di raccolta&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+12% capacità di trasporto&lt;/color&gt;</string>
+		<string _locid="700023">Aumenta la velocità di raccolta dell&apos;&lt;color=0.32 0.65 1.0&gt;abitante&lt;/color&gt; dalle &lt;color=0.32 0.65 1.0&gt;Fattorie&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% velocità di raccolta&lt;/color&gt;</string>
+		<string _locid="700025">Migliora la raccolta d&apos;oro degli &lt;color=0.32 0.65 1.0&gt;abitanti&lt;/color&gt; dai &lt;color=0.32 0.65 1.0&gt;depositi d&apos;oro&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+12% velocità di raccolta&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+12% capacità di trasporto&lt;/color&gt;</string>
+		<string _locid="700027">Migliora la raccolta di pietre dell&apos;&lt;color=0.32 0.65 1.0&gt;abitante&lt;/color&gt; dalle &lt;color=0.32 0.65 1.0&gt;cave di pietra&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+12% velocità di raccolta&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+12% capacità di trasporto&lt;/color&gt;</string>
+		<string _locid="700028">Porto</string>
+		<string _locid="700029">Addestra le &lt;color=0.32 0.65 1.0&gt;imbarcazioni&lt;/color&gt; e le &lt;color=0.32 0.65 1.0&gt;navi da guerra&lt;/color&gt;. Funge da punto di deposito delle risorse.</string>
+		<string _locid="700031">Migliora il &lt;color=0.32 0.65 1.0&gt;peschereccio&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+12% velocità di raccolta&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+12% capacità di trasporto&lt;/color&gt;</string>
+		<string _locid="700032">Trireme</string>
+		<string _locid="700033">Unità &lt;color=0.32 0.65 1.0&gt;nave da guerra&lt;/color&gt;. Nave da guerra efficace e versatile.</string>
+		<string _locid="700034">Trireme con catapulta</string>
+		<string _locid="700035">Unità &lt;color=0.32 0.65 1.0&gt;nave da guerra&lt;/color&gt;. Nave a lunga gittata che danneggia l&apos;area colpita ed è efficace contro gli edifici.</string>
+		<string _locid="700036">Nave incendiaria</string>
+		<string _locid="700037">Unità &lt;color=0.32 0.65 1.0&gt;nave da guerra&lt;/color&gt;. Nave tattica efficace contro le imbarcazioni e le navi da guerra.</string>
+		<string _locid="700044">Trasporto mercantile</string>
+		<string _locid="700045">Unità &lt;color=0.32 0.65 1.0&gt;imbarcazione&lt;/color&gt;. Trasporta le unità di terra e commercia tra i porti per ricavare oro.</string>
+		<string _locid="700046">Mura</string>
+		<string _locid="700047">Crea demarcazioni e rafforza le difese.</string>
+		<string _locid="700048">Posto di guardia</string>
+		<string _locid="700049">Torre che offre campo visivo.</string>
+		<string _locid="700050">Torre di guardia</string>
+		<string _locid="700051">Edificio di difesa di base. Funge da presidio per gli abitanti.</string>
+		<string _locid="700053">Migliora le &lt;color=0.32 0.65 1.0&gt;Mura&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% salute&lt;/color&gt;</string>
+		<string _locid="700062">Oplita</string>
+		<string _locid="700063">Unità &lt;color=0.32 0.65 1.0&gt;fanteria&lt;/color&gt;. Guerriero corazzato efficace e versatile.</string>
+		<string _locid="700064">Ipaspista</string>
+		<string _locid="700065">Unità &lt;color=0.32 0.65 1.0&gt;fanteria&lt;/color&gt;. Abile guerriero efficace contro altre unità di fanteria.</string>
+		<string _locid="700078">Campo di tiro</string>
+		<string _locid="700079">Addestra le unità &lt;color=0.32 0.65 1.0&gt;a distanza&lt;/color&gt;.</string>
+		<string _locid="700080">Peltasta</string>
+		<string _locid="700081">Unità &lt;color=0.32 0.65 1.0&gt;a distanza&lt;/color&gt;. Unità che può lanciare il giavellotto, efficace contro altre unità a distanza.</string>
+		<string _locid="700082">Gastraphete</string>
+		<string _locid="700083">Unità &lt;color=0.32 0.65 1.0&gt;a distanza&lt;/color&gt;. Balestriere a lunga gittata, efficace contro le unità di fanteria.</string>
+		<string _locid="700096">Scuderia</string>
+		<string _locid="700097">Addestra le unità di &lt;color=0.32 0.65 1.0&gt;cavalleria&lt;/color&gt;.</string>
+		<string _locid="700098">Hippikon</string>
+		<string _locid="700099">Unità di &lt;color=0.32 0.65 1.0&gt;cavalleria&lt;/color&gt;. Potente guerriero corazzato a cavallo. </string>
+		<string _locid="700100">Prodromos</string>
+		<string _locid="700101">Unità di &lt;color=0.32 0.65 1.0&gt;cavalleria&lt;/color&gt;. Unità veloce, efficace contro altre unità di cavalleria.</string>
+		<string _locid="700114">Armeria</string>
+		<string _locid="700115">Ricerca potenziamenti per le unità</string>
+		<string _locid="700128">Laboratorio d&apos;assedio</string>
+		<string _locid="700129">Addestra le unità d&apos;&lt;color=0.32 0.65 1.0&gt;assedio&lt;/color&gt;.</string>
+		<string _locid="700130">Balista</string>
+		<string _locid="700131">Unità d&apos;&lt;color=0.32 0.65 1.0&gt;assedio&lt;/color&gt;. Unità d&apos;assedio a distanza che danneggia l&apos;area colpita.</string>
+		<string _locid="700136">Mercato</string>
+		<string _locid="700137">Scambia risorse. Addestra le &lt;color=0.32 0.65 1.0&gt;carovane&lt;/color&gt;.</string>
+		<string _locid="700138">Carovana</string>
+		<string _locid="700139">Unità &lt;color=0.32 0.65 1.0&gt;operaio&lt;/color&gt;. Commercia tra i mercati e i Centri città ricavando oro.</string>
+		<string _locid="700140">Regolazione prezzo</string>
+		<string _locid="700141">Riduce la velocità di scambio del &lt;color=0.32 0.65 1.0&gt;mercato&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-40% penalità di acquisto/vendita&lt;/color&gt;.</string>
+		<string _locid="700142">Rotte commerciali</string>
+		<string _locid="700143">Riduce le penalità dei tributi.*&lt;color=0.0 1.0 0.0&gt;-50% penalità tributo&lt;/color&gt;</string>
+		<string _locid="700144">Borse da sella</string>
+		<string _locid="700145">Migliora il commercio della &lt;color=0.32 0.65 1.0&gt;carovana&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% commercio oro&lt;/color&gt;</string>
+		<string _locid="700146">Fortezza</string>
+		<string _locid="700147">Edificio di difesa robusto. Addestra le unità &lt;color=0.32 0.65 1.0&gt;palintoni&lt;/color&gt; e consiglieri.</string>
+		<string _locid="700148">Palintone</string>
+		<string _locid="700149">Unità d&apos;&lt;color=0.32 0.65 1.0&gt;assedio&lt;/color&gt;. Unità d&apos;assedio a lunga gittata che danneggia leggermente l&apos;area colpita ed è molto efficace contro gli edifici.</string>
+		<string _locid="700158">Accademia</string>
+		<string _locid="700159">Fa ricerche su potenziamenti avanzati.</string>
+		<string _locid="700166">Tempio</string>
+		<string _locid="700167">Addestra i &lt;color=0.32 0.65 1.0&gt;sacerdoti&lt;/color&gt;.</string>
+		<string _locid="700183">Caserma</string>
+		<string _locid="700184">Addestra le unità di &lt;color=0.32 0.65 1.0&gt;fanteria&lt;/color&gt;.</string>
+		<string _locid="700185">Lanciere</string>
+		<string _locid="700186">Unità &lt;color=0.32 0.65 1.0&gt;fanteria&lt;/color&gt;. Unità di fanteria di base efficace contro le unità di cavalleria.</string>
+		<string _locid="700188">Migliora il &lt;color=0.32 0.65 1.0&gt;lanciere&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% danno&lt;/color&gt;</string>
+		<string _locid="700193">Lanciere campione</string>
+		<string _locid="700195">Migliora l&apos;&lt;color=0.32 0.65 1.0&gt;oplita&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% danno&lt;/color&gt;</string>
+		<string _locid="700197">Oplita campione</string>
+		<string _locid="700199">Migliora l&apos;&lt;color=0.32 0.65 1.0&gt;ipaspista&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% danno&lt;/color&gt;</string>
+		<string _locid="700201">Ipaspista campione</string>
+		<string _locid="700202">Toxotes</string>
+		<string _locid="700203">Unità &lt;color=0.32 0.65 1.0&gt;a distanza&lt;/color&gt;. Arciere di base, efficace contro le unità di fanteria.</string>
+		<string _locid="700205">Migliora il &lt;color=0.32 0.65 1.0&gt;toxotes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% danno&lt;/color&gt;</string>
+		<string _locid="700207">Toxotes campione</string>
+		<string _locid="700210">Migliora il &lt;color=0.32 0.65 1.0&gt;peltasta&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% danno&lt;/color&gt;</string>
+		<string _locid="700211">Peltasta campione</string>
+		<string _locid="700212">Gastraphete campione</string>
+		<string _locid="700213">Migliora molto il &lt;color=0.32 0.65 1.0&gt;gastraphete&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700214">Sarissophoroi</string>
+		<string _locid="700215">Unità di &lt;color=0.32 0.65 1.0&gt;cavalleria&lt;/color&gt;. Unità di cavalleria a distanza, efficace contro le unità a distanza.</string>
+		<string _locid="700218">Sarissophoroi campione</string>
+		<string _locid="700219">Migliora il &lt;color=0.32 0.65 1.0&gt;sarissophoroi&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% danno&lt;/color&gt;</string>
+		<string _locid="700220">Hippikon campione</string>
+		<string _locid="700221">Migliora molto l&apos;&lt;color=0.32 0.65 1.0&gt;hippikon&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700223">Prodromos campione</string>
+		<string _locid="700224">Migliora il &lt;color=0.32 0.65 1.0&gt;prodromos&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% danno&lt;/color&gt;</string>
+		<string _locid="700225">Ariete</string>
+		<string _locid="700226">Unità d&apos;&lt;color=0.32 0.65 1.0&gt;assedio&lt;/color&gt;. Unità lenta che può attaccare solo gli edifici.</string>
+		<string _locid="700228">Ariete campione</string>
+		<string _locid="700229">Migliora l&apos;&lt;color=0.32 0.65 1.0&gt;ariete&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% danno&lt;/color&gt;</string>
+		<string _locid="700230">Balista campione</string>
+		<string _locid="700231">Migliora molto la &lt;color=0.32 0.65 1.0&gt;balista&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700244">Mura di barricata</string>
+		<string _locid="700245">Mura d&apos;argine</string>
+		<string _locid="700246">Mura bastione</string>
+		<string _locid="700248">Torre fortificata</string>
+		<string _locid="700250">Torre roccaforte</string>
+		<string _locid="700251">Migliora la &lt;color=0.32 0.65 1.0&gt;Torre di guardia&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% danno&lt;/color&gt;</string>
+		<string _locid="700253">Peschereccio</string>
+		<string _locid="700254">Unità &lt;color=0.32 0.65 1.0&gt;imbarcazione&lt;/color&gt;. Procura cibo dal pesce e ripara le altre imbarcazioni. </string>
+		<string _locid="700259">Trireme campione</string>
+		<string _locid="700260">Migliora la &lt;color=0.32 0.65 1.0&gt;trireme&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% danno&lt;/color&gt;</string>
+		<string _locid="700262">Nave incendiaria campione</string>
+		<string _locid="700263">Alterazione prezzi</string>
+		<string _locid="700264">Rotte di spedizione</string>
+		<string _locid="700279">Aumenta il danno della &lt;color=0.32 0.65 1.0&gt;fanteria&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% danno&lt;/color&gt;</string>
+		<string _locid="700283">Aumenta il danno dell&apos;unità &lt;color=0.32 0.65 1.0&gt;a distanza&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% danno&lt;/color&gt;</string>
+		<string _locid="700293">Palintono scelto</string>
+		<string _locid="700294">Migliora molto il &lt;color=0.32 0.65 1.0&gt;palintone&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700295">Sacerdote</string>
+		<string _locid="700296">Unità di &lt;color=0.32 0.65 1.0&gt;supporto&lt;/color&gt;. Converte le unità nemiche e guarisce le unità alleate fuori combattimento.</string>
+		<string _locid="700297">Fattoria</string>
+		<string _locid="700298">Rappresenta una fonte illimitata di raccolta di cibo per gli abitanti.</string>
+		<string _locid="700299">Trireme con catapulta campione</string>
+		<string _locid="700300">Migliora molto la &lt;color=0.32 0.65 1.0&gt;trireme con catapulta&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700301">Migliora la &lt;color=0.32 0.65 1.0&gt;nave incendiaria&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% danno&lt;/color&gt;</string>
+		<string _locid="700364">Scalpellino</string>
+		<string _locid="700365">Migliora gli &lt;color=0.32 0.65 1.0&gt;edifici&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;</string>
+		<string _locid="700366">Visione divina</string>
+		<string _locid="700367">Migliora il &lt;color=0.32 0.65 1.0&gt;sacerdote&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% portata della conversione&lt;/color&gt;</string>
+		<string _locid="700376">Punto di deposito delle risorse, utilizzato per ridurre le distanze di raccolta.</string>
+		<string _locid="700377">Centro città</string>
+		<string _locid="700378">Addestra gli &lt;color=0.32 0.65 1.0&gt;abitanti&lt;/color&gt;. Funge da punto di deposito delle risorse. Aumenta il limite della popolazione di 20.</string>
+		<string _locid="700379">Abitante</string>
+		<string _locid="700380">Unità &lt;color=0.32 0.65 1.0&gt;operaio&lt;/color&gt;. Raccoglie risorse, costruisce edifici e ripara edifici e unità d&apos;assedio.</string>
+		<string _locid="700381">Fromboliere</string>
+		<string _locid="700385">Fromboliere campione</string>
+		<string _locid="700386">Guerriero con ascia</string>
+		<string _locid="700389">Guerriero con ascia campione</string>
+		<string _locid="700391">Addestra i &lt;color=0.32 0.65 1.0&gt;cammellieri&lt;/color&gt; e gli &lt;color=0.32 0.65 1.0&gt;arcieri su biga&lt;/color&gt;.</string>
+		<string _locid="700392">Scuderia</string>
+		<string _locid="700393">Arciere su biga</string>
+		<string _locid="700394">Unità &lt;color=0.32 0.65 1.0&gt;a distanza&lt;/color&gt;. Arciere rapido a cavallo</string>
+		<string _locid="700396">Arciere su biga campione</string>
+		<string _locid="700399">Cammelliere</string>
+		<string _locid="700401">Cammelliere campione</string>
+		<string _locid="700405">Elefante da guerra</string>
+		<string _locid="700406">Unità di &lt;color=0.32 0.65 1.0&gt;cavalleria&lt;/color&gt;. Potente guerriero corazzato a cavallo che danneggia l&apos;area colpita ed è efficace contro le unità d&apos;assedio e gli edifici.</string>
+		<string _locid="700407">Elefante da guerra scelto</string>
+		<string _locid="700408">Arciere su elefante</string>
+		<string _locid="700410">Unità &lt;color=0.32 0.65 1.0&gt;a distanza&lt;/color&gt;. Arciere rapido a cavallo che danneggia leggermente l&apos;area colpita.</string>
+		<string _locid="700411">Arciere su elefante scelto</string>
+		<string _locid="700413">Migliora molto l&apos;&lt;color=0.32 0.65 1.0&gt;arciere su elefante&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700414">Addestra le unità d&apos;&lt;color=0.32 0.65 1.0&gt;assedio&lt;/color&gt;.</string>
+		<string _locid="700415">Torre d&apos;assedio</string>
+		<string _locid="700417">Torre d&apos;assedio scelta</string>
+		<string _locid="700419">Catapulta</string>
+		<string _locid="700421">Unità d&apos;&lt;color=0.32 0.65 1.0&gt;assedio&lt;/color&gt;. Unità d&apos;assedio a distanza che danneggia l&apos;area colpita.</string>
+		<string _locid="700422">Catapulta campione</string>
+		<string _locid="700423">Migliora molto la &lt;color=0.32 0.65 1.0&gt;catapulta&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700430">Edificio di difesa robusto. Addestra le unità &lt;color=0.32 0.65 1.0&gt;elefanti da guerra&lt;/color&gt;, gli &lt;color=0.32 0.65 1.0&gt;arcieri su elefante&lt;/color&gt; e consiglieri.</string>
+		<string _locid="700431">Accademia di guerra</string>
+		<string _locid="700432">Tempio di Ra</string>
+		<string _locid="700434">Tempio di Set</string>
+		<string _locid="700435">Addestra il &lt;color=0.32 0.65 1.0&gt;sacerdote di Set&lt;/color&gt;. Consente alla civiltà di passare all&apos;Età dell&apos;argento.</string>
+		<string _locid="700436">Tempio di Ptah</string>
+		<string _locid="700437">Addestra il &lt;color=0.32 0.65 1.0&gt;sacerdote di Ptah&lt;/color&gt;. Consente alla civiltà di passare all&apos;Età dell&apos;oro.</string>
+		<string _locid="700439">Unità di &lt;color=0.32 0.65 1.0&gt;supporto&lt;/color&gt;. Potenzia gli edifici, aumentando la velocità del progresso economico e dell&apos;addestramento. Guarisce le unità alleate in una piccola area.</string>
+		<string _locid="700441">Addestra le &lt;color=0.32 0.65 1.0&gt;sacerdotesse di Ra&lt;/color&gt;. Consente alla civiltà di passare all&apos;Età del bronzo.</string>
+		<string _locid="700442">Sacerdotessa di Ra</string>
+		<string _locid="700444">Sacerdote di Set</string>
+		<string _locid="700445">Unità di &lt;color=0.32 0.65 1.0&gt;supporto&lt;/color&gt;. Getta nel caos le unità nemiche, facendole diventare ostili nei confronti di tutte le unità. Guarisce le unità alleate fuori combattimento.</string>
+		<string _locid="700446">Sacerdote di Ptah</string>
+		<string _locid="700447">Unità di &lt;color=0.32 0.65 1.0&gt;supporto&lt;/color&gt;. Converte più unità ed edifici nemici di una piccola area. Guarisce le unità alleate fuori combattimento.</string>
+		<string _locid="700448">Tocco di Ra</string>
+		<string _locid="700449">Migliora la &lt;color=0.32 0.65 1.0&gt;sacerdotessa di Ra&lt;/color&gt;, il &lt;color=0.32 0.65 1.0&gt;sacerdote di Set&lt;/color&gt; e il &lt;color=0.32 0.65 1.0&gt;sacerdote di Ptah&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+40% velocità di guarigione&lt;/color&gt;</string>
+		<string _locid="700450">Vista del sole</string>
+		<string _locid="700451">Migliora la &lt;color=0.32 0.65 1.0&gt;sacerdotessa di Ra&lt;/color&gt;, il &lt;color=0.32 0.65 1.0&gt;sacerdote di Set&lt;/color&gt; e il &lt;color=0.32 0.65 1.0&gt;sacerdote di Ptah&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% portata della guarigione&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% portata del caos&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% portata della conversione&lt;/color&gt;</string>
+		<string _locid="700452">Pagato con il sangue</string>
+		<string _locid="700453">Riduce il costo della &lt;color=0.32 0.65 1.0&gt;sacerdotessa di Ra&lt;/color&gt;, del &lt;color=0.32 0.65 1.0&gt;sacerdote di Set&lt;/color&gt; e del &lt;color=0.32 0.65 1.0&gt;sacerdote di Ptah&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-30% costo&lt;/color&gt;</string>
+		<string _locid="700454">Essenza del cobra</string>
+		<string _locid="700455">Migliora la &lt;color=0.32 0.65 1.0&gt;sacerdotessa di Ra&lt;/color&gt;, il &lt;color=0.32 0.65 1.0&gt;sacerdote di Set&lt;/color&gt; e il &lt;color=0.32 0.65 1.0&gt;sacerdote di Ptah&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+30% velocità di movimento&lt;/color&gt;</string>
+		<string _locid="700456">Forza degli dèi</string>
+		<string _locid="700457">Migliora la &lt;color=0.32 0.65 1.0&gt;sacerdotessa di Ra&lt;/color&gt;, il &lt;color=0.32 0.65 1.0&gt;sacerdote di Set&lt;/color&gt; e il &lt;color=0.32 0.65 1.0&gt;sacerdote di Ptah&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% salute&lt;/color&gt;</string>
+		<string _locid="700458">Produzione divina</string>
+		<string _locid="700459">Riduce il tempo di addestramento della &lt;color=0.32 0.65 1.0&gt;sacerdotessa di Ra&lt;/color&gt;, del &lt;color=0.32 0.65 1.0&gt;sacerdote di Set&lt;/color&gt; e del &lt;color=0.32 0.65 1.0&gt;sacerdote di Ptah&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-40% tempo di addestramento&lt;/color&gt;</string>
+		<string _locid="700485">Tecnologie dell&apos;Età del rame</string>
+		<string _locid="700486">Le tecnologie sbloccate in questa riga sono disponibili immediatamente durante le missioni.</string>
+		<string _locid="700487">Tecnologie dell&apos;Età del bronzo</string>
+		<string _locid="700488">Una volta raggiunta l&apos;Età del bronzo, vengono sbloccate le tecnologie in questa riga.</string>
+		<string _locid="700489">Tecnologie dell&apos;Età dell&apos;argento</string>
+		<string _locid="700490">Una volta raggiunta l&apos;Età dell&apos;argento, vengono sbloccate le tecnologie in questa riga.</string>
+		<string _locid="700491">Tecnologie dell&apos;Età dell&apos;oro</string>
+		<string _locid="700492">Una volta raggiunta l&apos;Età dell&apos;oro, vengono sbloccate le tecnologie in questa riga.</string>
+		<string _locid="700496">Casa</string>
+		<string _locid="700497">Aumenta il limite della popolazione di 5.</string>
+		<string _locid="700498">Meraviglia</string>
+		<string _locid="700499">Possederne una per un certo periodo di tempo conduce alla vittoria nel combattimento PvP.</string>
+		<string _locid="700500">Ricognitore</string>
+		<string _locid="700501">Unità &lt;color=0.32 0.65 1.0&gt;ricognitore&lt;/color&gt;. Unità veloce e abile nell&apos;esplorazione della mappa.</string>
+		<string _locid="700502">Trireme con balista</string>
+		<string _locid="700503">Trireme con balista campione</string>
+		<string _locid="700504">Migliora molto la &lt;color=0.32 0.65 1.0&gt;trireme con balista&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700505">Migliora molto il &lt;color=0.32 0.65 1.0&gt;lanciere&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700512">Migliora molto l&apos;&lt;color=0.32 0.65 1.0&gt;ariete&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700516">Migliora molto il &lt;color=0.32 0.65 1.0&gt;lanciere&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700517">Migliora molto il &lt;color=0.32 0.65 1.0&gt;fromboliere&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700518">Migliora molto il &lt;color=0.32 0.65 1.0&gt;guerriero con ascia&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700519">Migliora molto l&apos;&lt;color=0.32 0.65 1.0&gt;arciere su biga&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700520">Migliora molto il &lt;color=0.32 0.65 1.0&gt;cammelliere&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700521">Migliora molto l&apos;&lt;color=0.32 0.65 1.0&gt;elefante da guerra&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700522">Migliora molto la &lt;color=0.32 0.65 1.0&gt;Torre d&apos;assedio&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700527">Spadaccino con spada lunga</string>
+		<string _locid="700528">Campione</string>
+		<string _locid="700529">Arciere</string>
+		<string _locid="700530">Ariete</string>
+		<string _locid="700531">Cavaliere</string>
+		<string _locid="700532">Carpentom</string>
+		<string _locid="700533">Predone del guado</string>
+		<string _locid="700534">Mago</string>
+		<string _locid="700535">Miniera d&apos;oro</string>
+		<string _locid="700536">Druido</string>
+		<string _locid="700537">Augure</string>
+		<string _locid="700538">Bosco sacro</string>
+		<string _locid="700539">Sala dei bardi</string>
+		<string _locid="700543">Espansione carico</string>
+		<string _locid="700544">Migliora la capacità del &lt;color=0.32 0.65 1.0&gt;trasporto mercantile&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+8 capacità di trasporto&lt;/color&gt;</string>
+		<string _locid="700547">Nave cigno</string>
+		<string _locid="700551">Nave cigno campione</string>
+		<string _locid="700552">Chiamata alle armi</string>
+		<string _locid="700553">Migliora il danno degli &lt;color=0.32 0.65 1.0&gt;abitanti&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+100% danno&lt;/color&gt;</string>
+		<string _locid="700557">Spadaccino con spada lunga campione</string>
+		<string _locid="700558">Migliora molto lo &lt;color=0.32 0.65 1.0&gt;spadaccino con spada lunga&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700559">Campione campione</string>
+		<string _locid="700560">Migliora molto il &lt;color=0.32 0.65 1.0&gt;campione&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700562">Ariete campione</string>
+		<string _locid="700568">Arciere campione</string>
+		<string _locid="700569">Migliora molto l&apos;&lt;color=0.32 0.65 1.0&gt;arciere&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700573">Cavaliere campione</string>
+		<string _locid="700574">Migliora molto il &lt;color=0.32 0.65 1.0&gt;cavaliere&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700575">Carpentom campione</string>
+		<string _locid="700576">Migliora molto il &lt;color=0.32 0.65 1.0&gt;Carpentom&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700578">Predone del guado campione</string>
+		<string _locid="700580">Migliora molto il &lt;color=0.32 0.65 1.0&gt;predone del guado&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700583">Furore celtico</string>
+		<string _locid="700585">Dono di Balor</string>
+		<string _locid="700586">Arciere maestro</string>
+		<string _locid="700587">Dono di Sequana</string>
+		<string _locid="700588">Migliora il &lt;color=0.32 0.65 1.0&gt;druido&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+40% velocità di guarigione&lt;/color&gt;</string>
+		<string _locid="700589">Rito di Damara</string>
+		<string _locid="700590">Conferisce all&apos;&lt;color=0.32 0.65 1.0&gt;augure&lt;/color&gt; l&apos;abilità di sacrificare animali in cambio di &lt;color=0.0 1.0 0.0&gt;-20% tempo di addestramento&lt;/color&gt;. Influisce su tutti gli &lt;color=0.32 0.65 1.0&gt;edifici&lt;/color&gt; per un breve periodo di tempo.</string>
+		<string _locid="700591">Rito di Andrasta</string>
+		<string _locid="700592">Conferisce all&apos;&lt;color=0.32 0.65 1.0&gt;augure&lt;/color&gt; l&apos;abilità di sacrificare animali in cambio di &lt;color=0.0 1.0 0.0&gt;+15% danno&lt;/color&gt;. Influisce su tutte le unità &lt;color=0.32 0.65 1.0&gt;militari&lt;/color&gt; per un breve periodo di tempo.</string>
+		<string _locid="700593">Rito di Rudiobus</string>
+		<string _locid="700594">Conferisce all&apos;&lt;color=0.32 0.65 1.0&gt;augure&lt;/color&gt; l&apos;abilità di sacrificare animali in cambio di &lt;color=0.0 1.0 0.0&gt;+15% velocità di movimento&lt;/color&gt;. Influisce su tutte le unità &lt;color=0.32 0.65 1.0&gt;militari&lt;/color&gt; per un breve periodo di tempo.</string>
+		<string _locid="700595">Rito di Ratis</string>
+		<string _locid="700596">Conferisce all&apos;&lt;color=0.32 0.65 1.0&gt;augure&lt;/color&gt; l&apos;abilità di sacrificare animali in cambio di &lt;color=0.0 1.0 0.0&gt;+30% danno contro gli edifici&lt;/color&gt;. Influisce su tutte le unità &lt;color=0.32 0.65 1.0&gt;militari&lt;/color&gt; per un breve periodo di tempo.</string>
+		<string _locid="700600">Strade di legno</string>
+		<string _locid="700601">Migliora la &lt;color=0.32 0.65 1.0&gt;carovana&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+30% velocità di movimento&lt;/color&gt;</string>
+		<string _locid="700627">Migliora la salute della &lt;color=0.32 0.65 1.0&gt;fanteria&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% salute&lt;/color&gt;</string>
+		<string _locid="700628">Filosofia</string>
+		<string _locid="700629">Riduce il tempo di ricerca di tutti i potenziamenti.*&lt;color=0.0 1.0 0.0&gt;-40% tempo di ricerca&lt;/color&gt;</string>
+		<string _locid="700630">Coscrizione</string>
+		<string _locid="700631">Riduce il tempo di addestramento della &lt;color=0.32 0.65 1.0&gt;fanteria&lt;/color&gt;, dell&apos;&lt;color=0.32 0.65 1.0&gt;unità a distanza&lt;/color&gt; e della &lt;color=0.32 0.65 1.0&gt;cavalleria&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-25% tempo di addestramento&lt;/color&gt;</string>
+		<string _locid="700632">Feritoie</string>
+		<string _locid="700633">Migliora la &lt;color=0.32 0.65 1.0&gt;Torre di guardia&lt;/color&gt; e ne elimina la gittata minima.*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700634">Fuoco greco</string>
+		<string _locid="700635">Aumenta il danno inflitto dalla frecce agli edifici. Influisce su: &lt;color=0.32 0.65 1.0&gt;unità a distanza&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;edifici&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;imbarcazioni&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;navi da guerra&lt;/color&gt; e &lt;color=0.32 0.65 1.0&gt;sarissophoroi&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% danno contro gli &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;edifici&lt;/color&gt;</string>
+		<string _locid="700636">Unità &lt;color=0.32 0.65 1.0&gt;fanteria&lt;/color&gt;. Arciere altamente corazzato che danneggia leggermente l&apos;area colpita.</string>
+		<string _locid="700637">Unità &lt;color=0.32 0.65 1.0&gt;a distanza&lt;/color&gt;. Un&apos;agile ma robusta biga, efficace contro altre unità a distanza.</string>
+		<string _locid="700638">Unità &lt;color=0.32 0.65 1.0&gt;fanteria&lt;/color&gt;. Guerriero rapido e potente, efficace contro gli abitanti, le unità d&apos;assedio e gli edifici.</string>
+		<string _locid="700639">Solido edificio difensivo. Addestra unità &lt;color=0.32 0.65 1.0&gt;arieti&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;lanciatori di pietre&lt;/color&gt; e consiglieri.</string>
+		<string _locid="700640">Funge da presidio per gli abitanti che, in seguito, possono raccogliere oro al suo interno senza cha sia necessario disporre di un punto di deposito.</string>
+		<string _locid="700641">Unità di &lt;color=0.32 0.65 1.0&gt;supporto&lt;/color&gt;. Unità di combattimento efficace che guarisce le unità alleate e potenzia il danno che infliggono.</string>
+		<string _locid="700642">Ricerca potenziamenti per la fanteria.</string>
+		<string _locid="700643">Addestra le unità di &lt;color=0.32 0.65 1.0&gt;supporto&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;cervo sacro;/color&gt;.</string>
+		<string _locid="700644">Unità di &lt;color=0.32 0.65 1.0&gt;supporto&lt;/color&gt;. Converte le unità nemiche e guarisce le unità alleate fuori combattimento.  Può imparare riti per sacrificare animali.</string>
+		<string _locid="700645">Migliora molto le &lt;color=0.32 0.65 1.0&gt;navi cigno&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700646">Asabara</string>
+		<string _locid="700648">Aumenta la velocità di movimento della &lt;color=0.32 0.65 1.0&gt;fanteria&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% velocità di movimento&lt;/color&gt;</string>
+		<string _locid="700649">Unità &lt;color=0.32 0.65 1.0&gt;a distanza&lt;/color&gt;. Unità debole, in grado di lanciare proiettili, efficace contro altre unità a distanza.</string>
+		<string _locid="700650">Unità &lt;color=0.32 0.65 1.0&gt;a distanza&lt;/color&gt;. Unità debole in grado di lanciare proiettili, efficace contro altre unità a distanza.</string>
+		<string _locid="700655">Migliora l&apos;efficienza dell&apos;&lt;color=0.32 0.65 1.0&gt;abitante&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% capacità di trasporto&lt;/color&gt;</string>
+		<string _locid="700656">Migliora nettamente lo &lt;color=0.32 0.65 1.0&gt;sparabara&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700658">Sparabara</string>
+		<string _locid="700662">Sparabara campione</string>
+		<string _locid="700663">Unità di &lt;color=0.32 0.65 1.0&gt;fanteria&lt;/color&gt;. Unità di fanteria di base abile nell&apos;assorbire i danni.</string>
+		<string _locid="700664">Accampamento immortale</string>
+		<string _locid="700665">Addestra gli &lt;color=0.32 0.65 1.0&gt;immortali&lt;/color&gt;.</string>
+		<string _locid="700666">Immortale</string>
+		<string _locid="700667">Unità di &lt;color=0.32 0.65 1.0&gt;fanteria&lt;/color&gt;. Versatile guerriero a distanza e corpo a corpo efficace contro la fanteria.</string>
+		<string _locid="700669">Immortale campione</string>
+		<string _locid="700670">Migliora nettamente il &lt;color=0.32 0.65 1.0&gt;takabara&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700672">Migliora molto gli &lt;color=0.32 0.65 1.0&gt;immortali&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700675">Takabara</string>
+		<string _locid="700677">Takabara campione</string>
+		<string _locid="700680">Arciere a cavallo</string>
+		<string _locid="700682">Arciere a cavallo campione</string>
+		<string _locid="700683">Zelo inesorabile</string>
+		<string _locid="700685">Migliora nettamente l&apos; &lt;color=0.32 0.65 1.0&gt;asabara&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700687">Migliora molto gli &lt;color=0.32 0.65 1.0&gt;arcieri a cavallo&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700688">Catafratto</string>
+		<string _locid="700689">Catafratto campione</string>
+		<string _locid="700690">Migliora molto il &lt;color=0.32 0.65 1.0&gt;catafratto&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700691">Carro da guerra</string>
+		<string _locid="700692">Carro da guerra campione</string>
+		<string _locid="700693">Migliora molto i &lt;color=0.32 0.65 1.0&gt;carri da guerra&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700694">Tenda di soccorso</string>
+		<string _locid="700695">Galea</string>
+		<string _locid="700698">Galea campione</string>
+		<string _locid="700699">Nave speronatrice</string>
+		<string _locid="700701">Migliora molto le &lt;color=0.32 0.65 1.0&gt;galee&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700703">Nave speronatrice campione</string>
+		<string _locid="700704">Galea mangano</string>
+		<string _locid="700705">Migliora molto le &lt;color=0.32 0.65 1.0&gt;galee mangano&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700706">Galea mangano campione</string>
+		<string _locid="700707">Lavoro a pagamento</string>
+		<string _locid="700709">Migliora molto la &lt;color=0.32 0.65 1.0&gt;nave incendiaria&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700711">Addestramento rigoroso</string>
+		<string _locid="700712">Mura a scudo</string>
+		<string _locid="700713">Nascondi il sole</string>
+		<string _locid="700714">Strade reali</string>
+		<string _locid="700715">Senza numero</string>
+		<string _locid="700738">Migliora i &lt;color=0.32 0.65 1.0&gt;maghi&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% tasso di conversioni&lt;/color&gt;</string>
+		<string _locid="700740">Arciere campione</string>
+		<string _locid="700742">Assegna al &lt;color=0.32 0.65 1.0&gt;deposito&lt;/color&gt; l&apos;abilità di guarire le unità alleate vicine.</string>
+		<string _locid="700745">Lanciatore di pietre</string>
+		<string _locid="700759">Riduce il tempo di addestramento degli &lt;color=0.32 0.65 1.0&gt;abitanti&lt;/color&gt;, ma ne cambia il costo in oro.*&lt;color=0.0 1.0 0.0&gt;-50% tempo di addestramento&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Costo modificato a 80% in oro&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Attivabile/disattivabile&lt;/color&gt;</string>
+		<string _locid="700761">Migliora molto l&apos;&lt;color=0.32 0.65 1.0&gt;ariete&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700765">Lanciatore di pietre campione</string>
+		<string _locid="700769">Riduce il tempo di addestramento delle unità &lt;color=0.32 0.65 1.0&gt;caserma&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;campo di tiro&lt;/color&gt; e &lt;color=0.32 0.65 1.0&gt;scuderia&lt;/color&gt;, ma ne aumenta il costo.*&lt;color=0.0 1.0 0.0&gt;-30% tempo di addestramento&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;+15% costo&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Attivabile/disattivabile&lt;/color&gt;</string>
+		<string _locid="700770">Aumenta la salute e la corazza d&apos;assedio degli &lt;color=0.32 0.65 1.0&gt;sparabara&lt;/color&gt;, ma ne riduce la velocità.*&lt;color=0.0 1.0 0.0&gt;+20% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+300% corazza d&apos;assedio&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;-10% velocità di movimento&lt;/color&gt;</string>
+		<string _locid="700772">Aumenta la gittata in attacco di &lt;color=0.32 0.65 1.0&gt;arcieri&lt;/color&gt; e &lt;color=0.32 0.65 1.0&gt;takabara&lt;/color&gt;, ma ne riduce la salute.*&lt;color=0.0 1.0 0.0&gt;+30% gittata massima&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;-15% salute&lt;/color&gt;</string>
+		<string _locid="700773">Riduce il tempo di addestramento delle unità &lt;color=0.32 0.65 1.0&gt;accampamento immortale&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;laboratorio d&apos;assedio&lt;/color&gt; e &lt;color=0.32 0.65 1.0&gt;fortezza&lt;/color&gt;, ma ne aumenta il costo.*&lt;color=0.0 1.0 0.0&gt;-60% tempo di addestramento&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;+30% costo&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Attivabile/disattivabile&lt;/color&gt;</string>
+		<string _locid="700779">Unità di &lt;color=0.32 0.65 1.0&gt;assedio&lt;/color&gt;. Unità poco costosa, veloce ed efficace contro gli edifici.</string>
+		<string _locid="700784">Asabara campione</string>
+		<string _locid="700785">Unità di &lt;color=0.32 0.65 1.0&gt;cavalleria&lt;/color&gt;. Un buon guerriero a cavallo polivalente</string>
+		<string _locid="700786">Unità &lt;color=0.32 0.65 1.0&gt;a distanza&lt;/color&gt;. Arciere a cavallo efficace contro la cavalleria.</string>
+		<string _locid="700787">Unità di &lt;color=0.32 0.65 1.0&gt;cavalleria&lt;/color&gt;. Guerriero a cavallo pesantemente corazzato efficace contro la fanteria.</string>
+		<string _locid="700788">Unità di &lt;color=0.32 0.65 1.0&gt;assedio&lt;/color&gt;. Unità d&apos;assedio a distanza che infligge danni in una piccola area ed è efficace contro le unità a distanza.</string>
+		<string _locid="700789">Migliora il danno della &lt;color=0.32 0.65 1.0&gt;fanteria&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% danno&lt;/color&gt;</string>
+		<string _locid="700790">Addestra i maghi. Migliora i potenziamenti avanzati.</string>
+		<string _locid="700791">Cervo sacro</string>
+		<string _locid="700792">Unità &lt;color=0,32 0,65 1,0&gt;da allevamento&lt;/color&gt;. Animale che può essere utilizzato come fonte di cibo o sacrificato dall&apos;augure.</string>
+		<string _locid="700793">Migliora molto i &lt;color=0.32 0.65 1.0&gt;lanciatori di pietre&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
+		<string _locid="700794">[NOT USED]</string>
+		<string _locid="700830">Addestra le unità &lt;color=0.32 0.65 1.0&gt;a distanza&lt;/color&gt; e di &lt;color=0.32 0.65 1.0&gt;cavalleria&lt;/color&gt;.</string>
+	</language>
+</stringtable>

@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<loadingscreens xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" locstart="200000" locend="200999" loccurrent="200101">
+	<loadscreen name="LOAD_StartingPlayer_Chat_01" filename="" _locid="200000" minlevel="0" maxlevel="4">If you&apos;re stuck, use chat to get help from other players.</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Food_01" filename="" _locid="200001" minlevel="0" maxlevel="4">Food is needed to train Villagers and military units.</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Wood_01" filename="" _locid="200002" minlevel="0" maxlevel="4">Wood is needed to construct buildings.</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Gold_01" filename="" _locid="200003" minlevel="0" maxlevel="4">Gold is needed for most military units.</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Villagers_01" filename="" _locid="200004" minlevel="0" maxlevel="4">Villagers gather resources and can construct and repair buildings.</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Villagers_02" filename="" _locid="200005" minlevel="0" maxlevel="4">Villagers gather Food, Wood, Stone, or Gold until the resource runs out or you tell them to do something else.</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Spearmen_01" filename="" _locid="200006" minlevel="0" maxlevel="4">Spearmen are typically the only combat unit that can be built during Age I. Build a few right away to provide a needed defense and give the option to make an early rush.</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Materials_01" filename="" _locid="200007" minlevel="0" maxlevel="4">If you&apos;re lucky enough to get Materials early, save them. You&apos;ll use them later to construct new buildings in your Capital City, craft new gear, and other activities.</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Scout_01" filename="" _locid="200008" minlevel="0" maxlevel="4">Your Scout is fast and has a broad line of sight. Use your Scout to quickly locate resources.</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Scout_02" filename="" _locid="200009" minlevel="0" maxlevel="4">Use your Scout to keep tabs on your enemy. Be sure to protect it; you only get one per quest.</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Coin_01" filename="" _locid="200010" minlevel="0" maxlevel="4">In your Capital City, you can use Coin to buy items from stores. You don’t need to have Villagers gather Food, Wood, Gold, or Stone in your capital.</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Inventory_01" filename="" _locid="200011" minlevel="0" maxlevel="4">You may find or be given items that go directly to your Inventory. If you don&apos;t know what to do with them, that&apos;s okay. Just hang on to them until later.</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Minimap_01" filename="" _locid="200012" minlevel="0" maxlevel="4">The Mini-Map allows you to see where you have explored. Pay attention to red dots: Those are enemies.</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Objectives_01" filename="" _locid="200013" minlevel="0" maxlevel="4">Quest objectives are tracked on the right side of your screen. Press the Quest Map icon for more details.</loadscreen>
+	<loadscreen name="LOAD_Standard_ShortCut_01" filename="" _locid="200014" minlevel="4" maxlevel="99">To view quests you are currently working on and completed quests waiting to be turned in, press the L key.</loadscreen>
+	<loadscreen name="LOAD_Standard_ShortCut_04" filename="" _locid="200017" minlevel="4" maxlevel="99">To queue five units at a time, hold Shift while training.</loadscreen>
+	<loadscreen name="LOAD_Standard_ShortCut_05" filename="" _locid="200018" minlevel="4" maxlevel="99">To place waypoints that the units follow, hold the Shift key and issue the movement commands.</loadscreen>
+	<loadscreen name="LOAD_Standard_Villager_01" filename="" _locid="200019" minlevel="4" maxlevel="99">To prevent Villagers from taking damage, you can gather them together inside Town Centers and Guard Towers. However, this stops them from gathering resources.</loadscreen>
+	<loadscreen name="LOAD_Standard_Villager_02" filename="" _locid="200020" minlevel="4" maxlevel="99">Villagers can repair damaged Siege units, as well as buildings and Naval units.</loadscreen>
+	<loadscreen name="LOAD_Standard_Villager_03" filename="" _locid="200021" minlevel="4" maxlevel="99">Villagers and Fishing Boats can repair damaged Naval units such as the Merchant Transport and Trireme.</loadscreen>
+	<loadscreen name="LOAD_Standard_Villager_04" filename="" _locid="200022" minlevel="4" maxlevel="99">Did you know that Villagers can gather Food from fishing spots that are close to shore?</loadscreen>
+	<loadscreen name="LOAD_Standard_Villager_05" filename="" _locid="200023" minlevel="4" maxlevel="99">If an enemy tries to build close to you, your Villagers can attack their buildings.</loadscreen>
+	<loadscreen name="LOAD_Standard_Villager_06" filename="" _locid="200024" minlevel="4" maxlevel="99">If you select all Villagers when giving commands to gather from either Farms, Trees, or Berry Bushes, they will automatically divide up to perform the task.</loadscreen>
+	<loadscreen name="LOAD_Standard_Villager_07" filename="" _locid="200025" minlevel="4" maxlevel="99">To automatically assign newly trained Villagers to help gather or build, right-click the desired resource or building while the Town Center is selected.</loadscreen>
+	<loadscreen name="LOAD_Standard_Docks_01" filename="" _locid="200026" minlevel="4" maxlevel="99">Did you know that the Dock is a drop site for all resource types?</loadscreen>
+	<loadscreen name="LOAD_Standard_Wood_01" filename="" _locid="200027" minlevel="4" maxlevel="99">To train Naval units, Archers, and Siege units, be sure to stockpile plenty of Wood.</loadscreen>
+	<loadscreen name="LOAD_Standard_Stone_01" filename="" _locid="200028" minlevel="4" maxlevel="99">Stone is needed for defensive buildings such as Guard Towers.</loadscreen>
+	<loadscreen name="LOAD_Standard_Materials_01" filename="" _locid="200029" minlevel="4" maxlevel="99">Earn Materials by completing quests and using Workshops. You can also purchase materials from stores such as the General Store.</loadscreen>
+	<loadscreen name="LOAD_Standard_Materials_02" filename="" _locid="200030" minlevel="4" maxlevel="99">All Materials can be stored in stacks. Combine small stacks to conserve inventory space.</loadscreen>
+	<loadscreen name="LOAD_Standard_Party_01" filename="" _locid="200031" minlevel="4" maxlevel="99">To form a party, right-click a player&apos;s name in the chat window and select Invite. The same options are available if you click a friend&apos;s icon in your Friends List.</loadscreen>
+	<loadscreen name="LOAD_Standard_Stores_01" filename="" _locid="200032" minlevel="4" maxlevel="99">You can find many different stores in Age of Empires Online. Don&apos;t forget to shop in other player’s stores when you visit their Capital Cities.</loadscreen>
+	<loadscreen name="LOAD_Standard_VisitPlayers_01" filename="" _locid="200033" minlevel="4" maxlevel="99">You can visit another player&apos;s Capital City to see if that player has stores or quest givers you do not have in your own Capital City.</loadscreen>
+	<loadscreen name="LOAD_Standard_Tech_01" filename="" _locid="200034" minlevel="4" maxlevel="99">Technologies that you unlock in your Capital City become available to build or upgrade when you are on a quest.</loadscreen>
+	<loadscreen name="LOAD_Standard_Tech_02" filename="" _locid="200035" minlevel="4" maxlevel="99">Some technologies allow you to train new units or build new buildings when you are on a quest. Other technologies allow you to upgrade all of your units, for a resource cost.</loadscreen>
+	<loadscreen name="LOAD_Standard_Tech_03" filename="" _locid="200036" minlevel="4" maxlevel="99">Be sure to check your buildings for upgrade technologies that you have unlocked from your Capital City.</loadscreen>
+	<loadscreen name="LOAD_Standard_Garrison_01" filename="" _locid="200037" minlevel="4" maxlevel="99">Villagers can garrison in certain buildings, such as Town Centers and Guard Towers, for safety.</loadscreen>
+	<loadscreen name="LOAD_Standard_TownBell_01" filename="" _locid="200038" minlevel="4" maxlevel="99">Use the Town Bell in the Town Center to quickly garrison nearby Villagers.</loadscreen>
+	<loadscreen name="LOAD_Standard_Chat_01" filename="" _locid="200039" minlevel="4" maxlevel="99">You can modify your chat window to suit how you play. You can make it larger or smaller, or more or less opaque.</loadscreen>
+	<loadscreen name="LOAD_Standard_Chat_02" filename="" _locid="200040" minlevel="4" maxlevel="99">Right-click another player&apos;s name in the chat window to bring up a list of options to interact with that player.</loadscreen>
+	<loadscreen name="LOAD_Standard_Chat_03" filename="" _locid="200041" minlevel="4" maxlevel="99">If you want to whisper to a specific person, simply click on that person&apos;s name in the chat window and then type your message.</loadscreen>
+	<loadscreen name="LOAD_Standard_TownCenter_01" filename="" _locid="200042" minlevel="4" maxlevel="99">Town Centers are fairly strong and can usually hold off smaller armies on their own.</loadscreen>
+	<loadscreen name="LOAD_Standard_Resources_01" filename="" _locid="200043" minlevel="4" maxlevel="99">Don&apos;t panic if you lose a few resources. You&apos;ll gather thousands during a typical quest.</loadscreen>
+	<loadscreen name="LOAD_Standard_MultiBuild_01" filename="" _locid="200044" minlevel="4" maxlevel="99">To issue a command to multiple buildings, select multiple buildings of the same type before issuing a command.</loadscreen>
+	<loadscreen name="LOAD_Standard_Friends_01" filename="" _locid="200045" minlevel="4" maxlevel="99">Invite players to your Friends List by clicking the Party button in the upper left corner. Type a name, and then select Invite.</loadscreen>
+	<loadscreen name="LOAD_Standard_Cows_01" filename="" _locid="200046" minlevel="4" maxlevel="99">Stray Cows can be a great food source!</loadscreen>
+	<loadscreen name="LOAD_Standard_CityReport_01" filename="" _locid="200047" minlevel="4" maxlevel="99">To bring up the City Report while in your Capital City, click the Shield icon.</loadscreen>
+	<loadscreen name="LOAD_Standard_FriendMail_01" filename="" _locid="200048" minlevel="99" maxlevel="99">Check your port for incoming items from other players.</loadscreen>
+	<loadscreen name="LOAD_Standard_FullCiv_01" filename="" _locid="200049" minlevel="4" maxlevel="99">Buy a full civilization for all the benefits!</loadscreen>
+	<loadscreen name="LOAD_Standard_Market_01" filename="" _locid="200050" minlevel="4" maxlevel="99">Use your market to buy and sell resources for gold. Certain technologies lower the fees for these transactions.</loadscreen>
+	<loadscreen name="LOAD_Standard_Caravans_01" filename="" _locid="200051" minlevel="4" maxlevel="99">Caravans can be an excellent source of Gold once you&apos;ve run out of Gold Desposits.</loadscreen>
+	<loadscreen name="LOAD_Standard_Caravans_02" filename="" _locid="200052" minlevel="4" maxlevel="99">Caravans are built from the Market, and can trade to generate Gold.</loadscreen>
+	<loadscreen name="LOAD_Standard_Caravans_03" filename="" _locid="200053" minlevel="4" maxlevel="99">When trading with Caravans, remember that the farther they travel to their destination, the more Gold they bring in.</loadscreen>
+	<loadscreen name="LOAD_Standard_Population_01" filename="" _locid="200054" minlevel="4" maxlevel="99">Town Centers add 20 to your population cap and Houses add 5.</loadscreen>
+	<loadscreen name="LOAD_Standard_Spearmen_01" filename="" _locid="200055" minlevel="4" maxlevel="99">Spearmen are Infantry units that excel against Cavalry units.</loadscreen>
+	<loadscreen name="LOAD_Standard_Hypaspist_01" filename="" _locid="200056" minlevel="4" maxlevel="99">Greek Hypaspists are Infantry units that excel against other Infantry units.</loadscreen>
+	<loadscreen name="LOAD_Standard_Axemen_01" filename="" _locid="200057" minlevel="4" maxlevel="99">Egyptian Axemen are Infantry units that excel against other Infantry units.</loadscreen>
+	<loadscreen name="LOAD_Standard_Toxotai_01" filename="" _locid="200058" minlevel="4" maxlevel="99">Greek Toxotai are Ranged units that excel against Infantry units.</loadscreen>
+	<loadscreen name="LOAD_Standard_Slinger_01" filename="" _locid="200059" minlevel="4" maxlevel="99">Egyptian Slingers are Ranged units that excel against other Ranged units.</loadscreen>
+	<loadscreen name="LOAD_Standard_Sarissophoroi_01" filename="" _locid="200060" minlevel="4" maxlevel="99">Greek Sarissophoroi are effective against Ranged units.</loadscreen>
+	<loadscreen name="LOAD_Advanced_Podromoi_01" filename="" _locid="200061" minlevel="10" maxlevel="99">Greek Prodromoi are Cavalry units that excel against other Cavalry units.</loadscreen>
+	<loadscreen name="LOAD_Advanced_Hippikon_01" filename="" _locid="200062" minlevel="10" maxlevel="99">Greek Hippikons are powerful Cavalry units that excel at getting through defensive lines and destroying Siege.</loadscreen>
+	<loadscreen name="LOAD_Advanced_ElephantArcher_01" filename="" _locid="200063" minlevel="10" maxlevel="99">Egyptian Elephant Archers are powerful Ranged units that deal massive damage from afar.</loadscreen>
+	<loadscreen name="LOAD_Advanced_CamelRider_01" filename="" _locid="200064" minlevel="10" maxlevel="99">Egyptian Camel Riders are Cavalry units that excel against other Cavalry units.</loadscreen>
+	<loadscreen name="LOAD_Advanced_WarElephant_01" filename="" _locid="200065" minlevel="10" maxlevel="99">Egyptian War Elephants are tough Cavalry units that can hit multiple units at a time with their powerful attacks.</loadscreen>
+	<loadscreen name="LOAD_Advanced_Tactics_01" filename="" _locid="200066" minlevel="10" maxlevel="99">Remember to have a constant production of Villagers. The more Villagers you have, the more resources you&apos;ll have to spend.</loadscreen>
+	<loadscreen name="LOAD_Advanced_Tactics_02" filename="" _locid="200067" minlevel="10" maxlevel="99">Don&apos;t forget to keep training Villagers! Good players might train 50 or more Villagers on a quest.</loadscreen>
+	<loadscreen name="LOAD_Advanced_EliteMode_01" filename="" _locid="200068" minlevel="10" maxlevel="99">To get better loot and a bigger challenge, play repeatable quests in Elite mode. To do this, click the Elite button from the Quest Map before launching into the quest.</loadscreen>
+	<loadscreen name="LOAD_Advanced_Gastraphetes_01" filename="" _locid="200069" minlevel="10" maxlevel="99">Greek Gastraphetes are highly effective against Infantry units.</loadscreen>
+	<loadscreen name="LOAD_Advanced_Hoplite_01" filename="" _locid="200070" minlevel="10" maxlevel="99">Units such as the Hoplite are Heavy Infantry and excel at getting through Anti-Infantry defensive lines.</loadscreen>
+	<loadscreen name="LOAD_Advanced_Palintonons_01" filename="" _locid="200071" minlevel="10" maxlevel="99">Palintonons are powerful long-range Siege units. They unpack automatically to attack, but must be manually packed up to move them again.</loadscreen>
+	<loadscreen name="LOAD_Advanced_Peltasts_01" filename="" _locid="200072" minlevel="10" maxlevel="99">Greek Peltasts are Ranged units that excel against other Ranged units.</loadscreen>
+	<loadscreen name="LOAD_Advanced_Leary_01" filename="" _locid="200073" minlevel="10" maxlevel="99">Keep your eyes peeled for the snappily dressed and light-footed Learicorn. But be careful--he is very sensitive.</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Villagers_02" _locid="200074" minlevel="0" maxlevel="4">Use more than one Villager to speed up the building time.</loadscreen>
+	<loadscreen name="LOAD_RallyPoints" _locid="200075" minlevel="4" maxlevel="99">To send all the units you train at a building to a Rally Point, right-click anywhere on the map.</loadscreen>
+	<loadscreen name="LOAD_RenameCity" _locid="200076" minlevel="1" maxlevel="99">Rename your Capital City on the City Selection menu by clicking the Civilization Card and selecting Rename.</loadscreen>
+	<loadscreen name="Load_Random_Upsell_C01" filename="loadscreentips\Randoms\Load_Random_Upsell_C01.xml" _locid="200900" minlevel="1" maxlevel="99" excludeoffertype="cOfferCivGreek"/>
+	<loadscreen name="Load_Random_Upsell_C02" filename="loadscreentips\Randoms\Load_Random_Upsell_C02.xml" _locid="200901" minlevel="1" maxlevel="99" excludeoffertype="cOfferCivEgyptian"/>
+	<loadscreen name="Load_Random_Upsell_C04" filename="loadscreentips\Randoms\Load_Random_Upsell_C04.xml" _locid="200902" minlevel="1" maxlevel="99" excludeoffertype="cOfferCivPersian"/>
+	<loadscreen name="Load_Random_Upsell_Sparta" filename="loadscreentips\Randoms\Load_Random_Upsell_Sparta.xml" _locid="200903" minlevel="1" maxlevel="99" excludeoffertype="cOfferCivMatching"/>
+	<loadscreen name="Load_Random_Upsell_B01" filename="loadscreentips\Randoms\Load_Random_Upsell_B01.xml" _locid="200904" minlevel="1" maxlevel="99" excludeoffertype="cOfferBooster1"/>
+	<loadscreen name="Load_Random_Upsell_Advisors" filename="loadscreentips\Randoms\Load_Random_Upsell_Advisors.xml" _locid="200905" minlevel="1" maxlevel="99" excludeoffertype="cOfferCivMatching"/>
+	<loadscreen name="Load_Random_CraftingSchool" filename="loadscreentips\Randoms\Load_Random_CraftingSchool.xml" _locid="200906" minlevel="7" maxlevel="9"/>
+	<loadscreen name="Load_Random_CraftingItems1" filename="loadscreentips\Randoms\Load_Random_CraftingItems.xml" _locid="200907" minlevel="8" maxlevel="10"/>
+	<loadscreen name="Load_Random_CraftingItems2" filename="loadscreentips\Randoms\Load_Random_CraftingItems.xml" _locid="200908" minlevel="13" maxlevel="14"/>
+	<loadscreen name="Load_Random_Party_Creation1" filename="loadscreentips\Randoms\Load_Random_Party_Creation.xml" _locid="200909" minlevel="3" maxlevel="7"/>
+	<loadscreen name="Load_Random_Party_Creation2" filename="loadscreentips\Randoms\Load_Random_Party_Creation.xml" _locid="200910" minlevel="11" maxlevel="15"/>
+	<loadscreen name="Load_Random_Party_Creation3" filename="loadscreentips\Randoms\Load_Random_Party_Creation.xml" _locid="200911" minlevel="21" maxlevel="25"/>
+	<loadscreen name="Load_Random_Party_Creation4" filename="loadscreentips\Randoms\Load_Random_Party_Creation.xml" _locid="200912" minlevel="31" maxlevel="35"/>
+	<loadscreen name="Load_Random_Upsell_C" filename="loadscreentips\Randoms\Load_Random_Upsell_B02.xml" _locid="200913" minlevel="1" maxlevel="99" excludeoffertype="cOfferBooster2"/>
+	<loadscreen name="Load_Random_Upsell_C03" filename="loadscreentips\Randoms\Load_Random_Upsell_C03.xml" _locid="200914" minlevel="1" maxlevel="99" excludeoffertype="cOfferCivCeltic"/>
+	<loadscreen name="Load_Random_Booster_Unit_Unlocks" filename="loadscreentips\Randoms\Load_Random_Booster_Unit_Unlocks.xml" _locid="200915" minlevel="1" maxlevel="99"/>
+	<loadscreen name="Load_Random_Upsell_VanityGear_v1" filename="loadscreentips\Randoms\Load_Random_Upsell_VanityGear_v1.xml" _locid="200916" minlevel="1" maxlevel="99"/>
+	<loadscreen name="Load_Random_Upsell_VanityGear_v2" filename="loadscreentips\Randoms\Load_Random_Upsell_VanityGear_v2.xml" _locid="200917" minlevel="1" maxlevel="99"/>
+	<loadscreen name="Load_Random_Upsell_EmpirePoints" filename="loadscreentips\Randoms\Load_Random_Upsell_EmpirePoints.xml" _locid="200918" minlevel="1" maxlevel="99"/>
+	<loadscreen name="Load_Random_Upsell_VanityIsland" filename="loadscreentips\Randoms\Load_Random_Upsell_VanityIsland.xml" _locid="200919" minlevel="1" maxlevel="99"/>
+	<loadscreen name="Load_Random_Upsell_Consumables" filename="loadscreentips\Randoms\Load_Random_Upsell_Consumables.xml" _locid="200920" minlevel="1" maxlevel="99"/>
+	<loadscreen name="Load_Random_Alliance_Carthage" filename="loadscreentips\Randoms\Load_Random_Alliance_Carthage.xml" _locid="200921" minlevel="30" maxlevel="39"/>
+	<loadscreen name="Load_Random_Alliance_Imhotep" filename="loadscreentips\Randoms\Load_Random_Alliance_Imhotep.xml" _locid="200922" minlevel="30" maxlevel="39"/>
+	<loadscreen name="Load_Random_Alliance_Delian" filename="loadscreentips\Randoms\Load_Random_Alliance_Delian.xml" _locid="200923" minlevel="30" maxlevel="39"/>
+	<loadscreen name="Load_Random_Alliances_Metagame" filename="loadscreentips\Randoms\Load_Random_Alliances_Metagame.xml" _locid="200923" minlevel="10" maxlevel="39"/>
+	<loadscreen name="Load_Random_Upsell_B03" filename="loadscreentips\Randoms\Load_Random_Upsell_B03.xml" _locid="200924" minlevel="1" maxlevel="99" excludeoffertype="cOfferBooster3"/>
+	<loadscreen name="Load_Random_Upsell_C06" filename="loadscreentips\Randoms\Load_Random_Upsell_C06.xml" _locid="200925" minlevel="1" maxlevel="99" excludeoffertype="cOfferCivBabylonian"/>
+	<loadscreen name="Load_Random_Feature_EmpireVault" filename="loadscreentips\Randoms\Load_Random_Feature_EmpireVault.xml" _locid="200926" minlevel="1" maxlevel="99" excludeoffertype="cOfferEmpireInventory"/>
+	<loadscreen name="Load_Random_Upsell_C07" filename="loadscreentips\Randoms\Load_Random_Upsell_C07.xml" _locid="200927" minlevel="1" maxlevel="99" excludeoffertype="cOfferCivNorse"/>
+	<loadscreen name="Load_Random_Upsell_B04" filename="loadscreentips\Randoms\Load_Random_Upsell_C07.xml" _locid="200928" minlevel="1" maxlevel="99" excludeoffertype="cOfferBooster4"/>
+	<loadscreen name="Load_Random_Upsell_CityConsumables" filename="loadscreentips\Randoms\Load_Random_Upsell_CityConsumables.xml" _locid="200929" minlevel="1" maxlevel="99"/>
+	<loadscreen name="Load_Celtic_WoadRaider" _locid="200077" minlevel="10" maxlevel="99">The Celtic Woad Raider is a highly effective raiding unit, due to its mobility and high attack damage.</loadscreen>
+	<loadscreen name="Load_Celtic_Champion" _locid="200078" minlevel="10" maxlevel="99">The Celtic Champion is most effective when using its cleave attack against packs of enemies.</loadscreen>
+	<loadscreen name="Load_Celtic_Druid" _locid="200079" minlevel="10" maxlevel="99">Celtic Druids empower friendly units while healing, granting them bonus attack damage.</loadscreen>
+	<loadscreen name="Load_Celtic_LongSwordman" _locid="200080" minlevel="10" maxlevel="99">The Long Swordsman is the heart of the Celtic army with its unrivaled attack strength.</loadscreen>
+	<loadscreen name="Load_Celtic_General01" _locid="200081" minlevel="10" maxlevel="99">The Celts are an Infantry-focused civilization.</loadscreen>
+	<loadscreen name="Load_Celtic_General02" _locid="200082" minlevel="10" maxlevel="99">The Celts can gain powerful buffs through animal sacrifices.</loadscreen>
+	<loadscreen name="Load_Persian_Immortal" _locid="200083" minlevel="10" maxlevel="99">The Persian Immortal is the only Infantry unit that possesses both melee and ranged attacks.</loadscreen>
+	<loadscreen name="Load_Persian_Cataphract" _locid="200084" minlevel="10" maxlevel="99">The Persian Cataphract is a powerful Cavalry unit, effective against both Infantry and Siege units.</loadscreen>
+	<loadscreen name="Load_Persian_WarWagon" _locid="200085" minlevel="10" maxlevel="99">Unlike the Ballista and Catapult, the Persian War Wagon can attack enemy units at close range.</loadscreen>
+	<loadscreen name="Load_Persian_Sparabara" _locid="200086" minlevel="10" maxlevel="99">The Persian Sparabara is best used as a defensive line while Bowmen shower the enemy with deadly arrows.</loadscreen>
+	<loadscreen name="Load_Persian_General01" _locid="200087" minlevel="10" maxlevel="99">The Persians possess powerful Toggle Techs that can be activated and deactivated at anytime.</loadscreen>
+	<loadscreen name="Load_Persian_General02" _locid="200088" minlevel="10" maxlevel="99">The Persian Aid Tent technology upgrades their Storehouses to heal nearby friendly units.</loadscreen>
+	<loadscreen name="Load_Babylonian_OxCart" _locid="200089" minlevel="10" maxlevel="99">The Babylonians do not have a Storehouse; instead, they train Ox Carts that serve as mobile drop sites.</loadscreen>
+	<loadscreen name="Load_Babylonian_ShieldBearer" _locid="200090" minlevel="10" maxlevel="99">The Babylonian Shield Bearer is exceptional at absorbing enemy pierce damage.</loadscreen>
+	<loadscreen name="Load_Babylonian_Lancer" _locid="200091" minlevel="10" maxlevel="99">Upgrade the Babylonian Lancer to employ devastating charge attacks, dealing 3x the normal damage on impact.</loadscreen>
+	<loadscreen name="Load_Babylonian_SiegeTower" _locid="200092" minlevel="10" maxlevel="99">Garrison units inside the Babylonian Siege Tower to gain a ranged attack whose damage is based on the number of sheltered units.</loadscreen>
+	<loadscreen name="Load_Babylonian_General01" _locid="200093" minlevel="10" maxlevel="99">Babylonian Gardens increase the rate at which all units and upgrades are trained or researched.</loadscreen>
+	<loadscreen name="Load_Babylonian_General02" _locid="200094" minlevel="10" maxlevel="99">Command Babylonian Ox Carts to follow gathering Villagers by including them in the selection.</loadscreen>
+	<loadscreen name="Load_Norse_ThrowingAxeman" _locid="200095" minlevel="0" maxlevel="0">Unlike typical Ranged units, like Bowman and Slingers, the Norse Throwing Axeman deals melee-infantry damage from range.</loadscreen>
+	<loadscreen name="Load_Norse_WarDog" _locid="200096" minlevel="0" maxlevel="0">The Norse War Dog moves with great speed and snares its enemies, making it perfect for catching retreating enemies.</loadscreen>
+	<loadscreen name="Load_Norse_Berserker" _locid="200097" minlevel="0" maxlevel="0">The Norse Berserker is an extremely powerful unit, but comes at a hefty cost.</loadscreen>
+	<loadscreen name="Load_Norse_Chief" _locid="200098" minlevel="0" maxlevel="0">The Norse Chief grants extra health to friendly units around him.</loadscreen>
+	<loadscreen name="Load_Norse_General01" _locid="200099" minlevel="0" maxlevel="0">Norse Infantry units can build military production and defensive Buildings.</loadscreen>
+	<loadscreen name="Load_Norse_Gereral02" _locid="200100" minlevel="0" maxlevel="0">The Norse start with two Scouts, one of which can build a Barracks.</loadscreen>
+</loadingscreens>

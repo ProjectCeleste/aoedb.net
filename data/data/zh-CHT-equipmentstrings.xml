@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<stringtable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="0" locstart="700000" locend="799999" loccurrent="700927">
+	<language name="English">
+		<string _locid="700000">織布機</string>
+		<string _locid="700001">增加 &lt;color=0.32 0.65 1.0&gt;村民&lt;/color&gt; 健康。*&lt;color=0.0 1.0 0.0&gt;+50%  生命值&lt;/color&gt;</string>
+		<string _locid="700002">提升&lt;color=0.32 0.65 1.0&gt;村民&lt;/color&gt; 可狩獵動物 &lt;color=0.32 0.65 1.0&gt;採集&lt;/color&gt;速率。*&lt;color=0.0 1.0 0.0&gt;+10% 採集速率&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% 村民 &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;對&lt;/color&gt;&lt;color=0.0 1.0 0.0&gt;動物 &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;傷害&lt;/color&gt;</string>
+		<string _locid="700003">獵犬</string>
+		<string _locid="700004">手推車</string>
+		<string _locid="700005">加快&lt;color=0.32 0.65 1.0&gt;村民&lt;/color&gt; 的效率。*&lt;color=0.0 1.0 0.0&gt;+20% 攜帶能力&lt;/color&gt;</string>
+		<string _locid="700006">手推車</string>
+		<string _locid="700008">倉庫</string>
+		<string _locid="700009">採漿果的手套</string>
+		<string _locid="700010">加快&lt;color=0.32 0.65 1.0&gt;村民&lt;/color&gt;從&lt;color=0.32 0.65 1.0&gt;果實灌木&lt;/color&gt;採果的速度。*&lt;color=0.0 1.0 0.0&gt;+20% 採果率&lt;/color&gt;</string>
+		<string _locid="700021">加快&lt;color=0.32 0.65 1.0&gt;村民&lt;/color&gt;在&lt;color=0.32 0.65 1.0&gt;樹林&lt;/color&gt;伐木的速度。*&lt;color=0.0 1.0 0.0&gt;+12% 伐木率&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+12%  攜行力&lt;/color&gt;</string>
+		<string _locid="700023">加快&lt;color=0.32 0.65 1.0&gt;村民&lt;/color&gt;在&lt;color=0.32 0.65 1.0&gt;農田&lt;/color&gt;耕作的速度。*&lt;color=0.0 1.0 0.0&gt;+12% 農作率&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+12%  攜行力&lt;/color&gt;</string>
+		<string _locid="700025">加快&lt;color=0.32 0.65 1.0&gt;村民&lt;/color&gt;在&lt;color=0.32 0.65 1.0&gt;金礦儲備&lt;/color&gt;採金的速度。*&lt;color=0.0 1.0 0.0&gt;+12% 採金率&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+12% 攜行力&lt;/color&gt;</string>
+		<string _locid="700027">加快&lt;color=0.32 0.65 1.0&gt;村民&lt;/color&gt;在&lt;color=0.32 0.65 1.0&gt;礦場&lt;/color&gt;採石的速度。*&lt;color=0.0 1.0 0.0&gt;+12% 採石率&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+12% 攜行力&lt;/color&gt;</string>
+		<string _locid="700028">碼頭</string>
+		<string _locid="700029">訓練&lt;color=0.32 0.65 1.0&gt;船隻&lt;/color&gt;和&lt;color=0.32 0.65 1.0&gt;戰船&lt;/color&gt;。作為資源卸落點。</string>
+		<string _locid="700031">改善&lt;color=0.32 0.65 1.0&gt;漁船&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+12% 漁獲率 &lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+12% 運輸力&lt;/color&gt;</string>
+		<string _locid="700032">三列槳戰船</string>
+		<string _locid="700033">&lt;color=0.32 0.65 1.0&gt;戰船&lt;/color&gt;單位。優良的全方位戰鬥船。</string>
+		<string _locid="700034">投石三列槳戰船</string>
+		<string _locid="700035">&lt;color=0.32 0.65 1.0&gt;戰船&lt;/color&gt;單位。具有範圍攻擊和對建築物有效的遠程船。</string>
+		<string _locid="700036">火戰船</string>
+		<string _locid="700037">&lt;color=0.32 0.65 1.0&gt;戰船&lt;/color&gt;單位。剋制船隻和戰船的戰術船。</string>
+		<string _locid="700044">運輸商船</string>
+		<string _locid="700045">&lt;color=0.32 0.65 1.0&gt;船隻&lt;/color&gt;單位。可在碼頭間運輸陸地單位和做貿易以獲得黃金。</string>
+		<string _locid="700046">牆</string>
+		<string _locid="700047">建立高強度邊堡和強大的防禦</string>
+		<string _locid="700048">哨崗</string>
+		<string _locid="700049">提供廣闊視野的塔</string>
+		<string _locid="700050">警戒塔</string>
+		<string _locid="700051">為村民提供駐軍的基本防禦建築。</string>
+		<string _locid="700053">增加&lt;color=0.32 0.65 1.0&gt;城牆厚度&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+50% 城牆厚度&lt;/color&gt;</string>
+		<string _locid="700062">重裝步兵</string>
+		<string _locid="700063">&lt;color=0.32 0.65 1.0&gt;步兵&lt;/color&gt;單位。優良的全方位重裝戰士。</string>
+		<string _locid="700064">盾兵</string>
+		<string _locid="700065">&lt;color=0.32 0.65 1.0&gt;步兵&lt;/color&gt;單位。剋制步兵的老練戰士。</string>
+		<string _locid="700078">箭術靶場</string>
+		<string _locid="700079">訓練&lt;color=0.32 0.65 1.0&gt;遠程&lt;/color&gt;單位。</string>
+		<string _locid="700080">輕裝步兵</string>
+		<string _locid="700081">&lt;color=0.32 0.65 1.0&gt;遠程&lt;/color&gt;單位。剋制其他遠程單位的標槍投擲單位。</string>
+		<string _locid="700082">弩手</string>
+		<string _locid="700083">&lt;color=0.32 0.65 1.0&gt;遠程&lt;/color&gt;單位。專剋步兵的長射程、高傷害力弓兵。</string>
+		<string _locid="700096">馬廄</string>
+		<string _locid="700097">訓練&lt;color=0.32 0.65 1.0&gt;騎兵&lt;/color&gt;單位。</string>
+		<string _locid="700098">突擊騎兵</string>
+		<string _locid="700099">&lt;color=0.32 0.65 1.0&gt;騎兵&lt;/color&gt;單位。強大的重裝騎兵戰士。</string>
+		<string _locid="700100">先鋒騎兵</string>
+		<string _locid="700101">&lt;color=0.32 0.65 1.0&gt;騎兵&lt;/color&gt;單位。剋制其他騎兵的快速移動單位。</string>
+		<string _locid="700114">裝甲工廠</string>
+		<string _locid="700115">研究單位升級。</string>
+		<string _locid="700128">攻城武器廠</string>
+		<string _locid="700129">訓練&lt;color=0.32 0.65 1.0&gt;攻城&lt;/color&gt;單位。</string>
+		<string _locid="700130">弩炮</string>
+		<string _locid="700131">&lt;color=0.32 0.65 1.0&gt;攻城&lt;/color&gt;單位。範圍攻擊的遠程單位。</string>
+		<string _locid="700136">市場</string>
+		<string _locid="700137">交易資源。訓練&lt;color=0.32 0.65 1.0&gt;篷車&lt;/color&gt;。</string>
+		<string _locid="700138">篷車</string>
+		<string _locid="700139">&lt;color=0.32 0.65 1.0&gt;工人&lt;/color&gt;單位。在市場和市鎮中心做貿易以賺取黃金。</string>
+		<string _locid="700140">價格調整</string>
+		<string _locid="700141">降低&lt;color=0.32 0.65 1.0&gt;市場&lt;/color&gt;匯率。*&lt;color=0.0 1.0 0.0&gt;減少 40% 購買/出售稅&lt;/color&gt;</string>
+		<string _locid="700142">貿易路線</string>
+		<string _locid="700143">降低貢稅。*&lt;color=0.0 1.0 0.0&gt;減少 50% 貢稅&lt;/color&gt;</string>
+		<string _locid="700144">馬鞍袋</string>
+		<string _locid="700145">增加&lt;color=0.32 0.65 1.0&gt;篷車&lt;/color&gt;交易。*&lt;color=0.0 1.0 0.0&gt;+20% 黃金貿易&lt;/color&gt;</string>
+		<string _locid="700146">要塞</string>
+		<string _locid="700147">強大的防禦建築。訓練&lt;color=0.32 0.65 1.0&gt;床弩&lt;/color&gt;和顧問單位。</string>
+		<string _locid="700148">床弩</string>
+		<string _locid="700149">&lt;color=0.32 0.65 1.0&gt;攻城&lt;/color&gt;單位。可造成小範圍損傷且對建築特別有效的遠程單位。</string>
+		<string _locid="700158">學院</string>
+		<string _locid="700159">高等研究升級。</string>
+		<string _locid="700166">神殿</string>
+		<string _locid="700167">訓練&lt;color=0.32 0.65 1.0&gt;祭司&lt;/color&gt;。</string>
+		<string _locid="700183">軍營</string>
+		<string _locid="700184">訓練&lt;color=0.32 0.65 1.0&gt;步兵&lt;/color&gt;單位。</string>
+		<string _locid="700185">長槍兵</string>
+		<string _locid="700186">&lt;color=0.32 0.65 1.0&gt;步兵&lt;/color&gt;單位。剋制騎兵的基本步兵單位。</string>
+		<string _locid="700188">強化&lt;color=0.32 0.65 1.0&gt;長槍兵&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+15% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% 傷害&lt;/color&gt;</string>
+		<string _locid="700193">長槍兵冠軍</string>
+		<string _locid="700195">強化&lt;color=0.32 0.65 1.0&gt;重裝步兵&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+15% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% 傷害&lt;/color&gt;</string>
+		<string _locid="700197">重裝步兵冠軍</string>
+		<string _locid="700199">強化&lt;color=0.32 0.65 1.0&gt;盾兵&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+15% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% 傷害&lt;/color&gt;</string>
+		<string _locid="700201">盾兵冠軍</string>
+		<string _locid="700202">步弓手</string>
+		<string _locid="700203">&lt;color=0.32 0.65 1.0&gt;遠程&lt;/color&gt;單位。剋制步兵的基本弓手。</string>
+		<string _locid="700205">強化&lt;color=0.32 0.65 1.0&gt;步弓手&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+15% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% 傷害&lt;/color&gt;</string>
+		<string _locid="700207">步弓手冠軍</string>
+		<string _locid="700210">提升&lt;color=0.32 0.65 1.0&gt;輕裝步兵&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+15% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% 傷害&lt;/color&gt;</string>
+		<string _locid="700211">輕裝步兵冠軍</string>
+		<string _locid="700212">弩手冠軍</string>
+		<string _locid="700213">大幅度強化&lt;color=0.32 0.65 1.0&gt;弩手&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700214">槍騎兵</string>
+		<string _locid="700215">&lt;color=0.32 0.65 1.0&gt;騎兵&lt;/color&gt;單位。剋制遠程單位的遠程騎兵單位。</string>
+		<string _locid="700218">槍騎兵冠軍</string>
+		<string _locid="700219">強化&lt;color=0.32 0.65 1.0&gt;槍騎兵&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+15% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% 傷害&lt;/color&gt;</string>
+		<string _locid="700220">突擊騎兵冠軍</string>
+		<string _locid="700221">大幅度強化&lt;color=0.32 0.65 1.0&gt;突擊騎兵&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700223">先鋒騎兵冠軍</string>
+		<string _locid="700224">強化&lt;color=0.32 0.65 1.0&gt;先鋒騎兵&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+15% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% 傷害&lt;/color&gt;</string>
+		<string _locid="700225">攻城槌</string>
+		<string _locid="700226">&lt;color=0.32 0.65 1.0&gt;攻城&lt;/color&gt;單位。只能攻擊建築並且移動緩慢的單位。</string>
+		<string _locid="700228">攻城槌冠軍</string>
+		<string _locid="700229">強化&lt;color=0.32 0.65 1.0&gt;攻城槌&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+15% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% 傷害&lt;/color&gt;</string>
+		<string _locid="700230">弩炮冠軍</string>
+		<string _locid="700231">大幅度強化&lt;color=0.32 0.65 1.0&gt;弩炮&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700244">圍牆</string>
+		<string _locid="700245">堤牆</string>
+		<string _locid="700246">城牆</string>
+		<string _locid="700248">強化塔樓</string>
+		<string _locid="700250">要塞塔樓</string>
+		<string _locid="700251">強化&lt;color=0.32 0.65 1.0&gt;警戒塔&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% 傷害&lt;/color&gt;</string>
+		<string _locid="700253">漁船</string>
+		<string _locid="700254">&lt;color=0.32 0.65 1.0&gt;船隻&lt;/color&gt;單位。 可捕魚做為食物和修理其他船隻。</string>
+		<string _locid="700259">三列槳戰船冠軍</string>
+		<string _locid="700260">強化&lt;color=0.32 0.65 1.0&gt;三列槳戰船&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+15% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% 傷害&lt;/color&gt;</string>
+		<string _locid="700262">火戰船冠軍</string>
+		<string _locid="700263">價格變更</string>
+		<string _locid="700264">航道</string>
+		<string _locid="700279">增加&lt;color=0.32 0.65 1.0&gt;步兵&lt;/color&gt;傷害。*&lt;color=0.0 1.0 0.0&gt;+10% 傷害&lt;/color&gt;</string>
+		<string _locid="700283">增加&lt;color=0.32 0.65 1.0&gt;遠程&lt;/color&gt; 傷害。*&lt;color=0.0 1.0 0.0&gt;+10% 傷害&lt;/color&gt;</string>
+		<string _locid="700293">床弩冠軍</string>
+		<string _locid="700294">大幅度強化&lt;color=0.32 0.65 1.0&gt;床弩&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700295">祭司</string>
+		<string _locid="700296">&lt;color=0.32 0.65 1.0&gt;後勤&lt;/color&gt;單位。可變節敵方單位和治療戰後受傷的友方單位。</string>
+		<string _locid="700297">農田</string>
+		<string _locid="700298">提供可供村民採集的無限食物。</string>
+		<string _locid="700299">投石三列槳戰船冠軍</string>
+		<string _locid="700300">大幅度強化&lt;color=0.32 0.65 1.0&gt;投石三列槳戰船&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700301">強化&lt;color=0.32 0.65 1.0&gt;火戰船&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+15% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% 傷害&lt;/color&gt;</string>
+		<string _locid="700364">石匠</string>
+		<string _locid="700365">強化&lt;color=0.32 0.65 1.0&gt;建築物&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;</string>
+		<string _locid="700366">神聖靈視</string>
+		<string _locid="700367">強化&lt;color=0.32 0.65 1.0&gt;祭司&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+20% 變節範圍&lt;/color&gt;</string>
+		<string _locid="700376">用於減少採集距離的資源卸落點。</string>
+		<string _locid="700377">市鎮中心</string>
+		<string _locid="700378">訓練&lt;color=0.32 0.65 1.0&gt;村民&lt;/color&gt;。作為資源卸落點。人口上限增加 20 人。</string>
+		<string _locid="700379">村民</string>
+		<string _locid="700380">&lt;color=0.32 0.65 1.0&gt;工人&lt;/color&gt;單位。 採集資源，建造建築物和修理建築物及攻城單位。</string>
+		<string _locid="700381">投石手單位</string>
+		<string _locid="700385">投石手冠軍</string>
+		<string _locid="700386">斧手</string>
+		<string _locid="700389">斧手冠軍</string>
+		<string _locid="700391">訓練&lt;color=0.32 0.65 1.0&gt;駱駝騎兵&lt;/color&gt;和&lt;color=0.32 0.65 1.0&gt;戰車弓兵&lt;/color&gt;。</string>
+		<string _locid="700392">馬廄</string>
+		<string _locid="700393">戰車弓兵</string>
+		<string _locid="700394">&lt;color=0.32 0.65 1.0&gt;遠程&lt;/color&gt;單位。快速騎弓兵。</string>
+		<string _locid="700396">戰車弓兵冠軍</string>
+		<string _locid="700399">駱駝騎兵</string>
+		<string _locid="700401">駱駝騎兵冠軍</string>
+		<string _locid="700405">戰象</string>
+		<string _locid="700406">&lt;color=0.32 0.65 1.0&gt;騎兵&lt;/color&gt;單位。具有範圍攻擊和剋制攻城單位及建築物的強大騎乘戰士。</string>
+		<string _locid="700407">戰象冠軍</string>
+		<string _locid="700408">戰象弓兵</string>
+		<string _locid="700410">&lt;color=0.32 0.65 1.0&gt;遠程&lt;/color&gt;單位。強大的具有小型範圍攻擊的騎乘弓兵。</string>
+		<string _locid="700411">戰象弓兵冠軍</string>
+		<string _locid="700413">大幅度強化&lt;color=0.32 0.65 1.0&gt;戰象弓兵&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700414">訓練&lt;color=0.32 0.65 1.0&gt;攻城&lt;/color&gt;單位。</string>
+		<string _locid="700415">攻城塔樓</string>
+		<string _locid="700417">攻城塔樓冠軍</string>
+		<string _locid="700419">投石器</string>
+		<string _locid="700421">&lt;color=0.32 0.65 1.0&gt;攻城&lt;/color&gt;單位。具有範圍攻擊的遠程攻城單位。</string>
+		<string _locid="700422">投石器冠軍</string>
+		<string _locid="700423">大幅度強化&lt;color=0.32 0.65 1.0&gt;投石器&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700430">強大的防禦建築物。訓練&lt;color=0.32 0.65 1.0&gt;戰象&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;戰象弓兵&lt;/color&gt;,和顧問單位。</string>
+		<string _locid="700431">戰爭學院</string>
+		<string _locid="700432">拉神神殿</string>
+		<string _locid="700434">塞特神殿</string>
+		<string _locid="700435">訓練&lt;color=0.32 0.65 1.0&gt;賽特祭司&lt;/color&gt;。發展至白銀時代的文明。</string>
+		<string _locid="700436">布塔神殿</string>
+		<string _locid="700437">訓練&lt;color=0.32 0.65 1.0&gt;布塔祭司&lt;/color&gt;。發展至黃金時代的文明。</string>
+		<string _locid="700439">&lt;color=0.32 0.65 1.0&gt;後勤&lt;/color&gt;單位。可加快建築物經濟和訓練速度。在小範圍內治療友方單位。</string>
+		<string _locid="700441">訓練&lt;color=0.32 0.65 1.0&gt;拉神女祭司&lt;/color&gt;。發展至青銅時代的文明。</string>
+		<string _locid="700442">拉神女祭司</string>
+		<string _locid="700444">塞特祭司</string>
+		<string _locid="700445">&lt;color=0.32 0.65 1.0&gt;後勤&lt;/color&gt;單位。混亂敵方單位，使他們自相殘殺。治療退出戰鬥的友方單位。</string>
+		<string _locid="700446">布塔祭司</string>
+		<string _locid="700447">&lt;color=0.32 0.65 1.0&gt;後勤&lt;/color&gt;單位。轉變多個敵方單位和小型建築物。治療退出戰鬥的友方單位。</string>
+		<string _locid="700448">拉神之觸</string>
+		<string _locid="700449">強化&lt;color=0.32 0.65 1.0&gt;拉神女祭司&lt;/color&gt;，&lt;color=0.32 0.65 1.0&gt;賽特祭司&lt;/color&gt;，&lt;color=0.32 0.65 1.0&gt;布塔祭司&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+40% 治療速率&lt;/color&gt;</string>
+		<string _locid="700450">太陽之眼</string>
+		<string _locid="700451">強化&lt;color=0.32 0.65 1.0&gt;拉神女祭司&lt;/color&gt;，&lt;color=0.32 0.65 1.0&gt;賽特祭司&lt;/color&gt;，&lt;color=0.32 0.65 1.0&gt;布塔祭司&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 治療範圍&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 混亂範圍&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25%變節範圍&lt;/color&gt;</string>
+		<string _locid="700452">血祭</string>
+		<string _locid="700453">減少&lt;color=0.32 0.65 1.0&gt;拉神女祭司&lt;/color&gt;，&lt;color=0.32 0.65 1.0&gt;賽特祭司&lt;/color&gt;，&lt;color=0.32 0.65 1.0&gt;布塔祭司&lt;/color&gt;的訓練時間。*&lt;color=0.0 1.0 0.0&gt;-40% 訓練時間&lt;/color&gt;</string>
+		<string _locid="700454">眼鏡蛇的精華</string>
+		<string _locid="700455">強化&lt;color=0.32 0.65 1.0&gt;拉神女祭司&lt;/color&gt;，&lt;color=0.32 0.65 1.0&gt;賽特祭司&lt;/color&gt;，&lt;color=0.32 0.65 1.0&gt;布塔祭司&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+30% 移動速度&lt;/color&gt;</string>
+		<string _locid="700456">眾神的力量</string>
+		<string _locid="700457">強化 &lt;color=0.32 0.65 1.0&gt;拉神女祭司&lt;/color&gt;，&lt;color=0.32 0.65 1.0&gt;賽特祭司&lt;/color&gt;，&lt;color=0.32 0.65 1.0&gt;布塔祭司&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+50% 生命值&lt;/color&gt;</string>
+		<string _locid="700458">神的創造</string>
+		<string _locid="700459">減少&lt;color=0.32 0.65 1.0&gt;拉神女祭司&lt;/color&gt;、&lt;color=0.32 0.65 1.0&gt;賽特祭司&lt;/color&gt;、 &lt;color=0.32 0.65 1.0&gt;布塔祭司&lt;/color&gt;的訓練時間。*&lt;color=0.0 1.0 0.0&gt;減少 40% 訓練時間&lt;/color&gt;</string>
+		<string _locid="700485">銅時代科技</string>
+		<string _locid="700486">此列中已解除鎖定的科技可在任務進行中立即啟用。</string>
+		<string _locid="700487">青銅時代科技</string>
+		<string _locid="700488">到達青銅時代可將此列科技解除鎖定。</string>
+		<string _locid="700489">白銀時代科技</string>
+		<string _locid="700490">到達白銀時代可將此列科技解除鎖定。</string>
+		<string _locid="700491">黃金時代科技</string>
+		<string _locid="700492">到達黃金時代可將此列科技解除鎖定。</string>
+		<string _locid="700496">房舍</string>
+		<string _locid="700497">人口上限增加 5 人</string>
+		<string _locid="700498">奇觀</string>
+		<string _locid="700499">在一段時間內持有一個奇觀，可在玩家對玩家的小規模遊戲中取得勝利。</string>
+		<string _locid="700500">斥候</string>
+		<string _locid="700501">&lt;color=0.32 0.65 1.0&gt;斥候&lt;/color&gt;單位。擅長探索地圖的快速移動單位。</string>
+		<string _locid="700502">弩炮三列槳戰船</string>
+		<string _locid="700503">弩炮三列槳戰船冠軍</string>
+		<string _locid="700504">大幅度強化&lt;color=0.32 0.65 1.0&gt;弩炮三列槳戰船&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700505">大幅度強化&lt;color=0.32 0.65 1.0&gt;長槍兵&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700512">大幅度強化&lt;color=0.32 0.65 1.0&gt;攻城槌&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700516">大幅度強化&lt;color=0.32 0.65 1.0&gt;長槍兵&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700517">大幅度強化&lt;color=0.32 0.65 1.0&gt;投石手&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700518">大幅度強化&lt;color=0.32 0.65 1.0&gt;斧手&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700519">大幅度強化&lt;color=0.32 0.65 1.0&gt;戰車弓兵&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700520">大幅度強化&lt;color=0.32 0.65 1.0&gt;駱駝騎兵&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700521">大幅度強化&lt;color=0.32 0.65 1.0&gt;戰象&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700522">大幅度強化&lt;color=0.32 0.65 1.0&gt;攻城塔&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700527">長劍兵</string>
+		<string _locid="700528">虎賁</string>
+		<string _locid="700529">弓箭兵</string>
+		<string _locid="700530">攻城木</string>
+		<string _locid="700531">騎兵</string>
+		<string _locid="700532">雙輪馬車</string>
+		<string _locid="700533">菘藍突擊者</string>
+		<string _locid="700534">大法師</string>
+		<string _locid="700535">金礦</string>
+		<string _locid="700536">德魯伊</string>
+		<string _locid="700537">占卜師</string>
+		<string _locid="700538">神聖樹林</string>
+		<string _locid="700539">吟遊詩人大廳</string>
+		<string _locid="700543">貨物膨脹</string>
+		<string _locid="700544">提高&lt;color=0.32 0.65 1.0&gt;運輸商船&lt;/color&gt;能力。*&lt;color=0.0 1.0 0.0&gt;+8 攜帶能力&lt;/color&gt;</string>
+		<string _locid="700547">天鵝船</string>
+		<string _locid="700551">天鵝船冠軍</string>
+		<string _locid="700552">戰爭召喚</string>
+		<string _locid="700553">強化&lt;color=0.32 0.65 1.0&gt;村民&lt;/color&gt;傷害加成。*&lt;color=0.0 1.0 0.0&gt;提升 100% 傷害加成&lt;/color&gt;</string>
+		<string _locid="700557">長劍兵冠軍</string>
+		<string _locid="700558">大幅度強化&lt;color=0.32 0.65 1.0&gt;長劍兵&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700559">虎賁冠軍</string>
+		<string _locid="700560">大幅度強化&lt;color=0.32 0.65 1.0&gt;虎賁&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700562">攻城木冠軍</string>
+		<string _locid="700568">弓箭兵冠軍</string>
+		<string _locid="700569">大幅度強化&lt;color=0.32 0.65 1.0&gt;弓箭兵&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700573">騎兵冠軍</string>
+		<string _locid="700574">大幅度強化&lt;color=0.32 0.65 1.0&gt;騎兵&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700575">雙輪馬車冠軍</string>
+		<string _locid="700576">大幅度強化&lt;color=0.32 0.65 1.0&gt;雙輪馬車&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700578">菘藍突襲冠軍</string>
+		<string _locid="700580">大幅度強化&lt;color=0.32 0.65 1.0&gt;菘藍突襲者&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700583">凱爾特狂熱</string>
+		<string _locid="700585">巴洛的禮物</string>
+		<string _locid="700586">強化&lt;color=0.32 0.65 1.0&gt;德魯伊&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700587">賽奎阿納的禮物</string>
+		<string _locid="700588">強化&lt;color=0.32 0.65 1.0&gt;德魯伊&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+40% 治療率&lt;/color&gt;</string>
+		<string _locid="700589">達馬拉儀式</string>
+		<string _locid="700590">賦予&lt;color=0.32 0.65 1.0&gt;占卜師&lt;/color&gt;加快獻祭動物&lt;color=0.0 1.0 0.0&gt;減少 20% 訓練時間&lt;/color&gt;的能力。並在短時間內影響所有的 &lt;color=0.32 0.65 1.0&gt;建築物&lt;/color&gt;。</string>
+		<string _locid="700591">安卓斯塔儀式</string>
+		<string _locid="700592">賦予&lt;color=0.32 0.65 1.0&gt;占卜師&lt;/color&gt;獻祭動物時提高&lt;color=0.0 1.0 0.0&gt;+15% 傷害&lt;/color&gt;的能力。 在短時間內影響所有的&lt;color=0.32 0.65 1.0&gt;軍事單位&lt;/color&gt;。</string>
+		<string _locid="700593">魯地歐巴斯儀式</string>
+		<string _locid="700594">賦予&lt;color=0.32 0.65 1.0&gt;占卜師&lt;/color&gt;獻祭動物時提高&lt;color=0.0 1.0 0.0&gt;+15% 移動速度&lt;/color&gt; 的能力。在短時間內影響所有的&lt;color=0.32 0.65 1.0&gt;軍事單位&lt;/color&gt;。</string>
+		<string _locid="700595">蕾緹絲儀式</string>
+		<string _locid="700596">賦予&lt;color=0.32 0.65 1.0&gt;占卜師&lt;/color&gt;獻祭動物時提高&lt;color=0.0 1.0 0.0&gt;+30% 對建築物傷害&lt;/color&gt;的能力。在短時間內影響所有的&lt;color=0.32 0.65 1.0&gt;軍事單位&lt;/color&gt;。</string>
+		<string _locid="700600">木板道</string>
+		<string _locid="700601">強化&lt;color=0.32 0.65 1.0&gt;篷車&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+30% 移動速度&lt;/color&gt;</string>
+		<string _locid="700627">增加&lt;color=0.32 0.65 1.0&gt;步兵&lt;/color&gt;生命值。*&lt;color=0.0 1.0 0.0&gt;提升 15% 生命值&lt;/color&gt;</string>
+		<string _locid="700628">哲學</string>
+		<string _locid="700629">減少所有研究升級時間。*&lt;color=0.0 1.0 0.0&gt;-40% 研究時間&lt;/color&gt;</string>
+		<string _locid="700630">徵兵員</string>
+		<string _locid="700631">減少&lt;color=0.32 0.65 1.0&gt;步兵&lt;/color&gt;、 &lt;color=0.32 0.65 1.0&gt;遠距單位&lt;/color&gt;、&lt;color=0.32 0.65 1.0&gt;騎兵&lt;/color&gt;訓練時間。*&lt;color=0.0 1.0 0.0&gt;減少 25% 訓練時間&lt;/color&gt;</string>
+		<string _locid="700632">謀殺孔</string>
+		<string _locid="700633">強化&lt;color=0.32 0.65 1.0&gt;警戒塔&lt;/color&gt;並去除其最小攻擊範圍。*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700634">希臘火彈</string>
+		<string _locid="700635">增加弓箭對建築物的傷害。效果：&lt;color=0.32 0.65 1.0&gt;遠程&lt;/color&gt;，&lt;color=0.32 0.65 1.0&gt;建築物&lt;/color&gt;，&lt;color=0.32 0.65 1.0&gt;船隻&lt;/color&gt;，&lt;color=0.32 0.65 1.0&gt;戰船&lt;/color&gt;，&lt;color=0.32 0.65 1.0&gt;槍騎兵&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+50% 對建築物 &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;的傷害&lt;/color&gt;</string>
+		<string _locid="700636">&lt;color=0.32 0.65 1.0&gt;步兵&lt;/color&gt;單位。具有小範圍攻擊的重裝戰士。</string>
+		<string _locid="700637">&lt;color=0.32 0.65 1.0&gt;遠距&lt;/color&gt;單位。擅長剋制其他遠距單位的快速但堅固的戰車戰士。</string>
+		<string _locid="700638">&lt;color=0.32 0.65 1.0&gt;步兵&lt;/color&gt;單位。剋制村民、攻城單位和建築物的快速，重擊戰士。</string>
+		<string _locid="700639">強大的防禦建築物。訓練&lt;color=0.32 0.65 1.0&gt;攻城槌&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;投石弩&lt;/color&gt;, 和顧問單位</string>
+		<string _locid="700640">駐軍村民可不需要卸落點採集黃金。</string>
+		<string _locid="700641">&lt;color=0.32 0.65 1.0&gt;支援&lt;/color&gt;單位。可治療友方單位和增加傷害的有效戰鬥單位。</string>
+		<string _locid="700642">步兵研究升級。</string>
+		<string _locid="700643">訓練&lt;color=0.32 0.65 1.0&gt;後勤&lt;/color&gt;單位和&lt;color=0.32 0.65 1.0&gt;聖鹿&lt;/color&gt;。</string>
+		<string _locid="700644">&lt;color=0.32 0.65 1.0&gt;支援&lt;/color&gt;單位。使敵方單位變節和在戰鬥結束後治療友方單位。並可學習犧牲動物的儀式。</string>
+		<string _locid="700645">大幅度強化&lt;color=0.32 0.65 1.0&gt;天鵝船&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;提升 25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt; 25% 傷害加成&lt;/color&gt;</string>
+		<string _locid="700646">中型騎兵</string>
+		<string _locid="700648">增加&lt;color=0.32 0.65 1.0&gt;步兵&lt;/color&gt;移動速度。*&lt;color=0.0 1.0 0.0&gt;+10% 移動速度&lt;/color&gt;</string>
+		<string _locid="700649">&lt;color=0.32 0.65 1.0&gt;遠程&lt;/color&gt;單位。有效剋制其他遠程單位的標槍投擲單位。</string>
+		<string _locid="700650">&lt;color=0.32 0.65 1.0&gt;遠程&lt;/color&gt;單位。有效剋制其他遠程單位的弱小投石單位。</string>
+		<string _locid="700655">增加&lt;color=0.32 0.65 1.0&gt;村民&lt;/color&gt;效率。*&lt;color=0.0 1.0 0.0&gt;+25% 攜帶能力&lt;/color&gt;</string>
+		<string _locid="700656">大幅度強化&lt;color=0.32 0.65 1.0&gt;波斯混合方陣兵&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700658">波斯混合方陣兵</string>
+		<string _locid="700662">波斯混合方陣兵冠軍</string>
+		<string _locid="700663">&lt;color=0.32 0.65 1.0&gt;步兵&lt;/color&gt; 單位。能很好地吸收傷害的基本步兵單位。</string>
+		<string _locid="700664">不死戰士營地</string>
+		<string _locid="700665">訓練&lt;color=0.32 0.65 1.0&gt;不死戰士&lt;/color&gt;。</string>
+		<string _locid="700666">不死戰士</string>
+		<string _locid="700667">&lt;color=0.32 0.65 1.0&gt;步兵&lt;/color&gt;單位。有效攻克步兵的全面、遠程和近戰戰士。</string>
+		<string _locid="700669">不死戰士冠軍</string>
+		<string _locid="700670">大幅度強化&lt;color=0.32 0.65 1.0&gt;東方輕步兵&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700672">極大地強化&lt;color=0.32 0.65 1.0&gt;不死戰士&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;提升 25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt; 增加25% 傷害&lt;/color&gt;</string>
+		<string _locid="700675">東方輕步兵</string>
+		<string _locid="700677">東方輕步兵冠軍</string>
+		<string _locid="700680">騎乘弓兵</string>
+		<string _locid="700682">騎乘弓兵冠軍</string>
+		<string _locid="700683">殘忍的狂熱者</string>
+		<string _locid="700685">大幅度強化&lt;color=0.32 0.65 1.0&gt;中型騎兵&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700687">極大地強化&lt;color=0.32 0.65 1.0&gt;騎乘弓兵&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;提升 25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt; 增加25% 傷害&lt;/color&gt;</string>
+		<string _locid="700688">重甲騎兵</string>
+		<string _locid="700689">重甲騎兵冠軍</string>
+		<string _locid="700690">大幅度強化&lt;color=0.32 0.65 1.0&gt;投石器&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700691">戰車</string>
+		<string _locid="700692">戰車冠軍</string>
+		<string _locid="700693">極大地強化 &lt;color=0.32 0.65 1.0&gt;戰車&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;提長 25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt; 增加25% 傷害&lt;/color&gt;</string>
+		<string _locid="700694">急救帳篷</string>
+		<string _locid="700695">弩炮戰船</string>
+		<string _locid="700698">弩炮戰船冠軍</string>
+		<string _locid="700699">攻城戰船</string>
+		<string _locid="700701">極大地強化&lt;color=0.32 0.65 1.0&gt;弩炮戰船&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;提升 25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;增加25% 傷害&lt;/color&gt;</string>
+		<string _locid="700703">攻城戰船冠軍</string>
+		<string _locid="700704">投石三列槳戰船</string>
+		<string _locid="700705">極大地強化&lt;color=0.32 0.65 1.0&gt;投石三列槳戰船&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;提升 25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;增加25% 傷害&lt;/color&gt;</string>
+		<string _locid="700706">投石戰船冠軍</string>
+		<string _locid="700707">有酬勞工</string>
+		<string _locid="700709">大幅度強化&lt;color=0.32 0.65 1.0&gt;攻城戰船&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;+25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% 傷害&lt;/color&gt;</string>
+		<string _locid="700711">嚴格的訓練</string>
+		<string _locid="700712">盾墻</string>
+		<string _locid="700713">遮天蔽日</string>
+		<string _locid="700714">皇家道路</string>
+		<string _locid="700715">無編號</string>
+		<string _locid="700738">強化&lt;color=0.32 0.65 1.0&gt;大法師&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;提升 50% 轉換率&lt;/color&gt;</string>
+		<string _locid="700740">弓箭兵冠軍</string>
+		<string _locid="700742">賦予&lt;color=0.32 0.65 1.0&gt;倉庫&lt;/color&gt;治療附近友方單位的能力。</string>
+		<string _locid="700745">投石器</string>
+		<string _locid="700759">降低&lt;color=0.32 0.65 1.0&gt;村民訓練時間&lt;/color&gt;，但將他們的成本變為黃金。*&lt;color=0.0 1.0 0.0&gt;減少 50% 訓練時間&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;成本變為 80% 黃金&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;可快速開啟/關閉&lt;/color&gt;</string>
+		<string _locid="700761">極大地強化&lt;color=0.32 0.65 1.0&gt; 攻城木&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt; +25%生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt; 傷害+25% &lt;/color&gt;</string>
+		<string _locid="700765">投石器冠軍</string>
+		<string _locid="700769">減少&lt;color=0.32 0.65 1.0&gt;軍營&lt;/color&gt;、 &lt;color=0.32 0.65 1.0&gt;箭術靶場&lt;/color&gt;和&lt;color=0.32 0.65 1.0&gt;馬廄單位訓練時間&lt;/color&gt;，但增加他們的成本。*&lt;color=0.0 1.0 0.0&gt;減少 30% 訓練時間&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;增加 15% 成本&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;可快速開啟/關閉&lt;/color&gt;</string>
+		<string _locid="700770">增加&lt;color=0.32 0.65 1.0&gt;波斯混合方陣兵&lt;/color&gt; 生命值和攻城護甲，但降低他們的速度。*&lt;color=0.0 1.0 0.0&gt;提升 20% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;增加 300% 攻城護甲&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;降低 10% 移動速度&lt;/color&gt;</string>
+		<string _locid="700772">提升&lt;color=0.32 0.65 1.0&gt;弓兵&lt;/color&gt;和 &lt;color=0.32 0.65 1.0&gt;東方輕步兵攻擊範圍&lt;/color&gt;，但降低他們生命值。*&lt;color=0.0 1.0 0.0&gt;提升 30% 最大攻擊範圍&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;降低 15% 生命值&lt;/color&gt;</string>
+		<string _locid="700773">減少&lt;color=0.32 0.65 1.0&gt;不死戰士營地&lt;/color&gt;、&lt;color=0.32 0.65 1.0&gt;攻城武器廠&lt;/color&gt;和&lt;color=0.32 0.65 1.0&gt;要塞單位的訓練時間&lt;/color&gt;，但增加他們的成本。*&lt;color=0.0 1.0 0.0&gt;減少 60% 訓練時間&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;增加 30% 成本&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;可快速開啟/關閉&lt;/color&gt;</string>
+		<string _locid="700779">&lt;color=0.32 0.65 1.0&gt;攻城&lt;/color&gt;單位。有效攻克建築物的便宜、快速單位。</string>
+		<string _locid="700784">中型騎兵冠軍</string>
+		<string _locid="700785">&lt;color=0.32 0.65 1.0&gt;騎兵&lt;/color&gt;單位。優秀的全能騎乘戰士。</string>
+		<string _locid="700786">&lt;color=0.32 0.65 1.0&gt;遠程&lt;/color&gt;單位。有效攻克騎兵的騎乘弓兵。</string>
+		<string _locid="700787">&lt;color=0.32 0.65 1.0&gt;騎兵&lt;/color&gt;單位。有效攻克步兵的重裝、騎乘戰士。</string>
+		<string _locid="700788">&lt;color=0.32 0.65 1.0&gt;攻城&lt;/color&gt;單位。有效攻克遠程單位和具備範圍攻擊遠程攻城單位。</string>
+		<string _locid="700789">強化&lt;color=0.32 0.65 1.0&gt;步兵&lt;/color&gt;傷害。*&lt;color=0.0 1.0 0.0&gt;提升 15% 傷害&lt;/color&gt;</string>
+		<string _locid="700790">訓練大法师。研究高階升級。</string>
+		<string _locid="700791">聖鹿</string>
+		<string _locid="700792">&lt;color=0.32 0.65 1.0&gt;畜牧&lt;/color&gt;單位。可用作食物來源或可由占卜師進行獻祭的動物。</string>
+		<string _locid="700793">大幅度強化&lt;color=0.32 0.65 1.0&gt;投石器&lt;/color&gt;。*&lt;color=0.0 1.0 0.0&gt;提升 25% 生命值&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;提升 25% 傷害&lt;/color&gt;</string>
+		<string _locid="700794">（未使用）</string>
+		<string _locid="700830">訓練&lt;color=0.32 0.65 1.0&gt;遠距&lt;/color&gt;和&lt;color=0.32 0.65 1.0&gt;騎兵&lt;/color&gt;單位。</string>
+	</language>
+</stringtable>

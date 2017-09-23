@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<loadingscreens xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" locstart="200000" locend="200999" loccurrent="200077">
+	<loadscreen name="LOAD_StartingPlayer_Chat_01" filename="" _locid="200000" minlevel="0" maxlevel="4">如果您卡住，使用交談視窗來獲取其他玩家的幫助。</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Food_01" filename="" _locid="200001" minlevel="0" maxlevel="4">訓練村民和軍事單位時需要食物。</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Wood_01" filename="" _locid="200002" minlevel="0" maxlevel="4">建造建築物時需要木材。</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Gold_01" filename="" _locid="200003" minlevel="0" maxlevel="4">大部份軍事單位需要黃金。</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Villagers_01" filename="" _locid="200004" minlevel="0" maxlevel="4">村民可以採集資源、建造和修理建築物。</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Villagers_02" filename="" _locid="200005" minlevel="0" maxlevel="4">被派去採集食物、木材、石頭或金礦的村民會一直採集直到資源耗盡，或你讓他們去做其他事情。</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Spearmen_01" filename="" _locid="200006" minlevel="0" maxlevel="4">長槍兵是唯一能再第一時代建造的戰鬥單位。馬上建造少量的長槍兵提供必要的防守，也可進行初期的衝鋒。</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Materials_01" filename="" _locid="200007" minlevel="0" maxlevel="4">如果您幸運的能早點獲取材料，儲存它們。您將會稍後在首都內建造新建築物、研發新裝備和其他目標時使用它們。</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Scout_01" filename="" _locid="200008" minlevel="0" maxlevel="4">您的斥候移動快速並具有廣闊的視野。可以使用斥候來快速探索資源。</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Scout_02" filename="" _locid="200009" minlevel="0" maxlevel="4">使用斥候來標記您的敵人。請務必保護他，每個任務您僅能獲得一名斥候。</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Coin_01" filename="" _locid="200010" minlevel="0" maxlevel="4">在首都中，您可使用錢幣在商店中購買物品。您不需要在首都中使用村民採集食物、木材、黃金或石頭。</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Inventory_01" filename="" _locid="200011" minlevel="0" maxlevel="4">您可能會找到或贈予一些物品，這些物品會直接收入您的物品欄。如果您不知道如何處理他們，沒關係。可先把他們放在物品欄內以後再說。</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Minimap_01" filename="" _locid="200012" minlevel="0" maxlevel="4">迷你地圖允許您查看已經探索過的地方。注意地圖上的紅點：那些是敵人。</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Objectives_01" filename="" _locid="200013" minlevel="0" maxlevel="4">螢幕右側顯示目前的任務目標。 按任務地圖圖示查看更多詳細資訊。</loadscreen>
+	<loadscreen name="LOAD_Standard_ShortCut_01" filename="" _locid="200014" minlevel="4" maxlevel="99">要查看您目前正在執行的任務和等待上交的已完成任務，按 L 鍵。</loadscreen>
+	<loadscreen name="LOAD_Standard_ShortCut_04" filename="" _locid="200017" minlevel="4" maxlevel="99">為了同時排隊訓練五個單位，請在訓練時按住 SHIFT 鍵。</loadscreen>
+	<loadscreen name="LOAD_Standard_ShortCut_05" filename="" _locid="200018" minlevel="4" maxlevel="99">要放置單位跟隨的中繼點，按住 Shift 鍵，再下達移動命令。</loadscreen>
+	<loadscreen name="LOAD_Standard_Villager_01" filename="" _locid="200019" minlevel="4" maxlevel="99">要保護村民免受傷害，您可將他們聚集到市鎮中心和警戒塔內。但是，這樣會中斷他們採集資源。</loadscreen>
+	<loadscreen name="LOAD_Standard_Villager_02" filename="" _locid="200020" minlevel="4" maxlevel="99">村民可修理受損的攻城單位以及建築物和海軍單位。</loadscreen>
+	<loadscreen name="LOAD_Standard_Villager_03" filename="" _locid="200021" minlevel="4" maxlevel="99">村民可修理受損的海軍單位，如漁船、運輸商船和散列將戰船。</loadscreen>
+	<loadscreen name="LOAD_Standard_Villager_04" filename="" _locid="200022" minlevel="4" maxlevel="99">您知道村民可從離近岸處的釣魚點中採集食物嗎？</loadscreen>
+	<loadscreen name="LOAD_Standard_Villager_05" filename="" _locid="200023" minlevel="4" maxlevel="99">如果敵人想在您附近建造，您的村民會攻擊他們的建築物。</loadscreen>
+	<loadscreen name="LOAD_Standard_Villager_06" filename="" _locid="200024" minlevel="4" maxlevel="99">如果您將村民全部選中並給予採集農田、樹木或漿果業的命令，他們將自動分組並執行任務。</loadscreen>
+	<loadscreen name="LOAD_Standard_Villager_07" filename="" _locid="200025" minlevel="4" maxlevel="99">要自動指派新訓練的村民去採集或建造，在選取市鎮中心時，在所需的資源或建築物上按一下滑鼠右鍵。</loadscreen>
+	<loadscreen name="LOAD_Standard_Docks_01" filename="" _locid="200026" minlevel="4" maxlevel="99">你知不知道碼頭是所有資源類型的卸落點？</loadscreen>
+	<loadscreen name="LOAD_Standard_Wood_01" filename="" _locid="200027" minlevel="4" maxlevel="99">要訓練海軍單位、弓兵和攻城單位，請務必儲存大量的木材。</loadscreen>
+	<loadscreen name="LOAD_Standard_Stone_01" filename="" _locid="200028" minlevel="4" maxlevel="99">石頭可用來建造警戒塔。</loadscreen>
+	<loadscreen name="LOAD_Standard_Materials_01" filename="" _locid="200029" minlevel="4" maxlevel="99">可完成任務和使用作坊來獲取材料。您還可以在商店中，如雜貨店購買材料。</loadscreen>
+	<loadscreen name="LOAD_Standard_Materials_02" filename="" _locid="200030" minlevel="4" maxlevel="99">所有材料可以堆的方式儲存。合併小堆以節省物品欄空間。</loadscreen>
+	<loadscreen name="LOAD_Standard_Party_01" filename="" _locid="200031" minlevel="4" maxlevel="99">要組建隊伍，在交談視窗中的玩家名稱上按一下滑鼠右鍵，再選取邀請。或是在好友名單中的圖示上按一下就可找到相同的選擇。</loadscreen>
+	<loadscreen name="LOAD_Standard_Stores_01" filename="" _locid="200032" minlevel="4" maxlevel="99">您可在 世紀帝國 Online 遊戲中發現許多不同的商店。別忘記在您造訪其他玩家首都時，到他們的商店裡購物。</loadscreen>
+	<loadscreen name="LOAD_Standard_VisitPlayers_01" filename="" _locid="200033" minlevel="4" maxlevel="99">您可造訪其他玩家的首都以查看該玩家是否擁有您自己首都中沒有的商店或任務給予者。</loadscreen>
+	<loadscreen name="LOAD_Standard_Tech_01" filename="" _locid="200034" minlevel="4" maxlevel="99">在首都解除建築物和科技鎖定後，你可以在執行任務的過程中建造建築物或升級科技。</loadscreen>
+	<loadscreen name="LOAD_Standard_Tech_02" filename="" _locid="200035" minlevel="4" maxlevel="99">一些科技允許您在任務中訓練新的單位或建造新的建築物。其他的科技允許您升級所有的單位，但要花費資源。</loadscreen>
+	<loadscreen name="LOAD_Standard_Tech_03" filename="" _locid="200036" minlevel="4" maxlevel="99">請務必隨時查看您位在首都的建築物是否有已解除鎖定的科技升級。</loadscreen>
+	<loadscreen name="LOAD_Standard_Garrison_01" filename="" _locid="200037" minlevel="4" maxlevel="99">為了安全，村民可在某些建築物中駐防，如市鎮中心和警戒塔。</loadscreen>
+	<loadscreen name="LOAD_Standard_TownBell_01" filename="" _locid="200038" minlevel="4" maxlevel="99">使用市鎮中心的市鎮鐘迅速駐防附近的村民。</loadscreen>
+	<loadscreen name="LOAD_Standard_Chat_01" filename="" _locid="200039" minlevel="4" maxlevel="99">你可以修改交談視窗以適合你的遊戲方式。 你可以將其變大或變小，或變更其透明度。</loadscreen>
+	<loadscreen name="LOAD_Standard_Chat_02" filename="" _locid="200040" minlevel="4" maxlevel="99">要顯示用於與玩家互動的選項清單，在交談視窗中用滑鼠右鍵按一下該玩家的名稱。</loadscreen>
+	<loadscreen name="LOAD_Standard_Chat_03" filename="" _locid="200041" minlevel="4" maxlevel="99">要向特定玩家傳送悄悄話，只需在交談視窗中按一下該玩家的名稱，然後輸入你的訊息。</loadscreen>
+	<loadscreen name="LOAD_Standard_TownCenter_01" filename="" _locid="200042" minlevel="4" maxlevel="99">市鎮中心十分強大，它可獨自抵抗小型軍隊。</loadscreen>
+	<loadscreen name="LOAD_Standard_Resources_01" filename="" _locid="200043" minlevel="4" maxlevel="99">如果你失去一些資源，不要驚慌。 在一個普通的任務中，你將採集到數以千計的資源。</loadscreen>
+	<loadscreen name="LOAD_Standard_MultiBuild_01" filename="" _locid="200044" minlevel="4" maxlevel="99">要發佈多建築物建造命令，在發佈命令前，選取同種類型的多個建築物。</loadscreen>
+	<loadscreen name="LOAD_Standard_Friends_01" filename="" _locid="200045" minlevel="4" maxlevel="99">可點擊左上角的隊伍按鈕來邀請玩家進入您的好友列表。輸入名稱，再選取邀請。</loadscreen>
+	<loadscreen name="LOAD_Standard_Cows_01" filename="" _locid="200046" minlevel="4" maxlevel="99">野牛可以成為很好的食物來源！</loadscreen>
+	<loadscreen name="LOAD_Standard_CityReport_01" filename="" _locid="200047" minlevel="4" maxlevel="99">要在您的首都調出城市報告，請按一下盾牌圖示。</loadscreen>
+	<loadscreen name="LOAD_Standard_FriendMail_01" filename="" _locid="200048" minlevel="4" maxlevel="99">在您的港口檢查其他玩家進來的物品。</loadscreen>
+	<loadscreen name="LOAD_Standard_FullCiv_01" filename="" _locid="200049" minlevel="4" maxlevel="99">購買一個完整文明以賺取所有利益！</loadscreen>
+	<loadscreen name="LOAD_Standard_Market_01" filename="" _locid="200050" minlevel="4" maxlevel="99">使用您的市場以黃金購買資源或出售資源換取黃金。 某些科技可減少完成這些交易的費用。</loadscreen>
+	<loadscreen name="LOAD_Standard_Caravans_01" filename="" _locid="200051" minlevel="4" maxlevel="99">篷車可成為黃金的極好來源。</loadscreen>
+	<loadscreen name="LOAD_Standard_Caravans_02" filename="" _locid="200052" minlevel="4" maxlevel="99">可在市場中建造篷車，它可交易以賺取黃金。</loadscreen>
+	<loadscreen name="LOAD_Standard_Caravans_03" filename="" _locid="200053" minlevel="4" maxlevel="99">在使用篷車做貿易時，請記住它們去往目的地的旅行越遠，攜帶的黃金就越多。</loadscreen>
+	<loadscreen name="LOAD_Standard_Population_01" filename="" _locid="200054" minlevel="4" maxlevel="99">市鎮中心可讓您的人口上限增加 20 人，房屋能讓您的人口上限增加 5 人。</loadscreen>
+	<loadscreen name="LOAD_Standard_Spearmen_01" filename="" _locid="200055" minlevel="4" maxlevel="99">長槍兵是擅長剋制騎兵單位的步兵單位。</loadscreen>
+	<loadscreen name="LOAD_Standard_Hypaspist_01" filename="" _locid="200056" minlevel="4" maxlevel="99">希臘盾兵是擅長剋制其他步兵單位的步兵單位。</loadscreen>
+	<loadscreen name="LOAD_Standard_Axemen_01" filename="" _locid="200057" minlevel="4" maxlevel="99">埃及斧手是擅長剋制其他步兵單位的步兵單位。</loadscreen>
+	<loadscreen name="LOAD_Standard_Toxotai_01" filename="" _locid="200058" minlevel="4" maxlevel="99">希臘步弓手是擅長剋制步兵單位的遠程單位。</loadscreen>
+	<loadscreen name="LOAD_Standard_Slinger_01" filename="" _locid="200059" minlevel="4" maxlevel="99">埃及投石手是擅長剋制其他遠程單位的遠程單位。</loadscreen>
+	<loadscreen name="LOAD_Standard_Sarissophoroi_01" filename="" _locid="200060" minlevel="4" maxlevel="99">希臘槍騎兵能有效剋制遠程單位。</loadscreen>
+	<loadscreen name="LOAD_Advanced_Podromoi_01" filename="" _locid="200061" minlevel="10" maxlevel="99">希臘偵查騎兵是擅長剋制其他騎兵單位的騎兵單位。</loadscreen>
+	<loadscreen name="LOAD_Advanced_Hippikon_01" filename="" _locid="200062" minlevel="10" maxlevel="99">希臘突擊騎兵是擅長突破防線和摧毀攻城單位的重裝騎兵。</loadscreen>
+	<loadscreen name="LOAD_Advanced_ElephantArcher_01" filename="" _locid="200063" minlevel="10" maxlevel="99">埃及戰象弓兵是擅長強力突破敵方防線的重裝弓兵。</loadscreen>
+	<loadscreen name="LOAD_Advanced_CamelRider_01" filename="" _locid="200064" minlevel="10" maxlevel="99">埃及駱駝騎兵是擅長剋制其他騎兵單位的騎兵單位。</loadscreen>
+	<loadscreen name="LOAD_Advanced_WarElephant_01" filename="" _locid="200065" minlevel="10" maxlevel="99">埃及戰象是強壯的騎兵單位，它能造成濺射傷害（能傷害敵方單位和撞擊點周邊的建築物）</loadscreen>
+	<loadscreen name="LOAD_Advanced_Tactics_01" filename="" _locid="200066" minlevel="10" maxlevel="99">如果你想提升你的遊戲技巧，始終不斷地訓練村民。</loadscreen>
+	<loadscreen name="LOAD_Advanced_Tactics_02" filename="" _locid="200067" minlevel="10" maxlevel="99">別忘了繼續訓練村民！ 優秀的玩家可在一個任務中訓練 50 個或更多村民。</loadscreen>
+	<loadscreen name="LOAD_Advanced_EliteMode_01" filename="" _locid="200068" minlevel="10" maxlevel="99">要獲得更好的戰利品和更大的挑戰，可在精銳模式中玩重複任務。您可在開啟任務前，在任務地圖中按一下精銳按鈕來實現。</loadscreen>
+	<loadscreen name="LOAD_Advanced_Gastraphetes_01" filename="" _locid="200069" minlevel="10" maxlevel="99">希臘弩手能有效剋制大部份步兵單位。</loadscreen>
+	<loadscreen name="LOAD_Advanced_Hoplite_01" filename="" _locid="200070" minlevel="10" maxlevel="99">重裝步兵是擅長突破反步兵防線的重型步兵單位。</loadscreen>
+	<loadscreen name="LOAD_Advanced_Palintonons_01" filename="" _locid="200071" minlevel="10" maxlevel="99">床弩是強大的遠距離攻城單位。它們在解包時能自動攻擊，但要移動它們，您必須手動命令它們再次打包。</loadscreen>
+	<loadscreen name="LOAD_Advanced_Peltasts_01" filename="" _locid="200072" minlevel="10" maxlevel="99">希臘輕裝步兵是擅長剋制其他遠程單位的遠程單位。</loadscreen>
+	<loadscreen name="LOAD_Advanced_Leary_01" filename="" _locid="200073" minlevel="10" maxlevel="99">注意輕便靈活的獨角獸騎士。 但要小心 ─ 他很敏感呢！</loadscreen>
+	<loadscreen name="LOAD_StartingPlayer_Villagers_02" _locid="200074" minlevel="0" maxlevel="4">使用一個以上的村民來加速建造時間。</loadscreen>
+	<loadscreen name="LOAD_RallyPoints" _locid="200075" minlevel="4" maxlevel="99">要派遣您在建築物中訓練的所有單位到一個集結點，請在地圖上任意位置按一下滑鼠右鍵。</loadscreen>
+	<loadscreen name="Load_Random_Upsell_C01" filename="loadscreentips\Randoms\Load_Random_Upsell_C01.xml" _locid="200900" minlevel="1" maxlevel="99" excludeoffertype="cOfferCivGreek"/>
+	<loadscreen name="Load_Random_Upsell_C02" filename="loadscreentips\Randoms\Load_Random_Upsell_C02.xml" _locid="200901" minlevel="1" maxlevel="99" excludeoffertype="cOfferCivEgyptian"/>
+	<loadscreen name="Load_Random_Upsell_C04" filename="loadscreentips\Randoms\Load_Random_Upsell_C04.xml" _locid="200902" minlevel="1" maxlevel="99" excludeoffertype="cOfferCivPersian"/>
+	<loadscreen name="Load_Random_Upsell_Sparta" filename="loadscreentips\Randoms\Load_Random_Upsell_Sparta.xml" _locid="200903" minlevel="1" maxlevel="99" excludeoffertype="cOfferCivMatching"/>
+	<loadscreen name="Load_Random_Upsell_B01" filename="loadscreentips\Randoms\Load_Random_Upsell_B01.xml" _locid="200904" minlevel="1" maxlevel="99" excludeoffertype="cOfferBooster1"/>
+	<loadscreen name="Load_Random_Upsell_Advisors" filename="loadscreentips\Randoms\Load_Random_Upsell_Advisors.xml" _locid="200905" minlevel="1" maxlevel="99" excludeoffertype="cOfferCivMatching"/>
+	<loadscreen name="Load_Random_CraftingSchool" filename="loadscreentips\Randoms\Load_Random_CraftingSchool.xml" _locid="200906" minlevel="7" maxlevel="9"/>
+	<loadscreen name="Load_Random_CraftingItems1" filename="loadscreentips\Randoms\Load_Random_CraftingItems.xml" _locid="200907" minlevel="8" maxlevel="10"/>
+	<loadscreen name="Load_Random_CraftingItems2" filename="loadscreentips\Randoms\Load_Random_CraftingItems.xml" _locid="200908" minlevel="13" maxlevel="14"/>
+	<loadscreen name="Load_Random_Party_Creation1" filename="loadscreentips\Randoms\Load_Random_Party_Creation.xml" _locid="200909" minlevel="3" maxlevel="7"/>
+	<loadscreen name="Load_Random_Party_Creation2" filename="loadscreentips\Randoms\Load_Random_Party_Creation.xml" _locid="200910" minlevel="11" maxlevel="15"/>
+	<loadscreen name="Load_Random_Party_Creation3" filename="loadscreentips\Randoms\Load_Random_Party_Creation.xml" _locid="200911" minlevel="21" maxlevel="25"/>
+	<loadscreen name="Load_Random_Party_Creation4" filename="loadscreentips\Randoms\Load_Random_Party_Creation.xml" _locid="200912" minlevel="31" maxlevel="35"/>
+	<loadscreen name="Load_Random_Upsell_B02" filename="loadscreentips\Randoms\Load_Random_Upsell_B02.xml" _locid="200913" minlevel="1" maxlevel="99" excludeoffertype="cOfferBooster2"/>
+	<loadscreen name="Load_Random_Upsell_C03" filename="loadscreentips\Randoms\Load_Random_Upsell_C03.xml" _locid="200914" minlevel="1" maxlevel="99" excludeoffertype="cOfferCivCeltic"/>
+	<loadscreen name="Load_Random_Booster_Unit_Unlocks" filename="loadscreentips\Randoms\Load_Random_Booster_Unit_Unlocks.xml" _locid="200915" minlevel="1" maxlevel="99"/>
+	<loadscreen name="Load_Random_Upsell_VanityGear_v1" filename="loadscreentips\Randoms\Load_Random_Upsell_VanityGear_v1.xml" _locid="200916" minlevel="1" maxlevel="99"/>
+	<loadscreen name="Load_Random_Upsell_VanityGear_v2" filename="loadscreentips\Randoms\Load_Random_Upsell_VanityGear_v2.xml" _locid="200917" minlevel="1" maxlevel="99"/>
+	<loadscreen name="Load_Random_Upsell_EmpirePoints" filename="loadscreentips\Randoms\Load_Random_Upsell_EmpirePoints.xml" _locid="200918" minlevel="1" maxlevel="99"/>
+</loadingscreens>
