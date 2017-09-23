@@ -1,0 +1,4907 @@
+﻿<traitsext>
+  <trait name="ArmorBldg_E001">
+    <itemlevel>22,23,24,25,26,27</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_E002">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_E003">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_E004">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_E005">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_E006">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_E101">
+    <itemlevel>8,9,10,11,12,40,43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_EA01">
+    <itemlevel>8,9,10,11,12,28,31</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_EA02">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_EA03">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_ED01">
+    <itemlevel>24,27</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_L002">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_L003">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_LC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_R001">
+    <itemlevel>10,11,12,13,14,15</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_R002">
+    <itemlevel>14,15,16,17,18,21</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_R003">
+    <itemlevel>18,19,20,21,22,23,26,33</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_R004">
+    <itemlevel>25,28</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_R005">
+    <itemlevel>26,27,28,29,30,33</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_R006">
+    <itemlevel>37,40</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_R007">
+    <itemlevel>36,37,38,39,40,43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_R008">
+    <itemlevel>18,21</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_R009">
+    <itemlevel>18,21</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_R010">
+    <itemlevel>8,11</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_R101">
+    <itemlevel>8,9,10,11,12,16,19,43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_RA01">
+    <itemlevel>8,9,10,11,12,33,36,43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_RA02">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_RC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_RC02">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_U001">
+    <itemlevel>5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_U002">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_U003">
+    <itemlevel>30,33,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_U004">
+    <itemlevel>8,11</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_U005">
+    <itemlevel>13,16</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_U006">
+    <itemlevel>18,21</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_U007">
+    <itemlevel>23,26</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_U008">
+    <itemlevel>28,31</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_U009">
+    <itemlevel>33,36</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_U010">
+    <itemlevel>38,41</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_U011">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_U012">
+    <itemlevel>6,9</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_U013">
+    <itemlevel>4,5,8,9,10,11,12,15,43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_U014">
+    <itemlevel>5,8,9,10,15,19,20,43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_U102">
+    <itemlevel>8,9,10,11,12,32,33,34,35,36</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_UA01">
+    <itemlevel>7,8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_UA02">
+    <itemlevel>8,9,10,11,12,18,21</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_UA03">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_UA04">
+    <itemlevel>8,9,10,11,12,29,43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_UA05">
+    <itemlevel>5,8,9,10,11,12</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_UA06">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="ArmorBldg_UD01">
+    <itemlevel>23,26</itemlevel>
+  </trait>
+  <trait name="ArmorClth_E001">
+    <itemlevel>20,21,22,23,25</itemlevel>
+  </trait>
+  <trait name="ArmorClth_E002">
+    <itemlevel>22,23,24,25,26,27</itemlevel>
+  </trait>
+  <trait name="ArmorClth_E003">
+    <itemlevel>25,26,27,28,29</itemlevel>
+  </trait>
+  <trait name="ArmorClth_E004">
+    <itemlevel>28,29,30,31,32,33,38</itemlevel>
+  </trait>
+  <trait name="ArmorClth_E005">
+    <itemlevel>32,33,34,35,36</itemlevel>
+  </trait>
+  <trait name="ArmorClth_E006">
+    <itemlevel>37,38,39,40,41,43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_E007">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_E008">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_E009">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_E010">
+    <itemlevel>29,32</itemlevel>
+  </trait>
+  <trait name="ArmorClth_E101">
+    <itemlevel>8,9,10,11,12,23,26,33,43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_E102">
+    <itemlevel>8,9,10,11,12,34,35,36,37,38,43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_E103">
+    <itemlevel>8,9,10,11,12,37,40,43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_EA01">
+    <itemlevel>8,9,10,11,26,29,43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_EA02">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_ED01">
+    <itemlevel>28,31</itemlevel>
+  </trait>
+  <trait name="ArmorClth_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_L002">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_L003">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_R001">
+    <itemlevel>10,11,12,13,15</itemlevel>
+  </trait>
+  <trait name="ArmorClth_R002">
+    <itemlevel>9,12</itemlevel>
+  </trait>
+  <trait name="ArmorClth_R003">
+    <itemlevel>5,8,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="ArmorClth_R004">
+    <itemlevel>18,19,20,21,22,23,26</itemlevel>
+  </trait>
+  <trait name="ArmorClth_R005">
+    <itemlevel>21,22,23,24,25,27</itemlevel>
+  </trait>
+  <trait name="ArmorClth_R006">
+    <itemlevel>27,30</itemlevel>
+  </trait>
+  <trait name="ArmorClth_R007">
+    <itemlevel>25,26,27,28,29</itemlevel>
+  </trait>
+  <trait name="ArmorClth_R008">
+    <itemlevel>27,28,29,30,31,33</itemlevel>
+  </trait>
+  <trait name="ArmorClth_R009">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="ArmorClth_R010">
+    <itemlevel>36,39</itemlevel>
+  </trait>
+  <trait name="ArmorClth_R011">
+    <itemlevel>35,36,37,38,39</itemlevel>
+  </trait>
+  <trait name="ArmorClth_R012">
+    <itemlevel>37,38,39,40,41,43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_R013">
+    <itemlevel>39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_R014">
+    <itemlevel>28,31</itemlevel>
+  </trait>
+  <trait name="ArmorClth_R015">
+    <itemlevel>16,19</itemlevel>
+  </trait>
+  <trait name="ArmorClth_R016">
+    <itemlevel>10,11,12,13,14,20</itemlevel>
+  </trait>
+  <trait name="ArmorClth_R101">
+    <itemlevel>8,9,10,11,12,25,28,43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_R102">
+    <itemlevel>8,9,10,11,12,17,18,19,20,21,23,24,43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_R201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_RA01">
+    <itemlevel>8,9,10,11,12,28,31,43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_RB01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_RC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_RC02">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_U001">
+    <itemlevel>5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="ArmorClth_U002">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="ArmorClth_U003">
+    <itemlevel>30,33,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_U004">
+    <itemlevel>6,9</itemlevel>
+  </trait>
+  <trait name="ArmorClth_U005">
+    <itemlevel>6,16,19,26,43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_U006">
+    <itemlevel>8,11</itemlevel>
+  </trait>
+  <trait name="ArmorClth_U007">
+    <itemlevel>18,21</itemlevel>
+  </trait>
+  <trait name="ArmorClth_U008">
+    <itemlevel>26,29</itemlevel>
+  </trait>
+  <trait name="ArmorClth_U009">
+    <itemlevel>36,39</itemlevel>
+  </trait>
+  <trait name="ArmorClth_U010">
+    <itemlevel>28,31</itemlevel>
+  </trait>
+  <trait name="ArmorClth_U011">
+    <itemlevel>38,41</itemlevel>
+  </trait>
+  <trait name="ArmorClth_U012">
+    <itemlevel>6,9</itemlevel>
+  </trait>
+  <trait name="ArmorClth_U013">
+    <itemlevel>18,21</itemlevel>
+  </trait>
+  <trait name="ArmorClth_U014">
+    <itemlevel>28,31</itemlevel>
+  </trait>
+  <trait name="ArmorClth_U015">
+    <itemlevel>38,41</itemlevel>
+  </trait>
+  <trait name="ArmorClth_U016">
+    <itemlevel>37,40</itemlevel>
+  </trait>
+  <trait name="ArmorClth_U017">
+    <itemlevel>9,10,12,19,20</itemlevel>
+  </trait>
+  <trait name="ArmorClth_U101">
+    <itemlevel>8,9,10,11,12,13,14,15,16,19,43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_U102">
+    <itemlevel>8,9,10,11,12,22,25,43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_UA01">
+    <itemlevel>8,9,10,11,12,15,43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_UA02">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="ArmorClth_UA03">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_E001">
+    <itemlevel>20,21,22,23,25</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_E002">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_E003">
+    <itemlevel>33,36</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_E004">
+    <itemlevel>32,33,34,35,36</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_E005">
+    <itemlevel>38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_E006">
+    <itemlevel>40,43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_E007">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_E008">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_E009">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_E010">
+    <itemlevel>34,37</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_E101">
+    <itemlevel>8,9,10,11,12,37,40,43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_EA01">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_EA02">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_EB01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_L002">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R001">
+    <itemlevel>11,12,13,14,15</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R002">
+    <itemlevel>14,17</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R003">
+    <itemlevel>15,16,17,18,19,21</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R004">
+    <itemlevel>16,17,18,19,20,23,26</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R005">
+    <itemlevel>18,19,20,21,22,23,25</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R006">
+    <itemlevel>23,26</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R007">
+    <itemlevel>22,23,24,25,26,27</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R008">
+    <itemlevel>25,26,27,28,29</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R009">
+    <itemlevel>27,28,29,30,31,33</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R010">
+    <itemlevel>33,36</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R011">
+    <itemlevel>33,34,35,36,37</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R012">
+    <itemlevel>37,38,39,40,41,43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R013">
+    <itemlevel>39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R014">
+    <itemlevel>20,23</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R015">
+    <itemlevel>20,23</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R016">
+    <itemlevel>28,31</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R017">
+    <itemlevel>10,11,12,13,14,20,43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R018">
+    <itemlevel>8,11</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R019">
+    <itemlevel>40,43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R020">
+    <itemlevel>25,28,43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R101">
+    <itemlevel>8,9,10,11,12,20,23</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R102">
+    <itemlevel>8,9,10,11,12,38,41</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_R201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_RA01">
+    <itemlevel>8,9,10,11,12,24,27</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_RA02">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_RD01">
+    <itemlevel>28,31</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_U001">
+    <itemlevel>5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_U002">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_U003">
+    <itemlevel>30,33,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_U004">
+    <itemlevel>6,9</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_U005">
+    <itemlevel>11,14</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_U006">
+    <itemlevel>16,19</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_U007">
+    <itemlevel>21,24</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_U008">
+    <itemlevel>26,29</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_U009">
+    <itemlevel>31,34</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_U010">
+    <itemlevel>36,39</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_U011">
+    <itemlevel>41,43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_U012">
+    <itemlevel>6,8,9,10,11,12,16</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_U013">
+    <itemlevel>9,10,12,19,20</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_U102">
+    <itemlevel>8,9,10,11,12,13,14,15,16,19,43</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_UA01">
+    <itemlevel>8,9,10,11,12,13,16</itemlevel>
+  </trait>
+  <trait name="ArmorLgt_UA02">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_E001">
+    <itemlevel>20,21,22,23,25</itemlevel>
+  </trait>
+  <trait name="ArmorMed_E002">
+    <itemlevel>22,23,24,25,26</itemlevel>
+  </trait>
+  <trait name="ArmorMed_E003">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="ArmorMed_E004">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_E005">
+    <itemlevel>38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_E006">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_E007">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_E008">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_E009">
+    <itemlevel>23,26</itemlevel>
+  </trait>
+  <trait name="ArmorMed_E010">
+    <itemlevel>28,31</itemlevel>
+  </trait>
+  <trait name="ArmorMed_E011">
+    <itemlevel>30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="ArmorMed_E012">
+    <itemlevel>35,36,37,38,39</itemlevel>
+  </trait>
+  <trait name="ArmorMed_E013">
+    <itemlevel>39,42</itemlevel>
+  </trait>
+  <trait name="ArmorMed_E014">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_E101">
+    <itemlevel>8,9,10,11,12,39,42,43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_E102">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_EA01">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_EB01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_EC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_L002">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_L003">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_LC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R001">
+    <itemlevel>10,11,12,13,14,15</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R002">
+    <itemlevel>5,8,11,12,13,14,15</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R003">
+    <itemlevel>13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R004">
+    <itemlevel>19,22</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R005">
+    <itemlevel>19,20,21,22,23,25</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R006">
+    <itemlevel>22,23,24,25,26</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R007">
+    <itemlevel>24,25,26,27,28,43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R007_SR">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R008">
+    <itemlevel>27,28,29,30,31,33</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R009">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R010">
+    <itemlevel>34,37</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R011">
+    <itemlevel>32,33,34,35,36</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R012">
+    <itemlevel>38,41</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R013">
+    <itemlevel>39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R014">
+    <itemlevel>20,23</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R015">
+    <itemlevel>20,23</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R016">
+    <itemlevel>28,31</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R017">
+    <itemlevel>8,9,10,11,12,13,16,23</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R018">
+    <itemlevel>8,11</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R101">
+    <itemlevel>8,9,10,11,12,24,27,43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R102">
+    <itemlevel>8,9,10,11,12,40,43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_R201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_RC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_U001">
+    <itemlevel>5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="ArmorMed_U002">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="ArmorMed_U003">
+    <itemlevel>30,33,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_U004">
+    <itemlevel>6,9</itemlevel>
+  </trait>
+  <trait name="ArmorMed_U005">
+    <itemlevel>11,14</itemlevel>
+  </trait>
+  <trait name="ArmorMed_U006">
+    <itemlevel>16,19</itemlevel>
+  </trait>
+  <trait name="ArmorMed_U007">
+    <itemlevel>21,24</itemlevel>
+  </trait>
+  <trait name="ArmorMed_U008">
+    <itemlevel>26,29</itemlevel>
+  </trait>
+  <trait name="ArmorMed_U009">
+    <itemlevel>31,34</itemlevel>
+  </trait>
+  <trait name="ArmorMed_U010">
+    <itemlevel>36,39</itemlevel>
+  </trait>
+  <trait name="ArmorMed_U011">
+    <itemlevel>41,43</itemlevel>
+  </trait>
+  <trait name="ArmorMed_U012">
+    <itemlevel>6,9,10,19,20</itemlevel>
+  </trait>
+  <trait name="ArmorMed_U101">
+    <itemlevel>8,9,10,11,12,13,14,15,16</itemlevel>
+  </trait>
+  <trait name="ArmorMed_U102">
+    <itemlevel>8,9,10,11,12,32,33,34,35,36</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_E001">
+    <itemlevel>20,21,22,23,25</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_E002">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_E003">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_E004">
+    <itemlevel>33,34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_E005">
+    <itemlevel>37,38,39,40,41,43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_E006">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_E007">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_E008">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_E009">
+    <itemlevel>31,32,33,34,35</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_E101">
+    <itemlevel>8,9,10,11,12,32,33,34,35,36,43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_E102">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_EA01">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_EC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_L002">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_LC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_R001">
+    <itemlevel>10,11,12,13,14,33,36,43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_R002">
+    <itemlevel>12,13,14,15,16</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_R003">
+    <itemlevel>13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_R004">
+    <itemlevel>14,15,16,17,18,21</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_R005">
+    <itemlevel>17,18,19,20,21,24</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_R006">
+    <itemlevel>19,20,21,22,23,25</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_R007">
+    <itemlevel>22,23,24,25,26,27</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_R008">
+    <itemlevel>26,27,28,29,30,33</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_R009">
+    <itemlevel>29,32</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_R010">
+    <itemlevel>33,36</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_R011">
+    <itemlevel>33,34,35,36,37</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_R012">
+    <itemlevel>37,38,39,40,41,43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_R013">
+    <itemlevel>39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_R014">
+    <itemlevel>28,31</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_R015">
+    <itemlevel>30,31,32,33,34,43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_R101">
+    <itemlevel>8,9,10,11,12,27,28,29,30,31,33,43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_R102">
+    <itemlevel>8,9,10,11,12,17,18,19,20,21,23,24,43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_RA01">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_RB01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U001">
+    <itemlevel>10,11,12,13,14,15,16,17,18,19,26,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U002">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U003">
+    <itemlevel>30,33,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U004">
+    <itemlevel>6,9</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U005">
+    <itemlevel>11,14</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U006">
+    <itemlevel>16,19</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U007">
+    <itemlevel>21,24</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U008">
+    <itemlevel>6,9</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U009">
+    <itemlevel>9,12</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U010">
+    <itemlevel>16,19</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U011">
+    <itemlevel>19,22</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U012">
+    <itemlevel>26,29</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U013">
+    <itemlevel>31,34</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U014">
+    <itemlevel>36,39</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U015">
+    <itemlevel>41,43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U016">
+    <itemlevel>26,29</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U017">
+    <itemlevel>29,32</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U018">
+    <itemlevel>36,39</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U019">
+    <itemlevel>39,42</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U020">
+    <itemlevel>6,8,9,10,11,12,16,43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U021">
+    <itemlevel>5,8,9,10,15,19,20,43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U102">
+    <itemlevel>8,9,10,11,12,15,18,43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_UA01">
+    <itemlevel>8,9,10,11,12,23,26,43</itemlevel>
+  </trait>
+  <trait name="ArmorPlt_UA02">
+    <itemlevel>8,9,10,11,12,13,16,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_E001">
+    <itemlevel>20,21,22,23,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_E001_VR">
+    <itemlevel>20,21,22,23,25</itemlevel>
+  </trait>
+  <trait name="ArrowOH_E002">
+    <itemlevel>23,24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="ArrowOH_E003">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="ArrowOH_E004">
+    <itemlevel>33,34,35,36,37,38,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_E004_VR">
+    <itemlevel>34,36,37</itemlevel>
+  </trait>
+  <trait name="ArrowOH_E005">
+    <itemlevel>38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_E006">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_E007">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_E007_VR">
+    <itemlevel>40,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_E008">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_E009">
+    <itemlevel>31,32,33,34,35</itemlevel>
+  </trait>
+  <trait name="ArrowOH_E016">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_E101">
+    <itemlevel>8,9,10,11,12,30,33,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_E102">
+    <itemlevel>8,9,10,11,12,37,38,40,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_E102_VR">
+    <itemlevel>37,40</itemlevel>
+  </trait>
+  <trait name="ArrowOH_EB01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_EC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_EC01_VR">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_ED01">
+    <itemlevel>29,32</itemlevel>
+  </trait>
+  <trait name="ArrowOH_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_L002">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_L003">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_LC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_R001">
+    <itemlevel>10,11,12,15,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_R001_VR">
+    <itemlevel>10,11,12,15</itemlevel>
+  </trait>
+  <trait name="ArrowOH_R002">
+    <itemlevel>10,11,12,13,14,15</itemlevel>
+  </trait>
+  <trait name="ArrowOH_R003">
+    <itemlevel>12,13,14,15,16,19</itemlevel>
+  </trait>
+  <trait name="ArrowOH_R004">
+    <itemlevel>14,15,16,17,18,21</itemlevel>
+  </trait>
+  <trait name="ArrowOH_R005">
+    <itemlevel>15,16,17,18,19,21,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_R005_VR">
+    <itemlevel>15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="ArrowOH_R006">
+    <itemlevel>21,24</itemlevel>
+  </trait>
+  <trait name="ArrowOH_R007">
+    <itemlevel>20,21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="ArrowOH_R008">
+    <itemlevel>21,22,23,24,25,26,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_R008_VR">
+    <itemlevel>21,22,23,24,25,26</itemlevel>
+  </trait>
+  <trait name="ArrowOH_R009">
+    <itemlevel>25,26,27,28,29</itemlevel>
+  </trait>
+  <trait name="ArrowOH_R010">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="ArrowOH_R011">
+    <itemlevel>35,38</itemlevel>
+  </trait>
+  <trait name="ArrowOH_R012">
+    <itemlevel>36,37,38,39,40,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_R013">
+    <itemlevel>39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_R013_VR">
+    <itemlevel>40,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_R014">
+    <itemlevel>10,11,12,13,14,18,21,28,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_R015">
+    <itemlevel>8,11</itemlevel>
+  </trait>
+  <trait name="ArrowOH_R016">
+    <itemlevel>10,12,13,20,22</itemlevel>
+  </trait>
+  <trait name="ArrowOH_R101">
+    <itemlevel>8,9,10,11,12,32,35</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U001">
+    <itemlevel>5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U001_VR">
+    <itemlevel>5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U002">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U002_VR">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,34</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U003">
+    <itemlevel>30,33,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U003_VR">
+    <itemlevel>30,33,36,38,40,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U004">
+    <itemlevel>9,12,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U004_VR">
+    <itemlevel>9,12</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U005">
+    <itemlevel>14,17,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U005_VR">
+    <itemlevel>14,17</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U006">
+    <itemlevel>19,22,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U006_VR">
+    <itemlevel>19,22</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U007">
+    <itemlevel>24,27,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U007_VR">
+    <itemlevel>24,27</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U008">
+    <itemlevel>29,32</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U009">
+    <itemlevel>34,37,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U009_VR">
+    <itemlevel>34,37</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U010">
+    <itemlevel>39,42,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U010_VR">
+    <itemlevel>39,42</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U011">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U101">
+    <itemlevel>7,8,9,10,11,12</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U102">
+    <itemlevel>8,9,10,11,12,13,14,15,16,17,18,43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_U201_VR">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="ArrowOH_UB01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Axe2H_E001">
+    <itemlevel>20,21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="Axe2H_E002">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Axe2H_E003">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Axe2H_E004">
+    <itemlevel>32,33,34,35,36</itemlevel>
+  </trait>
+  <trait name="Axe2H_E005">
+    <itemlevel>36,37,38,39,40,43</itemlevel>
+  </trait>
+  <trait name="Axe2H_E006">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Axe2H_E007">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Axe2H_E008">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Axe2H_E009">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Axe2H_E010">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Axe2H_E101">
+    <itemlevel>8,9,10,11,12,30,33,43</itemlevel>
+  </trait>
+  <trait name="Axe2H_E102">
+    <itemlevel>8,9,10,11,12,37,40,43</itemlevel>
+  </trait>
+  <trait name="Axe2H_EA01">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Axe2H_L401">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Axe2H_L402">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Axe2H_R001">
+    <itemlevel>10,11,12,13,14,15</itemlevel>
+  </trait>
+  <trait name="Axe2H_R002">
+    <itemlevel>14,15,16,17,18</itemlevel>
+  </trait>
+  <trait name="Axe2H_R003">
+    <itemlevel>16,17,18,19,20,23,26</itemlevel>
+  </trait>
+  <trait name="Axe2H_R004">
+    <itemlevel>22,23,24,25,26,27</itemlevel>
+  </trait>
+  <trait name="Axe2H_R005">
+    <itemlevel>23,24,25,26,27,43</itemlevel>
+  </trait>
+  <trait name="Axe2H_R005_SR">
+    <itemlevel>23,24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Axe2H_R006">
+    <itemlevel>25,26,27,28,29</itemlevel>
+  </trait>
+  <trait name="Axe2H_R007">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Axe2H_R008">
+    <itemlevel>30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="Axe2H_R009">
+    <itemlevel>31,32,33,34,35,43</itemlevel>
+  </trait>
+  <trait name="Axe2H_R009_SR">
+    <itemlevel>31,32,33,34,35</itemlevel>
+  </trait>
+  <trait name="Axe2H_R010">
+    <itemlevel>36,39</itemlevel>
+  </trait>
+  <trait name="Axe2H_R011">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Axe2H_R012">
+    <itemlevel>37,38,39,40,41,43</itemlevel>
+  </trait>
+  <trait name="Axe2H_R013">
+    <itemlevel>39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Axe2H_R014">
+    <itemlevel>16,19</itemlevel>
+  </trait>
+  <trait name="Axe2H_R015">
+    <itemlevel>22,23,24,25,26</itemlevel>
+  </trait>
+  <trait name="Axe2H_R016">
+    <itemlevel>8,9,10,11,12,21,43</itemlevel>
+  </trait>
+  <trait name="Axe2H_R016_SR">
+    <itemlevel>11,14,21</itemlevel>
+  </trait>
+  <trait name="Axe2H_R017">
+    <itemlevel>10,11,12,13,14,43</itemlevel>
+  </trait>
+  <trait name="Axe2H_R017_SR">
+    <itemlevel>7,10,13,17,20</itemlevel>
+  </trait>
+  <trait name="Axe2H_R101">
+    <itemlevel>8,9,10,11,12,19,20,21,22,23,25,43</itemlevel>
+  </trait>
+  <trait name="Axe2H_RA01">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Axe2H_U001">
+    <itemlevel>5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="Axe2H_U002">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="Axe2H_U003">
+    <itemlevel>30,33,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Axe2H_U004">
+    <itemlevel>9,12</itemlevel>
+  </trait>
+  <trait name="Axe2H_U005">
+    <itemlevel>19,22</itemlevel>
+  </trait>
+  <trait name="Axe2H_U006">
+    <itemlevel>29,32</itemlevel>
+  </trait>
+  <trait name="Axe2H_U007">
+    <itemlevel>39,42</itemlevel>
+  </trait>
+  <trait name="Axe2H_U101">
+    <itemlevel>8,9,10,11,12,13,14,15,16</itemlevel>
+  </trait>
+  <trait name="Axe2H_U102">
+    <itemlevel>8,9,10,11,12,24,27</itemlevel>
+  </trait>
+  <trait name="Axe2H_U103">
+    <itemlevel>8,9,10,11,12,34,37</itemlevel>
+  </trait>
+  <trait name="Axe2H_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_E001">
+    <itemlevel>23,24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Ballista2H_E002">
+    <itemlevel>28,29,30,31,32,33,43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_E002_VR">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Ballista2H_E003">
+    <itemlevel>33,34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Ballista2H_E004">
+    <itemlevel>36,37,38,39,40,43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_E004_VR">
+    <itemlevel>36,38,40,43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_E005">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_E006">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_E006_VR">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_E007">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_E007_VR">
+    <itemlevel>40,43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_E008">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Ballista2H_E101">
+    <itemlevel>8,9,10,11,12,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_EB01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_ED01">
+    <itemlevel>24,27</itemlevel>
+  </trait>
+  <trait name="Ballista2H_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_L401">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_L401_VR">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_R001">
+    <itemlevel>20,21,22,23,26,33</itemlevel>
+  </trait>
+  <trait name="Ballista2H_R002">
+    <itemlevel>21,22,23,24,25,27,43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_R002_VR">
+    <itemlevel>21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="Ballista2H_R003">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Ballista2H_R004">
+    <itemlevel>25,26,27,28,29</itemlevel>
+  </trait>
+  <trait name="Ballista2H_R005">
+    <itemlevel>27,28,29,30,31,33</itemlevel>
+  </trait>
+  <trait name="Ballista2H_R006">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Ballista2H_R007">
+    <itemlevel>35,38</itemlevel>
+  </trait>
+  <trait name="Ballista2H_R008">
+    <itemlevel>34,35,36,37,38,43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_R008_VR">
+    <itemlevel>34,36,37,38</itemlevel>
+  </trait>
+  <trait name="Ballista2H_R009">
+    <itemlevel>38,41</itemlevel>
+  </trait>
+  <trait name="Ballista2H_R010">
+    <itemlevel>37,38,39,40,41,43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_R011">
+    <itemlevel>39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_R011_VR">
+    <itemlevel>40,43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_R012">
+    <itemlevel>23,26</itemlevel>
+  </trait>
+  <trait name="Ballista2H_R101">
+    <itemlevel>8,9,10,11,12,25,26,27,28,29,43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_R102">
+    <itemlevel>8,9,10,11,12,32,33,34,35,36,43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_U001">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40</itemlevel>
+  </trait>
+  <trait name="Ballista2H_U002">
+    <itemlevel>35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_U003">
+    <itemlevel>22,25</itemlevel>
+  </trait>
+  <trait name="Ballista2H_U004">
+    <itemlevel>24,27,43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_U004_VR">
+    <itemlevel>24,27</itemlevel>
+  </trait>
+  <trait name="Ballista2H_U005">
+    <itemlevel>32,35</itemlevel>
+  </trait>
+  <trait name="Ballista2H_U006">
+    <itemlevel>34,37,43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_U006_VR">
+    <itemlevel>34,37</itemlevel>
+  </trait>
+  <trait name="Ballista2H_U007">
+    <itemlevel>42,43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_U008">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_U008_VR">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_U101">
+    <itemlevel>8,9,10,11,12,17,18,19,20,21,43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Ballista2H_U201_VR">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_E001">
+    <itemlevel>22,23,24,25,26,43</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_E001_VR">
+    <itemlevel>22,23,24,25,26</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_E002">
+    <itemlevel>27,28,29,30,31,33</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_E003">
+    <itemlevel>31,32,33,34,35</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_E004">
+    <itemlevel>35,36,37,38,39,43</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_E004_VR">
+    <itemlevel>36,38,39</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_E005">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_E006">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_E007">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_E008">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_E101">
+    <itemlevel>8,9,10,11,12,41,43</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_EA01">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_L401">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_L402">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_R001">
+    <itemlevel>20,21,22,23,25</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_R002">
+    <itemlevel>21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_R003">
+    <itemlevel>23,24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_R004">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_R005">
+    <itemlevel>26,27,28,29,30,33,43</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_R005_VR">
+    <itemlevel>26,27,28,29,30,33</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_R006">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_R007">
+    <itemlevel>30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_R008">
+    <itemlevel>32,33,34,35,36</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_R009">
+    <itemlevel>33,34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_R010">
+    <itemlevel>36,37,38,39,40,43</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_R011">
+    <itemlevel>39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_R011_VR">
+    <itemlevel>40,43</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_R012">
+    <itemlevel>22,23,24,25,26,34,35,36,37,38,43</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_R013">
+    <itemlevel>10,11,12,13,14,43</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_R101">
+    <itemlevel>8,9,10,11,12,38,41,43</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_RA01">
+    <itemlevel>8,9,10,11,12,28,31</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_U001">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_U002">
+    <itemlevel>35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_U003">
+    <itemlevel>22,25</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_U004">
+    <itemlevel>32,35</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_U005">
+    <itemlevel>42,43</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_U101">
+    <itemlevel>8,9,10,11,12,17,18,19,20,21,43</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_U102">
+    <itemlevel>8,9,10,11,12,30,33,43</itemlevel>
+  </trait>
+  <trait name="BellyBow1H_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Bow1H_E001">
+    <itemlevel>21,22,23,24,25,27,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_E001_VR">
+    <itemlevel>21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="Bow1H_E002">
+    <itemlevel>25,26,27,28,29,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_E002_VR">
+    <itemlevel>25,26,27,28,29</itemlevel>
+  </trait>
+  <trait name="Bow1H_E003">
+    <itemlevel>33,36</itemlevel>
+  </trait>
+  <trait name="Bow1H_E004">
+    <itemlevel>33,34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Bow1H_E005">
+    <itemlevel>38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_E006">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_E007">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Bow1H_E008">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Bow1H_E009">
+    <itemlevel>39,42,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_E009_VR">
+    <itemlevel>39,42</itemlevel>
+  </trait>
+  <trait name="Bow1H_E010">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Bow1H_E101">
+    <itemlevel>8,9,10,11,12,22,25,32,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_E102">
+    <itemlevel>8,9,10,11,12,22,25,32,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_E103">
+    <itemlevel>8,9,10,11,12,38,41,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_E103_VR">
+    <itemlevel>38,41</itemlevel>
+  </trait>
+  <trait name="Bow1H_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Bow1H_L002">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Bow1H_L002_VR">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Bow1H_L003">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Bow1H_R001">
+    <itemlevel>12,15,22,30,35,36,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_R001_VR">
+    <itemlevel>12,15</itemlevel>
+  </trait>
+  <trait name="Bow1H_R002">
+    <itemlevel>13,16,23,30,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_R002_VR">
+    <itemlevel>13,16</itemlevel>
+  </trait>
+  <trait name="Bow1H_R003">
+    <itemlevel>19,22</itemlevel>
+  </trait>
+  <trait name="Bow1H_R004">
+    <itemlevel>16,17,18,19,20,23</itemlevel>
+  </trait>
+  <trait name="Bow1H_R005">
+    <itemlevel>20,21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="Bow1H_R006">
+    <itemlevel>22,23,24,25,26,27</itemlevel>
+  </trait>
+  <trait name="Bow1H_R007">
+    <itemlevel>24,25,26,27,28,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_R007_VR">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Bow1H_R008">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Bow1H_R009">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Bow1H_R010">
+    <itemlevel>34,37</itemlevel>
+  </trait>
+  <trait name="Bow1H_R011">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Bow1H_R012">
+    <itemlevel>39,42</itemlevel>
+  </trait>
+  <trait name="Bow1H_R013">
+    <itemlevel>39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_R014">
+    <itemlevel>15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_R015">
+    <itemlevel>7,10,11,12,13,14,17,20,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_R016">
+    <itemlevel>8,11,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_R016_VR">
+    <itemlevel>8,11</itemlevel>
+  </trait>
+  <trait name="Bow1H_R101">
+    <itemlevel>8,9,10,11,12,29,32,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_R101_VR">
+    <itemlevel>29,32</itemlevel>
+  </trait>
+  <trait name="Bow1H_RB01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Bow1H_RB01_VR">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Bow1H_RC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Bow1H_RC01_VR">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Bow1H_RD01">
+    <itemlevel>23,26</itemlevel>
+  </trait>
+  <trait name="Bow1H_U001">
+    <itemlevel>5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="Bow1H_U002">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="Bow1H_U003">
+    <itemlevel>30,33,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_U004">
+    <itemlevel>6,9,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_U004_VR">
+    <itemlevel>6,9</itemlevel>
+  </trait>
+  <trait name="Bow1H_U005">
+    <itemlevel>11,14</itemlevel>
+  </trait>
+  <trait name="Bow1H_U006">
+    <itemlevel>16,19,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_U006_VR">
+    <itemlevel>16,19</itemlevel>
+  </trait>
+  <trait name="Bow1H_U007">
+    <itemlevel>21,24</itemlevel>
+  </trait>
+  <trait name="Bow1H_U008">
+    <itemlevel>26,29,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_U008_VR">
+    <itemlevel>26,29</itemlevel>
+  </trait>
+  <trait name="Bow1H_U009">
+    <itemlevel>31,34</itemlevel>
+  </trait>
+  <trait name="Bow1H_U010">
+    <itemlevel>36,39</itemlevel>
+  </trait>
+  <trait name="Bow1H_U011">
+    <itemlevel>41,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_U012">
+    <itemlevel>7,10,17,20,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_U012_VR">
+    <itemlevel>7,10</itemlevel>
+  </trait>
+  <trait name="Bow1H_U101">
+    <itemlevel>8,9,10,11,12,15,18,43</itemlevel>
+  </trait>
+  <trait name="Bow1H_U101_VR">
+    <itemlevel>15,18</itemlevel>
+  </trait>
+  <trait name="Bow1H_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Bow1H_UB01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Club2H_E001">
+    <itemlevel>6,7,8,9,10,43</itemlevel>
+  </trait>
+  <trait name="Club2H_R001">
+    <itemlevel>6,7,8,9,10,43</itemlevel>
+  </trait>
+  <trait name="Club2H_U001">
+    <itemlevel>6,7,8,9,10,43</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_E001">
+    <itemlevel>23,24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_E002">
+    <itemlevel>30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_E003">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_E004">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_E005">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_E006">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_E007">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_E101">
+    <itemlevel>8,9,10,11,12,40,43</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_L401">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_R001">
+    <itemlevel>10,11,12,13,14,15</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_R002">
+    <itemlevel>15,16,17,18,19,21</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_R003">
+    <itemlevel>18,19,20,21,22,23,25</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_R004">
+    <itemlevel>21,22,23,24,25,27</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_R005">
+    <itemlevel>25,26,27,28,29</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_R006">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_R007">
+    <itemlevel>35,38</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_R008">
+    <itemlevel>36,37,38,39,40,43</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_R009">
+    <itemlevel>39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_R010">
+    <itemlevel>34,37</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_R101">
+    <itemlevel>8,9,10,11,12,23,24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_R102">
+    <itemlevel>8,9,10,11,12,34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_RB01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_RC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_U001">
+    <itemlevel>10,11,12,13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_U002">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_U003">
+    <itemlevel>30,33,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_U004">
+    <itemlevel>9,12</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_U005">
+    <itemlevel>14,17,43</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_U005_VR">
+    <itemlevel>14,17</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_U006">
+    <itemlevel>19,22</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_U007">
+    <itemlevel>24,27,43</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_U007_VR">
+    <itemlevel>24,27</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_U008">
+    <itemlevel>29,32</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_U009">
+    <itemlevel>34,37,43</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_U009_VR">
+    <itemlevel>34,37</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_U010">
+    <itemlevel>39,42</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_U011">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_U011_VR">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_U101">
+    <itemlevel>8,9,10,11,12,13,14,15,16,19</itemlevel>
+  </trait>
+  <trait name="FireThrower2H_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_E001">
+    <itemlevel>23,24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_E002">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_E003">
+    <itemlevel>33,34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_E004">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_E005">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_E006">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_EC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_LC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_R001">
+    <itemlevel>11,12,13,14,15,23,26,33</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_R002">
+    <itemlevel>17,18,19,20,21,23,24</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_R003">
+    <itemlevel>24,27</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_R004">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_R005">
+    <itemlevel>33,36</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_R006">
+    <itemlevel>35,36,37,38,39</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_R007">
+    <itemlevel>39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_R008">
+    <itemlevel>33,36,43</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_R101">
+    <itemlevel>8,9,10,11,12,30,33,43</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_RC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_RD01">
+    <itemlevel>27,30</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_U001">
+    <itemlevel>5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_U002">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_U003">
+    <itemlevel>30,33,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_U004">
+    <itemlevel>12,15</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_U005">
+    <itemlevel>22,25</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_U006">
+    <itemlevel>32,35</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_U007">
+    <itemlevel>42,43</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_U008">
+    <itemlevel>6,8,9,10,11,12,16</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_U102">
+    <itemlevel>8,9,10,11,12,32,33,34,35,36</itemlevel>
+  </trait>
+  <trait name="FishingNet1H_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_E001">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_E002">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_E003">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_E004">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_E101">
+    <itemlevel>8,9,10,11,12,40,43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_EA01">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_L002">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_L003">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_LC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_R001">
+    <itemlevel>23,26</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_R002">
+    <itemlevel>27,28,29,30,31,33</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_R003">
+    <itemlevel>34,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_R004">
+    <itemlevel>23,24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_R005">
+    <itemlevel>30,33</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_R006">
+    <itemlevel>32,33,34,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_R007">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_R008">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_R009">
+    <itemlevel>38,41</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_R010">
+    <itemlevel>22,23,24,25,26,27,28,43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_R011">
+    <itemlevel>27,28,29,30,31,33</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_R012">
+    <itemlevel>33,34,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_R013">
+    <itemlevel>8,11</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_R014">
+    <itemlevel>25,28</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_R101">
+    <itemlevel>8,9,10,11,12,30,31,32,33,34,43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_R102">
+    <itemlevel>8,9,10,11,12,30,31,32,33,34,43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_R103">
+    <itemlevel>8,9,10,11,12,17,18,19,20,21,22,25,43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_RA01">
+    <itemlevel>8,9,10,11,12,24,27,43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_RA02">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_RA03">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_RC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_RC02">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_U001">
+    <itemlevel>7,10</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_U002">
+    <itemlevel>17,20</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_U003">
+    <itemlevel>27,30</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_U004">
+    <itemlevel>37,40</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_UA01">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_UA02">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_UA03">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_UA04">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_UA05">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_UA06">
+    <itemlevel>5,8,9,10,11,12</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_UB01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_UB02">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Bldg_UB03">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_E001">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_E002">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_E003">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_E004">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_E005">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_E101">
+    <itemlevel>8,9,10,11,12,40,43</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_L002">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_R001">
+    <itemlevel>23,24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_R002">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_R003">
+    <itemlevel>33,34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_R004">
+    <itemlevel>22,23,24,25,26</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_R005">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_R006">
+    <itemlevel>32,33,34,35,36</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_R007">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_R008">
+    <itemlevel>26,27,28,29,30,33</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_R009">
+    <itemlevel>35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_R010">
+    <itemlevel>20,21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_R011">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_R012">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_R013">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_R014">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_R015">
+    <itemlevel>34,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_R101">
+    <itemlevel>8,9,10,11,12,19,22,29,43</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_R102">
+    <itemlevel>8,9,10,11,12,15,18,25</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_R103">
+    <itemlevel>8,9,10,11,12,28,31,43</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_RB01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_RC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_U001">
+    <itemlevel>12,15</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_U002">
+    <itemlevel>22,25</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_U003">
+    <itemlevel>33,36</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_U004">
+    <itemlevel>42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Boat_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_E001">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_E002">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_E003">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_E004">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_E005">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_E006">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_E007">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_E008">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_E101">
+    <itemlevel>8,9,10,11,12,31,34,43</itemlevel>
+  </trait>
+  <trait name="Gear_E102">
+    <itemlevel>8,9,10,11,12,37,40,43</itemlevel>
+  </trait>
+  <trait name="Gear_E103">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Gear_E103F">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_EB01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_L002">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_L003">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_LC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_E001">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_E002">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_E003">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_E004">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_E101">
+    <itemlevel>8,9,10,11,12,20,23,30,43</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_E102">
+    <itemlevel>8,9,10,11,12,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_LC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_R001">
+    <itemlevel>21,22,23,24,25,27</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_R002">
+    <itemlevel>23,26,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_R003">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_R004">
+    <itemlevel>13,16,23,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_R005">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_R006">
+    <itemlevel>34,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_R007">
+    <itemlevel>22,23,24,25,26</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_R008">
+    <itemlevel>26,27,28,29,30,33</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_R009">
+    <itemlevel>33,34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_R010">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_R011">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_R012">
+    <itemlevel>33,34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_R013">
+    <itemlevel>20,23</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_R101">
+    <itemlevel>8,9,10,11,12,14,18,21,43</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_R102">
+    <itemlevel>8,9,10,11,12,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_RB01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_RC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_U001">
+    <itemlevel>7,10</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_U002">
+    <itemlevel>12,15</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_U003">
+    <itemlevel>17,20</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_U004">
+    <itemlevel>22,25</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_U005">
+    <itemlevel>27,30</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_U006">
+    <itemlevel>32,35</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_U007">
+    <itemlevel>37,40</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_U008">
+    <itemlevel>42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Prst_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_R001">
+    <itemlevel>22,23,24,25,26,27</itemlevel>
+  </trait>
+  <trait name="Gear_R002">
+    <itemlevel>27,28,29,30,31,33</itemlevel>
+  </trait>
+  <trait name="Gear_R003">
+    <itemlevel>34,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_R004">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Gear_R005">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Gear_R006">
+    <itemlevel>33,34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Gear_R007">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Gear_R008">
+    <itemlevel>23,24,25,26,27,28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Gear_R009">
+    <itemlevel>34,35,36,37,38,39</itemlevel>
+  </trait>
+  <trait name="Gear_R010">
+    <itemlevel>22,23,24,25,26,27</itemlevel>
+  </trait>
+  <trait name="Gear_R011">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Gear_R012">
+    <itemlevel>32,33,34,35,36</itemlevel>
+  </trait>
+  <trait name="Gear_R013">
+    <itemlevel>22,23,24,25,26,27</itemlevel>
+  </trait>
+  <trait name="Gear_R014">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Gear_R015">
+    <itemlevel>31,32,33,34,35</itemlevel>
+  </trait>
+  <trait name="Gear_R016">
+    <itemlevel>20,21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="Gear_R017">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Gear_R018">
+    <itemlevel>33,34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Gear_R019">
+    <itemlevel>18,19,20,21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="Gear_R020">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Gear_R021">
+    <itemlevel>33,34,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_R022">
+    <itemlevel>21,22,23,24,25,27</itemlevel>
+  </trait>
+  <trait name="Gear_R023">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Gear_R024">
+    <itemlevel>32,33,34,35,36</itemlevel>
+  </trait>
+  <trait name="Gear_R025">
+    <itemlevel>20,23</itemlevel>
+  </trait>
+  <trait name="Gear_R026">
+    <itemlevel>20,23</itemlevel>
+  </trait>
+  <trait name="Gear_R027">
+    <itemlevel>20,23</itemlevel>
+  </trait>
+  <trait name="Gear_R028">
+    <itemlevel>20,23</itemlevel>
+  </trait>
+  <trait name="Gear_R029">
+    <itemlevel>8,9,10,11,12,13,14,15,16,17,18</itemlevel>
+  </trait>
+  <trait name="Gear_R030">
+    <itemlevel>8,9,10,11,12,13,14,15,16,17,18</itemlevel>
+  </trait>
+  <trait name="Gear_R031">
+    <itemlevel>10,11,12,13,14,20,43</itemlevel>
+  </trait>
+  <trait name="Gear_R032">
+    <itemlevel>10,11,12,13,14,15,18,25,43</itemlevel>
+  </trait>
+  <trait name="Gear_R033">
+    <itemlevel>8,11</itemlevel>
+  </trait>
+  <trait name="Gear_R034">
+    <itemlevel>40,43</itemlevel>
+  </trait>
+  <trait name="Gear_R101">
+    <itemlevel>8,9,10,11,12,16,19,26</itemlevel>
+  </trait>
+  <trait name="Gear_R102">
+    <itemlevel>8,9,10,11,12,21,24,43</itemlevel>
+  </trait>
+  <trait name="Gear_R102F">
+    <itemlevel>21,24</itemlevel>
+  </trait>
+  <trait name="Gear_R103">
+    <itemlevel>8,9,10,11,12,28,31,43</itemlevel>
+  </trait>
+  <trait name="Gear_R104">
+    <itemlevel>8,9,10,11,12,38,41</itemlevel>
+  </trait>
+  <trait name="Gear_RB01">
+    <itemlevel>38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_E001">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_E002">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_E003">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_E004">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_E005">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_E101">
+    <itemlevel>8,9,10,11,12,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_E102">
+    <itemlevel>8,9,10,11,12,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_EB01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_EC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_ED01">
+    <itemlevel>23,26</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_L002">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_R001">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_R002">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_R003">
+    <itemlevel>23,26,33,34,35,36,37</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_R004">
+    <itemlevel>20,23,24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_R005">
+    <itemlevel>27,28,29,30,31,33</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_R006">
+    <itemlevel>35,36,37,38,39</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_R007">
+    <itemlevel>23,24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_R008">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_R009">
+    <itemlevel>32,33,34,35,36</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_R010">
+    <itemlevel>21,22,23,24,25,27</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_R011">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_R012">
+    <itemlevel>33,34,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_R013">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_R014">
+    <itemlevel>27,28,29,30,31,33</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_R015">
+    <itemlevel>32,33,34,35,36</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_R016">
+    <itemlevel>20,23</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_R101">
+    <itemlevel>8,9,10,11,12,22,23,24,25,26,27</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_R102">
+    <itemlevel>8,9,10,11,12,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_RC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_RC02">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_U001">
+    <itemlevel>13,16</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_U002">
+    <itemlevel>18,21</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_U003">
+    <itemlevel>28,31</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_U004">
+    <itemlevel>38,41</itemlevel>
+  </trait>
+  <trait name="Gear_Siege_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_U001">
+    <itemlevel>7,10</itemlevel>
+  </trait>
+  <trait name="Gear_U002">
+    <itemlevel>17,20</itemlevel>
+  </trait>
+  <trait name="Gear_U003">
+    <itemlevel>7,10</itemlevel>
+  </trait>
+  <trait name="Gear_U004">
+    <itemlevel>17,20</itemlevel>
+  </trait>
+  <trait name="Gear_U005">
+    <itemlevel>7,10</itemlevel>
+  </trait>
+  <trait name="Gear_U006">
+    <itemlevel>17,20</itemlevel>
+  </trait>
+  <trait name="Gear_U007">
+    <itemlevel>7,10</itemlevel>
+  </trait>
+  <trait name="Gear_U008">
+    <itemlevel>17,20</itemlevel>
+  </trait>
+  <trait name="Gear_U009">
+    <itemlevel>27,30</itemlevel>
+  </trait>
+  <trait name="Gear_U010">
+    <itemlevel>37,40</itemlevel>
+  </trait>
+  <trait name="Gear_U011">
+    <itemlevel>27,30</itemlevel>
+  </trait>
+  <trait name="Gear_U012">
+    <itemlevel>37,40</itemlevel>
+  </trait>
+  <trait name="Gear_U013">
+    <itemlevel>27,30</itemlevel>
+  </trait>
+  <trait name="Gear_U014">
+    <itemlevel>37,40</itemlevel>
+  </trait>
+  <trait name="Gear_U015">
+    <itemlevel>27,30</itemlevel>
+  </trait>
+  <trait name="Gear_U016">
+    <itemlevel>37,40</itemlevel>
+  </trait>
+  <trait name="Gear_U017">
+    <itemlevel>5,8,9,10,11,12,15,43</itemlevel>
+  </trait>
+  <trait name="Gear_UB01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_UD01">
+    <itemlevel>24,27</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_E001">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_E002">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_E003">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_E004">
+    <itemlevel>22,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_E101">
+    <itemlevel>8,9,10,11,12,37,38,39,40,41,43</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_E102">
+    <itemlevel>8,9,10,11,12,40,43</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_L002">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_R001">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_R002">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_R003">
+    <itemlevel>34,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_R004">
+    <itemlevel>20,21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_R005">
+    <itemlevel>27,28,29,30,31,33</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_R006">
+    <itemlevel>35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_R007">
+    <itemlevel>21,22,23,24,25,27</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_R008">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_R009">
+    <itemlevel>33,34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_R010">
+    <itemlevel>23,24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_R011">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_R012">
+    <itemlevel>33,34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_R013">
+    <itemlevel>8,11</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_R101">
+    <itemlevel>8,9,10,11,12,31,32,33,34,35,43</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_R102">
+    <itemlevel>8,9,10,11,12,17,18,19,20,21,23,26,43</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_RC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_U001">
+    <itemlevel>7,10</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_U002">
+    <itemlevel>17,20</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_U003">
+    <itemlevel>27,30</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_U004">
+    <itemlevel>37,40</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_U005">
+    <itemlevel>37,40</itemlevel>
+  </trait>
+  <trait name="Gear_Vill_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Javalin2H_E001">
+    <itemlevel>21,22,23,24,25,27</itemlevel>
+  </trait>
+  <trait name="Javalin2H_E002">
+    <itemlevel>25,26,27,28,29</itemlevel>
+  </trait>
+  <trait name="Javalin2H_E003">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Javalin2H_E004">
+    <itemlevel>33,34,35,36,37</itemlevel>
+  </trait>
+  <trait name="Javalin2H_E005">
+    <itemlevel>37,38,39,40,41,43</itemlevel>
+  </trait>
+  <trait name="Javalin2H_E006">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Javalin2H_E007">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Javalin2H_E008">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Javalin2H_E009">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Javalin2H_EC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Javalin2H_EC02">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Javalin2H_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Javalin2H_L401">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Javalin2H_R001">
+    <itemlevel>10,11,12,13,15</itemlevel>
+  </trait>
+  <trait name="Javalin2H_R002">
+    <itemlevel>12,13,14,15,16</itemlevel>
+  </trait>
+  <trait name="Javalin2H_R003">
+    <itemlevel>14,15,16,17,18,21</itemlevel>
+  </trait>
+  <trait name="Javalin2H_R004">
+    <itemlevel>16,17,18,19,20,23</itemlevel>
+  </trait>
+  <trait name="Javalin2H_R005">
+    <itemlevel>19,20,21,22,23,25</itemlevel>
+  </trait>
+  <trait name="Javalin2H_R006">
+    <itemlevel>22,23,24,25,26</itemlevel>
+  </trait>
+  <trait name="Javalin2H_R007">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Javalin2H_R008">
+    <itemlevel>26,27,28,29,30,33</itemlevel>
+  </trait>
+  <trait name="Javalin2H_R009">
+    <itemlevel>30,31,32,33,34,43</itemlevel>
+  </trait>
+  <trait name="Javalin2H_R009_VR">
+    <itemlevel>30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="Javalin2H_R010">
+    <itemlevel>35,38</itemlevel>
+  </trait>
+  <trait name="Javalin2H_R011">
+    <itemlevel>35,36,37,38,39</itemlevel>
+  </trait>
+  <trait name="Javalin2H_R012">
+    <itemlevel>36,37,38,39,40,43</itemlevel>
+  </trait>
+  <trait name="Javalin2H_R013">
+    <itemlevel>39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Javalin2H_R013_VR">
+    <itemlevel>40,43</itemlevel>
+  </trait>
+  <trait name="Javalin2H_R014">
+    <itemlevel>18,19,20,21,22,23,25</itemlevel>
+  </trait>
+  <trait name="Javalin2H_R016">
+    <itemlevel>10,13,20</itemlevel>
+  </trait>
+  <trait name="Javalin2H_RC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Javalin2H_U001">
+    <itemlevel>5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="Javalin2H_U002">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="Javalin2H_U003">
+    <itemlevel>30,33,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Javalin2H_U004">
+    <itemlevel>13,16</itemlevel>
+  </trait>
+  <trait name="Javalin2H_U005">
+    <itemlevel>23,26</itemlevel>
+  </trait>
+  <trait name="Javalin2H_U006">
+    <itemlevel>33,36</itemlevel>
+  </trait>
+  <trait name="Javalin2H_U007">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Javalin2H_U008">
+    <itemlevel>13,16</itemlevel>
+  </trait>
+  <trait name="Javalin2H_U009">
+    <itemlevel>23,26</itemlevel>
+  </trait>
+  <trait name="Javalin2H_U010">
+    <itemlevel>33,36</itemlevel>
+  </trait>
+  <trait name="Javalin2H_U011">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Javalin2H_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Javelin2H_E101">
+    <itemlevel>8,9,10,11,12,31,32,33,34,35,43</itemlevel>
+  </trait>
+  <trait name="Javelin2H_E102">
+    <itemlevel>8,9,10,11,12,38,41,43</itemlevel>
+  </trait>
+  <trait name="Javelin2H_EA01">
+    <itemlevel>8,9,10,11,12,38,41</itemlevel>
+  </trait>
+  <trait name="Javelin2H_EA02">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Javelin2H_R015">
+    <itemlevel>10,11,12,13,14,16,23</itemlevel>
+  </trait>
+  <trait name="Javelin2H_R101">
+    <itemlevel>8,9,10,11,12,31,34,43</itemlevel>
+  </trait>
+  <trait name="Javelin2H_RA01">
+    <itemlevel>8,9,10,11,12,23,26,43</itemlevel>
+  </trait>
+  <trait name="Javelin2H_U101">
+    <itemlevel>8,9,10,11,12,13,14,15,16,19</itemlevel>
+  </trait>
+  <trait name="Javelin2H_U102">
+    <itemlevel>8,9,10,11,12,28,31</itemlevel>
+  </trait>
+  <trait name="Merchant2H_E001">
+    <itemlevel>21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="Merchant2H_E002">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Merchant2H_E003">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Merchant2H_E004">
+    <itemlevel>31,32,33,34,35</itemlevel>
+  </trait>
+  <trait name="Merchant2H_E005">
+    <itemlevel>35,36,37,38,39</itemlevel>
+  </trait>
+  <trait name="Merchant2H_E006">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Merchant2H_E007">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Merchant2H_E008">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Merchant2H_E101">
+    <itemlevel>8,9,10,11,12,35,38,43</itemlevel>
+  </trait>
+  <trait name="Merchant2H_E102">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Merchant2H_EC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Merchant2H_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Merchant2H_L401">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Merchant2H_R001">
+    <itemlevel>10,11,12,13,15</itemlevel>
+  </trait>
+  <trait name="Merchant2H_R002">
+    <itemlevel>10,11,12,13,14,15</itemlevel>
+  </trait>
+  <trait name="Merchant2H_R003">
+    <itemlevel>13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="Merchant2H_R004">
+    <itemlevel>16,17,18,19,20</itemlevel>
+  </trait>
+  <trait name="Merchant2H_R005">
+    <itemlevel>18,19,20,21,22,25</itemlevel>
+  </trait>
+  <trait name="Merchant2H_R006">
+    <itemlevel>19,20,21,22,23,25</itemlevel>
+  </trait>
+  <trait name="Merchant2H_R007">
+    <itemlevel>22,23,24,25,26</itemlevel>
+  </trait>
+  <trait name="Merchant2H_R008">
+    <itemlevel>26,27,28,29,30,33</itemlevel>
+  </trait>
+  <trait name="Merchant2H_R009">
+    <itemlevel>33,36</itemlevel>
+  </trait>
+  <trait name="Merchant2H_R010">
+    <itemlevel>35,38</itemlevel>
+  </trait>
+  <trait name="Merchant2H_R011">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Merchant2H_R012">
+    <itemlevel>37,38,39,40,41,43</itemlevel>
+  </trait>
+  <trait name="Merchant2H_R013">
+    <itemlevel>38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Merchant2H_R101">
+    <itemlevel>8,9,10,11,12,24,25,26,27,28,43</itemlevel>
+  </trait>
+  <trait name="Merchant2H_RC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Merchant2H_U001">
+    <itemlevel>6,7,8,9,10,11,12,13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="Merchant2H_U002">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="Merchant2H_U003">
+    <itemlevel>30,33,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Merchant2H_U004">
+    <itemlevel>14,17</itemlevel>
+  </trait>
+  <trait name="Merchant2H_U005">
+    <itemlevel>24,27</itemlevel>
+  </trait>
+  <trait name="Merchant2H_U006">
+    <itemlevel>34,37</itemlevel>
+  </trait>
+  <trait name="Merchant2H_U007">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Merchant2H_U101">
+    <itemlevel>8,9,10,12,13,14,15,16,19,43</itemlevel>
+  </trait>
+  <trait name="Merchant2H_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="RamHead2H_E001">
+    <itemlevel>22,23,24,25,26,27</itemlevel>
+  </trait>
+  <trait name="RamHead2H_E002">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="RamHead2H_E003">
+    <itemlevel>35,36,37,38,39</itemlevel>
+  </trait>
+  <trait name="RamHead2H_E004">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="RamHead2H_E005">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="RamHead2H_E006">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="RamHead2H_E007">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="RamHead2H_E101">
+    <itemlevel>8,9,10,11,12,27,28,29,30,31,33,43</itemlevel>
+  </trait>
+  <trait name="RamHead2H_E102">
+    <itemlevel>8,9,10,11,12,40,43</itemlevel>
+  </trait>
+  <trait name="RamHead2H_EC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="RamHead2H_EC02">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="RamHead2H_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="RamHead2H_L401">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="RamHead2H_R001">
+    <itemlevel>10,11,12,13,14,15</itemlevel>
+  </trait>
+  <trait name="RamHead2H_R002">
+    <itemlevel>14,15,16,17,18,21</itemlevel>
+  </trait>
+  <trait name="RamHead2H_R003">
+    <itemlevel>17,18,19,20,21,23,26,33</itemlevel>
+  </trait>
+  <trait name="RamHead2H_R004">
+    <itemlevel>20,21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="RamHead2H_R005">
+    <itemlevel>26,29</itemlevel>
+  </trait>
+  <trait name="RamHead2H_R006">
+    <itemlevel>27,28,29,30,31,33</itemlevel>
+  </trait>
+  <trait name="RamHead2H_R007">
+    <itemlevel>34,37</itemlevel>
+  </trait>
+  <trait name="RamHead2H_R008">
+    <itemlevel>35,36,37,38,39</itemlevel>
+  </trait>
+  <trait name="RamHead2H_R009">
+    <itemlevel>39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="RamHead2H_R010">
+    <itemlevel>15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="RamHead2H_RC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="RamHead2H_RD01">
+    <itemlevel>25,28</itemlevel>
+  </trait>
+  <trait name="RamHead2H_U001">
+    <itemlevel>12,13,14,15,16,17,18,19,26,43</itemlevel>
+  </trait>
+  <trait name="RamHead2H_U002">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="RamHead2H_U003">
+    <itemlevel>30,33,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="RamHead2H_U004">
+    <itemlevel>11,14</itemlevel>
+  </trait>
+  <trait name="RamHead2H_U005">
+    <itemlevel>14,17</itemlevel>
+  </trait>
+  <trait name="RamHead2H_U006">
+    <itemlevel>21,24</itemlevel>
+  </trait>
+  <trait name="RamHead2H_U007">
+    <itemlevel>23,26</itemlevel>
+  </trait>
+  <trait name="RamHead2H_U008">
+    <itemlevel>31,34</itemlevel>
+  </trait>
+  <trait name="RamHead2H_U009">
+    <itemlevel>33,36</itemlevel>
+  </trait>
+  <trait name="RamHead2H_U010">
+    <itemlevel>41,43</itemlevel>
+  </trait>
+  <trait name="RamHead2H_U011">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="RamHead2H_U101">
+    <itemlevel>8,9,10,11,12,13,14,15,16,17,18,19,21,43</itemlevel>
+  </trait>
+  <trait name="RamHead2H_U102">
+    <itemlevel>8,9,10,11,12,36,39</itemlevel>
+  </trait>
+  <trait name="RamHead2H_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Scepter2H_E001">
+    <itemlevel>20,21,22,25</itemlevel>
+  </trait>
+  <trait name="Scepter2H_E002">
+    <itemlevel>23,24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Scepter2H_E003">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Scepter2H_E004">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Scepter2H_E005">
+    <itemlevel>38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Scepter2H_E006">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Scepter2H_E007">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Scepter2H_E008">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Scepter2H_E009">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Scepter2H_E010">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Scepter2H_E101">
+    <itemlevel>8,9,10,11,12,40,43</itemlevel>
+  </trait>
+  <trait name="Scepter2H_EA01">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Scepter2H_L401">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Scepter2H_L402">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Scepter2H_R001">
+    <itemlevel>13,16,23,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Scepter2H_R002">
+    <itemlevel>12,13,14,15,16,19</itemlevel>
+  </trait>
+  <trait name="Scepter2H_R003">
+    <itemlevel>14,15,16,17,18</itemlevel>
+  </trait>
+  <trait name="Scepter2H_R004">
+    <itemlevel>17,18,19,20,21,24</itemlevel>
+  </trait>
+  <trait name="Scepter2H_R005">
+    <itemlevel>19,20,21,22,23,25</itemlevel>
+  </trait>
+  <trait name="Scepter2H_R006">
+    <itemlevel>21,22,23,24,25,27</itemlevel>
+  </trait>
+  <trait name="Scepter2H_R007">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Scepter2H_R008">
+    <itemlevel>7,10,17,24,25,26,27,28,43</itemlevel>
+  </trait>
+  <trait name="Scepter2H_R009">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Scepter2H_R010">
+    <itemlevel>35,38</itemlevel>
+  </trait>
+  <trait name="Scepter2H_R011">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Scepter2H_R012">
+    <itemlevel>40,43</itemlevel>
+  </trait>
+  <trait name="Scepter2H_R013">
+    <itemlevel>39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Scepter2H_R014">
+    <itemlevel>15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Scepter2H_R015">
+    <itemlevel>10,11,12,13,14,21</itemlevel>
+  </trait>
+  <trait name="Scepter2H_R101">
+    <itemlevel>8,9,10,11,12,22,23,24,25,26</itemlevel>
+  </trait>
+  <trait name="Scepter2H_R102">
+    <itemlevel>8,9,10,11,12,38,41,43</itemlevel>
+  </trait>
+  <trait name="Scepter2H_RA01">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Scepter2H_U001">
+    <itemlevel>5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="Scepter2H_U002">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="Scepter2H_U003">
+    <itemlevel>35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Scepter2H_U004">
+    <itemlevel>8,11</itemlevel>
+  </trait>
+  <trait name="Scepter2H_U005">
+    <itemlevel>13,16</itemlevel>
+  </trait>
+  <trait name="Scepter2H_U006">
+    <itemlevel>16,19</itemlevel>
+  </trait>
+  <trait name="Scepter2H_U007">
+    <itemlevel>19,22</itemlevel>
+  </trait>
+  <trait name="Scepter2H_U008">
+    <itemlevel>26,29</itemlevel>
+  </trait>
+  <trait name="Scepter2H_U009">
+    <itemlevel>29,32</itemlevel>
+  </trait>
+  <trait name="Scepter2H_U010">
+    <itemlevel>36,39</itemlevel>
+  </trait>
+  <trait name="Scepter2H_U011">
+    <itemlevel>39,42</itemlevel>
+  </trait>
+  <trait name="Scepter2H_U101">
+    <itemlevel>8,9,10,11,12,13,14,15,16,19,43</itemlevel>
+  </trait>
+  <trait name="Scepter2H_U102">
+    <itemlevel>8,9,10,11,12,35,38,43</itemlevel>
+  </trait>
+  <trait name="Scepter2H_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Scout1H_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Scout1H_L401">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Scout1H_R001">
+    <itemlevel>13,16,19,23</itemlevel>
+  </trait>
+  <trait name="Scout1H_R002">
+    <itemlevel>10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Scout1H_R003">
+    <itemlevel>15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Scout1H_R004">
+    <itemlevel>15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Scout1H_R005">
+    <itemlevel>15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Scout1H_U001">
+    <itemlevel>6,8,9,10,11,12,16</itemlevel>
+  </trait>
+  <trait name="Shield1H_E001">
+    <itemlevel>20,21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="Shield1H_E002">
+    <itemlevel>25,26,27,28,29</itemlevel>
+  </trait>
+  <trait name="Shield1H_E003">
+    <itemlevel>38,41</itemlevel>
+  </trait>
+  <trait name="Shield1H_E004">
+    <itemlevel>33,34,35,36,37</itemlevel>
+  </trait>
+  <trait name="Shield1H_E005">
+    <itemlevel>36,37,38,39,40,43</itemlevel>
+  </trait>
+  <trait name="Shield1H_E006">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Shield1H_E007">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Shield1H_E008">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Shield1H_E009">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Shield1H_E101">
+    <itemlevel>8,9,10,11,12,41,43</itemlevel>
+  </trait>
+  <trait name="Shield1H_EA01">
+    <itemlevel>8,9,10,11,12,38,41,43</itemlevel>
+  </trait>
+  <trait name="Shield1H_EB01">
+    <itemlevel>37,38,39,40,41,43</itemlevel>
+  </trait>
+  <trait name="Shield1H_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Shield1H_L002">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Shield1H_L003">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Shield1H_R001">
+    <itemlevel>12,15,22,30,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Shield1H_R002">
+    <itemlevel>12,13,14,15,16</itemlevel>
+  </trait>
+  <trait name="Shield1H_R003">
+    <itemlevel>24,27</itemlevel>
+  </trait>
+  <trait name="Shield1H_R004">
+    <itemlevel>16,17,18,19,20</itemlevel>
+  </trait>
+  <trait name="Shield1H_R005">
+    <itemlevel>17,18,19,20,21,24</itemlevel>
+  </trait>
+  <trait name="Shield1H_R006">
+    <itemlevel>21,22,23,24,25,26,33</itemlevel>
+  </trait>
+  <trait name="Shield1H_R007">
+    <itemlevel>23,24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Shield1H_R008">
+    <itemlevel>27,28,29,30,31,33</itemlevel>
+  </trait>
+  <trait name="Shield1H_R009">
+    <itemlevel>30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="Shield1H_R010">
+    <itemlevel>35,38</itemlevel>
+  </trait>
+  <trait name="Shield1H_R011">
+    <itemlevel>35,36,37,38,39</itemlevel>
+  </trait>
+  <trait name="Shield1H_R012">
+    <itemlevel>40,43</itemlevel>
+  </trait>
+  <trait name="Shield1H_R013">
+    <itemlevel>39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Shield1H_R014">
+    <itemlevel>19,22,29,43</itemlevel>
+  </trait>
+  <trait name="Shield1H_R015">
+    <itemlevel>16,19</itemlevel>
+  </trait>
+  <trait name="Shield1H_R016">
+    <itemlevel>7,10,11,12,13,14,17</itemlevel>
+  </trait>
+  <trait name="Shield1H_R017">
+    <itemlevel>10,11,12,13,14,18,21,28,43</itemlevel>
+  </trait>
+  <trait name="Shield1H_R101">
+    <itemlevel>8,9,10,11,12,17,18,19,20,21,22,23,43</itemlevel>
+  </trait>
+  <trait name="Shield1H_R102">
+    <itemlevel>8,9,10,11,12,28,31</itemlevel>
+  </trait>
+  <trait name="Shield1H_RC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Shield1H_RD01">
+    <itemlevel>33,36</itemlevel>
+  </trait>
+  <trait name="Shield1H_U001">
+    <itemlevel>6,7,8,10,11,12,13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="Shield1H_U002">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="Shield1H_U003">
+    <itemlevel>30,33,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Shield1H_U004">
+    <itemlevel>22,25</itemlevel>
+  </trait>
+  <trait name="Shield1H_U005">
+    <itemlevel>13,16</itemlevel>
+  </trait>
+  <trait name="Shield1H_U006">
+    <itemlevel>23,26</itemlevel>
+  </trait>
+  <trait name="Shield1H_U007">
+    <itemlevel>32,35</itemlevel>
+  </trait>
+  <trait name="Shield1H_U008">
+    <itemlevel>42,43</itemlevel>
+  </trait>
+  <trait name="Shield1H_U009">
+    <itemlevel>33,36</itemlevel>
+  </trait>
+  <trait name="Shield1H_U010">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Shield1H_U017">
+    <itemlevel>6,9,10,20,43</itemlevel>
+  </trait>
+  <trait name="Shield1H_U101">
+    <itemlevel>8,9,10,11,12,13,16,23,43</itemlevel>
+  </trait>
+  <trait name="Shield1H_U102">
+    <itemlevel>8,9,10,11,12,35,38</itemlevel>
+  </trait>
+  <trait name="Shield1H_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Sling2H_E001">
+    <itemlevel>21,22,23,24,25,27,43</itemlevel>
+  </trait>
+  <trait name="Sling2H_E001_VR">
+    <itemlevel>21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="Sling2H_E002">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Sling2H_E003">
+    <itemlevel>28,29,30,31,32,33,43</itemlevel>
+  </trait>
+  <trait name="Sling2H_E003_VR">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Sling2H_E004">
+    <itemlevel>33,34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Sling2H_E005">
+    <itemlevel>37,38,39,40,41,43</itemlevel>
+  </trait>
+  <trait name="Sling2H_E006">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Sling2H_E007">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Sling2H_E008">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Sling2H_E009">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Sling2H_E101">
+    <itemlevel>8,9,10,11,12,38,41,43</itemlevel>
+  </trait>
+  <trait name="Sling2H_EA01">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Sling2H_L401">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Sling2H_L401_VR">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Sling2H_L402">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Sling2H_R001">
+    <itemlevel>10,11,12,13,15</itemlevel>
+  </trait>
+  <trait name="Sling2H_R002">
+    <itemlevel>11,12,13,14,15</itemlevel>
+  </trait>
+  <trait name="Sling2H_R003">
+    <itemlevel>7,10,11,12,13,14,15,17,20</itemlevel>
+  </trait>
+  <trait name="Sling2H_R004">
+    <itemlevel>14,15,16,17,18</itemlevel>
+  </trait>
+  <trait name="Sling2H_R005">
+    <itemlevel>17,18,19,20,21,24</itemlevel>
+  </trait>
+  <trait name="Sling2H_R006">
+    <itemlevel>10,19,20,21,22,23,26</itemlevel>
+  </trait>
+  <trait name="Sling2H_R007">
+    <itemlevel>20,21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="Sling2H_R008">
+    <itemlevel>23,24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Sling2H_R009">
+    <itemlevel>25,26,27,28,29,43</itemlevel>
+  </trait>
+  <trait name="Sling2H_R009_VR">
+    <itemlevel>25,26,27,28,29</itemlevel>
+  </trait>
+  <trait name="Sling2H_R010">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Sling2H_R011">
+    <itemlevel>32,33,34,35,36</itemlevel>
+  </trait>
+  <trait name="Sling2H_R012">
+    <itemlevel>36,37,38,39,40,43</itemlevel>
+  </trait>
+  <trait name="Sling2H_R013">
+    <itemlevel>39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Sling2H_R013_VR">
+    <itemlevel>40,43</itemlevel>
+  </trait>
+  <trait name="Sling2H_R014">
+    <itemlevel>15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Sling2H_R015">
+    <itemlevel>22,23,24,25,26</itemlevel>
+  </trait>
+  <trait name="Sling2H_R016">
+    <itemlevel>10,11,12,13,14,21,43</itemlevel>
+  </trait>
+  <trait name="Sling2H_R101">
+    <itemlevel>8,9,10,11,12,30,33</itemlevel>
+  </trait>
+  <trait name="Sling2H_RA01">
+    <itemlevel>8,9,10,11,12,18,21</itemlevel>
+  </trait>
+  <trait name="Sling2H_RC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Sling2H_U001">
+    <itemlevel>5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="Sling2H_U002">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="Sling2H_U003">
+    <itemlevel>35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Sling2H_U004">
+    <itemlevel>13,16</itemlevel>
+  </trait>
+  <trait name="Sling2H_U005">
+    <itemlevel>23,26</itemlevel>
+  </trait>
+  <trait name="Sling2H_U006">
+    <itemlevel>33,36</itemlevel>
+  </trait>
+  <trait name="Sling2H_U007">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Sling2H_U101">
+    <itemlevel>8,9,10,11,12,13,14,15,16</itemlevel>
+  </trait>
+  <trait name="Sling2H_U102">
+    <itemlevel>8,9,10,11,12,25,28</itemlevel>
+  </trait>
+  <trait name="Sling2H_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear1H_E001">
+    <itemlevel>23,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_E001_SR">
+    <itemlevel>23,26</itemlevel>
+  </trait>
+  <trait name="Spear1H_E002">
+    <itemlevel>25,26,27,28,29</itemlevel>
+  </trait>
+  <trait name="Spear1H_E003">
+    <itemlevel>29,30,31,32,33,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_E003_SR">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Spear1H_E004">
+    <itemlevel>32,33,34,35,36</itemlevel>
+  </trait>
+  <trait name="Spear1H_E005">
+    <itemlevel>35,36,37,38,39</itemlevel>
+  </trait>
+  <trait name="Spear1H_E006">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_E007">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear1H_E007_SR">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear1H_E008">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_E009">
+    <itemlevel>29,32</itemlevel>
+  </trait>
+  <trait name="Spear1H_E010">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Spear1H_E101">
+    <itemlevel>8,9,10,11,12,26,27,28,29,30,33,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_E102">
+    <itemlevel>8,9,10,11,12,35,38,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_E103">
+    <itemlevel>8,9,10,11,12,41,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_EA01">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_EA01_SR">
+    <itemlevel>33,36</itemlevel>
+  </trait>
+  <trait name="Spear1H_EB01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear1H_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear1H_L002">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear1H_L003">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear1H_L003_SR">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear1H_R001">
+    <itemlevel>12,15,22,30,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_R002">
+    <itemlevel>14,15,16,17,18,21</itemlevel>
+  </trait>
+  <trait name="Spear1H_R003">
+    <itemlevel>17,18,19,20,21,23,26,33</itemlevel>
+  </trait>
+  <trait name="Spear1H_R004">
+    <itemlevel>20,21,22,23,24,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_R004_SR">
+    <itemlevel>20,21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="Spear1H_R005">
+    <itemlevel>22,23,24,25,26,27</itemlevel>
+  </trait>
+  <trait name="Spear1H_R006">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Spear1H_R007">
+    <itemlevel>31,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_R007_SR">
+    <itemlevel>31,34</itemlevel>
+  </trait>
+  <trait name="Spear1H_R008">
+    <itemlevel>30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="Spear1H_R009">
+    <itemlevel>33,34,35,36,37</itemlevel>
+  </trait>
+  <trait name="Spear1H_R010">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Spear1H_R011">
+    <itemlevel>36,37,38,39,40,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_R012">
+    <itemlevel>38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_R012_SR">
+    <itemlevel>38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_R013">
+    <itemlevel>39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_R014">
+    <itemlevel>16,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_R014_SR">
+    <itemlevel>16,19</itemlevel>
+  </trait>
+  <trait name="Spear1H_R015">
+    <itemlevel>15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_R016">
+    <itemlevel>9,12</itemlevel>
+  </trait>
+  <trait name="Spear1H_R017">
+    <itemlevel>22,23,24,25,26,27</itemlevel>
+  </trait>
+  <trait name="Spear1H_R018">
+    <itemlevel>40,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_R101">
+    <itemlevel>8,9,10,11,12,28,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_R101_SR">
+    <itemlevel>28,31</itemlevel>
+  </trait>
+  <trait name="Spear1H_U001">
+    <itemlevel>6,7,8,10,11,12,13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="Spear1H_U002">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="Spear1H_U003">
+    <itemlevel>30,33,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_U004">
+    <itemlevel>12,15</itemlevel>
+  </trait>
+  <trait name="Spear1H_U005">
+    <itemlevel>14,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_U005_SR">
+    <itemlevel>14,17</itemlevel>
+  </trait>
+  <trait name="Spear1H_U006">
+    <itemlevel>22,25</itemlevel>
+  </trait>
+  <trait name="Spear1H_U007">
+    <itemlevel>24,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_U007_SR">
+    <itemlevel>24,27</itemlevel>
+  </trait>
+  <trait name="Spear1H_U008">
+    <itemlevel>32,35</itemlevel>
+  </trait>
+  <trait name="Spear1H_U009">
+    <itemlevel>34,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_U009_SR">
+    <itemlevel>34,37</itemlevel>
+  </trait>
+  <trait name="Spear1H_U010">
+    <itemlevel>42,43</itemlevel>
+  </trait>
+  <trait name="Spear1H_U011">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear1H_U011_SR">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear1H_U101">
+    <itemlevel>8,9,10,11,12,13,14,15,16</itemlevel>
+  </trait>
+  <trait name="Spear1H_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear2H_E001">
+    <itemlevel>20,21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="Spear2H_E002">
+    <itemlevel>25,26,27,28,29,43</itemlevel>
+  </trait>
+  <trait name="Spear2H_E002_SR">
+    <itemlevel>25,26,27,28,29</itemlevel>
+  </trait>
+  <trait name="Spear2H_E003">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Spear2H_E004">
+    <itemlevel>34,35,36,37,38,43</itemlevel>
+  </trait>
+  <trait name="Spear2H_E004_SR">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Spear2H_E005">
+    <itemlevel>38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Spear2H_E006">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Spear2H_E007">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear2H_E007_SR">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear2H_E008">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear2H_E009">
+    <itemlevel>20,21,22,23,24,43</itemlevel>
+  </trait>
+  <trait name="Spear2H_E009_SR">
+    <itemlevel>20,21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="Spear2H_E010">
+    <itemlevel>25,26,27,28,29,43</itemlevel>
+  </trait>
+  <trait name="Spear2H_E010_SR">
+    <itemlevel>25,26,27,28,29</itemlevel>
+  </trait>
+  <trait name="Spear2H_E011">
+    <itemlevel>30,31,32,33,34,43</itemlevel>
+  </trait>
+  <trait name="Spear2H_E011_SR">
+    <itemlevel>30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="Spear2H_E012">
+    <itemlevel>38,43</itemlevel>
+  </trait>
+  <trait name="Spear2H_E012_SR">
+    <itemlevel>38,41</itemlevel>
+  </trait>
+  <trait name="Spear2H_E013">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear2H_E014">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Spear2H_E015">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear2H_E101">
+    <itemlevel>8,9,10,11,12,30,33,43</itemlevel>
+  </trait>
+  <trait name="Spear2H_E102">
+    <itemlevel>8,9,10,11,12,39,42,43</itemlevel>
+  </trait>
+  <trait name="Spear2H_EA01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear2H_EB01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear2H_EC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear2H_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear2H_L002">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear2H_L002_SR">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear2H_R001">
+    <itemlevel>10,11,12,13,15</itemlevel>
+  </trait>
+  <trait name="Spear2H_R002">
+    <itemlevel>13,14,15,16,17,18</itemlevel>
+  </trait>
+  <trait name="Spear2H_R003">
+    <itemlevel>14,15,16,17,18,21</itemlevel>
+  </trait>
+  <trait name="Spear2H_R004">
+    <itemlevel>16,17,18,19,20,23,26,33</itemlevel>
+  </trait>
+  <trait name="Spear2H_R005">
+    <itemlevel>19,20,21,22,23,26</itemlevel>
+  </trait>
+  <trait name="Spear2H_R006">
+    <itemlevel>25,28</itemlevel>
+  </trait>
+  <trait name="Spear2H_R007">
+    <itemlevel>26,27,28,29,30,33</itemlevel>
+  </trait>
+  <trait name="Spear2H_R008">
+    <itemlevel>29,30,33</itemlevel>
+  </trait>
+  <trait name="Spear2H_R009">
+    <itemlevel>28,29,30,31,32,43</itemlevel>
+  </trait>
+  <trait name="Spear2H_R009_SR">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Spear2H_R010">
+    <itemlevel>33,36</itemlevel>
+  </trait>
+  <trait name="Spear2H_R011">
+    <itemlevel>32,33,34,35,36</itemlevel>
+  </trait>
+  <trait name="Spear2H_R012">
+    <itemlevel>36,37,38,39,40,43</itemlevel>
+  </trait>
+  <trait name="Spear2H_R013">
+    <itemlevel>36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Spear2H_R013_SR">
+    <itemlevel>39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Spear2H_R014">
+    <itemlevel>7,8,9,10,11,14</itemlevel>
+  </trait>
+  <trait name="Spear2H_R015">
+    <itemlevel>24,27</itemlevel>
+  </trait>
+  <trait name="Spear2H_R016">
+    <itemlevel>22,23,24,25,26,27</itemlevel>
+  </trait>
+  <trait name="Spear2H_R017">
+    <itemlevel>7,10,11,12,13,14,17,20,43</itemlevel>
+  </trait>
+  <trait name="Spear2H_R018">
+    <itemlevel>8,11</itemlevel>
+  </trait>
+  <trait name="Spear2H_R101">
+    <itemlevel>8,9,10,11,12,24,27,43</itemlevel>
+  </trait>
+  <trait name="Spear2H_RC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear2H_RD01">
+    <itemlevel>25,28</itemlevel>
+  </trait>
+  <trait name="Spear2H_U001">
+    <itemlevel>4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="Spear2H_U002">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="Spear2H_U003">
+    <itemlevel>30,33,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Spear2H_U004">
+    <itemlevel>8,11</itemlevel>
+  </trait>
+  <trait name="Spear2H_U005">
+    <itemlevel>13,16</itemlevel>
+  </trait>
+  <trait name="Spear2H_U006">
+    <itemlevel>18,21</itemlevel>
+  </trait>
+  <trait name="Spear2H_U007">
+    <itemlevel>23,26</itemlevel>
+  </trait>
+  <trait name="Spear2H_U008">
+    <itemlevel>8,11</itemlevel>
+  </trait>
+  <trait name="Spear2H_U009">
+    <itemlevel>18,21</itemlevel>
+  </trait>
+  <trait name="Spear2H_U010">
+    <itemlevel>28,31</itemlevel>
+  </trait>
+  <trait name="Spear2H_U011">
+    <itemlevel>33,36</itemlevel>
+  </trait>
+  <trait name="Spear2H_U012">
+    <itemlevel>38,41</itemlevel>
+  </trait>
+  <trait name="Spear2H_U013">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear2H_U014">
+    <itemlevel>28,31</itemlevel>
+  </trait>
+  <trait name="Spear2H_U015">
+    <itemlevel>38,41</itemlevel>
+  </trait>
+  <trait name="Spear2H_U016">
+    <itemlevel>7,10,13,17,20</itemlevel>
+  </trait>
+  <trait name="Spear2H_U101">
+    <itemlevel>8,9,10,11,12,13,16,23,43</itemlevel>
+  </trait>
+  <trait name="Spear2H_U102">
+    <itemlevel>8,9,10,11,12,15,18,43</itemlevel>
+  </trait>
+  <trait name="Spear2H_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Spear2H_UA01">
+    <itemlevel>6,8,11,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_E001">
+    <itemlevel>20,21,22,23,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_E001_VR">
+    <itemlevel>20,21,22,23,25</itemlevel>
+  </trait>
+  <trait name="Staff2H_E002">
+    <itemlevel>25,26,27,28,29,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_E002_VR">
+    <itemlevel>25,26,27,28,29</itemlevel>
+  </trait>
+  <trait name="Staff2H_E003">
+    <itemlevel>29,30,31,32,33,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_E003_VR">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Staff2H_E004">
+    <itemlevel>32,33,34,35,36,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_E004_VR">
+    <itemlevel>32,34,35,36</itemlevel>
+  </trait>
+  <trait name="Staff2H_E005">
+    <itemlevel>36,37,38,39,40,42,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_E006">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Staff2H_E007">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_E007_VR">
+    <itemlevel>40,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_E008">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_E008_VR">
+    <itemlevel>40,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_E009">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_E010">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_E011">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Staff2H_E101">
+    <itemlevel>8,9,10,11,12,40,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_E101_VR">
+    <itemlevel>40,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_ED01">
+    <itemlevel>25,28</itemlevel>
+  </trait>
+  <trait name="Staff2H_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Staff2H_L001_VR">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Staff2H_L002">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Staff2H_R001">
+    <itemlevel>11,12,13,14,15</itemlevel>
+  </trait>
+  <trait name="Staff2H_R002">
+    <itemlevel>11,12,13,14,15,16,23,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_R002_VR">
+    <itemlevel>13,16</itemlevel>
+  </trait>
+  <trait name="Staff2H_R003">
+    <itemlevel>17,18,19,20,21,23,24</itemlevel>
+  </trait>
+  <trait name="Staff2H_R004">
+    <itemlevel>21,24</itemlevel>
+  </trait>
+  <trait name="Staff2H_R005">
+    <itemlevel>20,21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="Staff2H_R006">
+    <itemlevel>21,22,23,24,25,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_R006_VR">
+    <itemlevel>21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="Staff2H_R007">
+    <itemlevel>23,24,25,26,27,28,29</itemlevel>
+  </trait>
+  <trait name="Staff2H_R008">
+    <itemlevel>27,28,29,30,31,33</itemlevel>
+  </trait>
+  <trait name="Staff2H_R009">
+    <itemlevel>30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="Staff2H_R010">
+    <itemlevel>36,39</itemlevel>
+  </trait>
+  <trait name="Staff2H_R011">
+    <itemlevel>35,36,37,38,39</itemlevel>
+  </trait>
+  <trait name="Staff2H_R012">
+    <itemlevel>37,38,39,40,41,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_R013">
+    <itemlevel>39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_R014">
+    <itemlevel>15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_R015">
+    <itemlevel>16,17,18,19,20</itemlevel>
+  </trait>
+  <trait name="Staff2H_R101">
+    <itemlevel>8,9,10,11,12,20,23,30,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_R102">
+    <itemlevel>8,9,10,11,12,25,26,27,28,29,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_R103">
+    <itemlevel>8,9,10,11,12,35,38,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_RB01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Staff2H_U001">
+    <itemlevel>4,6,7,8,10,11,12,13,14,15,16,17,18,19,26,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_U001_VR">
+    <itemlevel>6,7,8,10,11,12,13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="Staff2H_U002">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_U002_VR">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="Staff2H_U003">
+    <itemlevel>30,33,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_U003_VR">
+    <itemlevel>30,33,36,38,40,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_U004">
+    <itemlevel>9,12</itemlevel>
+  </trait>
+  <trait name="Staff2H_U005">
+    <itemlevel>11,14</itemlevel>
+  </trait>
+  <trait name="Staff2H_U006">
+    <itemlevel>14,17</itemlevel>
+  </trait>
+  <trait name="Staff2H_U007">
+    <itemlevel>21,24</itemlevel>
+  </trait>
+  <trait name="Staff2H_U008">
+    <itemlevel>23,26</itemlevel>
+  </trait>
+  <trait name="Staff2H_U009">
+    <itemlevel>24,27</itemlevel>
+  </trait>
+  <trait name="Staff2H_U010">
+    <itemlevel>31,34</itemlevel>
+  </trait>
+  <trait name="Staff2H_U011">
+    <itemlevel>33,36</itemlevel>
+  </trait>
+  <trait name="Staff2H_U012">
+    <itemlevel>34,37</itemlevel>
+  </trait>
+  <trait name="Staff2H_U013">
+    <itemlevel>41,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_U014">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Staff2H_U015">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Staff2H_U101">
+    <itemlevel>8,9,10,11,12,13,14,15,16,19,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_U102">
+    <itemlevel>8,9,10,11,12,35,38,43</itemlevel>
+  </trait>
+  <trait name="Staff2H_U102_VR">
+    <itemlevel>35,38</itemlevel>
+  </trait>
+  <trait name="Staff2H_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Sword1H_E001">
+    <itemlevel>28,31</itemlevel>
+  </trait>
+  <trait name="Sword1H_E002">
+    <itemlevel>25,26,27,28,29</itemlevel>
+  </trait>
+  <trait name="Sword1H_E003">
+    <itemlevel>30,31,32,33,34,43</itemlevel>
+  </trait>
+  <trait name="Sword1H_E003_SR">
+    <itemlevel>30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="Sword1H_E004">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Sword1H_E005">
+    <itemlevel>37,38,39,40,41,43</itemlevel>
+  </trait>
+  <trait name="Sword1H_E005_SR">
+    <itemlevel>37,38,39,40,41,43</itemlevel>
+  </trait>
+  <trait name="Sword1H_E006">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Sword1H_E006_SR">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Sword1H_E007">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Sword1H_E008">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Sword1H_E009">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Sword1H_E010">
+    <itemlevel>34,37</itemlevel>
+  </trait>
+  <trait name="Sword1H_E101">
+    <itemlevel>8,9,10,11,12,38,41,43</itemlevel>
+  </trait>
+  <trait name="Sword1H_E102">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Sword1H_EA01">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Sword1H_EA01_SR">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Sword1H_L001">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Sword1H_L002">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Sword1H_R001">
+    <itemlevel>10,11,12,13,15</itemlevel>
+  </trait>
+  <trait name="Sword1H_R002">
+    <itemlevel>10,11,12,13,14,15</itemlevel>
+  </trait>
+  <trait name="Sword1H_R003">
+    <itemlevel>12,13,14,15,16,19</itemlevel>
+  </trait>
+  <trait name="Sword1H_R004">
+    <itemlevel>15,16,17,18,19,21</itemlevel>
+  </trait>
+  <trait name="Sword1H_R005">
+    <itemlevel>17,18,19,20,21,23,24</itemlevel>
+  </trait>
+  <trait name="Sword1H_R006">
+    <itemlevel>20,21,22,23,24,26</itemlevel>
+  </trait>
+  <trait name="Sword1H_R007">
+    <itemlevel>23,24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Sword1H_R008">
+    <itemlevel>26,27,28,29,30,33</itemlevel>
+  </trait>
+  <trait name="Sword1H_R009">
+    <itemlevel>31,34</itemlevel>
+  </trait>
+  <trait name="Sword1H_R010">
+    <itemlevel>30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="Sword1H_R011">
+    <itemlevel>34,37</itemlevel>
+  </trait>
+  <trait name="Sword1H_R012">
+    <itemlevel>35,36,37,38,39</itemlevel>
+  </trait>
+  <trait name="Sword1H_R013">
+    <itemlevel>39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Sword1H_R014">
+    <itemlevel>19,22,29,43</itemlevel>
+  </trait>
+  <trait name="Sword1H_R015">
+    <itemlevel>14,17</itemlevel>
+  </trait>
+  <trait name="Sword1H_R016">
+    <itemlevel>7,10,11,12,13,14,17,20,43</itemlevel>
+  </trait>
+  <trait name="Sword1H_R016_SR">
+    <itemlevel>7,10,13,17,20</itemlevel>
+  </trait>
+  <trait name="Sword1H_R017">
+    <itemlevel>10,11,12,13,14,15,18,25</itemlevel>
+  </trait>
+  <trait name="Sword1H_R101">
+    <itemlevel>8,9,10,11,12,14,18,21,43</itemlevel>
+  </trait>
+  <trait name="Sword1H_R102">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Sword1H_R102_SR">
+    <itemlevel>16,19,26</itemlevel>
+  </trait>
+  <trait name="Sword1H_R103">
+    <itemlevel>8,9,10,11,12,16,19,43</itemlevel>
+  </trait>
+  <trait name="Sword1H_RB01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Sword1H_RC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Sword1H_RC02">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Sword1H_U001">
+    <itemlevel>5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="Sword1H_U002">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="Sword1H_U003">
+    <itemlevel>30,33,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Sword1H_U004">
+    <itemlevel>9,43</itemlevel>
+  </trait>
+  <trait name="Sword1H_U004_SR">
+    <itemlevel>9,12</itemlevel>
+  </trait>
+  <trait name="Sword1H_U005">
+    <itemlevel>14,17</itemlevel>
+  </trait>
+  <trait name="Sword1H_U006">
+    <itemlevel>19,43</itemlevel>
+  </trait>
+  <trait name="Sword1H_U006_SR">
+    <itemlevel>19,22</itemlevel>
+  </trait>
+  <trait name="Sword1H_U007">
+    <itemlevel>24,27</itemlevel>
+  </trait>
+  <trait name="Sword1H_U008">
+    <itemlevel>9,12</itemlevel>
+  </trait>
+  <trait name="Sword1H_U009">
+    <itemlevel>19,22</itemlevel>
+  </trait>
+  <trait name="Sword1H_U010">
+    <itemlevel>29,43</itemlevel>
+  </trait>
+  <trait name="Sword1H_U010_SR">
+    <itemlevel>29,32</itemlevel>
+  </trait>
+  <trait name="Sword1H_U011">
+    <itemlevel>34,37</itemlevel>
+  </trait>
+  <trait name="Sword1H_U012">
+    <itemlevel>39,42</itemlevel>
+  </trait>
+  <trait name="Sword1H_U013">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Sword1H_U014">
+    <itemlevel>29,32</itemlevel>
+  </trait>
+  <trait name="Sword1H_U015">
+    <itemlevel>39,42</itemlevel>
+  </trait>
+  <trait name="Sword1H_U016">
+    <itemlevel>9,12,43</itemlevel>
+  </trait>
+  <trait name="Sword1H_U101">
+    <itemlevel>8,9,10,11,12,32,33,34,35,36</itemlevel>
+  </trait>
+  <trait name="Sword1H_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Tool1H_E001">
+    <itemlevel>20,21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="Tool1H_E002">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Tool1H_E003">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Tool1H_E004">
+    <itemlevel>31,32,33,34,35,42</itemlevel>
+  </trait>
+  <trait name="Tool1H_E005">
+    <itemlevel>35,36,37,38,39</itemlevel>
+  </trait>
+  <trait name="Tool1H_E006">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Tool1H_E007">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Tool1H_E008">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Tool1H_E009">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Tool1H_E010">
+    <itemlevel>6,7,8,9,10,13,16,23,43</itemlevel>
+  </trait>
+  <trait name="Tool1H_E011">
+    <itemlevel>12,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Tool1H_E101">
+    <itemlevel>8,9,10,11,12,40,43</itemlevel>
+  </trait>
+  <trait name="Tool1H_E102">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Tool1H_EC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Tool1H_ED01">
+    <itemlevel>27,30</itemlevel>
+  </trait>
+  <trait name="Tool1H_L001">
+    <itemlevel>4,43</itemlevel>
+  </trait>
+  <trait name="Tool1H_L002">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Tool1H_LC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Tool1H_R001">
+    <itemlevel>10,11,12,13,14,15</itemlevel>
+  </trait>
+  <trait name="Tool1H_R002">
+    <itemlevel>13,14,15,16,17,18</itemlevel>
+  </trait>
+  <trait name="Tool1H_R003">
+    <itemlevel>15,16,17,18,19,21</itemlevel>
+  </trait>
+  <trait name="Tool1H_R004">
+    <itemlevel>19,20,21,22,23,25</itemlevel>
+  </trait>
+  <trait name="Tool1H_R005">
+    <itemlevel>22,23,24,25,26</itemlevel>
+  </trait>
+  <trait name="Tool1H_R006">
+    <itemlevel>23,24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Tool1H_R007">
+    <itemlevel>27,28,29,30,31,33</itemlevel>
+  </trait>
+  <trait name="Tool1H_R008">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Tool1H_R009">
+    <itemlevel>30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="Tool1H_R010">
+    <itemlevel>35,38</itemlevel>
+  </trait>
+  <trait name="Tool1H_R011">
+    <itemlevel>37,40</itemlevel>
+  </trait>
+  <trait name="Tool1H_R012">
+    <itemlevel>39,42</itemlevel>
+  </trait>
+  <trait name="Tool1H_R013">
+    <itemlevel>38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Tool1H_R014">
+    <itemlevel>6,7,8,9,10,12</itemlevel>
+  </trait>
+  <trait name="Tool1H_R015">
+    <itemlevel>7,8,9,10,11,14</itemlevel>
+  </trait>
+  <trait name="Tool1H_R016">
+    <itemlevel>8,11</itemlevel>
+  </trait>
+  <trait name="Tool1H_R101">
+    <itemlevel>8,9,10,11,12,28,31,43</itemlevel>
+  </trait>
+  <trait name="Tool1H_R102">
+    <itemlevel>8,9,10,11,12,36,39,43</itemlevel>
+  </trait>
+  <trait name="Tool1H_RC01">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Tool1H_U001">
+    <itemlevel>5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="Tool1H_U002">
+    <itemlevel>20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</itemlevel>
+  </trait>
+  <trait name="Tool1H_U003">
+    <itemlevel>30,33,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Tool1H_U004">
+    <itemlevel>8,11</itemlevel>
+  </trait>
+  <trait name="Tool1H_U005">
+    <itemlevel>9,12</itemlevel>
+  </trait>
+  <trait name="Tool1H_U006">
+    <itemlevel>11,14</itemlevel>
+  </trait>
+  <trait name="Tool1H_U007">
+    <itemlevel>13,16</itemlevel>
+  </trait>
+  <trait name="Tool1H_U008">
+    <itemlevel>18,21</itemlevel>
+  </trait>
+  <trait name="Tool1H_U009">
+    <itemlevel>19,22</itemlevel>
+  </trait>
+  <trait name="Tool1H_U010">
+    <itemlevel>21,24</itemlevel>
+  </trait>
+  <trait name="Tool1H_U011">
+    <itemlevel>23,26</itemlevel>
+  </trait>
+  <trait name="Tool1H_U012">
+    <itemlevel>28,31</itemlevel>
+  </trait>
+  <trait name="Tool1H_U013">
+    <itemlevel>29,32</itemlevel>
+  </trait>
+  <trait name="Tool1H_U014">
+    <itemlevel>31,34</itemlevel>
+  </trait>
+  <trait name="Tool1H_U015">
+    <itemlevel>33,36</itemlevel>
+  </trait>
+  <trait name="Tool1H_U016">
+    <itemlevel>38,41</itemlevel>
+  </trait>
+  <trait name="Tool1H_U017">
+    <itemlevel>39,42</itemlevel>
+  </trait>
+  <trait name="Tool1H_U018">
+    <itemlevel>41,43</itemlevel>
+  </trait>
+  <trait name="Tool1H_U019">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Tool1H_U020">
+    <itemlevel>6,9,10,11,12,13,14,16,43</itemlevel>
+  </trait>
+  <trait name="Tool1H_U021">
+    <itemlevel>37,40</itemlevel>
+  </trait>
+  <trait name="Tool1H_U102">
+    <itemlevel>8,9,10,11,12,13,14,15,16,19,43</itemlevel>
+  </trait>
+  <trait name="Tool1H_U103">
+    <itemlevel>8,9,10,11,12,35,38,43</itemlevel>
+  </trait>
+  <trait name="Tool1H_U201">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Tool1H_UA01">
+    <itemlevel>13,16,43</itemlevel>
+  </trait>
+  <trait name="Torc_E101">
+    <itemlevel>8,9,10,11,12,23,26,33</itemlevel>
+  </trait>
+  <trait name="Torc_E102">
+    <itemlevel>8,9,10,11,12,17,18,19,20,21,22,23,43</itemlevel>
+  </trait>
+  <trait name="Torc_E103">
+    <itemlevel>8,9,10,11,12,23,24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Torc_E104">
+    <itemlevel>8,9,10,11,12,28,29,30,31,32,33,43</itemlevel>
+  </trait>
+  <trait name="Torc_E105">
+    <itemlevel>8,9,10,11,12,34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Torc_E106">
+    <itemlevel>8,9,10,11,12,36,37,38,39,40,43</itemlevel>
+  </trait>
+  <trait name="Torc_E107">
+    <itemlevel>8,9,10,11,12,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Torc_E108">
+    <itemlevel>8,9,10,11,12,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Torc_E109">
+    <itemlevel>8,9,10,11,12,30,33</itemlevel>
+  </trait>
+  <trait name="Torc_E110">
+    <itemlevel>8,9,10,11,12,34,37</itemlevel>
+  </trait>
+  <trait name="Torc_E111">
+    <itemlevel>8,9,10,11,12,43</itemlevel>
+  </trait>
+  <trait name="Torc_L401">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Torc_L402">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Torc_R101">
+    <itemlevel>8,9,10,11,12,13,15,43</itemlevel>
+  </trait>
+  <trait name="Torc_R102">
+    <itemlevel>8,9,10,11,12,20,23,43</itemlevel>
+  </trait>
+  <trait name="Torc_R103">
+    <itemlevel>8,9,10,11,12,15,16,17,18,19,20,43</itemlevel>
+  </trait>
+  <trait name="Torc_R104">
+    <itemlevel>8,9,10,11,12,17,18,19,20,21</itemlevel>
+  </trait>
+  <trait name="Torc_R105">
+    <itemlevel>8,9,10,11,12,17,18,19,20,21,22,23</itemlevel>
+  </trait>
+  <trait name="Torc_R106">
+    <itemlevel>8,9,10,11,12,22,23,24,25,26,27,43</itemlevel>
+  </trait>
+  <trait name="Torc_R107">
+    <itemlevel>8,9,10,11,12,23,24,25,26,27,28,43</itemlevel>
+  </trait>
+  <trait name="Torc_R108">
+    <itemlevel>8,9,10,11,12,21,24,43</itemlevel>
+  </trait>
+  <trait name="Torc_R109">
+    <itemlevel>8,9,10,11,12,29,32,43</itemlevel>
+  </trait>
+  <trait name="Torc_R110">
+    <itemlevel>8,9,10,11,12,40,43</itemlevel>
+  </trait>
+  <trait name="Torc_R111">
+    <itemlevel>10,11,12,13,14,43</itemlevel>
+  </trait>
+  <trait name="Torc_U101">
+    <itemlevel>5,6,7,8,9,10,11,12,13,14,15,16,17,43</itemlevel>
+  </trait>
+  <trait name="Torc_U102">
+    <itemlevel>8,9,10,11,12,18,19,20,21,22,23,24,25,26,43</itemlevel>
+  </trait>
+  <trait name="Torc_U103">
+    <itemlevel>8,9,10,11,12,42,43</itemlevel>
+  </trait>
+  <trait name="Torc_U104">
+    <itemlevel>8,9,10,11,12,27,28,29,30,31,33,43</itemlevel>
+  </trait>
+  <trait name="Torc_U105">
+    <itemlevel>8,9,10,11,12,32,33,34,35,36</itemlevel>
+  </trait>
+  <trait name="Torc_U106">
+    <itemlevel>8,9,10,11,12,37,38,39,40,41,43</itemlevel>
+  </trait>
+  <trait name="Torc_U107">
+    <itemlevel>5,8,9,10,11,12</itemlevel>
+  </trait>
+  <trait name="Torc_U108">
+    <itemlevel>8,9,10,11,12</itemlevel>
+  </trait>
+  <trait name="Torc_U109">
+    <itemlevel>8,9,10,11,12,13,16</itemlevel>
+  </trait>
+  <trait name="Torc_U110">
+    <itemlevel>8,9,10,11,12,17,20</itemlevel>
+  </trait>
+  <trait name="Torc_U111">
+    <itemlevel>8,9,10,11,12,21,24</itemlevel>
+  </trait>
+  <trait name="Torc_U112">
+    <itemlevel>8,9,10,11,12,24,27</itemlevel>
+  </trait>
+  <trait name="Torc_U113">
+    <itemlevel>8,9,10,11,12</itemlevel>
+  </trait>
+  <trait name="Torc_U114">
+    <itemlevel>8,9,10,11,12,14,17</itemlevel>
+  </trait>
+  <trait name="Torc_U115">
+    <itemlevel>8,9,10,11,12,20,23</itemlevel>
+  </trait>
+  <trait name="WarHorn_E101">
+    <itemlevel>21,22,23,24,25</itemlevel>
+  </trait>
+  <trait name="WarHorn_E102">
+    <itemlevel>25,26,27,28,29</itemlevel>
+  </trait>
+  <trait name="WarHorn_E103">
+    <itemlevel>29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="WarHorn_E104">
+    <itemlevel>38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="WarHorn_E105">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="WarHorn_E106">
+    <itemlevel>36</itemlevel>
+  </trait>
+  <trait name="WarHorn_E106_SR">
+    <itemlevel>36</itemlevel>
+  </trait>
+  <trait name="WarHorn_E107">
+    <itemlevel>40</itemlevel>
+  </trait>
+  <trait name="WarHorn_E108">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="WarHorn_L401">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="WarHorn_L402">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="WarHorn_R101">
+    <itemlevel>16</itemlevel>
+  </trait>
+  <trait name="WarHorn_R102">
+    <itemlevel>12,13,14,15,16</itemlevel>
+  </trait>
+  <trait name="WarHorn_R103">
+    <itemlevel>20</itemlevel>
+  </trait>
+  <trait name="WarHorn_R104">
+    <itemlevel>20</itemlevel>
+  </trait>
+  <trait name="WarHorn_R105">
+    <itemlevel>17,18,19,20,21,22,23</itemlevel>
+  </trait>
+  <trait name="WarHorn_R106">
+    <itemlevel>22,23,24,25,26</itemlevel>
+  </trait>
+  <trait name="WarHorn_R107">
+    <itemlevel>23,24,25,26,27</itemlevel>
+  </trait>
+  <trait name="WarHorn_R108">
+    <itemlevel>27,28,29,30,31</itemlevel>
+  </trait>
+  <trait name="WarHorn_R109">
+    <itemlevel>29,30,31,32</itemlevel>
+  </trait>
+  <trait name="WarHorn_R110">
+    <itemlevel>31</itemlevel>
+  </trait>
+  <trait name="WarHorn_R111">
+    <itemlevel>35</itemlevel>
+  </trait>
+  <trait name="WarHorn_R112">
+    <itemlevel>39</itemlevel>
+  </trait>
+  <trait name="WarHorn_U101">
+    <itemlevel>6,7,8,12,13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="WarHorn_U102">
+    <itemlevel>24,25,26,27,28,29</itemlevel>
+  </trait>
+  <trait name="WarHorn_U103">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="WarHorn_U104">
+    <itemlevel>20,21,22,23,24</itemlevel>
+  </trait>
+  <trait name="WarHorn_U105">
+    <itemlevel>30,31,32,34,36,38</itemlevel>
+  </trait>
+  <trait name="WarHorn_U106">
+    <itemlevel>40,43</itemlevel>
+  </trait>
+  <trait name="WarHorn_U107">
+    <itemlevel>8</itemlevel>
+  </trait>
+  <trait name="WarHorn_U108">
+    <itemlevel>16</itemlevel>
+  </trait>
+  <trait name="WarHorn_U109">
+    <itemlevel>24</itemlevel>
+  </trait>
+  <trait name="Warpaint_E101">
+    <itemlevel>23,26,33</itemlevel>
+  </trait>
+  <trait name="Warpaint_E102">
+    <itemlevel>23,26,33</itemlevel>
+  </trait>
+  <trait name="Warpaint_E103">
+    <itemlevel>23,26,33</itemlevel>
+  </trait>
+  <trait name="Warpaint_E104">
+    <itemlevel>17,18,19,20,21,22,23</itemlevel>
+  </trait>
+  <trait name="Warpaint_E105">
+    <itemlevel>25,26,27,28,29</itemlevel>
+  </trait>
+  <trait name="Warpaint_E106">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Warpaint_E107">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Warpaint_E107_SR">
+    <itemlevel>31,32,33,34,35</itemlevel>
+  </trait>
+  <trait name="Warpaint_E108">
+    <itemlevel>34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Warpaint_E109">
+    <itemlevel>37,38,39,40,41,43</itemlevel>
+  </trait>
+  <trait name="Warpaint_E110">
+    <itemlevel>40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Warpaint_E111">
+    <itemlevel>37,40</itemlevel>
+  </trait>
+  <trait name="Warpaint_E112">
+    <itemlevel>30,33</itemlevel>
+  </trait>
+  <trait name="Warpaint_E113">
+    <itemlevel>33,43</itemlevel>
+  </trait>
+  <trait name="Warpaint_E113_SR">
+    <itemlevel>33,36</itemlevel>
+  </trait>
+  <trait name="Warpaint_E114">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Warpaint_E114_SR">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Warpaint_L401">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Warpaint_L402">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Warpaint_R101">
+    <itemlevel>21,22,23,24,25,26</itemlevel>
+  </trait>
+  <trait name="Warpaint_R102">
+    <itemlevel>24,25,26,27,28</itemlevel>
+  </trait>
+  <trait name="Warpaint_R103">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Warpaint_R103_SR">
+    <itemlevel>25,26,27,28,29</itemlevel>
+  </trait>
+  <trait name="Warpaint_R104">
+    <itemlevel>28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Warpaint_R105">
+    <itemlevel>32,33,34,35,36</itemlevel>
+  </trait>
+  <trait name="Warpaint_R106">
+    <itemlevel>33,34,35,36,37,38</itemlevel>
+  </trait>
+  <trait name="Warpaint_R107">
+    <itemlevel>37,38,39,40,41,43</itemlevel>
+  </trait>
+  <trait name="Warpaint_R108">
+    <itemlevel>39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Warpaint_R109">
+    <itemlevel>20,23</itemlevel>
+  </trait>
+  <trait name="Warpaint_R110">
+    <itemlevel>30,33</itemlevel>
+  </trait>
+  <trait name="Warpaint_R111">
+    <itemlevel>22,25</itemlevel>
+  </trait>
+  <trait name="Warpaint_R112">
+    <itemlevel>25,28</itemlevel>
+  </trait>
+  <trait name="Warpaint_R113">
+    <itemlevel>28,31</itemlevel>
+  </trait>
+  <trait name="Warpaint_R114">
+    <itemlevel>32,43</itemlevel>
+  </trait>
+  <trait name="Warpaint_R114_SR">
+    <itemlevel>32,35</itemlevel>
+  </trait>
+  <trait name="Warpaint_R115">
+    <itemlevel>35,38</itemlevel>
+  </trait>
+  <trait name="Warpaint_R116">
+    <itemlevel>39,43</itemlevel>
+  </trait>
+  <trait name="Warpaint_R116_SR">
+    <itemlevel>39,42</itemlevel>
+  </trait>
+  <trait name="Warpaint_R117">
+    <itemlevel>43</itemlevel>
+  </trait>
+  <trait name="Warpaint_U101">
+    <itemlevel>5,6,7,8,9</itemlevel>
+  </trait>
+  <trait name="Warpaint_U102">
+    <itemlevel>10,11,12,13,14,15</itemlevel>
+  </trait>
+  <trait name="Warpaint_U103">
+    <itemlevel>13,14,15,16,17,18,19</itemlevel>
+  </trait>
+  <trait name="Warpaint_U104">
+    <itemlevel>16,17,18,19,20,21,23,24</itemlevel>
+  </trait>
+  <trait name="Warpaint_U105">
+    <itemlevel>22,23,24,25,26,27</itemlevel>
+  </trait>
+  <trait name="Warpaint_U106">
+    <itemlevel>26,27,28,29,30,31,32,33</itemlevel>
+  </trait>
+  <trait name="Warpaint_U107">
+    <itemlevel>33,34,35,36,37,38,39,40,41,42,43</itemlevel>
+  </trait>
+  <trait name="Warpaint_U108">
+    <itemlevel>6,43</itemlevel>
+  </trait>
+  <trait name="Warpaint_U108_SR">
+    <itemlevel>6,9</itemlevel>
+  </trait>
+  <trait name="Warpaint_U109">
+    <itemlevel>10,13</itemlevel>
+  </trait>
+  <trait name="Warpaint_U110">
+    <itemlevel>12,15</itemlevel>
+  </trait>
+  <trait name="Warpaint_U111">
+    <itemlevel>15,18</itemlevel>
+  </trait>
+  <trait name="Warpaint_U112">
+    <itemlevel>18,21</itemlevel>
+  </trait>
+  <trait name="Warpaint_U113">
+    <itemlevel>20,23</itemlevel>
+  </trait>
+  <trait name="Warpaint_U114">
+    <itemlevel>22,25</itemlevel>
+  </trait>
+  <trait name="Warpaint_U115">
+    <itemlevel>24,27</itemlevel>
+  </trait>
+</traitsext>
