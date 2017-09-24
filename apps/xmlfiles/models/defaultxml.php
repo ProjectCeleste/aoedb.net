@@ -25,9 +25,17 @@ class defaultxml extends model
 		foreach($this->xmlfiles as $file)
 		{
 			$XML = new XMLReader();
-			echo $this->config['datapath'].$file['file'];
-			echo '<br />';
-			$XML->open($this->config['datapath'].$file['file']);
+			$fileName = $this->config['datapath'].$file['file'];
+
+			echo '<br/>';
+			echo $fileName;
+
+			if(file_exists($fileName) == false){
+				echo ' - does not exist..'; 
+				continue;
+			}
+			
+			$XML->open($fileName);
 			
 			while($XML->read())
 			{

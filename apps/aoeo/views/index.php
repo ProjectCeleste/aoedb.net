@@ -21,7 +21,7 @@
 
 <h1>09/23/17: Athens Update</h1>
 <img src="/images/Art/UserInterface/Icons/Equipment/Generic/Arrows/Arrow_E61_ua.png" alt="newsicon" style="float:left;margin:0 5px 0 0;" />
-<p>Updated database for latest celeste changes, including our new celeste exclusive items! The dreaded apostrophe issue is now resolved - no more andapos.<br /><br /><br /></p>
+<p>Updated database for latest celeste changes, including our new celeste exclusive items. In addition, the items and consumables pages are now sorted alphabetically. Finally, last but not least, the dreaded apostrophe issue is now resolved - no more andapos!<br /></p>
 
 <h1>07/10/17: Patch Update</h1>
 <img src="/images/sword.png" alt="newsicon" style="float:left;margin:0 5px 0 0;" />

@@ -36,7 +36,8 @@ class consumable extends model
     displayname.string as displayname, rollovertext.string as rollovertext
     from consumables
     left join strings as displayname on displayname.stringid = consumables.displaynameid
-    left join strings as rollovertext on rollovertext.stringid = consumables.rollovertextid
+		left join strings as rollovertext on rollovertext.stringid = consumables.rollovertextid
+		ORDER BY displayname ASC
     ")->results();
   }
   
@@ -45,8 +46,9 @@ class consumable extends model
       displayname.string as displayname, rollovertext.string as rollovertext
       from consumables
       left join strings as displayname on displayname.stringid = consumables.displaynameid
-      left join strings as rollovertext on rollovertext.stringid = consumables.rollovertextid
-      WHERE rarity='$rarity'
+			left join strings as rollovertext on rollovertext.stringid = consumables.rollovertextid
+			WHERE rarity='$rarity'
+			ORDER BY displayname ASC 
       ")->results();
   }
   

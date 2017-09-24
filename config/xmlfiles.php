@@ -1,10 +1,10 @@
 <?php
 $config = array(
 	'exportpath' => $_SERVER['DOCUMENT_ROOT'].'/xmlfiles/',
-	'datapath' => 'c:\\aoeofiles\\data\\data\\',
+	'datapath' => $_SERVER['DOCUMENT_ROOT'].'/data/data/',
 	'exportxml' => 
 		array(  
-				array('file' => 'achievements.xml', 'mainelement'=>'achievement', 'nameelement' => 'internalname'), 
+				//array('file' => 'achievements.xml', 'mainelement'=>'achievement', 'nameelement' => 'internalname'), 
 				array('file' => 'advisors.xml', 'mainelement'=>'advisor', 'nameattribute' => 'name'),
 				array('file' => 'craftschools.xml', 'mainelement'=>'school', 'nameelement' => 'tag'),
 				array('file' => 'EconBlueprints.xml', 'mainelement'=>'blueprint', 'nameattribute' => 'name'),

@@ -284,7 +284,8 @@ class item extends model
 				    displayname.string as DisplayName, rollovertext.string as RolloverText
 				    FROM traits
 				    LEFT JOIN strings as displayname on displayname.stringid = traits.DisplayNameID
-				    LEFT JOIN strings as rollovertext on rollovertext.stringid = traits.RolloverTextID")->results();
+					LEFT JOIN strings as rollovertext on rollovertext.stringid = traits.RolloverTextID
+					ORDER BY displayname ASC")->results();
 		
 		foreach($arr as $k=>$item)
 		{
@@ -307,7 +308,7 @@ class item extends model
 				    FROM traits
 				    LEFT JOIN strings as displayname on displayname.stringid = traits.DisplayNameID
 				    LEFT JOIN strings as rollovertext on rollovertext.stringid = traits.RolloverTextID
-					WHERE traittype='{$type}' ORDER BY rarity")->results();
+					WHERE traittype='{$type}' ORDER BY displayname")->results();
 		
 		foreach($arr as $k=>$r)
 		{
