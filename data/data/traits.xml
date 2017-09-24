@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 
 <traits version="1">
 	<trait name="ArmorBldg_U001">
@@ -34992,7 +34992,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Armor\Bldg\Bldg_R30v2_ua</icon>
 		<rollovertextid>65177</rollovertextid>
 		<displaynameid>65178</displaynameid>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Body" factor="30.0000"/>
 		<sellable>1</sellable>
@@ -35015,7 +35015,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Armor\Bldg\Bldg_R30v2_ua</icon>
 		<rollovertextid>65179</rollovertextid>
 		<displaynameid>65180</displaynameid>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Body" factor="30.0000"/>
 		<sellable>1</sellable>
@@ -35035,7 +35035,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Armor\Clth\Clth_R30v2_ua</icon>
 		<rollovertextid>65181</rollovertextid>
 		<displaynameid>65182</displaynameid>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Body" factor="30.0000"/>
 		<sellable>1</sellable>
@@ -35058,7 +35058,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Armor\Clth\Clth_R30v2_ua</icon>
 		<rollovertextid>65183</rollovertextid>
 		<displaynameid>65184</displaynameid>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Body" factor="30.0000"/>
 		<sellable>1</sellable>
@@ -35081,7 +35081,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Armor\Inf\Inf_E60_ua</icon>
 		<rollovertextid>65185</rollovertextid>
 		<displaynameid>65186</displaynameid>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Body" factor="60.0000"/>
 		<sellable>1</sellable>
@@ -35107,7 +35107,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Armor\Inf\Inf_R30_ua</icon>
 		<rollovertextid>65187</rollovertextid>
 		<displaynameid>65188</displaynameid>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Body" factor="30.0000"/>
 		<sellable>1</sellable>
@@ -35130,7 +35130,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Armor\Plt\Plt_E60_ua</icon>
 		<rollovertextid>65189</rollovertextid>
 		<displaynameid>65190</displaynameid>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Body" factor="60.0000"/>
 		<sellable>1</sellable>
@@ -35156,7 +35156,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Arrows\Arrow_E60_ua</icon>
 		<rollovertextid>65191</rollovertextid>
 		<displaynameid>65192</displaynameid>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<sellable>1</sellable>
 		<tradeable>1</tradeable>
@@ -35182,7 +35182,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Bows\Bow_R32_ua</icon>
 		<rollovertextid>65193</rollovertextid>
 		<displaynameid>65194</displaynameid>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Weapon" factor="32.0000"/>
 		<sellable>1</sellable>
@@ -35208,7 +35208,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Firepots\Pot_R30_ua</icon>
 		<rollovertextid>65195</rollovertextid>
 		<displaynameid>65196</displaynameid>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Body" factor="1.0000"/>
 		<visualfactor type="Weapon" factor="30.0000"/>
@@ -35232,7 +35232,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Fishnets\Net_E60_ua</icon>
 		<rollovertextid>65197</rollovertextid>
 		<displaynameid>65198</displaynameid>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Weapon" factor="0.0000"/>
 		<sellable>1</sellable>
@@ -35258,7 +35258,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Fishnets\Net_R30_ua</icon>
 		<rollovertextid>65199</rollovertextid>
 		<displaynameid>65200</displaynameid>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Weapon" factor="0.0000"/>
 		<sellable>1</sellable>
@@ -35284,7 +35284,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Gear\Bldg\Lookout_R30_ua</icon>
 		<rollovertextid>65201</rollovertextid>
 		<displaynameid>65202</displaynameid>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Helmet" factor="30.0000"/>
 		<sellable>1</sellable>
@@ -35304,7 +35304,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Gear\Bldg\BluePrint_R30_ua</icon>
 		<rollovertextid>65203</rollovertextid>
 		<displaynameid>65204</displaynameid>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Helmet" factor="30.0000"/>
 		<sellable>1</sellable>
@@ -35324,7 +35324,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Gear\Boat\Sail_R31_ua</icon>
 		<rollovertextid>65205</rollovertextid>
 		<displaynameid>65206</displaynameid>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Helmet" factor="31.0000"/>
 		<sellable>1</sellable>
@@ -35344,7 +35344,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Gear\Prst\Sandals_R30_ua</icon>
 		<rollovertextid>65207</rollovertextid>
 		<displaynameid>65208</displaynameid>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Helmet" factor="30.0000"/>
 		<sellable>1</sellable>
@@ -35364,7 +35364,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Gear\Siege\Wheel_E60_ua</icon>
 		<rollovertextid>65209</rollovertextid>
 		<displaynameid>65210</displaynameid>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Helmet" factor="60.0000"/>
 		<sellable>1</sellable>
@@ -35384,7 +35384,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Gear\Siege\Wheel_R30_ua</icon>
 		<rollovertextid>65211</rollovertextid>
 		<displaynameid>65212</displaynameid>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Helmet" factor="30.0000"/>
 		<sellable>1</sellable>
@@ -35404,7 +35404,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Gear\Siege\Wheel_R30_ua</icon>
 		<rollovertextid>65213</rollovertextid>
 		<displaynameid>65214</displaynameid>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Helmet" factor="30.0000"/>
 		<sellable>1</sellable>
@@ -35424,7 +35424,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Gear\Vill\Hat_R32_ua</icon>
 		<rollovertextid>65215</rollovertextid>
 		<displaynameid>65216</displaynameid>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Helmet" factor="32.0000"/>
 		<sellable>1</sellable>
@@ -35444,7 +35444,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Javelins\Javelin_E60_ua</icon>
 		<rollovertextid>65217</rollovertextid>
 		<displaynameid>65218</displaynameid>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Weapon" factor="60.0000"/>
 		<sellable>1</sellable>
@@ -35470,7 +35470,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Javelins\Javelin_E60_ua</icon>
 		<rollovertextid>65219</rollovertextid>
 		<displaynameid>65220</displaynameid>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Weapon" factor="60.0000"/>
 		<sellable>1</sellable>
@@ -35493,7 +35493,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Javelins\Javelin_R31_ua</icon>
 		<rollovertextid>65221</rollovertextid>
 		<displaynameid>65222</displaynameid>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Weapon" factor="31.0000"/>
 		<sellable>1</sellable>
@@ -35513,7 +35513,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Merchant\Log_E60_ua</icon>
 		<rollovertextid>65223</rollovertextid>
 		<displaynameid>65224</displaynameid>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Weapon" factor="60.0000"/>
 		<sellable>1</sellable>
@@ -35542,7 +35542,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Merchant\Log_R30_ua</icon>
 		<rollovertextid>65225</rollovertextid>
 		<displaynameid>65226</displaynameid>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Weapon" factor="30.0000"/>
 		<sellable>1</sellable>
@@ -35568,7 +35568,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Ramheads\Ram_E60_ua</icon>
 		<rollovertextid>65227</rollovertextid>
 		<displaynameid>65228</displaynameid>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Weapon" factor="60.0000"/>
 		<sellable>1</sellable>
@@ -35591,7 +35591,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Ramheads\Ram_E60_ua</icon>
 		<rollovertextid>65229</rollovertextid>
 		<displaynameid>65230</displaynameid>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Weapon" factor="60.0000"/>
 		<sellable>1</sellable>
@@ -35617,7 +35617,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Ramheads\Ram_R30_ua</icon>
 		<rollovertextid>65231</rollovertextid>
 		<displaynameid>65232</displaynameid>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Weapon" factor="30.0000"/>
 		<sellable>1</sellable>
@@ -35640,7 +35640,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Shields\Shield_R32_ua</icon>
 		<rollovertextid>65233</rollovertextid>
 		<displaynameid>65234</displaynameid>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<sellable>1</sellable>
 		<tradeable>1</tradeable>
@@ -35663,7 +35663,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Spears2H\Spear2H_E60_ua</icon>
 		<rollovertextid>65235</rollovertextid>
 		<displaynameid>65236</displaynameid>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Weapon" factor="60.0000"/>
 		<sellable>1</sellable>
@@ -35686,7 +35686,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Spears2H\Spear2H_R33_ua</icon>
 		<rollovertextid>65237</rollovertextid>
 		<displaynameid>65238</displaynameid>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Weapon" factor="33.0000"/>
 		<sellable>1</sellable>
@@ -35709,7 +35709,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Swords\Sword_R34_ua</icon>
 		<rollovertextid>65239</rollovertextid>
 		<displaynameid>65240</displaynameid>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Weapon" factor="34.0000"/>
 		<sellable>1</sellable>
@@ -35729,7 +35729,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Swords\Sword_R34_ua</icon>
 		<rollovertextid>65241</rollovertextid>
 		<displaynameid>65242</displaynameid>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Weapon" factor="34.0000"/>
 		<sellable>1</sellable>
@@ -35752,7 +35752,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Tools\Tool_E60_ua</icon>
 		<rollovertextid>65243</rollovertextid>
 		<displaynameid>65244</displaynameid>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Weapon" factor="0.0000"/>
 		<sellable>1</sellable>
@@ -35808,7 +35808,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Tools\Tool_R33_ua</icon>
 		<rollovertextid>65245</rollovertextid>
 		<displaynameid>65246</displaynameid>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Weapon" factor="0.0000"/>
 		<sellable>1</sellable>
@@ -35861,7 +35861,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Slings\Sling_R32_ua</icon>
 		<rollovertextid>65247</rollovertextid>
 		<displaynameid>65248</displaynameid>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Weapon" factor="32.0000"/>
 		<sellable>1</sellable>
@@ -35885,7 +35885,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Armor\Bldg\Bldg_L90_ua</icon>
 		<rollovertextid>65249</rollovertextid>
 		<displaynameid>65250</displaynameid>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Body" factor="90.0000"/>
 		<sellable>1</sellable>
@@ -35905,7 +35905,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Armor\Inf\Inf_L90_ua</icon>
 		<rollovertextid>65251</rollovertextid>
 		<displaynameid>65252</displaynameid>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Body" factor="90.0000"/>
 		<sellable>1</sellable>
@@ -35925,7 +35925,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Armor\Plt\Plt_L90_ua</icon>
 		<rollovertextid>65253</rollovertextid>
 		<displaynameid>65254</displaynameid>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Body" factor="90.0000"/>
 		<sellable>1</sellable>
@@ -35945,7 +35945,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Arrows\Arrow_L90_ua</icon>
 		<rollovertextid>65255</rollovertextid>
 		<displaynameid>65256</displaynameid>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<sellable>1</sellable>
 		<tradeable>1</tradeable>
@@ -35965,7 +35965,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Fishnets\Net_L90_ua</icon>
 		<rollovertextid>65257</rollovertextid>
 		<displaynameid>65258</displaynameid>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Weapon" factor="0.0000"/>
 		<sellable>1</sellable>
@@ -35991,7 +35991,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Gear\Bldg\BluePrint_L90_ua</icon>
 		<rollovertextid>65259</rollovertextid>
 		<displaynameid>65260</displaynameid>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Helmet" factor="90.0000"/>
 		<sellable>1</sellable>
@@ -36014,7 +36014,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Gear\Inf\Greaves_L90_ua</icon>
 		<rollovertextid>65261</rollovertextid>
 		<displaynameid>65262</displaynameid>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Helmet" factor="90.0000"/>
 		<sellable>1</sellable>
@@ -36034,7 +36034,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Gear\Prst\Talisman_L90_ua</icon>
 		<rollovertextid>65263</rollovertextid>
 		<displaynameid>65264</displaynameid>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Helmet" factor="90.0000"/>
 		<sellable>1</sellable>
@@ -36054,7 +36054,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Tools\Tool_L90_ua</icon>
 		<rollovertextid>65265</rollovertextid>
 		<displaynameid>65266</displaynameid>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Weapon" factor="0.0000"/>
 		<sellable>1</sellable>
@@ -36110,7 +36110,7 @@
 		<icon>/UserInterface/Icons/Equipment/Vanity/114_AllianceDelian_Shield_ua</icon>
 		<rollovertextid>65267</rollovertextid>
 		<displaynameid>65268</displaynameid>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<offertype>eOfferNone</offertype>
 		<equipsoundset>UI_Cons_Spc_Heroic</equipsoundset>
 		<sellable>1</sellable>
@@ -36126,7 +36126,7 @@
 		<icon>/UserInterface/Icons/Equipment/Vanity/115_AllianceImhotep_Shield_ua</icon>
 		<rollovertextid>65269</rollovertextid>
 		<displaynameid>65270</displaynameid>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<offertype>eOfferNone</offertype>
 		<equipsoundset>UI_Cons_Spc_Heroic</equipsoundset>
 		<sellable>1</sellable>
@@ -36142,7 +36142,7 @@
 		<icon>/UserInterface/Icons/Equipment/Vanity/113_AllianceCarthage_Shield_ua</icon>
 		<rollovertextid>65271</rollovertextid>
 		<displaynameid>65272</displaynameid>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<offertype>eOfferNone</offertype>
 		<equipsoundset>UI_Cons_Spc_Heroic</equipsoundset>
 		<sellable>1</sellable>
@@ -36158,7 +36158,7 @@
 		<icon>/UserInterface/Icons/Equipment/Vanity/114_AllianceDelian_Weapon_ua</icon>
 		<rollovertextid>65273</rollovertextid>
 		<displaynameid>65274</displaynameid>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<offertype>eOfferNone</offertype>
 		<equipsoundset>UI_Cons_Spc_Heroic</equipsoundset>
 		<sellable>1</sellable>
@@ -36174,7 +36174,7 @@
 		<icon>/UserInterface/Icons/Equipment/Vanity/115_AllianceImhotep_Weapon_ua</icon>
 		<rollovertextid>65275</rollovertextid>
 		<displaynameid>65276</displaynameid>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<offertype>eOfferNone</offertype>
 		<equipsoundset>UI_Cons_Spc_Heroic</equipsoundset>
 		<sellable>1</sellable>
@@ -36190,7 +36190,7 @@
 		<icon>/UserInterface/Icons/Equipment/Vanity/113_AllianceCarthage_Weapon_ua</icon>
 		<rollovertextid>65277</rollovertextid>
 		<displaynameid>65278</displaynameid>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<offertype>eOfferNone</offertype>
 		<equipsoundset>UI_Cons_Spc_Heroic</equipsoundset>
 		<sellable>1</sellable>
@@ -36206,7 +36206,7 @@
 		<icon>/UserInterface/Icons/Equipment/Vanity/114_AllianceDelian_Gear_ua</icon>
 		<rollovertextid>65279</rollovertextid>
 		<displaynameid>65280</displaynameid>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<offertype>eOfferNone</offertype>
 		<equipsoundset>UI_Cons_Spc_Heroic</equipsoundset>
 		<sellable>1</sellable>
@@ -36222,7 +36222,7 @@
 		<icon>/UserInterface/Icons/Equipment/Vanity/115_AllianceImhotep_Gear_ua</icon>
 		<rollovertextid>65281</rollovertextid>
 		<displaynameid>65282</displaynameid>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<offertype>eOfferNone</offertype>
 		<equipsoundset>UI_Cons_Spc_Heroic</equipsoundset>
 		<sellable>1</sellable>
@@ -36238,7 +36238,7 @@
 		<icon>/UserInterface/Icons/Equipment/Vanity/113_AllianceCarthage_Gear_ua</icon>
 		<rollovertextid>65283</rollovertextid>
 		<displaynameid>65284</displaynameid>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<offertype>eOfferNone</offertype>
 		<equipsoundset>UI_Cons_Spc_Heroic</equipsoundset>
 		<sellable>1</sellable>
@@ -37146,7 +37146,7 @@
 		<destroyable>1</destroyable>
 		<canbestoredingearhall>1</canbestoredingearhall>
 		<visualfactor type="VanityHelmet" factor="121.0000"/>
-		<event>Halloween</event>
+<!--		<event>Halloween</event>-->
 	</trait>
 	<trait name="VanityShield1H_021">
 		<dbid>2151</dbid>
@@ -37162,7 +37162,7 @@
 		<destroyable>1</destroyable>
 		<canbestoredingearhall>1</canbestoredingearhall>
 		<visualfactor type="VanityShield" factor="121.0000"/>
-		<event>Halloween</event>
+<!--		<event>Halloween</event>-->
 	</trait>
 	<trait name="VanityWeapon1H_021">
 		<dbid>2152</dbid>
@@ -37178,7 +37178,7 @@
 		<destroyable>1</destroyable>
 		<canbestoredingearhall>1</canbestoredingearhall>
 		<visualfactor type="VanityWeapon" factor="121.0000"/>
-		<event>Halloween</event>
+<!--		<event>Halloween</event>-->
 	</trait>
 	<trait name="VanityHelm_022">
 		<dbid>2153</dbid>
@@ -39220,7 +39220,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Arrows\Arrow_E60_ua</icon>
 		<rollovertextid>68117</rollovertextid>
 		<displaynameid>68118</displaynameid>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<sellable>1</sellable>
 		<tradeable>1</tradeable>
@@ -39243,7 +39243,7 @@
 		<icon>UserInterface\Icons\Equipment\Generic\Bows\Bow_R32_ua</icon>
 		<rollovertextid>68119</rollovertextid>
 		<displaynameid>68120</displaynameid>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<offertype>eOfferCivMatching</offertype>
 		<visualfactor type="Weapon" factor="32.0000"/>
 		<sellable>1</sellable>
@@ -39415,7 +39415,7 @@
 		<destroyable>1</destroyable>
 		<canbestoredingearhall>1</canbestoredingearhall>
 		<visualfactor type="VanityHelmet" factor="123.0000"/>
-		<event>Winter</event>
+<!--		<event>Winter</event>-->
 	</trait>
 	<trait name="VanityShield1H_023">
 		<dbid>2254</dbid>
@@ -39431,7 +39431,7 @@
 		<destroyable>1</destroyable>
 		<canbestoredingearhall>1</canbestoredingearhall>
 		<visualfactor type="VanityShield" factor="123.0000"/>
-		<event>Winter</event>
+<!--		<event>Winter</event>-->
 	</trait>
 	<trait name="VanityWeapon1H_023">
 		<dbid>2255</dbid>
@@ -39447,7 +39447,7 @@
 		<destroyable>1</destroyable>
 		<canbestoredingearhall>1</canbestoredingearhall>
 		<visualfactor type="VanityWeapon" factor="123.0000"/>
-		<event>Winter</event>
+<!--		<event>Winter</event>-->
 	</trait>
 	<trait name="VanityHelm_024">
 		<dbid>2256</dbid>
@@ -39463,7 +39463,7 @@
 		<destroyable>1</destroyable>
 		<canbestoredingearhall>1</canbestoredingearhall>
 		<visualfactor type="VanityHelmet" factor="124.0000"/>
-		<event>Winter</event>
+<!--		<event>Winter</event>-->
 	</trait>
 	<trait name="VanityShield1H_024">
 		<dbid>2257</dbid>
@@ -39479,7 +39479,7 @@
 		<destroyable>1</destroyable>
 		<canbestoredingearhall>1</canbestoredingearhall>
 		<visualfactor type="VanityShield" factor="124.0000"/>
-		<event>Winter</event>
+<!--		<event>Winter</event>-->
 	</trait>
 	<trait name="VanityWeapon1H_024">
 		<dbid>2258</dbid>
@@ -39495,6 +39495,538 @@
 		<destroyable>1</destroyable>
 		<canbestoredingearhall>1</canbestoredingearhall>
 		<visualfactor type="VanityWeapon" factor="124.0000"/>
-		<event>Winter</event>
+<!--		<event>Winter</event>-->
+	</trait>
+	
+	<!-- CELESTE GEAR -->
+	
+	<!-- Master Assassin's Gauntlets -->
+	<!-- Ramses´s Heavy Gauntlets of the Sun lvl43 -->
+	<trait name="Gear_MAG">
+		<dbid>2259</dbid>
+		<traittype>Gear</traittype>
+		<rarity>legendary</rarity>
+		<icon>Celeste_GOG\UserInterface\Icons\Equipment\Generic\Gear\Inf\Gear_MAG_ua</icon>
+		<rollovertextid>53840</rollovertextid>
+		<displaynameid>100000</displaynameid>
+		<offertype>eOfferCeleste1</offertype>
+		<visualfactor type="Helmet" factor="90.0000"/>
+		<sellable>1</sellable>
+		<tradeable>1</tradeable>
+		<destroyable>1</destroyable>
+		<canbestoredingearhall>0</canbestoredingearhall>
+		<effects>
+			<effect type="Data" bonus="false" amount="1.0148" scaling="0.0047" subtype="CostAll" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" amount="1.0086" scaling="0.0027" subtype="Damage" visible="true" allactions="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" amount="1.0160" scaling="0.0049" subtype="Hitpoints" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+		</effects>
+	</trait>
+	<!-- Heavy Spear of Sacrifice -->
+	<!-- Set´s War Spear of death heavy spear lvl40 -->
+	<trait name="Spears2H_HSOS">
+		<dbid>2260</dbid>
+		<traittype>Spears2H</traittype>
+		<rarity>legendary</rarity>
+		<icon>Celeste_GOG\UserInterface\Icons\Equipment\Generic\Spears2H\Spears2H_HSOS_ua</icon>
+		<rollovertextid>61636</rollovertextid>
+		<displaynameid>100001</displaynameid>
+		<offertype>eOfferCeleste1</offertype>
+		<visualfactor type="Weapon" factor="91.0000"/>
+		<sellable>1</sellable>
+		<tradeable>1</tradeable>
+		<destroyable>1</destroyable>
+		<canbestoredingearhall>0</canbestoredingearhall>
+		<effects>
+			<effect type="Data" bonus="true" amount="1.0398" scaling="0.0136" subtype="Damage" visible="true" allactions="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" amount="1.0098" scaling="0.0028" subtype="Armor" visible="true" damagetype="Cavalry" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" amount="1.0176" scaling="0.0051" subtype="DamageBonus" visible="true" unittype="AbstractCavalry" allactions="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+		</effects>
+	</trait>
+	<!-- Light Spear of the King -->
+	<!-- Argos guard light spear lvl40 -->
+	<trait name="Spears1H_LSOTK">
+		<dbid>2261</dbid>
+		<traittype>Spears1H</traittype>
+		<rarity>legendary</rarity>
+		<icon>Celeste_GOG\UserInterface\Icons\Equipment\Generic\Spears1H\Spears1H_LSOTK_ua</icon>
+		<rollovertextid>64934</rollovertextid>
+		<displaynameid>100002</displaynameid>
+		<offertype>eOfferCeleste1</offertype>
+		<visualfactor type="Weapon" factor="91.0000"/>
+		<sellable>1</sellable>
+		<tradeable>1</tradeable>
+		<destroyable>1</destroyable>
+		<canbestoredingearhall>0</canbestoredingearhall>
+		<effects>
+			<effect type="Data" bonus="true" amount="1.0297" scaling="0.0099" subtype="Damage" visible="true" allactions="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" amount="1.0128" scaling="0.0039" subtype="Armor" visible="true" damagetype="Cavalry" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" amount="1.0055" scaling="0.0016" subtype="Armor" visible="true" damagetype="Hand" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+		</effects>
+	</trait>
+	<!-- The Curse of the Archer -->
+	<!-- The archer´s bane lvl40 -->
+	<trait name="Javalins_TCOTA">
+		<dbid>2262</dbid>
+		<traittype>Javalins</traittype>
+		<rarity>legendary</rarity>
+		<icon>Celeste_GOG\UserInterface\Icons\Equipment\Generic\Javelins\Javalins_TCOTA_ua</icon>
+		<rollovertextid>66691</rollovertextid>
+		<displaynameid>100003</displaynameid>
+		<offertype>eOfferCeleste1</offertype>
+		<visualfactor type="Weapon" factor="91.0000"/>
+		<sellable>1</sellable>
+		<tradeable>1</tradeable>
+		<destroyable>1</destroyable>
+		<canbestoredingearhall>0</canbestoredingearhall>
+		<effects>
+			<effect type="Data" bonus="true" amount="1.0297" scaling="0.0095" subtype="Damage" visible="true" allactions="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" action="RangedAttack" amount="1.0147" scaling="0.0041" subtype="MaximumRange" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<!--
+			<effect type="Data" bonus="true" amount="1.2250" scaling="0.0000" subtype="LOS" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			-->
+		</effects>
+	</trait>
+	<!-- Bow of the Master Hunter -->
+	<!-- Arduinna´s Hunting Bow lvl40-->
+	<trait name="Bows1H_BOTMH">
+		<dbid>2263</dbid>
+		<traittype>Bows</traittype>
+		<rarity>legendary</rarity>
+		<icon>Celeste_GOG\UserInterface\Icons\Equipment\Generic\Bows\Bows1H_BOTMH_ua</icon>
+		<rollovertextid>60771</rollovertextid>
+		<displaynameid>100004</displaynameid>
+		<offertype>eOfferCeleste1</offertype>
+		<visualfactor type="Weapon" factor="90.0000"/>
+		<sellable>1</sellable>
+		<tradeable>1</tradeable>
+		<destroyable>1</destroyable>
+		<canbestoredingearhall>0</canbestoredingearhall>
+		<effects>
+			<effect type="Data" bonus="true" amount="1.0278" scaling="0.0088" subtype="Damage" visible="true" allactions="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" action="RangedAttack" amount="1.0184" scaling="0.0052" subtype="MaximumRange" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<!--
+			<effect type="Data" bonus="true" amount="1.2250" scaling="0.0000" subtype="LOS" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			-->
+		</effects>
+	</trait>
+	<!-- Divine Hammer of Construction -->
+	<!-- Blessed Hammer of Construction lvl40 -->
+	<trait name="Tools_DHOC">
+		<dbid>2264</dbid>
+		<traittype>Tools</traittype>
+		<rarity>legendary</rarity>
+		<icon>Celeste_GOG\UserInterface\Icons\Equipment\Generic\Tools\Tools_DHOC_ua</icon>
+		<rollovertextid>54606</rollovertextid>
+		<displaynameid>100005</displaynameid>
+		<offertype>eOfferCeleste1</offertype>
+		<visualfactor type="Weapon" factor="0.0000"/>
+		<sellable>1</sellable>
+		<tradeable>1</tradeable>
+		<destroyable>1</destroyable>
+		<canbestoredingearhall>0</canbestoredingearhall>
+		<effects>
+			<effect type="Data" bonus="true" amount="1.0062" scaling="0.0019" subtype="CarryCapacity" visible="false" resource="Food" seedoffset="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" amount="1.0062" scaling="0.0019" subtype="CarryCapacity" visible="false" resource="Stone" seedoffset="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" amount="1.0062" scaling="0.0019" subtype="CarryCapacity" visible="false" resource="Wood" seedoffset="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" amount="1.0062" scaling="0.0019" subtype="CarryCapacity" visible="false" resource="Gold" seedoffset="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" action="Gather" amount="1.0093" scaling="0.0031" subtype="WorkRate" visible="true" unittype="AbstractFarm" seedoffset="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" action="Gather" amount="1.0093" scaling="0.0031" subtype="WorkRate" visible="true" unittype="Huntable" seedoffset="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" action="Gather" amount="1.0093" scaling="0.0031" subtype="WorkRate" visible="true" unittype="Tree" seedoffset="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" action="Gather" amount="1.0093" scaling="0.0031" subtype="WorkRate" visible="true" unittype="Gold" seedoffset="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" action="Gather" amount="1.0093" scaling="0.0031" subtype="WorkRate" visible="true" unittype="AbstractFruit" seedoffset="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" action="FishGather" amount="1.0093" scaling="0.0031" subtype="WorkRate" visible="true" unittype="AbstractFish" seedoffset="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" action="Gather" amount="1.0093" scaling="0.0031" subtype="WorkRate" visible="true" unittype="Herdable" seedoffset="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" action="Build" amount="1.0368" scaling="0.0107" subtype="WorkRate" visible="true" unittype="Building" seedoffset="2" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" action="Gather" amount="1.0093" scaling="0.0031" subtype="WorkRate" visible="true" unittype="Stone" seedoffset="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+		</effects>
+	</trait>
+	<!-- Wall joints of the Architect -->
+	<!-- Custom new one -->
+	<trait name="GearBldg_WJOTA">
+		<dbid>2265</dbid>
+		<traittype>GearBldg</traittype>
+		<rarity>legendary</rarity>
+		<icon>Celeste_GOG\UserInterface\Icons\Equipment\Generic\Gear\Bldg\GearBldg_WJOTA_ua</icon>
+		<rollovertextid>60789</rollovertextid>
+		<displaynameid>100006</displaynameid>
+		<offertype>eOfferCeleste1</offertype>
+		<visualfactor type="Helmet" factor="90.0000"/>
+		<sellable>1</sellable>
+		<tradeable>1</tradeable>
+		<destroyable>1</destroyable>
+		<canbestoredingearhall>0</canbestoredingearhall>
+		<effects>
+			<effect type="Data" bonus="true" amount="1.0000" scaling="-0.0017" subtype="CostAll" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" amount="1.0000" scaling="-0.0017" subtype="BuildPoints" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+		</effects>
+	</trait>
+	<!-- Walls of the Architect -->
+	<!-- New Custom one -->
+	<trait name="ArmorBuilding_WOTA">
+		<dbid>2266</dbid>
+		<traittype>ArmorBuilding</traittype>
+		<rarity>legendary</rarity>
+		<icon>Celeste_GOG\UserInterface\Icons\Equipment\Generic\Armor\Bldg\ArmorBuilding_WOTA_ua</icon>
+		<rollovertextid>60779</rollovertextid>
+		<displaynameid>100007</displaynameid>
+		<offertype>eOfferCeleste1</offertype>
+		<visualfactor type="Body" factor="90.0000"/>
+		<sellable>1</sellable>
+		<tradeable>1</tradeable>
+		<destroyable>1</destroyable>
+		<canbestoredingearhall>0</canbestoredingearhall>
+		<effects>
+			<effect type="Data" bonus="true" amount="1.0000" scaling="-0.0015" subtype="CostAll" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" amount="1.0000" scaling="-0.0015" subtype="BuildPoints" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" amount="1.5500" scaling="0.0000" subtype="Hitpoints" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+		</effects>
+	</trait>
+	<!-- Walls of the Master Defense -->
+	<!-- Hand-Carved Wall Braces lvl40 -->
+	<trait name="ArmorBuilding_WOTMD">
+		<dbid>2267</dbid>
+		<traittype>ArmorBuilding</traittype>
+		<rarity>legendary</rarity>
+		<icon>Celeste_GOG\UserInterface\Icons\Equipment\Generic\Armor\Bldg\ArmorBuilding_WOTA_ua</icon>
+		<rollovertextid>60779</rollovertextid>
+		<displaynameid>100008</displaynameid>
+		<offertype>eOfferCeleste1</offertype>
+		<visualfactor type="Body" factor="90.0000"/>
+		<sellable>1</sellable>
+		<tradeable>1</tradeable>
+		<destroyable>1</destroyable>
+		<canbestoredingearhall>0</canbestoredingearhall>
+		<effects>
+			<effect type="Data" bonus="true" amount="1.0122" scaling="0.0036" subtype="Armor" visible="true" damagetype="Siege" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" amount="1.0098" scaling="0.0029" subtype="DamageBonusReduction" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" amount="1.0498" scaling="0.012" subtype="LOS" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+		</effects>
+	</trait>
+	<!-- Belly Bow of the Master Hunter -->
+	<trait name="BellyBows_BBOTMH">
+		<dbid>2268</dbid>
+		<traittype>BellyBows</traittype>
+		<rarity>legendary</rarity>
+		<icon>Celeste_GOG\UserInterface\Icons\Equipment\Generic\BellyBow\BellyBows_BBOTMH_ua</icon>
+		<rollovertextid>53604</rollovertextid>
+		<displaynameid>100009</displaynameid>
+		<offertype>eOfferCeleste1</offertype>
+		<visualfactor type="Weapon" factor="90.0000"/>
+		<sellable>1</sellable>
+		<tradeable>1</tradeable>
+		<destroyable>1</destroyable>
+		<canbestoredingearhall>0</canbestoredingearhall>
+		<effects>
+			<effect type="Data" bonus="true" amount="1.0278" scaling="0.009" subtype="Damage" visible="true" allactions="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" action="RangedAttack" amount="1.0021" scaling="0.001" subtype="MaximumVelocity" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" action="RangedAttack" amount="1.015" scaling="0.0040" subtype="MaximumRange" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+		</effects>
+	</trait>
+	<!-- Divine High Vizier's Robe -->
+	<trait name="ArmorCloth_DHVR">
+		<dbid>2269</dbid>
+		<traittype>ArmorCloth</traittype>
+		<rarity>legendary</rarity>
+		<icon>Celeste_GOG\UserInterface\Icons\Equipment\Generic\Armor\Clth\ArmorCloth_DHVR_ua</icon>
+		<rollovertextid>53315</rollovertextid>
+		<displaynameid>100010</displaynameid>
+		<offertype>eOfferCeleste1</offertype>
+		<visualfactor type="Body" factor="90.0000"/>
+		<sellable>1</sellable>
+		<tradeable>1</tradeable>
+		<destroyable>1</destroyable>
+		<canbestoredingearhall>0</canbestoredingearhall>
+		<effects>
+			<effect type="Data" bonus="true" amount="1.0247" scaling="0.0069" subtype="Damage" visible="true" allactions="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+		</effects>
+	</trait>
+	<!-- Arrows of Darkness -->
+	<trait name="Arrows_AOD">
+		<dbid>2270</dbid>
+		<traittype>Arrows</traittype>
+		<rarity>legendary</rarity>
+		<icon>Celeste_GOG\UserInterface\Icons\Equipment\Generic\Arrows\Arrows_AOD_ua</icon>
+		<rollovertextid>67973</rollovertextid>
+		<displaynameid>100011</displaynameid>
+		<offertype>eOfferCeleste1</offertype>
+		<sellable>1</sellable>
+		<tradeable>1</tradeable>
+		<destroyable>1</destroyable>
+		<canbestoredingearhall>0</canbestoredingearhall>
+		<visualfactor type="Shield" factor="90.0000"/>
+		<effects>
+			<effect type="Data" bonus="true" amount="1.0061" scaling="0.0019" subtype="Damage" visible="true" allactions="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" action="RangedAttack" amount="1.0086" scaling="0.0026" subtype="MaximumRange" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" amount="1.0055" scaling="0.0016" subtype="DamageBonus" visible="true" unittype="AbstractInfantry" allactions="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+		</effects>
+	</trait>
+	<!-- Tunic of the collector -->
+	<trait name="ArmorCloth_TOTC">
+		<dbid>2271</dbid>
+		<traittype>ArmorCloth</traittype>
+		<rarity>legendary</rarity>
+		<icon>Celeste_GOG\UserInterface\Icons\Equipment\Generic\Armor\Clth\ArmorCloth_DHVR_ua</icon>
+		<rollovertextid>53311</rollovertextid>
+		<displaynameid>100012</displaynameid>
+		<offertype>eOfferCeleste1</offertype>
+		<visualfactor type="Body" factor="90.0000"/>
+		<sellable>1</sellable>
+		<tradeable>1</tradeable>
+		<destroyable>1</destroyable>
+		<canbestoredingearhall>0</canbestoredingearhall>
+		<effects>
+			<effect type="Data" bonus="true" amount="1.0398" scaling="0.0137" subtype="Hitpoints" visible="true" seedoffset="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" amount="1.0078" scaling="0.0023" subtype="DamageBonusReduction" visible="true" seedoffset="2" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" amount="1.0059" scaling="0.0018" subtype="CarryCapacity" visible="false" resource="Food" seedoffset="3" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" action="Gather" amount="1.0059" scaling="0.0018" subtype="WorkRate" visible="true" unittype="AbstractFruit" seedoffset="3" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" action="Gather" amount="1.0059" scaling="0.0018" subtype="WorkRate" visible="true" unittype="Herdable" seedoffset="3" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" action="Gather" amount="1.0059" scaling="0.0018" subtype="WorkRate" visible="true" unittype="Huntable" seedoffset="3" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" action="Gather" amount="1.0059" scaling="0.0018" subtype="WorkRate" visible="true" unittype="AbstractFish" seedoffset="3" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" action="Gather" amount="1.0059" scaling="0.0018" subtype="WorkRate" visible="true" unittype="AbstractFarm" seedoffset="3" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+		</effects>
+	</trait>
+	<!-- Athenian meal -->
+	<trait name="Gear_Vill_SH">
+		<dbid>2272</dbid>
+		<traittype>GearVill</traittype>
+		<rarity>legendary</rarity>
+		<icon>Celeste_GOG\UserInterface\Icons\Equipment\Generic\Gear\Vill\Gear_Vill_SH_ua</icon>
+		<rollovertextid>60810</rollovertextid>
+		<displaynameid>100013</displaynameid>
+		<offertype>eOfferCeleste1</offertype>
+		<visualfactor type="Helmet" factor="90.0000"/>
+		<sellable>1</sellable>
+		<tradeable>1</tradeable>
+		<destroyable>1</destroyable>
+		<canbestoredingearhall>0</canbestoredingearhall>
+		<effects>
+			<effect type="Data" bonus="true" amount="0.9938" scaling="-0.00095" subtype="TrainPoints" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" amount="0.9938" scaling="-0.00095" subtype="CostAll" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+		</effects>
+	</trait>
+	<!-- Divine Heavy Cedar Beams -->
+	<trait name="Gear_Siege_DHCB">
+		<dbid>2273</dbid>
+		<traittype>GearSiege</traittype>
+		<rarity>legendary</rarity>
+		<icon>Celeste_GOG\UserInterface\Icons\Equipment\Generic\Gear\Siege\Gear_Siege_DHCB_ua</icon>
+		<rollovertextid>54140</rollovertextid>
+		<displaynameid>100014</displaynameid>
+		<offertype>eOfferCeleste1</offertype>
+		<visualfactor type="Helmet" factor="90.0000"/>
+		<sellable>1</sellable>
+		<tradeable>1</tradeable>
+		<destroyable>1</destroyable>
+		<canbestoredingearhall>0</canbestoredingearhall>
+		<effects>
+			<effect type="Data" bonus="false" amount="1.0148" scaling="0.0047" subtype="CostAll" visible="true" relativity="Percent">
+				<target type="Player"></target>
+			</effect>
+			<effect type="Data" bonus="true" amount="1.0135" scaling="0.0042" subtype="Damage" visible="true" allactions="1" relativity="Percent">
+				<target type="Player"></target>
+			</effect>
+			<effect type="Data" bonus="true" amount="1.0110" scaling="0.0034" subtype="Hitpoints" visible="true" relativity="Percent">
+				<target type="Player"></target>
+			</effect>
+		</effects>
+	</trait>
+	<!-- Heavy Destroyer Weave -->
+	<!-- Herculean Gold Plates lvl 40-->
+	<trait name="ArmorPlt_HDW">
+		<dbid>2274</dbid>
+		<traittype>ArmorPlt</traittype>
+		<rarity>legendary</rarity>
+		<icon>Celeste_GOG\UserInterface\Icons\Equipment\Generic\Armor\Plt\ArmorPlt_HDW_ua</icon>
+		<rollovertextid>53465</rollovertextid>
+		<displaynameid>100015</displaynameid>
+		<offertype>eOfferCeleste1</offertype>
+		<visualfactor type="Body" factor="90.0000"/>
+		<sellable>1</sellable>
+		<tradeable>1</tradeable>
+		<destroyable>1</destroyable>
+		<canbestoredingearhall>0</canbestoredingearhall>
+		<effects>
+			<effect type="Data" bonus="true" amount="1.0197" scaling="0.0061" subtype="Damage" visible="true" allactions="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+		</effects>
+	</trait>
+	<!-- Blessed Dionysus´s Throwing Arm -->
+	<trait name="Ballista2H_BDTA">
+		<dbid>2275</dbid>
+		<traittype>BallistaArms</traittype>
+		<rarity>legendary</rarity>
+		<icon>Celeste_GOG\UserInterface\Icons\Equipment\Generic\Ballista\Ballista2H_BDTA_ua</icon>
+		<rollovertextid>53558</rollovertextid>
+		<displaynameid>100016</displaynameid>
+		<offertype>eOfferCeleste1</offertype>
+		<visualfactor type="Weapon" factor="90.0000"/>
+		<sellable>1</sellable>
+		<tradeable>1</tradeable>
+		<destroyable>1</destroyable>
+		<canbestoredingearhall>0</canbestoredingearhall>
+		<effects>
+			<effect type="Data" bonus="true" amount="1.0166" scaling="0.0050" subtype="Damage" visible="true" allactions="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" amount="1.0138" scaling="0.0040" subtype="LOS" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" action="RangedAttack" amount="1.0184" scaling="0.0053" subtype="MaximumRange" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+		</effects>
+	</trait>
+	<!-- Athena Long Spear -->
+	<trait name="Spears2H_ALS">
+		<dbid>2276</dbid>
+		<traittype>Spears2H</traittype>
+		<rarity>legendary</rarity>
+		<icon>Celeste_GOG\UserInterface\Icons\Equipment\Generic\Spears2H\Spears2H_ALS_ua</icon>
+		<rollovertextid>61636</rollovertextid>
+		<displaynameid>100027</displaynameid>
+		<offertype>eOfferCeleste1</offertype>
+		<visualfactor type="Weapon" factor="92.0000"/>
+		<sellable>1</sellable>
+		<tradeable>0</tradeable>
+		<destroyable>1</destroyable>
+		<canbestoredingearhall>0</canbestoredingearhall>
+		<effects>
+			<effect type="Data" bonus="true" amount="1.0398" scaling="0.0137" subtype="Damage" visible="true" allactions="1" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" amount="1.0147" scaling="0.0043" subtype="Armor" visible="true" damagetype="Cavalry" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+			<effect type="Data" bonus="true" action="MeleeAttack" amount="1.0039" scaling="0.0011" subtype="HitPercent" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+		</effects>
+	</trait>
+	<!-- Athenian training manual -->
+	<trait name="Gear_Bldg_ATM">
+		<dbid>2277</dbid>
+		<traittype>GearBldg</traittype>
+		<rarity>legendary</rarity>
+		<icon>Celeste_GOG\UserInterface\Icons\Equipment\Generic\Gear\Bldg\Gear_Bldg_ATM_ua</icon>
+		<rollovertextid>53904</rollovertextid>
+		<displaynameid>100028</displaynameid>
+		<offertype>eOfferCeleste1</offertype>
+		<visualfactor type="Helmet" factor="90.0000"/>
+		<sellable>1</sellable>
+		<tradeable>1</tradeable>
+		<destroyable>1</destroyable>
+		<canbestoredingearhall>0</canbestoredingearhall>
+		<effects>
+			<effect type="Data" bonus="true" amount="1.0062" scaling="0.0022" subtype="BuildingWorkRate" visible="true" relativity="Percent">
+				<target type="Player"/>
+			</effect>
+		</effects>
 	</trait>
 </traits>

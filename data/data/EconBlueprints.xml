@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 
 <blueprints xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<blueprint name="GeneralLumbermill">
@@ -3011,7 +3011,7 @@
 		<itemlevel>0</itemlevel>
 		<sellable>false</sellable>
 		<tradeable>false</tradeable>
-		<destroyable>false</destroyable>
+		<destroyable>true</destroyable>
 		<rarity>cRarityEpic</rarity>
 		<cost>
 			<material quantity="5">3ConcreteBlock</material>
@@ -6199,7 +6199,7 @@
 		<displaynameid>801850</displaynameid>
 		<stacksize>0</stacksize>
 		<offertype>eOfferNone</offertype>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<itemlevel>0</itemlevel>
 		<sellable>false</sellable>
 		<tradeable>false</tradeable>
@@ -6215,7 +6215,7 @@
 		<displaynameid>801852</displaynameid>
 		<stacksize>0</stacksize>
 		<offertype>eOfferNone</offertype>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<itemlevel>0</itemlevel>
 		<sellable>false</sellable>
 		<tradeable>false</tradeable>
@@ -6231,7 +6231,7 @@
 		<displaynameid>801854</displaynameid>
 		<stacksize>0</stacksize>
 		<offertype>eOfferNone</offertype>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<itemlevel>0</itemlevel>
 		<sellable>false</sellable>
 		<tradeable>false</tradeable>
@@ -6247,7 +6247,7 @@
 		<displaynameid>801856</displaynameid>
 		<stacksize>0</stacksize>
 		<offertype>eOfferNone</offertype>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<itemlevel>0</itemlevel>
 		<sellable>false</sellable>
 		<tradeable>false</tradeable>
@@ -6263,7 +6263,7 @@
 		<displaynameid>801858</displaynameid>
 		<stacksize>0</stacksize>
 		<offertype>eOfferNone</offertype>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<itemlevel>0</itemlevel>
 		<sellable>false</sellable>
 		<tradeable>false</tradeable>
@@ -6279,7 +6279,7 @@
 		<displaynameid>801860</displaynameid>
 		<stacksize>0</stacksize>
 		<offertype>eOfferNone</offertype>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<itemlevel>0</itemlevel>
 		<sellable>false</sellable>
 		<tradeable>false</tradeable>
@@ -6295,7 +6295,7 @@
 		<displaynameid>801862</displaynameid>
 		<stacksize>0</stacksize>
 		<offertype>eOfferNone</offertype>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<itemlevel>0</itemlevel>
 		<sellable>false</sellable>
 		<tradeable>false</tradeable>
@@ -6311,7 +6311,7 @@
 		<displaynameid>801864</displaynameid>
 		<stacksize>0</stacksize>
 		<offertype>eOfferNone</offertype>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<itemlevel>0</itemlevel>
 		<sellable>false</sellable>
 		<tradeable>false</tradeable>
@@ -6327,7 +6327,7 @@
 		<displaynameid>801866</displaynameid>
 		<stacksize>0</stacksize>
 		<offertype>eOfferNone</offertype>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<itemlevel>0</itemlevel>
 		<sellable>false</sellable>
 		<tradeable>false</tradeable>
@@ -6343,7 +6343,7 @@
 		<displaynameid>801868</displaynameid>
 		<stacksize>0</stacksize>
 		<offertype>eOfferNone</offertype>
-		<alliance>eAllianceDelianLeague</alliance>
+<!--		<alliance>eAllianceDelianLeague</alliance>-->
 		<itemlevel>0</itemlevel>
 		<sellable>false</sellable>
 		<tradeable>false</tradeable>
@@ -6359,7 +6359,7 @@
 		<displaynameid>801870</displaynameid>
 		<stacksize>0</stacksize>
 		<offertype>eOfferNone</offertype>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<itemlevel>0</itemlevel>
 		<sellable>false</sellable>
 		<tradeable>false</tradeable>
@@ -6375,7 +6375,7 @@
 		<displaynameid>801872</displaynameid>
 		<stacksize>0</stacksize>
 		<offertype>eOfferNone</offertype>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<itemlevel>0</itemlevel>
 		<sellable>false</sellable>
 		<tradeable>false</tradeable>
@@ -6391,7 +6391,7 @@
 		<displaynameid>801874</displaynameid>
 		<stacksize>0</stacksize>
 		<offertype>eOfferNone</offertype>
-		<alliance>eAllianceCouncilOfImhotep</alliance>
+<!--		<alliance>eAllianceCouncilOfImhotep</alliance>-->
 		<itemlevel>0</itemlevel>
 		<sellable>false</sellable>
 		<tradeable>false</tradeable>
@@ -6407,7 +6407,7 @@
 		<displaynameid>801876</displaynameid>
 		<stacksize>0</stacksize>
 		<offertype>eOfferNone</offertype>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<itemlevel>0</itemlevel>
 		<sellable>false</sellable>
 		<tradeable>false</tradeable>
@@ -6423,7 +6423,7 @@
 		<displaynameid>801878</displaynameid>
 		<stacksize>0</stacksize>
 		<offertype>eOfferNone</offertype>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<itemlevel>0</itemlevel>
 		<sellable>false</sellable>
 		<tradeable>false</tradeable>
@@ -6439,7 +6439,7 @@
 		<displaynameid>801880</displaynameid>
 		<stacksize>0</stacksize>
 		<offertype>eOfferNone</offertype>
-		<alliance>eAllianceLegionOfCarthage</alliance>
+<!--		<alliance>eAllianceLegionOfCarthage</alliance>-->
 		<itemlevel>0</itemlevel>
 		<sellable>false</sellable>
 		<tradeable>false</tradeable>
@@ -6545,7 +6545,7 @@
 		<displaynameid>801894</displaynameid>
 		<stacksize>0</stacksize>
 		<offertype>eOfferNone</offertype>
-		<event>Halloween</event>
+<!--		<event>Halloween</event>-->
 		<itemlevel>0</itemlevel>
 		<sellable>false</sellable>
 		<tradeable>false</tradeable>
@@ -6561,7 +6561,7 @@
 		<displaynameid>801896</displaynameid>
 		<stacksize>0</stacksize>
 		<offertype>eOfferNone</offertype>
-		<event>Halloween</event>
+<!--		<event>Halloween</event>-->
 		<itemlevel>0</itemlevel>
 		<sellable>false</sellable>
 		<tradeable>false</tradeable>
@@ -7372,7 +7372,7 @@
 		<displaynameid>802012</displaynameid>
 		<stacksize>0</stacksize>
 		<offertype>eOfferNone</offertype>
-		<event>Winter</event>
+<!--		<event>Winter</event>-->
 		<itemlevel>0</itemlevel>
 		<sellable>false</sellable>
 		<tradeable>false</tradeable>
@@ -7388,7 +7388,7 @@
 		<displaynameid>802014</displaynameid>
 		<stacksize>0</stacksize>
 		<offertype>eOfferNone</offertype>
-		<event>Winter</event>
+<!--		<event>Winter</event>-->
 		<itemlevel>0</itemlevel>
 		<sellable>false</sellable>
 		<tradeable>false</tradeable>
