@@ -1,458 +1,736 @@
 ﻿<?xml version="1.0"?>
 <ProtoUnitOverrides>
-  <ProtoUnitOverride name="Gr_Civ_Caravan">
-    <MaxHitpoints>200.0000</MaxHitpoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Eg_Civ_Caravan">
-    <MaxHitpoints>200.0000</MaxHitpoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Pe_Civ_Caravan">
-    <MaxHitpoints>200.0000</MaxHitpoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ce_Civ_Caravan">
-    <MaxHitpoints>200.0000</MaxHitpoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ba_Civ_Caravan">
-    <MaxHitpoints>200.0000</MaxHitpoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="No_Civ_Caravan">
-    <MaxHitpoints>200.0000</MaxHitpoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Gr_Civ_FishingBoat">
-    <LOS>26.0000</LOS>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Eg_Civ_FishingBoat">
-    <LOS>26.0000</LOS>
-    <ProtoAction>
-      <Name>Gather</Name>
-      <Rate type="AbstractFish">1.600000</Rate>
-    </ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Pe_Civ_FishingBoat">
-    <LOS>26.0000</LOS>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ce_Civ_FishingBoat">
-    <LOS>26.0000</LOS>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ba_Civ_FishingBoat">
-    <LOS>26.0000</LOS>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="No_Civ_FishingBoat">
-    <LOS>26.0000</LOS>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Gr_Spc_Priest">
-    <ProtoAction>
-      <Name>Convert</Name>
-      <MaxRange>22.000000</MaxRange>
-      <Rate type="StandardConvertable">16.000000</Rate>
-      <Rate type="ConvertableCavalry">16.000000</Rate>
-      <Rate type="ConvertableInfantry">16.000000</Rate>
-      <Rate type="ConvertableSiege">16.000000</Rate>
-    </ProtoAction>
-  </ProtoUnitOverride>
-   <ProtoUnitOverride name="Eg_Spc_PriestSet">
-    <ProtoAction>
-      <Name>Convert</Name>
-      <MaxRange>28.000000</MaxRange>
-      <Rate type="StandardConvertable">16.000000</Rate>
-      <Rate type="ConvertableCavalry">16.000000</Rate>
-      <Rate type="ConvertableInfantry">16.000000</Rate>
-      <Rate type="ConvertableSiege">16.000000</Rate>
-    </ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Eg_Spc_PriestPtah">
-    <ProtoAction>
-      <Name>Convert</Name>
-      <Rate type="StandardConvertable">16.000000</Rate>
-      <Rate type="ConvertableCavalry">16.000000</Rate>
-      <Rate type="ConvertableInfantry">16.000000</Rate>
-      <Rate type="ConvertableSiege">16.000000</Rate>
-    </ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Pe_Spc_Magus">
-    <ProtoAction>
-      <Name>Convert</Name>
-      <MaxRange>22.000000</MaxRange>&gt;
-			<Rate type="StandardConvertable">16.000000</Rate><Rate type="ConvertableCavalry">16.000000</Rate><Rate type="ConvertableInfantry">16.000000</Rate><Rate type="ConvertableSiege">16.000000</Rate></ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ce_Spc_DruidAugur">
-    <ProtoAction>
-      <Name>Convert</Name>
-      <MaxRange>22.000000</MaxRange>&gt;
-			<Rate type="StandardConvertable">16.000000</Rate><Rate type="ConvertableCavalry">16.000000</Rate><Rate type="ConvertableInfantry">16.000000</Rate><Rate type="ConvertableSiege">16.000000</Rate></ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ba_Spc_Priest">
-    <ProtoAction>
-      <Name>Convert</Name>
-      <MaxRange>22.000000</MaxRange>&gt;
-			<Rate type="StandardConvertable">16.000000</Rate><Rate type="ConvertableCavalry">16.000000</Rate><Rate type="ConvertableInfantry">16.000000</Rate><Rate type="ConvertableSiege">16.000000</Rate></ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="No_Spc_Seer">
-    <ProtoAction>
-      <Name>Convert</Name>
-      <MaxRange>22.000000</MaxRange>&gt;
-			<Rate type="StandardConvertable">16.000000</Rate><Rate type="ConvertableCavalry">16.000000</Rate><Rate type="ConvertableInfantry">16.000000</Rate><Rate type="ConvertableSiege">16.000000</Rate></ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="No_Spc_Bard">
-    <ProtoAction>
-      <Name>Convert</Name>
-      <MaxRange>22.000000</MaxRange>&gt;
-			<Rate type="StandardConvertable">16.000000</Rate><Rate type="ConvertableCavalry">16.000000</Rate><Rate type="ConvertableInfantry">16.000000</Rate><Rate type="ConvertableSiege">16.000000</Rate></ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Gr_Bldg_SiegeWorkshop">
-    <Cost resourcetype="Wood">250.0000</Cost>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Eg_Bldg_SiegeWorkshop">
-    <Cost resourcetype="Wood">250.0000</Cost>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Pe_Bldg_SiegeWorkshop">
-    <Cost resourcetype="Wood">250.0000</Cost>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ba_Bldg_SiegeWorkshop">
-    <Cost resourcetype="Wood">250.0000</Cost>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Gr_Sie_BatteringRam">
-    <Cost resourcetype="Wood">150.0000</Cost>
-    <Cost resourcetype="Gold">30.0000</Cost>
-    <Armor type="Cavalry" value="0.0000"></Armor>
-    <ProtoAction>
-      <Name>MeleeAttack</Name>
-      <DamageBonus type="Building">6.000000</DamageBonus>
-    </ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Eg_Sie_SiegeTower">
-    <Cost resourcetype="Wood">200.0000</Cost>
-    <Cost resourcetype="Gold">80.0000</Cost>
-    <Armor type="Cavalry" value="0.0000"></Armor>
-    <ProtoAction>
-      <Name>MeleeAttack</Name>
-      <DamageBonus type="Building">6.000000</DamageBonus>
-    </ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Pe_Sie_BatteringRam">
-    <Cost resourcetype="Wood">150.0000</Cost>
-    <Cost resourcetype="Gold">30.0000</Cost>
-    <Armor type="Cavalry" value="0.0000"></Armor>
-    <ProtoAction>
-      <Name>MeleeAttack</Name>
-      <DamageBonus type="Building">6.000000</DamageBonus>
-    </ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ce_Sie_Ram">
-    <Cost resourcetype="Food">50.0000</Cost>
-    <Cost resourcetype="Wood">120.0000</Cost>
-    <Cost resourcetype="Gold">0.0000</Cost>
-    <Armor type="Cavalry" value="0.0000"></Armor>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ba_Sie_SiegeTower">
-    <Armor type="Cavalry" value="0.0000"></Armor>
-    <ProtoAction>
-      <Name>MeleeAttack</Name>
-      <DamageBonus type="Building">6.000000</DamageBonus>
-    </ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="No_Sie_Ram">
-    <Cost resourcetype="Food">40.0000</Cost>
-    <Cost resourcetype="Wood">100.0000</Cost>
-    <Armor type="Cavalry" value="0.0000"></Armor>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Gr_Sie_Ballista">
-    <ProtoAction>
-      <Name>RangedAttack</Name>
-      <DamageBonus type="Building">2.500000</DamageBonus>
-    </ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Eg_Sie_Catapult">
-    <ProtoAction>
-      <Name>RangedAttack</Name>
-      <DamageBonus type="Building">2.500000</DamageBonus>
-    </ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Gr_Cav_Scout">
-    <ProtoAction>
-      <Name>MeleeAttack</Name>
-      <DamageBonus type="UnitTypeBldgStorehouse">0.500000</DamageBonus>
-    </ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Eg_Cav_Scout">
-    <ProtoAction>
-      <Name>RangedAttack</Name>
-      <DamageBonus type="UnitTypeBldgStorehouse">0.500000</DamageBonus>
-    </ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Pe_Cav_Scout">
-    <ProtoAction>
-      <Name>MeleeAttack</Name>
-      <DamageBonus type="UnitTypeBldgStorehouse">0.500000</DamageBonus>
-    </ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ce_Cav_Scout">
-    <ProtoAction>
-      <Name>MeleeAttack</Name>
-      <DamageBonus type="UnitTypeBldgStorehouse">0.500000</DamageBonus>
-    </ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ba_Cav_Scout">
-    <ProtoAction>
-      <Name>MeleeAttack</Name>
-      <DamageBonus type="UnitTypeBldgStorehouse">0.500000</DamageBonus>
-    </ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="No_Inf_Scout1">
-    <ProtoAction>
-      <Name>MeleeAttack</Name>
-      <DamageBonus type="UnitTypeBldgStorehouse">0.500000</DamageBonus>
-    </ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="No_Inf_Scout2">
-    <ProtoAction>
-      <Name>MeleeAttack</Name>
-      <DamageBonus type="UnitTypeBldgStorehouse">0.500000</DamageBonus>
-    </ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Gr_Inf_Spearman">
-    <ProtoAction>
-      <Name>MeleeAttack</Name>
-      <Damage>11.000000</Damage>
-      <DamageBonus type="AbstractCavalry">3.000000</DamageBonus>
-      <DamageType>Hand</DamageType>
-      <ImpactEffect>effects\impacts\meleelite</ImpactEffect>
-    </ProtoAction>
-    <Tactics>pvp_spearman.tactics</Tactics>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Eg_Inf_Spearman">
-    <ProtoAction>
-      <Name>MeleeAttack</Name>
-      <Damage>10.000000</Damage>
-      <DamageBonus type="AbstractCavalry">2.500000</DamageBonus>
-      <DamageType>Hand</DamageType>
-      <ImpactEffect>effects\impacts\meleelite</ImpactEffect>
-    </ProtoAction>
-    <Tactics>pvp_spearman.tactics</Tactics>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Pe_Inf_Spearman">
-    <ProtoAction>
-      <Name>MeleeAttack</Name>
-      <Damage>12.000000</Damage>
-      <DamageBonus type="AbstractCavalry">3.500000</DamageBonus>
-      <DamageType>Hand</DamageType>
-      <ImpactEffect>effects\impacts\meleelite</ImpactEffect>
-    </ProtoAction>
-    <Tactics>pvp_spearman.tactics</Tactics>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ce_Inf_Spearman">
-    <ProtoAction>
-      <Name>MeleeAttack</Name>
-      <Damage>12.000000</Damage>
-      <DamageBonus type="AbstractCavalry">3.500000</DamageBonus>
-      <DamageType>Hand</DamageType>
-      <ImpactEffect>effects\impacts\meleelite</ImpactEffect>
-    </ProtoAction>
-    <Tactics>pvp_spearman.tactics</Tactics>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ba_Inf_Spearman">
-    <ProtoAction>
-      <Name>MeleeAttack</Name>
-      <Damage>11.000000</Damage>
-      <DamageBonus type="AbstractCavalry">2.500000</DamageBonus>
-      <DamageType>Hand</DamageType>
-      <ImpactEffect>effects\impacts\meleelite</ImpactEffect>
-    </ProtoAction>
-    <Tactics>pvp_spearman.tactics</Tactics>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="No_Inf_Spearman">
-    <ProtoAction>
-      <Name>MeleeAttack</Name>
-      <Damage>10.000000</Damage>
-      <DamageBonus type="AbstractCavalry">2.500000</DamageBonus>
-      <DamageType>Hand</DamageType>
-      <ImpactEffect>effects\impacts\meleelite</ImpactEffect>
-    </ProtoAction>
-    <Tactics>pvp_spearman.tactics</Tactics>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Gr_Bldg_LookoutTower">
-    <BuildPoints>20.0000</BuildPoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Eg_Bldg_LookoutTower">
-    <BuildPoints>20.0000</BuildPoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Pe_Bldg_LookoutTower">
-    <BuildPoints>20.0000</BuildPoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ce_Bldg_LookoutTower">
-    <BuildPoints>20.0000</BuildPoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ba_Bldg_LookoutTower">
-    <BuildPoints>20.0000</BuildPoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Gr_Bldg_Fortress">
-    <MaxHitpoints>6750.0000</MaxHitpoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Eg_Bldg_Fortress">
-    <MaxHitpoints>5625.0000</MaxHitpoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Pe_Bldg_Fortress">
-    <MaxHitpoints>6750.0000</MaxHitpoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ce_Bldg_Fortress">
-    <MaxHitpoints>6750.0000</MaxHitpoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ba_Bldg_Fortress">
-    <MaxHitpoints>6750.0000</MaxHitpoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="No_Bldg_Fortress">
-    <MaxHitpoints>6750.0000</MaxHitpoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Gr_Bldg_GuardTower">
-    <Cost resourcetype="Wood">50.0000</Cost>
-    <Cost resourcetype="Stone">100.0000</Cost>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Eg_Bldg_GuardTower">
-    <Cost resourcetype="Wood">50.0000</Cost>
-    <Cost resourcetype="Stone">100.0000</Cost>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Pe_Bldg_GuardTower">
-    <Cost resourcetype="Wood">50.0000</Cost>
-    <Cost resourcetype="Stone">100.0000</Cost>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ce_Bldg_GuardTower">
-    <Cost resourcetype="Wood">50.0000</Cost>
-    <Cost resourcetype="Stone">100.0000</Cost>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ba_Bldg_GuardTower">
-    <Cost resourcetype="Wood">50.0000</Cost>
-    <Cost resourcetype="Stone">100.0000</Cost>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="No_Bldg_GuardTower">
-    <Cost resourcetype="Wood">50.0000</Cost>
-    <Cost resourcetype="Stone">100.0000</Cost>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Gr_Inf_Hypaspist">
-    <TrainPoints>12.0000</TrainPoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Gr_Arc_Toxotai">
-    <Cost resourcetype="Wood">45.0000</Cost>
-    <TrainPoints>13.0000</TrainPoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Gr_Cav_Sarissophoroi">
-    <Armor type="Ranged" value="0.4000"></Armor>
-    <MaxVelocity>10.0000</MaxVelocity>
-    <MaxRunVelocity>15.0000</MaxRunVelocity>
-    <Cost resourcetype="Gold">45.0000</Cost>
-    <TrainPoints>16.0000</TrainPoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Eg_Cav_WarElephant">
-    <Armor type="Ranged" value="0.4000"></Armor>
-    <MaxVelocity>7.0000</MaxVelocity>
-    <MaxRunVelocity>10.5000</MaxRunVelocity>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Gr_Cav_Podromos">
-    <MaxVelocity>11.0000</MaxVelocity>
-    <MaxRunVelocity>16.50000</MaxRunVelocity>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Gr_Cav_Hippikon">
-    <MaxVelocity>9.0000</MaxVelocity>
-    <MaxRunVelocity>13.50000</MaxRunVelocity>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Eg_Bldg_Temple2">
-    <Cost resourcetype="Wood">300.0000</Cost>
-    <Cost resourcetype="Gold">300.0000</Cost>
-    <Cost resourcetype="Food">300.0000</Cost>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Eg_Inf_Axeman">
-    <MaxHitpoints>185.0000</MaxHitpoints>
-    <MaxVelocity>7.0000</MaxVelocity>
-    <MaxRunVelocity>10.5000</MaxRunVelocity>
-    <TrainPoints>8.0000</TrainPoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Eg_Cav_CamelRider">
-    <Armor type="Ranged" value="0.2000"></Armor>
-    <MaxVelocity>11.0000</MaxVelocity>
-    <MaxRunVelocity>16.50000</MaxRunVelocity>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Eg_Arc_ChariotArcher">
-    <MaxVelocity>9.0000</MaxVelocity>
-    <MaxRunVelocity>13.50000</MaxRunVelocity>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Eg_Spc_PriestSet">
-    <Cost resourcetype="Gold">80.0000</Cost>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Eg_Spc_PriestPtah">
-    <TrainPoints>30.0000</TrainPoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Pe_Inf_Sparabara">
-    <Cost resourcetype="Gold">10.0000</Cost>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Pe_Arc_Bowman">
-    <ProtoAction>
-      <Name>RangedAttack</Name>
-      <DamageBonus type="AbstractInfantry">1.750000</DamageBonus>
-    </ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Pe_Cav_Asabara">
-    <MaxVelocity>10.0000</MaxVelocity>
-    <MaxRunVelocity>15.00000</MaxRunVelocity>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Pe_Arc_MountedArcher">
-    <Cost resourcetype="Wood">70.0000</Cost>
-    <Cost resourcetype="Gold">60.0000</Cost>
-    <MaxVelocity>10.0000</MaxVelocity>
-    <MaxRunVelocity>15.00000</MaxRunVelocity>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Pe_Cav_Cataphract">
-    <MaxVelocity>8.0000</MaxVelocity>
-    <MaxRunVelocity>12.00000</MaxRunVelocity>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ce_Inf_WoadRaider">
-    <MaxHitpoints>270.0000</MaxHitpoints>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ce_Arc_Carpentom">
-    <ProtoAction>
-      <Name>RangedAttack</Name>
-      <Damage>28.000000</Damage>
-      <DamageBonus type="AbstractArcher">2.500000</DamageBonus>
-    </ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ce_Sie_Palintonon">
-    <MaxVelocity>5.0000</MaxVelocity>
-    <MaxRunVelocity>7.5000</MaxRunVelocity>
-    <ProtoAction>
-      <Name>RangedAttack</Name>
-      <DamageBonus type="AbstractInfantry">2.000000</DamageBonus>
-    </ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ce_Bldg_GoldMine">
-    <Cost resourcetype="Wood">150.0000</Cost>
-    <Cost resourcetype="Stone">50.0000</Cost>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ba_Inf_Sapper">
-    <ProtoAction>
-      <Name>MeleeAttack</Name>
-      <DamageBonus type="Building">3.000000</DamageBonus>
-    </ProtoAction>
-    <ProtoAction>
-      <Name>BuildingAttack</Name>
-      <DamageBonus type="Building">3.000000</DamageBonus>
-    </ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ba_Cav_Lancer">
-    <MaxVelocity>10.0000</MaxVelocity>
-    <MaxRunVelocity>15.00000</MaxRunVelocity>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ba_Arc_MountedArcher">
-    <MaxVelocity>10.0000</MaxVelocity>
-    <MaxRunVelocity>15.00000</MaxRunVelocity>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ba_Arc_ChariotArcher">
-    <MaxVelocity>8.0000</MaxVelocity>
-    <MaxRunVelocity>12.00000</MaxRunVelocity>
-    <ProtoAction>
-      <Name>RangedAttack</Name>
-      <DamageBonus type="AbstractPriest">1.500000</DamageBonus>
-    </ProtoAction>
-  </ProtoUnitOverride>
-  <ProtoUnitOverride name="Ba_Arc_WarChariot">
-    <MaxVelocity>9.0000</MaxVelocity>
-    <MaxRunVelocity>13.50000</MaxRunVelocity>
-  </ProtoUnitOverride>
+	<ProtoUnitOverride name="Gr_Civ_Caravan">
+		<Armor type="Ranged" value="0.3000"/> <!--edit add-->
+		<MaxHitpoints>200.0000</MaxHitpoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Eg_Civ_Caravan">
+		<Armor type="Ranged" value="0.3000"/> <!--edit add-->
+		<MaxHitpoints>200.0000</MaxHitpoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Pe_Civ_Caravan">
+		<Armor type="Ranged" value="0.3000"/> <!--edit add-->
+		<MaxHitpoints>200.0000</MaxHitpoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ce_Civ_Caravan">
+		<Armor type="Ranged" value="0.3000"/> <!--edit add-->
+		<MaxHitpoints>200.0000</MaxHitpoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ba_Civ_Caravan">
+		<Armor type="Ranged" value="0.3000"/> <!--edit add-->
+		<MaxHitpoints>200.0000</MaxHitpoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="No_Civ_Caravan">
+		<Armor type="Ranged" value="0.3000"/> <!--edit add-->
+		<MaxHitpoints>200.0000</MaxHitpoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Gr_Civ_FishingBoat">
+		<LOS>26.0000</LOS>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Eg_Civ_FishingBoat">
+		<LOS>26.0000</LOS>
+		<ProtoAction>
+			<Name>Gather</Name>
+			<Rate type="AbstractFish">1.600000</Rate>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Pe_Civ_FishingBoat">
+		<LOS>26.0000</LOS>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ce_Civ_FishingBoat">
+		<LOS>26.0000</LOS>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ba_Civ_FishingBoat">
+		<LOS>26.0000</LOS>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="No_Civ_FishingBoat">
+		<LOS>26.0000</LOS>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Gr_Spc_Priest">
+		<ProtoAction>
+			<Name>Convert</Name>
+			<MaxRange>22.000000</MaxRange>
+			<Rate type="StandardConvertable">16.000000</Rate>
+			<Rate type="ConvertableCavalry">16.000000</Rate>
+			<Rate type="ConvertableInfantry">16.000000</Rate>
+			<Rate type="ConvertableSiege">16.000000</Rate>
+		</ProtoAction>
+		<ProtoAction> <!--edit add-->
+			<Name>Heal</Name>
+			<Rate type ='LogicalTypeHealed'>40.000000</Rate>
+			<MaxRange>16.000000</MaxRange>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Eg_Spc_PriestPtah">
+		<ProtoAction>
+			<Name>Convert</Name>
+			<Rate type="StandardConvertable">16.000000</Rate>
+			<Rate type="ConvertableCavalry">16.000000</Rate>
+			<Rate type="ConvertableInfantry">16.000000</Rate>
+			<Rate type="ConvertableSiege">16.000000</Rate>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Pe_Spc_Magus">
+		<ProtoAction>
+			<Name>Convert</Name>
+			<MaxRange>22.000000</MaxRange>&gt;
+			<Rate type="StandardConvertable">16.000000</Rate>
+			<Rate type="ConvertableCavalry">16.000000</Rate>
+			<Rate type="ConvertableInfantry">16.000000</Rate>
+			<Rate type="ConvertableSiege">16.000000</Rate>
+		</ProtoAction>
+		<ProtoAction> <!--edit add-->
+			<Name>Heal</Name>
+			<Rate type ='LogicalTypeHealed'>40.000000</Rate>
+			<MaxRange>16.000000</MaxRange>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ce_Spc_DruidAugur">
+		<ProtoAction>
+			<Name>Convert</Name>
+			<MaxRange>22.000000</MaxRange>&gt;
+			<Rate type="StandardConvertable">16.000000</Rate>
+			<Rate type="ConvertableCavalry">16.000000</Rate>
+			<Rate type="ConvertableInfantry">16.000000</Rate>
+			<Rate type="ConvertableSiege">16.000000</Rate>
+		</ProtoAction>
+		<ProtoAction> <!--edit add-->
+			<Name>Heal</Name>
+			<Rate type ='LogicalTypeHealed'>40.000000</Rate>
+			<MaxRange>16.000000</MaxRange>
+		</ProtoAction>		
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ba_Spc_Priest">
+		<ProtoAction>
+			<Name>Convert</Name>
+			<MaxRange>22.000000</MaxRange>&gt;
+			<Rate type="StandardConvertable">16.000000</Rate>
+			<Rate type="ConvertableCavalry">16.000000</Rate>
+			<Rate type="ConvertableInfantry">16.000000</Rate>
+			<Rate type="ConvertableSiege">16.000000</Rate>
+		</ProtoAction>
+		<ProtoAction> <!--edit add-->
+			<Name>Heal</Name>
+			<Rate type ='LogicalTypeHealed'>40.000000</Rate>
+			<MaxRange>16.000000</MaxRange>
+		</ProtoAction>		
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="No_Spc_Seer">
+		<ProtoAction>
+			<Name>Convert</Name>
+			<MaxRange>22.000000</MaxRange>&gt;
+			<Rate type="StandardConvertable">16.000000</Rate>
+			<Rate type="ConvertableCavalry">16.000000</Rate>
+			<Rate type="ConvertableInfantry">16.000000</Rate>
+			<Rate type="ConvertableSiege">16.000000</Rate>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="No_Spc_Bard">
+		<ProtoAction>
+			<Name>Convert</Name>
+			<MaxRange>22.000000</MaxRange>&gt;
+			<Rate type="StandardConvertable">16.000000</Rate>
+			<Rate type="ConvertableCavalry">16.000000</Rate>
+			<Rate type="ConvertableInfantry">16.000000</Rate>
+			<Rate type="ConvertableSiege">16.000000</Rate>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Gr_Bldg_SiegeWorkshop">
+		<Cost resourcetype="Wood">250.0000</Cost>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Eg_Bldg_SiegeWorkshop">
+		<Cost resourcetype="Wood">250.0000</Cost>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Pe_Bldg_SiegeWorkshop">
+		<Cost resourcetype="Wood">250.0000</Cost>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ba_Bldg_SiegeWorkshop">
+		<Cost resourcetype="Wood">250.0000</Cost>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Gr_Sie_BatteringRam">
+		<Cost resourcetype="Wood">150.0000</Cost>
+		<Cost resourcetype="Gold">30.0000</Cost>
+		<Armor type="Cavalry" value="0.0000"/>
+		<ProtoAction>
+			<Name>MeleeAttack</Name>
+			<DamageBonus type="Building">6.000000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Eg_Sie_SiegeTower">
+		<Cost resourcetype="Wood">200.0000</Cost>
+		<Cost resourcetype="Gold">80.0000</Cost>
+		<Armor type="Cavalry" value="0.0000"/>
+		<ProtoAction>
+			<Name>MeleeAttack</Name>
+			<DamageBonus type="Building">6.000000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Pe_Sie_BatteringRam">
+		<Cost resourcetype="Wood">150.0000</Cost>
+		<Cost resourcetype="Gold">30.0000</Cost>
+		<Armor type="Cavalry" value="0.0000"/>
+		<ProtoAction>
+			<Name>MeleeAttack</Name>
+			<DamageBonus type="Building">6.000000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ce_Sie_Ram">
+		<Cost resourcetype="Food">50.0000</Cost>
+		<Cost resourcetype="Wood">120.0000</Cost>
+		<Cost resourcetype="Gold">0.0000</Cost>
+		<Armor type="Cavalry" value="0.0000"/>
+		<MaxHitpoints>300.0000</MaxHitpoints> <!--EDIT ADD-->
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ba_Sie_SiegeTower">
+		<Armor type="Cavalry" value="0.0000"/>
+		<MaxHitpoints>600.0000</MaxHitpoints> <!--EDIT ADD-->
+		<Cost resourcetype="Wood">250.0000</Cost> <!-- EDIT ADD-->
+		<ProtoAction>
+			<Name>MeleeAttack</Name>
+			<DamageBonus type="Building">6.000000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="No_Sie_Ram">
+		<Cost resourcetype="Food">40.0000</Cost>
+		<Cost resourcetype="Wood">100.0000</Cost>
+		<Armor type="Cavalry" value="0.0000"/>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Gr_Sie_Ballista">
+		<ProtoAction>
+			<Name>RangedAttack</Name>
+			<Damage>21.000000</Damage> <!--EDIT ADD-->
+			<DamageBonus type="Building">2.500000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Eg_Sie_Catapult">
+		<ProtoAction>
+			<Name>RangedAttack</Name>
+			<Damage>24.000000</Damage> <!--EDIT ADD-->
+			<DamageBonus type="Building">2.500000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Gr_Cav_Scout">
+		<ProtoAction>
+			<Name>MeleeAttack</Name>
+			<DamageBonus type="UnitTypeBldgStorehouse">0.500000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Eg_Cav_Scout">
+		<ProtoAction>
+			<Name>RangedAttack</Name>
+			<DamageBonus type="UnitTypeBldgStorehouse">0.500000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Pe_Cav_Scout">
+		<ProtoAction>
+			<Name>MeleeAttack</Name>
+			<DamageBonus type="UnitTypeBldgStorehouse">0.500000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ce_Cav_Scout">
+		<ProtoAction>
+			<Name>MeleeAttack</Name>
+			<DamageBonus type="UnitTypeBldgStorehouse">0.500000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ba_Cav_Scout">
+		<ProtoAction>
+			<Name>MeleeAttack</Name>
+			<DamageBonus type="UnitTypeBldgStorehouse">0.500000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="No_Inf_Scout1">
+		<ProtoAction>
+			<Name>MeleeAttack</Name>
+			<DamageBonus type="UnitTypeBldgStorehouse">0.500000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="No_Inf_Scout2">
+		<ProtoAction>
+			<Name>MeleeAttack</Name>
+			<DamageBonus type="UnitTypeBldgStorehouse">0.500000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Gr_Inf_Spearman">
+		<ProtoAction>
+			<Name>MeleeAttack</Name>
+			<Damage>11.000000</Damage>
+			<DamageBonus type="AbstractCavalry">3.000000</DamageBonus>
+			<DamageType>Hand</DamageType>
+			<ImpactEffect>effects\impacts\meleelite</ImpactEffect>
+		</ProtoAction>
+		<Tactics>pvp_spearman.tactics</Tactics>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Eg_Inf_Spearman">
+		<ProtoAction>
+			<Name>MeleeAttack</Name>
+			<Damage>10.000000</Damage>
+			<DamageBonus type="AbstractCavalry">2.500000</DamageBonus>
+			<DamageType>Hand</DamageType>
+			<ImpactEffect>effects\impacts\meleelite</ImpactEffect>
+		</ProtoAction>
+		<Tactics>pvp_spearman.tactics</Tactics>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Pe_Inf_Spearman">
+		<ProtoAction>
+			<Name>MeleeAttack</Name>
+			<Damage>12.000000</Damage>
+			<DamageBonus type="AbstractCavalry">3.500000</DamageBonus>
+			<DamageType>Hand</DamageType>
+			<ImpactEffect>effects\impacts\meleelite</ImpactEffect>
+		</ProtoAction>
+		<Tactics>pvp_spearman.tactics</Tactics>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ce_Inf_Spearman">
+		<ProtoAction>
+			<Name>MeleeAttack</Name>
+			<Damage>12.000000</Damage>
+			<DamageBonus type="AbstractCavalry">3.500000</DamageBonus>
+			<DamageType>Hand</DamageType>
+			<ImpactEffect>effects\impacts\meleelite</ImpactEffect>
+		</ProtoAction>
+		<Tactics>pvp_spearman.tactics</Tactics>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ba_Inf_Spearman">
+	<TrainPoints>12.0000</TrainPoints> <!--EDIT ADD-->
+		<ProtoAction>
+			<Name>MeleeAttack</Name>
+			<Damage>11.000000</Damage>
+			<DamageBonus type="AbstractCavalry">2.500000</DamageBonus>
+			<DamageType>Hand</DamageType>
+			<ImpactEffect>effects\impacts\meleelite</ImpactEffect>
+		</ProtoAction>
+		<Tactics>pvp_spearman.tactics</Tactics>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="No_Inf_Spearman">
+		<ProtoAction>
+			<Name>MeleeAttack</Name>
+			<Damage>10.000000</Damage>
+			<DamageBonus type="AbstractCavalry">2.500000</DamageBonus>
+			<DamageType>Hand</DamageType>
+			<ImpactEffect>effects\impacts\meleelite</ImpactEffect>
+		</ProtoAction>
+		<Tactics>pvp_spearman.tactics</Tactics>
+		<ProtoAction> <!-- EDIT ADD-->
+			<Name>Build</Name>
+			<Rate type ='Building'>0.750000</Rate>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Gr_Bldg_LookoutTower">
+		<BuildPoints>20.0000</BuildPoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Eg_Bldg_LookoutTower">
+		<BuildPoints>20.0000</BuildPoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Pe_Bldg_LookoutTower">
+		<BuildPoints>20.0000</BuildPoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ce_Bldg_LookoutTower">
+		<BuildPoints>20.0000</BuildPoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ba_Bldg_LookoutTower">
+		<BuildPoints>20.0000</BuildPoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Gr_Bldg_Fortress">
+		<MaxHitpoints>6750.0000</MaxHitpoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Eg_Bldg_Fortress">
+		<MaxHitpoints>5625.0000</MaxHitpoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Pe_Bldg_Fortress">
+		<MaxHitpoints>6750.0000</MaxHitpoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ce_Bldg_Fortress">
+		<MaxHitpoints>6750.0000</MaxHitpoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ba_Bldg_Fortress">
+		<MaxHitpoints>6750.0000</MaxHitpoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="No_Bldg_Fortress">
+		<MaxHitpoints>6750.0000</MaxHitpoints>
+		<BuilderLimit>40</BuilderLimit> <!--edit add-->
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Gr_Bldg_GuardTower">
+		<BuildPoints>60.0000</BuildPoints> <!--edit add-->
+		<Cost resourcetype="Wood">50.0000</Cost>
+		<Cost resourcetype="Stone">100.0000</Cost>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Eg_Bldg_GuardTower">
+	<BuildPoints>60.0000</BuildPoints> <!--edit add-->
+		<Cost resourcetype="Wood">50.0000</Cost>
+		<Cost resourcetype="Stone">100.0000</Cost>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Pe_Bldg_GuardTower">
+	<BuildPoints>60.0000</BuildPoints> <!--edit add-->
+		<Cost resourcetype="Wood">50.0000</Cost>
+		<Cost resourcetype="Stone">100.0000</Cost>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ce_Bldg_GuardTower">
+		<BuildPoints>60.0000</BuildPoints> <!--edit add-->	
+		<Cost resourcetype="Wood">50.0000</Cost>
+		<Cost resourcetype="Stone">100.0000</Cost>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ba_Bldg_GuardTower">
+		<BuildPoints>60.0000</BuildPoints> <!--edit add-->	
+		<Cost resourcetype="Wood">50.0000</Cost>
+		<Cost resourcetype="Stone">100.0000</Cost>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="No_Bldg_GuardTower">
+		<BuildPoints>60.0000</BuildPoints> <!--edit add-->	
+		<MaxHitpoints>800.0000</MaxHitpoints> <!-- edit add-->
+		<Cost resourcetype="Wood">50.0000</Cost>
+		<Cost resourcetype="Stone">100.0000</Cost>
+		<Tech row ='1' page ='0' column ='1'>PVP_NorseTechTowerFreyja1</Tech> <!-- edit add-->
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Gr_Inf_Hypaspist">
+		<TrainPoints>12.0000</TrainPoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Gr_Arc_Toxotai">
+		<Cost resourcetype="Wood">45.0000</Cost>
+		<TrainPoints>13.0000</TrainPoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Gr_Cav_Sarissophoroi">
+		<Armor type="Ranged" value="0.4000"/>
+		<MaxVelocity>10.0000</MaxVelocity>
+		<MaxRunVelocity>15.0000</MaxRunVelocity>
+		<Cost resourcetype="Gold">45.0000</Cost>
+		<TrainPoints>16.0000</TrainPoints>
+		<MaxHitpoints>400.0000</MaxHitpoints> <!--EDIT ADD-->
+		<ProtoAction> <!--EDIT ADD-->
+			<Name>RangedAttack</Name>
+			<Damage>10.000000</Damage>
+			<DamageBonus type="AbstractArcher">3.549999</DamageBonus>
+			<DamageBonus type="UnitTypeVillager1">1.200000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Gr_Cav_Podromos">
+		<Armor type="Ranged" value="0.2000"/> <!--EDIT ADD-->
+		<MaxVelocity>11.0000</MaxVelocity>
+		<MaxRunVelocity>16.50000</MaxRunVelocity>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Gr_Cav_Hippikon">
+		<MaxVelocity>9.0000</MaxVelocity>
+		<MaxRunVelocity>13.50000</MaxRunVelocity>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Eg_Bldg_Temple2">
+		<Cost resourcetype="Wood">300.0000</Cost>
+		<Cost resourcetype="Gold">300.0000</Cost>
+		<Cost resourcetype="Food">300.0000</Cost>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Eg_Inf_Axeman">
+		<MaxHitpoints>185.0000</MaxHitpoints>
+		<MaxVelocity>7.0000</MaxVelocity>
+		<MaxRunVelocity>10.5000</MaxRunVelocity>
+		<TrainPoints>8.0000</TrainPoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Eg_Cav_CamelRider">
+		<MaxHitpoints>400.0000</MaxHitpoints> <!-- edit add-->
+		<Armor type="Ranged" value="0.2000"/>
+		<MaxVelocity>11.0000</MaxVelocity>
+		<MaxRunVelocity>16.50000</MaxRunVelocity>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Eg_Arc_ChariotArcher">
+		<MaxVelocity>9.0000</MaxVelocity>
+		<MaxRunVelocity>13.50000</MaxRunVelocity>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Eg_Spc_PriestSet">
+		<Cost resourcetype="Gold">80.0000</Cost>
+		<!-- EDIT ADD PROTOACTION -->
+		<ProtoAction>
+			<Name>Convert</Name>
+			<MaxRange>28.000000</MaxRange>
+			<Rate type="StandardConvertable">13.000000</Rate>
+			<Rate type="ConvertableCavalry">13.000000</Rate>
+			<Rate type="ConvertableInfantry">13.000000</Rate>
+			<Rate type="ConvertableSiege">13.000000</Rate>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Eg_Spc_PriestPtah">
+		<TrainPoints>30.0000</TrainPoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Pe_Inf_Sparabara">
+		<Cost resourcetype="Gold">10.0000</Cost>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Pe_Arc_Bowman">
+		<ProtoAction>
+			<Name>RangedAttack</Name>
+			<DamageBonus type="AbstractInfantry">1.750000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Pe_Cav_Asabara">
+		<MaxVelocity>10.0000</MaxVelocity>
+		<MaxRunVelocity>15.00000</MaxRunVelocity>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Pe_Arc_MountedArcher">
+		<Cost resourcetype="Wood">70.0000</Cost>
+		<Cost resourcetype="Gold">60.0000</Cost>
+		<MaxVelocity>10.0000</MaxVelocity>
+		<MaxRunVelocity>15.00000</MaxRunVelocity>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Pe_Cav_Cataphract">
+		<MaxVelocity>9.0000</MaxVelocity> <!--EDIT +1-->
+		<MaxRunVelocity>13.50000</MaxRunVelocity> <!--EDIT +1.5-->
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ce_Inf_WoadRaider">
+		<MaxHitpoints>270.0000</MaxHitpoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ce_Arc_Carpentom">
+		<ProtoAction>
+			<Name>RangedAttack</Name>
+			<Damage>28.000000</Damage>
+			<DamageBonus type="AbstractArcher">2.500000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ce_Sie_Palintonon">
+		<MaxVelocity>5.0000</MaxVelocity>
+		<MaxRunVelocity>7.5000</MaxRunVelocity>
+		<ProtoAction>
+			<Name>RangedAttack</Name>
+			<DamageBonus type="AbstractInfantry">2.000000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ce_Bldg_GoldMine">
+		<Cost resourcetype="Wood">150.0000</Cost>
+		<Cost resourcetype="Stone">50.0000</Cost>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ba_Inf_Sapper">
+		<ProtoAction>
+			<Name>MeleeAttack</Name>
+			<DamageBonus type="Building">3.000000</DamageBonus>
+		</ProtoAction>
+		<ProtoAction>
+			<Name>BuildingAttack</Name>
+			<DamageBonus type="Building">3.000000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ba_Cav_Lancer">
+		<MaxVelocity>10.0000</MaxVelocity>
+		<MaxRunVelocity>15.00000</MaxRunVelocity>
+		<ProtoAction> <!--EDIT LOWERED BONUS TO 1.75x FROM 2.00x-->
+			<Name>MeleeAttack</Name>
+			<Damage>14.000000</Damage>
+			<ROF>0.000000</ROF>
+			<MaxRange>3.000000</MaxRange>
+			<DamageType>Cavalry</DamageType>
+			<ImpactEffect>effects\impacts\meleelite</ImpactEffect>
+			<DamageBonus type ='AbstractInfantry'>1.750000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ba_Arc_MountedArcher">
+		<MaxVelocity>10.0000</MaxVelocity>
+		<MaxRunVelocity>15.00000</MaxRunVelocity>
+		<ProtoAction> <!--EDIT ADD-->
+			<Name>RangedAttack</Name>
+			<Damage>11.000000</Damage>
+			<ROF>0.000000</ROF>
+			<MaxRange>15.000000</MaxRange>
+			<DamageType>Ranged</DamageType>
+			<MaxHeight>0.200000</MaxHeight>
+			<DamageBonus type ='AbstractCavalry'>3.000000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ba_Arc_ChariotArcher">
+		<MaxVelocity>8.0000</MaxVelocity>
+		<MaxRunVelocity>12.00000</MaxRunVelocity>
+		<ProtoAction>
+			<Name>RangedAttack</Name>
+			<DamageBonus type="AbstractPriest">1.500000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ba_Arc_WarChariot">
+	<MaxHitpoints>700.0000</MaxHitpoints> <!--EDIT ADD HP OVERRIDE FROM 800 to 700 AND MULTIPLIER OVERRIDE FROM 4x to 3x-->
+		<ProtoAction>
+			<Name>RangedAttack</Name>
+			<Damage>20.000000</Damage>
+			<DamageBonus type="AbstractArcher">3.00000</DamageBonus>
+		</ProtoAction>
+		<MaxVelocity>9.0000</MaxVelocity>
+		<MaxRunVelocity>13.50000</MaxRunVelocity>
+	</ProtoUnitOverride>
+	
+	<!-- Celeste Balance Changes New Overrides -->
+	
+	<ProtoUnitOverride name="Eg_Cav_WarElephant">
+		<Armor type="Ranged" value="0.4000"/>
+		<MaxVelocity>7.0000</MaxVelocity>
+		<MaxRunVelocity>10.5000</MaxRunVelocity>
+		<Cost resourcetype="Food">300.0000</Cost>
+		<Cost resourcetype="Gold">100.0000</Cost>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Pe_Sie_Palintonon">
+		<ProtoAction>
+			<Name>RangedAttack</Name>
+			<Damage>58.000000</Damage>
+			<DamageBonus type ='Building'>4.000000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Gr_Sie_Palintonon">
+		<ProtoAction>
+			<Name>RangedAttack</Name>
+			<Damage>58.000000</Damage>
+			<DamageBonus type ='Building'>4.000000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Eg_Sie_Trebuchet">
+	<TrainPoints>45.0000</TrainPoints>
+		<ProtoAction>
+			<Name>RangedAttack</Name>
+			<Damage>58.000000</Damage>
+			<DamageBonus type ='Building'>4.000000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ba_Sie_Palintonon">
+		<ProtoAction>
+			<Name>RangedAttack</Name>
+			<Damage>58.000000</Damage>
+			<DamageBonus type ='Building'>4.000000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	
+	<ProtoUnitOverride name="Gr_Bldg_TownCenter"> <!-- ORG 5K HP and 20 DPS -->
+		<MaxHitpoints>4500.0000</MaxHitpoints>
+		<ProtoAction>
+			<Name>RangedAttack</Name>
+			<Damage>18.000000</Damage>
+		</ProtoAction>
+			</ProtoUnitOverride>
+	<ProtoUnitOverride name="Eg_Bldg_TownCenter"> <!-- ORG 5K HP and 20 DPS -->
+		<MaxHitpoints>4500.0000</MaxHitpoints>
+		<ProtoAction>
+			<Name>RangedAttack</Name>
+			<Damage>18.000000</Damage>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Pe_Bldg_TownCenter"> <!-- ORG 5K HP and 20 DPS -->
+		<MaxHitpoints>4500.0000</MaxHitpoints>
+		<ProtoAction>
+			<Name>RangedAttack</Name>
+			<Damage>18.000000</Damage>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ce_Bldg_TownCenter"> <!-- ORG 5K HP and 20 DPS -->
+		<MaxHitpoints>4500.0000</MaxHitpoints>
+		<ProtoAction>
+			<Name>RangedAttack</Name>
+			<Damage>18.000000</Damage>
+		</ProtoAction>
+	</ProtoUnitOverride>		
+	<ProtoUnitOverride name="Ba_Bldg_TownCenter"> <!-- ORG 5K HP and 20 DPS -->
+		<MaxHitpoints>4500.0000</MaxHitpoints>
+		<ProtoAction>
+			<Name>RangedAttack</Name>
+			<Damage>18.000000</Damage>
+		</ProtoAction>
+	</ProtoUnitOverride>		
+	<ProtoUnitOverride name="No_Bldg_TownCenter"> <!-- ORG 5K HP and 20 DPS -->
+		<MaxHitpoints>4500.0000</MaxHitpoints>
+		<ProtoAction>
+			<Name>RangedAttack</Name>
+			<Damage>18.000000</Damage>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="No_Inf_Chief">
+		<Cost resourcetype="Food">300.0000</Cost>
+		<Cost resourcetype="Gold">300.0000</Cost>
+		<ProtoAction> <!-- EDIT ADD-->
+			<Name>Build</Name>
+			<Rate type ='Building'>1.200000</Rate>
+		</ProtoAction>
+	</ProtoUnitOverride>	
+	<ProtoUnitOverride name="Gr_Bldg_Temple">
+		<Cost resourcetype="Wood">250.0000</Cost>
+	</ProtoUnitOverride>	
+	<ProtoUnitOverride name="Pe_Arc_Takabara">
+		<ProtoAction>
+			<Name>RangedAttack</Name>
+			<Damage>10.000000</Damage>
+			<DamageBonus type="AbstractArcher">2.500000</DamageBonus>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ce_Inf_Champion">
+		<MaxHitpoints>420.0000</MaxHitpoints>
+		<MaxVelocity>5.5000</MaxVelocity>
+		<MaxRunVelocity>8.2500</MaxRunVelocity>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ce_Spc_Druid">
+		<ProtoAction>
+			<Name>Heal</Name>
+			<Rate type ='LogicalTypeHealed'>7.000000</Rate>
+			<MaxRange>15.000000</MaxRange>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Bear">
+		<MaxHitpoints>100.0000</MaxHitpoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Lion">
+		<MaxHitpoints>100.0000</MaxHitpoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Crocodile">
+	<ProtoAction>
+			<Name>MeleeAttack</Name>
+			<Damage>12.000000</Damage>
+			<ROF>0.000000</ROF>
+			<DamageType>Hand</DamageType>
+	</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Rhino">
+		<MaxHitpoints>200.0000</MaxHitpoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Lynx">
+		<MaxHitpoints>50.0000</MaxHitpoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ba_Bldg_Garden">
+		<BuildLimit>2</BuildLimit>
+		<BuildPoints>40.0000</BuildPoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ba_Civ_Villager">
+		<TrainPoints>16.0000</TrainPoints>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ba_Arc_Bowman">
+		<ProtoAction>
+			<Name>RangedAttack</Name>
+			<MaxRange>18.000000</MaxRange>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="No_Inf_Axeman">
+		<ProtoAction> <!-- EDIT ADD-->
+			<Name>Build</Name>
+			<Rate type ='Building'>0.750000</Rate>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="No_Inf_Berserker">
+		<ProtoAction> <!-- EDIT ADD-->
+			<Name>Build</Name>
+			<Rate type ='Building'>0.750000</Rate>
+		</ProtoAction>
+		<ProtoAction>
+			<Name>MeleeAttack</Name>
+			<Damage>30.000000</Damage>
+			<ROF>0.000000</ROF>
+			<DamageFlags>Gaia Enemy</DamageFlags>
+			<DamageType>Hand</DamageType>
+			<ImpactEffect>effects\impacts\sword</ImpactEffect>
+		</ProtoAction>
+		<Tactics>pvp_berserker.tactics</Tactics>			
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="No_Inf_Ulfhednar">
+		<ProtoAction> <!-- EDIT ADD-->
+			<Name>Build</Name>
+			<Rate type ='Building'>0.750000</Rate>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="No_Inf_ThrowingAxeman">
+		<ProtoAction> <!-- EDIT ADD-->
+			<Name>Build</Name>
+			<Rate type ='Building'>0.750000</Rate>
+		</ProtoAction>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Ce_Cav_Horseman">
+		<Cost resourcetype="Food">75.0000</Cost>
+		<Cost resourcetype="Gold">40.0000</Cost>
+	</ProtoUnitOverride>
+	<ProtoUnitOverride name="Eg_Arc_ElephantArcher">
+		<MaxHitpoints>770.0000</MaxHitpoints>
+	</ProtoUnitOverride>	
+						
 </ProtoUnitOverrides>

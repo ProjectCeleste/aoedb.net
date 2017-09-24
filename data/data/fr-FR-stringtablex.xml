@@ -16564,34 +16564,80 @@
 		<string _locid="68592">NuageDéplacementBâtimentPetit__</string>
 		<string _locid="68593">Nuage de déplacement de bâtiment </string>
 		<string _locid="68594">NuageDéplacementBâtimentPetit__</string>
+		
 		<!-- Custom Strings -->
+		<string _locid="68595">Persian General</string>
+		<string _locid="68596">General</string>
+		<string _locid="68597">NPC_PersianGeneral__</string>
+		<string _locid="68598">FXObject_Env_Waterfall_Top2__</string>
+		<string _locid="68599">FXObject_Env_Waterfall_Middle2__</string>
+		<string _locid="68600">FXObject_Env_Waterfall_Bottom2__</string>
 		
-		<!-- Quest Givers -->
-		
-		<!-- Master Challenge DisplayNameId-->
-		<string _locid="70000">Maître des défis</string>
-		<!-- Master Challenge GreetingsStringId -->
-		<string _locid="70001">Êtes-vous prêt à relever ce défi?</string>
 		<!-- Celeste Gear Pack -->
-		<string _locid="100000">Gantelets Maître Assassins</string>
-		<string _locid="100001">Lourde lance de sacrifice</string>
-		<string _locid="100002">Lance légère du roi</string>
-		<string _locid="100003">La malédiction de l'archer</string>
-		<string _locid="100004">Arche du Maître Chasseur</string>
-		<string _locid="100005">Marteau divin de construction</string>
-		<string _locid="100006">Joints murs de l'architecte</string>
-		<string _locid="100007">Murs de l'architecte</string>
-		<string _locid="100008">Murs de la maîtrise de défense</string>
-		<string _locid="100009">Ventre du Maître Chasseur</string>
-		<string _locid="100010">Robe du grand vizir divin</string>
-		<string _locid="100011">Flèches de l'obscurité</string>
-		<string _locid="100012">Tunique du collectionneur</string>
-		<string _locid="100013">Capuche scolaire</string>
-		<string _locid="100014">Poutres de cèdre lourd divines</string>
-		<string _locid="100015">Destructeur lourd Tissage</string>
-		<string _locid="100016">Le bras de lancer du bienheureux Dionysos</string>
+		<string _locid="100000">Master Assassin's Gauntlets</string>
+		<string _locid="100001">Heavy Spear of Sacrifice</string>
+		<string _locid="100002">Light Spear of the King</string>
+		<string _locid="100003">The Curse of the Archer</string>
+		<string _locid="100004">Bow of the Master Hunter</string>
+		<string _locid="100005">Divine Hammer of Construction</string>
+		<string _locid="100006">Wall Joints of the Architect</string>
+		<string _locid="100007">Walls of the Architect</string>
+		<string _locid="100008">Walls of the Master Defender</string>
+		<string _locid="100009">Belly Bow of the Master Hunter</string>
+		<string _locid="100010">Divine High Vizier's Robe</string>
+		<string _locid="100011">Arrows of Darkness</string>
+		<string _locid="100012">Tunic of the collector</string>
+		<string _locid="100013">Blessed food of Athens</string>
+		<string _locid="100014">Divine Heavy Cedar Beams</string>
+		<string _locid="100015">Heavy Destroyer Weave</string>
+		<string _locid="100016">Blessed Dionysus´s Throwing Arm</string>
 		<!-- CELESTE ISLAND -->
 		<string _locid="100017">Celeste Island</string>
 		<string _locid="100018">Under Construction</string>
+		<!-- NEW ATHENS -->
+		<string _locid="100019">Athens</string>
+		<string _locid="100020">Athens was the main city of ancient Greece in the region called Attica, located southeast of Continental Greece. It is a rocky, triangular peninsula that penetrates the Aegean Sea. \n \nDespite being a mountainous region, it has three important plains. Eleusis, Athens and Marathon. The port of Athens was Piraeus.\n \nIts secure location on the Acropolis and its access to the sea provided a natural advantage over potential rivals such as Thebes and Sparta. \n 	\nThe most widespread legend was that the first king had been Aegeus, whose son-successor Theseus gave splendor to the city of Athens.</string>
+		<string _locid="100021">Leader Hoplite</string>
+		<string _locid="100022">Professor Socrates</string>
+		<string _locid="100023">Hail to stranger, I still need your help, are you interested?</string>
+		<string _locid="100024">Messenger of Aristagoras</string>
+		<!-- ATHENS LEGENDARY VENDOR -->
+		<string _locid="100025">At_Cap_BasicStore01__</string>
+		<string _locid="100026">Athens Basic Store</string>
+		<string _locid="100027">Athena´s Long Spear</string>
+		<string _locid="100028">Athenian Training Manual</string>
+		<!-- MAP Page Aegean Sea -->
+		<string _locid="100029">Aegean Sea</string>
+		
+		<!-- ====================================================-->
+		<!-- Celeste PVP Balance Changes -->
+		<string _locid="110028">Améliore les &lt;color=0.32 0.65 1.0&gt;sapeurs&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Bonus aux dégâts +50 % contre les&lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;bâtiments&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Vitesse de déplacement +15 %&lt;/color&gt;</string>
+		<string _locid="110029">Améliore les &lt;color=0.32 0.65 1.0&gt;lanciers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Octroie l&apos;attaque charge\n(Bonus aux dégâts x3)&lt;/color&gt;</string>
+		<string _locid="110030">Améliore les &lt;color=0.32 0.65 1.0&gt;tours de siège&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +50 %&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Plus grande aire d&apos;effet des dégâts&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Immunité aux pièges&lt;/color&gt;</string>
+		<string _locid="110031">Améliore les &lt;color=0.32 0.65 1.0&gt;champions&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Santé +50%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +35%&lt;/color&gt;*&lt;</string>
+		<string _locid="110032">Freyja's Blessing</string>
+		<string _locid="110033">Improves &lt;color=0.32 0.65 1.0&gt;Guard Tower&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Ranged&lt;/color&gt;</string>
+		<string _locid="110034">Améliore &lt;color=0.32 0.65 1.0&gt;Lanciers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20 % dégâts bonus vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Cavalerie&lt;/color&gt;&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15 % vitesse de mouvement&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Santé +8.5 %&lt;/color&gt;</string>
+		<string _locid="110035">Fait avancer la civilisation à l&apos;Âge d&apos;Or et améliore les &lt;color=0.32 0.65 1.0&gt;forums&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Avancer à l&apos;Âge d&apos;Or&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Santé +33%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +33%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Limite de construction&lt;/color&gt; des &lt;color=0.32 0.65 1.0&gt;forums&lt;/color&gt; &lt;color=0.0 1.0 0.0&gt;+6&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Limite de construction&lt;/color&gt; des &lt;color=0.32 0.65 1.0&gt;jardins&lt;/color&gt; &lt;color=0.0 1.0 0.0&gt;+10&lt;/color&gt;</string>
+		<string _locid="110036">Fait avancer votre civilisation à l&apos;Âge d&apos;Argent et améliore les &lt;color=0.32 0.65 1.0&gt;forums&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Avancer à l&apos;Âge d&apos;Argent&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Santé +33%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +33%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+1&lt;/color&gt; &lt;color=0.32 0.65 1.0&gt;forums&lt;/color&gt; &lt;color=0.0 1.0 0.0&gt;Limite de construction&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+2&lt;/color&gt; &lt;color=0.32 0.65 1.0&gt;jardin&lt;/color&gt; &lt;color=0.0 1.0 0.0&gt;Limite de construction&lt;/color&gt;</string>
+		<string _locid="110037">Améliore les &lt;color=0.32 0.65 1.0&gt;jardin&lt;/color&gt;.*&lt;*&lt;color=0.0 1.0 0.0&gt;Limite de construction +2&lt;/color&gt;</string>
+		<string _locid="110038">Agriculture</string>
+		<string _locid="110039">Agriculture royale</string>
+		<string _locid="110040">Fait avancer votre civilisation à l&apos;Âge d&apos;Argent et améliore les &lt;color=0.32 0.65 1.0&gt;forums&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Avancer à l&apos;Âge d&apos;Argent&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Santé +33%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Dégâts +33%&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Limite de construction +1&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% Tour de garde de bonus aux dégâts contre les &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;attaques à distances&lt;/color&gt;</string>
+		<string _locid="110041">Améliore les&lt;color=0.32 0.65 1.0&gt;pillards&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50 % de bonus aux dégâts contre les &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Octroie 75% contre les pièges&lt;/color&gt;</string>
+		<string _locid="110042">Augmente la capacité des &lt;color=0.32 0.65 1.0&gt;Gold Mine&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Capacité de villagers +8&lt;/color&gt;</string>		
+		<string _locid="110043">La ruée vers l'or</string>		
+		<string _locid="110044">Améliore &lt;color=0.32 0.65 1.0&gt;Archer sur éléphant&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-1 compte démographique&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Armure d&apos;cavalerie en mêlée +50%&lt;/color&gt;</string>	
+		<string _locid="110045">Réduit le temps de formation des &lt;color=0.32 0.65 1.0&gt;villageois&lt;/color&gt;, mais ils coûtent de l&apos;Or.*&lt;color=0.0 1.0 0.0&gt;-33 % période d&apos;entraînement&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-40 coût de la nourriture&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;+40 coût de l&apos;Orlt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Peut être alterné d&apos;actif à inactif&lt;/color&gt;</string>		
+		<string _locid="110046">Activer Main d&apos;oeuvre payée - Les villageois sont formés en 45 % moins de temps, mais ils coûtent de l&apos;Or.</string>		
+		<string _locid="67579">Améliore les &lt;color=0.32 0.65 1.0&gt;Berserkers&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Régén. santé par seconde +2&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Octroie Charge&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Octroie Immunité contre les pièges&lt;/color&gt;</string>		
+		<!-- Celeste Chat Channel -->
+		<string _locid="160121">PVP</string>
+		<string _locid="160122">DE</string>
+		<string _locid="160123">ES</string>
+		<string _locid="160124">FR</string>
+		<string _locid="160125">IT</string>
+		<string _locid="160127">NL</string>
+		<string _locid="160126">PT</string>
 	</language>
 </stringtable>

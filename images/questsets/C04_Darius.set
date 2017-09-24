@@ -1,0 +1,5 @@
+<artset>
+   <newquest textureCoords="0 0 1 1">UserInterface/Quest/QuestGivers/C04/PersianDariusQGNewQuest_ua</newquest>
+   <inprogress textureCoords="0 0 1 1">UserInterface/Quest/QuestGivers/C04/PersianDariusQGInProgress_ua</inprogress>
+   <complete textureCoords="0 0 1 1">UserInterface/Quest/QuestGivers/C04/PersianDariusQGCompleted_ua</complete>
+</artset>

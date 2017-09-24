@@ -1,0 +1,5 @@
+<artset>
+   <newquest textureCoords="0 0 1 1">UserInterface/Quest/QuestGivers/C04/PersianCraftingHallMasterQGNewQuest_ua</newquest>
+   <inprogress textureCoords="0 0 1 1">UserInterface/Quest/QuestGivers/C04/PersianCraftingHallMasterQGInProgress_ua</inprogress>
+   <complete textureCoords="0 0 1 1">UserInterface/Quest/QuestGivers/C04/PersianCraftingHallMasterQGCompleted_ua</complete>
+</artset>

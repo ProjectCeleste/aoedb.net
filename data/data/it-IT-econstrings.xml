@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<stringtable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="0" locstart="800000" locend="899999" loccurrent="801468">
+<stringtable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="0" locstart="800000" locend="899999" loccurrent="802030">
 	<language name="English">
 		<string _locid="800000">Pelli di animali</string>
 		<string _locid="800001">Lingotti di bronzo</string>
@@ -29,33 +29,33 @@
 		<string _locid="800024">Vino</string>
 		<string _locid="800025">Tessuto di lana</string>
 		<string _locid="800026"/>
-		<string _locid="800027">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Arena (combattimento PvP)</string>
+		<string _locid="800027">Uso: costruisce Arena (combattimento PvP)</string>
 		<string _locid="800028"/>
-		<string _locid="800029">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Ambasciata (per la posta e il commercio)</string>
+		<string _locid="800029">Uso: costruisce Ambasciata (per la posta e il commercio)</string>
 		<string _locid="800030"/>
-		<string _locid="800031">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Negozio generico (per acquistare e vendere merci comuni)</string>
+		<string _locid="800031">Uso: costruisce Negozio generico (per acquistare e vendere merci comuni)</string>
 		<string _locid="800032"/>
-		<string _locid="800033">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Sala dell&apos;artigianato (selezione Scuola di artigianato)</string>
+		<string _locid="800033">Uso: costruisce Sala dell&apos;artigianato (selezione Scuola di artigianato)</string>
 		<string _locid="800034"/>
 		<string _locid="800035">Buono per creazione</string>
 		<string _locid="800036">Uso: costruisce Laboratorio (produce assi di pino e altri materiali)</string>
 		<string _locid="800037">Uso: costruisce Laboratorio (produce blocchi di pietra e altri materiali)</string>
 		<string _locid="800038">Uso: costruisce Laboratorio (produce pelli di animali e altri materiali)</string>
 		<string _locid="800039">Uso: costruisce Sala dell&apos;artigianato (selezione Scuola di artigianato)</string>
-		<string _locid="800040">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Oracolo</string>
+		<string _locid="800040">Uso: costruisce Oracolo</string>
 		<string _locid="800041">Calcare di Giza</string>
 		<string _locid="800042">Uso: costruisce Laboratorio (produce granati e altri materiali)</string>
 		<string _locid="800043">Uso: costruisce Laboratorio (produce strumenti da lavoro e altri materiali)</string>
 		<string _locid="800044">Uso: costruisce Laboratorio (produce resina e altri materiali)</string>
 		<string _locid="800045">Uso: costruisce Laboratorio (produce tessuto di lana e altri materiali)</string>
 		<string _locid="800046">Uso: costruisce Laboratorio (produce pergamene della sapienza e altri materiali)</string>
-		<string _locid="800047">&lt;color=1.0,1.0,0.0&gt;Non puo essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non puo essere venduto&lt;/color&gt;\nUso: costruisce Scuola di edificazione</string>
-		<string _locid="800048">&lt;color=1.0,1.0,0.0&gt;Non puo essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non puo essere venduto&lt;/color&gt;\nUso: costruisce Scuola di cavalleria</string>
-		<string _locid="800049">&lt;color=1.0,1.0,0.0&gt;Non puo essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non puo essere venduto&lt;/color&gt;\nUso: costruisce Scuola di ingegneria</string>
-		<string _locid="800050">&lt;color=1.0,1.0,0.0&gt;Non puo essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non puo essere venduto&lt;/color&gt;\nUso: costruisce Scuola di artigianato</string>
-		<string _locid="800051">&lt;color=1.0,1.0,0.0&gt;Non puo essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non puo essere venduto&lt;/color&gt;\nUso: costruisce Scuola per arcieri</string>
+		<string _locid="800047">Uso: costruisce Scuola di edificazione</string>
+		<string _locid="800048">Uso: costruisce Scuola di cavalleria</string>
+		<string _locid="800049">Uso: costruisce Scuola di ingegneria</string>
+		<string _locid="800050">Uso: costruisce Scuola di artigianato</string>
+		<string _locid="800051">Uso: costruisce Scuola per arcieri</string>
 		<string _locid="800052">Uso: costruisce Porto (edificio di viaggio)</string>
-		<string _locid="800053">&lt;color=1.0,1.0,0.0&gt;Non puo essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non puo essere venduto&lt;/color&gt;\nUso: costruisce Scuola di religione</string>
+		<string _locid="800053">Uso: costruisce Scuola di religione</string>
 		<string _locid="800054">Uso: costruisce Cantina di Ra (deposito da 8 posti)</string>
 		<string _locid="800055">Uso: costruisce Sarcodeposito (deposito da 12 posti)</string>
 		<string _locid="800056">Uso: costruisce Tomba di Ma&apos; Terial (deposito da 16 posti)</string>
@@ -65,21 +65,21 @@
 		<string _locid="800060">Uso: costruisce Iperdepositarium (deposito da 16 posti)</string>
 		<string _locid="800061">Uso: costruisce Residenza greca grande (decorazione)</string>
 		<string _locid="800062">Uso: costruisce Residenza greca (decorazione)</string>
-		<string _locid="800063">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Tesoreria (visualizza i punti totali per monete e fazioni)</string>
-		<string _locid="800064">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Ambasciata (per la posta e il commercio)</string>
+		<string _locid="800063">Uso: costruisce Tesoreria (visualizza i punti totali per monete e fazioni)</string>
+		<string _locid="800064">Uso: costruisce Ambasciata (per la posta e il commercio)</string>
 		<string _locid="800065">Uso: costruisce Partenone (decorazione)</string>
-		<string _locid="800066">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Negozio generico (per acquistare e vendere merci comuni)</string>
-		<string _locid="800067">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Porto commerciale</string>
+		<string _locid="800066">Uso: costruisce Negozio generico (per acquistare e vendere merci comuni)</string>
+		<string _locid="800067">Uso: costruisce Porto commerciale</string>
 		<string _locid="800068">Uso: costruisce Boschetto (decorazione)</string>
-		<string _locid="800069">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Arena (combattimento PvP)</string>
-		<string _locid="800070">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Sala consiglieri (ospita i consiglieri)</string>
-		<string _locid="800071">&lt;color=1.0,1.0,0.0&gt;Non puo essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non puo essere venduto&lt;/color&gt;\nUso: costruisce Scuola di fanteria</string>
+		<string _locid="800069">Uso: costruisce Arena (combattimento PvP)</string>
+		<string _locid="800070">Uso: costruisce Sala consiglieri (ospita i consiglieri)</string>
+		<string _locid="800071">Uso: costruisce Scuola di fanteria</string>
 		<string _locid="800072">Uso: costruisce Negozio di edificazione (per vendere progetti)</string>
 		<string _locid="800073">Uso: costruisce Negozio di armature avanzato (per vendere equipaggiamenti)</string>
 		<string _locid="800074">Uso: costruisce Negozio di armi avanzato (per vendere equipaggiamenti)</string>
 		<string _locid="800075">Uso: costruisce Arco storico (decorazione)</string>
 		<string _locid="800076">Uso: costruisce Porto (edificio di viaggio)</string>
-		<string _locid="800077">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Sala delle attrezzature (fornisce equipaggiamento alle unità)</string>
+		<string _locid="800077">Uso: costruisce Sala delle attrezzature (fornisce equipaggiamento alle unità)</string>
 		<string _locid="800078">Uso: costruisce Attico di re Tut (deposito da 20 posti)</string>
 		<string _locid="800079">Uso: costruisce Negozio di armi avanzato (per vendere equipaggiamenti)</string>
 		<string _locid="800080"/>
@@ -89,9 +89,9 @@
 		<string _locid="800084">Uso: costruisce Negozio di edificazione (per vendere progetti)</string>
 		<string _locid="800085">Uso: costruisce Negozio di armi avanzato (per vendere equipaggiamenti)</string>
 		<string _locid="800086"/>
-		<string _locid="800087">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Sala dell&apos;artigianato (selezione Scuola)</string>
+		<string _locid="800087">Uso: costruisce Sala dell&apos;artigianato (selezione Scuola)</string>
 		<string _locid="800088">Uso: costruisce Depositopoli (deposito da 20 posti)</string>
-		<string _locid="800089">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Sala delle attrezzature (fornisce equipaggiamento alle unità)</string>
+		<string _locid="800089">Uso: costruisce Sala delle attrezzature (fornisce equipaggiamento alle unità)</string>
 		<string _locid="800090"/>
 		<string _locid="800091"/>
 		<string _locid="800092">Calcare di Delfi</string>
@@ -99,7 +99,7 @@
 		<string _locid="800094"/>
 		<string _locid="800095">Uso: costruisce Laboratorio di segheria (produce assi di pino)</string>
 		<string _locid="800096"/>
-		<string _locid="800097">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Cavallo di Troia (decorazione)</string>
+		<string _locid="800097">Uso: costruisce Cavallo di Troia (decorazione)</string>
 		<string _locid="800098"/>
 		<string _locid="800099">Uso: costruisce Asta per bandiere (decorazione)</string>
 		<string _locid="800100"/>
@@ -133,20 +133,20 @@
 		<string _locid="800128"/>
 		<string _locid="800129">Uso: pianta Cipresso (decorazione)</string>
 		<string _locid="800130"/>
-		<string _locid="800131">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Negozio della vanità statuaria (per vendere decorazioni)</string>
+		<string _locid="800131">Uso: costruisce Negozio della vanità statuaria (per vendere decorazioni)</string>
 		<string _locid="800132"/>
-		<string _locid="800133">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Negozio della vanità fiorita (per vendere decorazioni)</string>
+		<string _locid="800133">Uso: costruisce Negozio della vanità fiorita (per vendere decorazioni)</string>
 		<string _locid="800134"/>
-		<string _locid="800135">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Sala dei mercenari (per il PvP casuale)</string>
+		<string _locid="800135">Uso: costruisce Sala dei mercenari (per il PvP casuale)</string>
 		<string _locid="800136">Uso: costruisce un Laboratorio (produce grano e altri materiali)</string>
 		<string _locid="800137"/>
 		<string _locid="800138">Uso: pianta Giardino (decorazione)</string>
 		<string _locid="800139"/>
 		<string _locid="800140">Uso: pianta Giardino (decorazione)</string>
 		<string _locid="800141"/>
-		<string _locid="800142">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Sala consiglieri (ospita i consiglieri)</string>
+		<string _locid="800142">Uso: costruisce Sala consiglieri (ospita i consiglieri)</string>
 		<string _locid="800143"/>
-		<string _locid="800144">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Tesoreria (visualizza i punti totali per monete e fazioni)</string>
+		<string _locid="800144">Uso: costruisce Tesoreria (visualizza i punti totali per monete e fazioni)</string>
 		<string _locid="800145"/>
 		<string _locid="800146">Uso: costruisce Casa del vecchio pescatore (edificio missioni personalizzate)</string>
 		<string _locid="800147"/>
@@ -165,8 +165,8 @@
 		<string _locid="800160">Uso: costruisce Vasi (decorazione)</string>
 		<string _locid="800161"/>
 		<string _locid="800162">Uso: costruisce Vasi (decorazione)</string>
-		<string _locid="800163">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Negozio della vanità ornamentale (per vendere decorazioni)</string>
-		<string _locid="800164">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Negozio della vanità boschiva (per vendere decorazioni)</string>
+		<string _locid="800163">Uso: costruisce Negozio della vanità ornamentale (per vendere decorazioni)</string>
+		<string _locid="800164">Uso: costruisce Negozio della vanità boschiva (per vendere decorazioni)</string>
 		<string _locid="800165">Uso: costruisce Vasi (decorazione)</string>
 		<string _locid="800166">Uso: costruisce Vasi (decorazione)</string>
 		<string _locid="800167">Uso: costruisce Vasi (decorazione)</string>
@@ -191,27 +191,27 @@
 		<string _locid="800186">Uso: costruisce Residenza egizia piccola (decorazione)</string>
 		<string _locid="800187">Uso: costruisce Residenza greca piccola (decorazione)</string>
 		<string _locid="800188"/>
-		<string _locid="800189">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Sfinge (decorazione)</string>
-		<string _locid="800190">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Piramide a gradoni (decorazione)</string>
+		<string _locid="800189">Uso: costruisce Sfinge (decorazione)</string>
+		<string _locid="800190">Uso: costruisce Piramide a gradoni (decorazione)</string>
 		<string _locid="800191">Uso: costruisce Piramide a gradini (decorazione)</string>
-		<string _locid="800192">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Tomba (decorazione)</string>
+		<string _locid="800192">Uso: costruisce Tomba (decorazione)</string>
 		<string _locid="800193">Uso: costruisce Tempio dell&apos;antico regno (decorazione)</string>
 		<string _locid="800194">Uso: costruisce Obelisco grande (decorazione)</string>
 		<string _locid="800195">Uso: costruisce Obelisco (decorazione)</string>
 		<string _locid="800196">Uso: costruisce Obelisco piccolo (decorazione)</string>
 		<string _locid="800197"/>
-		<string _locid="800198">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Piramide grande (decorazione)</string>
+		<string _locid="800198">Uso: costruisce Piramide grande (decorazione)</string>
 		<string _locid="800199">Uso: costruisce Tempio greco (decorazione)</string>
 		<string _locid="800200">Uso: costruisce Fortezza greca (decorazione)</string>
 		<string _locid="800201">Uso: costruisce Boschetto sacro (decorazione)</string>
 		<string _locid="800202">Uso: costruisce Leonidaion (decorazione)</string>
-		<string _locid="800203">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Biblioteca (decorazione)</string>
+		<string _locid="800203">Uso: costruisce Biblioteca (decorazione)</string>
 		<string _locid="800204"/>
 		<string _locid="800205">Uso: costruisce Casa di Mamu e PeePaw (edificio missioni personalizzate)</string>
 		<string _locid="800206"/>
 		<string _locid="800207">Linfa d&apos;acero</string>
 		<string _locid="800208"/>
-		<string _locid="800209">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Nave ammiraglia del popolo del mare (decorazione)</string>
+		<string _locid="800209">Uso: costruisce Nave ammiraglia del popolo del mare (decorazione)</string>
 		<string _locid="800210"/>
 		<string _locid="800211">Uso: costruisce Statua (decorazione)</string>
 		<string _locid="800212"/>
@@ -227,7 +227,7 @@
 		<string _locid="800222"/>
 		<string _locid="800223">Uso: costruisce Tempio mistico (decorazione)</string>
 		<string _locid="800224"/>
-		<string _locid="800225">U&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nso: costruisce Accademia spartana</string>
+		<string _locid="800225">Uso: costruisce Accademia spartana</string>
 		<string _locid="800226">Uso: costruisce Negozio di formule</string>
 		<string _locid="800227">Tinta celtica</string>
 		<string _locid="800228">Uso: costruisce Negozio di formule</string>
@@ -237,19 +237,19 @@
 		<string _locid="800232">Uso: costruisce Negozio di formule</string>
 		<string _locid="800233">Uso: costruisce Negozio di formule</string>
 		<string _locid="800234">Uso: costruisce Negozio di formule</string>
-		<string _locid="800235">&lt;color=1.0,1.0,0.0&gt;Non puo essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non puo essere venduto&lt;/color&gt;\nUso: costruisce Scuola di lavorazione dei metalli</string>
+		<string _locid="800235">Uso: costruisce Scuola di lavorazione dei metalli</string>
 		<string _locid="800236">Uso: costruisce Negozio di formule</string>
-		<string _locid="800237">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Sala delle attrezzature (fornisce equipaggiamento alle unità)</string>
+		<string _locid="800237">Uso: costruisce Sala delle attrezzature (fornisce equipaggiamento alle unità)</string>
 		<string _locid="800238">Uso: costruisce Negozio di formule</string>
-		<string _locid="800239">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Negozio generico (per acquistare e vendere merci comuni)</string>
+		<string _locid="800239">Uso: costruisce Negozio generico (per acquistare e vendere merci comuni)</string>
 		<string _locid="800240"/>
-		<string _locid="800241">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Ambasciata (per la posta e il commercio)</string>
+		<string _locid="800241">Uso: costruisce Ambasciata (per la posta e il commercio)</string>
 		<string _locid="800242"/>
-		<string _locid="800243">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Arena (combattimento PvP)</string>
+		<string _locid="800243">Uso: costruisce Arena (combattimento PvP)</string>
 		<string _locid="800244"/>
-		<string _locid="800245">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Sala consiglieri (ospita i consiglieri)</string>
+		<string _locid="800245">Uso: costruisce Sala consiglieri (ospita i consiglieri)</string>
 		<string _locid="800246"/>
-		<string _locid="800247">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Tesoreria (visualizza i punti totali per monete e fazioni)</string>
+		<string _locid="800247">Uso: costruisce Tesoreria (visualizza i punti totali per monete e fazioni)</string>
 		<string _locid="800248"/>
 		<string _locid="800249"/>
 		<string _locid="800250"/>
@@ -725,13 +725,13 @@
 		<string _locid="800720"/>
 		<string _locid="800721">Uso: costruisce la Casa della confraternita (PDLC)</string>
 		<string _locid="800722"/>
-		<string _locid="800723">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce tempio di Delfi (decorazione)</string>
+		<string _locid="800723">Uso: costruisce tempio di Delfi (decorazione)</string>
 		<string _locid="800724"/>
-		<string _locid="800725">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Statua dell&apos;attraversamento delle Alpi (decorazione)</string>
+		<string _locid="800725">Uso: costruisce Statua dell&apos;attraversamento delle Alpi (decorazione)</string>
 		<string _locid="800726"/>
-		<string _locid="800727">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Statua del cinghiale di vimini (decorazione)</string>
+		<string _locid="800727">Uso: costruisce Statua del cinghiale di vimini (decorazione)</string>
 		<string _locid="800728"/>
-		<string _locid="800729">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Statua del cavaliere di Tracia (decorazione)</string>
+		<string _locid="800729">Uso: costruisce Statua del cavaliere di Tracia (decorazione)</string>
 		<string _locid="800730"/>
 		<string _locid="800731">Uso: costruisce Capolavoro del grande architetto (decorazione)</string>
 		<string _locid="800732"/>
@@ -769,7 +769,7 @@
 		<string _locid="800764"/>
 		<string _locid="800765">Uso: costruisce Porto commerciale</string>
 		<string _locid="800766">Uso: costruisce Negozio di formule per la fanteria (richiede punti impero)</string>
-		<string _locid="800767">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Sala dell&apos;artigianato (selezione Scuola di artigianato)</string>
+		<string _locid="800767">Uso: costruisce Sala dell&apos;artigianato (selezione Scuola di artigianato)</string>
 		<string _locid="800768">Uso: costruisce Negozio di formule per la Scuola di arcieri (richiede punti impero)</string>
 		<string _locid="800769">Uso: costruisce Negozio di formule per la Scuola di ingegneria (richiede punti impero)</string>
 		<string _locid="800770">Uso: costruisce Negozio di formule per la Scuola di edificazione (richiede punti impero)</string>
@@ -787,18 +787,18 @@
 		<string _locid="800782"/>
 		<string _locid="800783">Uso: costruisce Statua di learicorn (decorazione)</string>
 		<string _locid="800784"/>
-		<string _locid="800785">&lt;color=1.0,1.0,0.0&gt;Non puo essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non puo essere venduto&lt;/color&gt;\nUso: costruisce la Meraviglia minoica (decorazione)</string>
+		<string _locid="800785">Uso: costruisce la Meraviglia minoica (decorazione)</string>
 		<string _locid="800786"/>
-		<string _locid="800787">&lt;color=1.0,1.0,0.0&gt;Non puo essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non puo essere venduto&lt;/color&gt;\nUso: costruisce la Meraviglia minoica (decorazione)</string>
+		<string _locid="800787">Uso: costruisce la Meraviglia minoica (decorazione)</string>
 		<string _locid="800788"/>
-		<string _locid="800789">&lt;color=1.0,1.0,0.0&gt;Non puo essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non puo essere venduto&lt;/color&gt;\nUso: costruisce la Meraviglia minoica (decorazione)</string>
+		<string _locid="800789">Uso: costruisce la Meraviglia minoica (decorazione)</string>
 		<string _locid="800790">Uso: costruisce Negozio di formule</string>
 		<string _locid="800791">Uso: costruisce Negozio di formule</string>
 		<string _locid="800792">Uso: costruisce Negozio di formule</string>
 		<string _locid="800793"/>
-		<string _locid="800794">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Windy&apos;s Wild Widgets</string>
+		<string _locid="800794">Uso: costruisce Windy&apos;s Wild Widgets</string>
 		<string _locid="800795"/>
-		<string _locid="800796">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce learicorn (decorazione)</string>
+		<string _locid="800796">Uso: costruisce learicorn (decorazione)</string>
 		<string _locid="800797"/>
 		<string _locid="800798">Spezie</string>
 		<string _locid="800799"/>
@@ -881,13 +881,13 @@
 		<string _locid="800876"/>
 		<string _locid="800877"/>
 		<string _locid="800878"/>
-		<string _locid="800879">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce il Negozio generico dell&apos;impero</string>
+		<string _locid="800879">Uso: costruisce il Negozio generico dell&apos;impero</string>
 		<string _locid="800880"/>
-		<string _locid="800881">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce il Negozio di progetti (per vendere Negozi di formule di artigianato)</string>
+		<string _locid="800881">Uso: costruisce il Negozio di progetti (per vendere Negozi di formule di artigianato)</string>
 		<string _locid="800882"/>
-		<string _locid="800883">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce il Negozio di progetti (per vendere Negozi di formule di artigianato)</string>
+		<string _locid="800883">Uso: costruisce il Negozio di progetti (per vendere Negozi di formule di artigianato)</string>
 		<string _locid="800884"/>
-		<string _locid="800885">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce il Negozio di progetti (per vendere Negozi di formule di artigianato)</string>
+		<string _locid="800885">Uso: costruisce il Negozio di progetti (per vendere Negozi di formule di artigianato)</string>
 		<string _locid="800886"/>
 		<string _locid="800887">Calcare di Giza</string>
 		<string _locid="800888"/>
@@ -1122,14 +1122,14 @@
 		<string _locid="801117">Uso: costruisce Negozio di formule</string>
 		<string _locid="801118"/>
 		<string _locid="801119">Uso: costruisce Negozio di formule</string>
-		<string _locid="801120">&lt;color=1.0,1.0,0.0&gt;Non puo essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non puo essere venduto&lt;/color&gt;\nUso: costruisce Tomba di Ma&apos; Terial (deposito da 16 posti)</string>
-		<string _locid="801121">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\nUso: costruisce Iperdepositarium (deposito da 16 posti)</string>
+		<string _locid="801120">Uso: costruisce Tomba di Ma&apos; Terial (deposito da 16 posti)</string>
+		<string _locid="801121">Uso: costruisce Iperdepositarium (deposito da 16 posti)</string>
 		<string _locid="801122"/>
-		<string _locid="801123">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\nUso: costruisce Vercingeposito (magazzino da 16 posti)</string>
+		<string _locid="801123">Uso: costruisce Vercingeposito (magazzino da 16 posti)</string>
 		<string _locid="801124"/>
-		<string _locid="801125">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Sala consiglieri (ospita i consiglieri)</string>
+		<string _locid="801125">Uso: costruisce Sala consiglieri (ospita i consiglieri)</string>
 		<string _locid="801126"/>
-		<string _locid="801127">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Arena (combattimento PvP)</string>
+		<string _locid="801127">Uso: costruisce Arena (combattimento PvP)</string>
 		<string _locid="801128"/>
 		<string _locid="801129">Uso: costruisce Negozio di formule</string>
 		<string _locid="801130"/>
@@ -1145,13 +1145,13 @@
 		<string _locid="801140"/>
 		<string _locid="801141">Uso: costruisce Negozio di formule</string>
 		<string _locid="801142"/>
-		<string _locid="801143">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Negozio generico (per acquistare e vendere merci comuni)</string>
+		<string _locid="801143">Uso: costruisce Negozio generico (per acquistare e vendere merci comuni)</string>
 		<string _locid="801144"/>
 		<string _locid="801145">Uso: costruisce Negozio di edificazione (per vendere progetti)</string>
 		<string _locid="801146"/>
-		<string _locid="801147">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Ambasciata (per la posta e il commercio)</string>
+		<string _locid="801147">Uso: costruisce Ambasciata (per la posta e il commercio)</string>
 		<string _locid="801148"/>
-		<string _locid="801149">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Porto commerciale</string>
+		<string _locid="801149">Uso: costruisce Porto commerciale</string>
 		<string _locid="801150"/>
 		<string _locid="801151">Uso: costruisce Residenza persiana grande (decorazione)</string>
 		<string _locid="801152"/>
@@ -1159,11 +1159,11 @@
 		<string _locid="801154"/>
 		<string _locid="801155">Uso: costruisce Residenza persiana piccola (decorazione)</string>
 		<string _locid="801156"/>
-		<string _locid="801157">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Sala delle attrezzature (fornisce equipaggiamento alle unità)</string>
+		<string _locid="801157">Uso: costruisce Sala delle attrezzature (fornisce equipaggiamento alle unità)</string>
 		<string _locid="801158"/>
-		<string _locid="801159">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Negozio di progetti (per vendere Negozi di formule di artigianato)</string>
+		<string _locid="801159">Uso: costruisce Negozio di progetti (per vendere Negozi di formule di artigianato)</string>
 		<string _locid="801160"/>
-		<string _locid="801161">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Tesoreria (visualizza i punti totali per monete e fazioni) </string>
+		<string _locid="801161">Uso: costruisce Tesoreria (visualizza i punti totali per monete e fazioni) </string>
 		<string _locid="801162"/>
 		<string _locid="801163">Uso: costruisce depositi (deposito da 8 posti)</string>
 		<string _locid="801164"/>
@@ -1171,19 +1171,19 @@
 		<string _locid="801166"/>
 		<string _locid="801167">Uso: costruisce Perscortolis (deposito da 16 posti)</string>
 		<string _locid="801168"/>
-		<string _locid="801169">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\nUso: costruisce Perscortolis (deposito da 16 posti)</string>
+		<string _locid="801169">Uso: costruisce Perscortolis (deposito da 16 posti)</string>
 		<string _locid="801170"/>
 		<string _locid="801171">Uso: costruisce Repersiatorio (deposito da 20 posti)</string>
 		<string _locid="801172">Uso: costruisce Negozio di formule</string>
 		<string _locid="801173">Uso: costruisce Negozio di formule</string>
 		<string _locid="801174"/>
-		<string _locid="801175">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Sala dell&apos;artigianato (selezione Scuola di artigianato)</string>
+		<string _locid="801175">Uso: costruisce Sala dell&apos;artigianato (selezione Scuola di artigianato)</string>
 		<string _locid="801176"/>
-		<string _locid="801177">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Negozio di formule</string>
+		<string _locid="801177">Uso: costruisce Negozio di formule</string>
 		<string _locid="801178"/>
-		<string _locid="801179">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Negozio generico</string>
+		<string _locid="801179">Uso: costruisce Negozio generico</string>
 		<string _locid="801180"/>
-		<string _locid="801181">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Negozio di formule</string>
+		<string _locid="801181">Uso: costruisce Negozio di formule</string>
 		<string _locid="801182"/>
 		<string _locid="801183">Uso: pianta una pianta modellata a orso (decorazione) </string>
 		<string _locid="801184"/>
@@ -1205,29 +1205,29 @@
 		<string _locid="801200"/>
 		<string _locid="801201">Uso: pianta una pianta modellata a lupo (decorazione) </string>
 		<string _locid="801202"/>
-		<string _locid="801203">&lt;color=1.0,1.0,0.0&gt;Non commerciabile&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non vendibile&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Indistruttibile&lt;/color&gt;\nUso: costruisce il negozio della vanità piante modellate (vende decorazioni) </string>
+		<string _locid="801203">Uso: costruisce il negozio della vanità piante modellate (vende decorazioni) </string>
 		<string _locid="801204"/>
 		<string _locid="801205">Uso: costruisce Negozio di formule</string>
 		<string _locid="801206"/>
-		<string _locid="801207">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\nUso: costruisce un trofeo da schermaglia (decorazione)</string>
+		<string _locid="801207">Uso: costruisce un trofeo da schermaglia (decorazione)</string>
 		<string _locid="801208"/>
-		<string _locid="801209">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\nUso: costruisce un trofeo da schermaglia (decorazione)</string>
+		<string _locid="801209">Uso: costruisce un trofeo da schermaglia (decorazione)</string>
 		<string _locid="801210"/>
-		<string _locid="801211">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\nUso: costruisce un trofeo da schermaglia (decorazione)</string>
+		<string _locid="801211">Uso: costruisce un trofeo da schermaglia (decorazione)</string>
 		<string _locid="801212"/>
-		<string _locid="801213">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\nUso: costruisce un trofeo da schermaglia (decorazione)</string>
+		<string _locid="801213">Uso: costruisce un trofeo da schermaglia (decorazione)</string>
 		<string _locid="801214"/>
-		<string _locid="801215">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\nUso: costruisce un trofeo da schermaglia (decorazione)</string>
+		<string _locid="801215">Uso: costruisce un trofeo da schermaglia (decorazione)</string>
 		<string _locid="801216"/>
-		<string _locid="801217">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\nUso: costruisce un trofeo da schermaglia (decorazione)</string>
+		<string _locid="801217">Uso: costruisce un trofeo da schermaglia (decorazione)</string>
 		<string _locid="801218"/>
-		<string _locid="801219">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\nUso: costruisce un trofeo da schermaglia (decorazione)</string>
+		<string _locid="801219">Uso: costruisce un trofeo da schermaglia (decorazione)</string>
 		<string _locid="801220"/>
-		<string _locid="801221">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\nUso: costruisce un trofeo da schermaglia (decorazione)</string>
+		<string _locid="801221">Uso: costruisce un trofeo da schermaglia (decorazione)</string>
 		<string _locid="801222"/>
-		<string _locid="801223">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Sala consiglieri (ospita i consiglieri)</string>
+		<string _locid="801223">Uso: costruisce Sala consiglieri (ospita i consiglieri)</string>
 		<string _locid="801224"/>
-		<string _locid="801225">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Arena (combattimento PvP)</string>
+		<string _locid="801225">Uso: costruisce Arena (combattimento PvP)</string>
 		<string _locid="801226"/>
 		<string _locid="801227">Uso: costruisce Negozio di formule</string>
 		<string _locid="801228"/>
@@ -1243,28 +1243,28 @@
 		<string _locid="801238"/>
 		<string _locid="801239">Uso: costruisce Negozio di formule</string>
 		<string _locid="801240"/>
-		<string _locid="801241">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Negozio generico (per acquistare e vendere merci comuni)</string>
+		<string _locid="801241">Uso: costruisce Negozio generico (per acquistare e vendere merci comuni)</string>
 		<string _locid="801242"/>
 		<string _locid="801243">Uso: costruisce Negozio di edificazione (per vendere progetti)</string>
 		<string _locid="801244"/>
-		<string _locid="801245">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Negozio di formule</string>
+		<string _locid="801245">Uso: costruisce Negozio di formule</string>
 		<string _locid="801246"/>
-		<string _locid="801247">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Negozio generico</string>
+		<string _locid="801247">Uso: costruisce Negozio generico</string>
 		<string _locid="801248"/>
-		<string _locid="801249">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Negozio di formule</string>
+		<string _locid="801249">Uso: costruisce Negozio di formule</string>
 		<string _locid="801250"/>
-		<string _locid="801251">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Ambasciata (per la posta e il commercio)</string>
+		<string _locid="801251">Uso: costruisce Ambasciata (per la posta e il commercio)</string>
 		<string _locid="801252"/>
 		<string _locid="801254"/>
 		<string _locid="801256"/>
 		<string _locid="801258"/>
-		<string _locid="801259">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Sala delle attrezzature (fornisce equipaggiamento alle unità)</string>
+		<string _locid="801259">Uso: costruisce Sala delle attrezzature (fornisce equipaggiamento alle unità)</string>
 		<string _locid="801260"/>
-		<string _locid="801261">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Negozio di progetti (per vendere Negozi di formule di artigianato)</string>
+		<string _locid="801261">Uso: costruisce Negozio di progetti (per vendere Negozi di formule di artigianato)</string>
 		<string _locid="801262"/>
-		<string _locid="801263">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Porto commerciale</string>
+		<string _locid="801263">Uso: costruisce Porto commerciale</string>
 		<string _locid="801264"/>
-		<string _locid="801265">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Tesoreria (visualizza i punti totali per monete e fazioni) </string>
+		<string _locid="801265">Uso: costruisce Tesoreria (visualizza i punti totali per monete e fazioni) </string>
 		<string _locid="801266"/>
 		<string _locid="801267">Uso: costruisce Bottinorium (magazzino da 8 posti)</string>
 		<string _locid="801268"/>
@@ -1272,11 +1272,11 @@
 		<string _locid="801270"/>
 		<string _locid="801271">Uso: costruisce Ammassacolum (magazzino da 16 posti)</string>
 		<string _locid="801272"/>
-		<string _locid="801273">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\nUso: costruisce Ammassacolum (magazzino da 16 posti)</string>
+		<string _locid="801273">Uso: costruisce Ammassacolum (magazzino da 16 posti)</string>
 		<string _locid="801274"/>
 		<string _locid="801275">Uso: costruisce Caesarium (magazzino da 20 posti)</string>
 		<string _locid="801276"/>
-		<string _locid="801277">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere distrutto&lt;/color&gt;\nUso: costruisce Sala dell&apos;artigianato (selezione Scuola di artigianato)</string>
+		<string _locid="801277">Uso: costruisce Sala dell&apos;artigianato (selezione Scuola di artigianato)</string>
 		<string _locid="801278">Cemento pozzolanico </string>
 		<string _locid="801279"/>
 		<string _locid="801280"/>
@@ -1295,7 +1295,7 @@
 		<string _locid="801295"/>
 		<string _locid="801296"/>
 		<string _locid="801297"/>
-		<string _locid="801298">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;Non può essere venduto&lt;/color&gt;\nUso: costruisce grande deposito (deposito a 24 posti)</string>
+		<string _locid="801298">Uso: costruisce grande deposito (deposito a 24 posti)</string>
 		<string _locid="801299"/>
 		<string _locid="801300"/>
 		<string _locid="801301"/>
@@ -1324,15 +1324,15 @@
 		<string _locid="801324"/>
 		<string _locid="801325"/>
 		<string _locid="801326"/>
-		<string _locid="801327">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Vasi (decorazione)</string>
+		<string _locid="801327">Uso: costruisce Vasi (decorazione)</string>
 		<string _locid="801328"/>
-		<string _locid="801329">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Statua di oplita (decorazione)</string>
+		<string _locid="801329">Uso: costruisce Statua di oplita (decorazione)</string>
 		<string _locid="801330"/>
-		<string _locid="801331">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Tomba (decorazione)</string>
+		<string _locid="801331">Uso: costruisce Tomba (decorazione)</string>
 		<string _locid="801332"/>
-		<string _locid="801333">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Statua di hippikon (decorazione)</string>
+		<string _locid="801333">Uso: costruisce Statua di hippikon (decorazione)</string>
 		<string _locid="801334"/>
-		<string _locid="801335">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Statua alata (decorazione)</string>
+		<string _locid="801335">Uso: costruisce Statua alata (decorazione)</string>
 		<string _locid="801336"/>
 		<string _locid="801337"/>
 		<string _locid="801338"/>
@@ -1425,50 +1425,604 @@
 		<string _locid="801425"/>
 		<string _locid="801426"/>
 		<string _locid="801427"/>
-		<string _locid="801428">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta Cespugli (decorazione)</string>
-		<string _locid="801429">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta Cespugli (decorazione)</string>
-		<string _locid="801430">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Gazebo (decorazione)</string>
-		<string _locid="801431">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta Cipresso (decorazione)</string>
-		<string _locid="801432">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta Cipresso (decorazione)</string>
-		<string _locid="801433">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta Cipresso (decorazione)</string>
-		<string _locid="801434">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta Cipresso (decorazione)</string>
-		<string _locid="801435">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Fontana (decorazione)</string>
-		<string _locid="801436">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Fontana (decorazione)</string>
-		<string _locid="801437">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Statua di lanciere (decorazione)</string>
-		<string _locid="801438">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Asta per bandiere (decorazione)</string>
-		<string _locid="801439">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Vasi (decorazione)</string>
-		<string _locid="801440">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Statua di fromboliere (decorazione)</string>
-		<string _locid="801441">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Statua di guerriero con ascia (decorazione)</string>
-		<string _locid="801442">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Statua di sacerdotessa (decorazione)</string>
-		<string _locid="801443">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Statua di cammelliere (decorazione)</string>
-		<string _locid="801444">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Statua di elefante da guerra (decorazione)</string>
-		<string _locid="801445">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Statua del faraone (decorazione)</string>
-		<string _locid="801446">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Statua del faraone seduto (decorazione)</string>
-		<string _locid="801447">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta Cespugli (decorazione)</string>
-		<string _locid="801448">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta Cespugli (decorazione)</string>
-		<string _locid="801449">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Gazebo (decorazione)</string>
-		<string _locid="801450">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Gazebo (decorazione)</string>
-		<string _locid="801451">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta Palma (decorazione)</string>
-		<string _locid="801452">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta Palma (decorazione)</string>
-		<string _locid="801453">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta Palma (decorazione)</string>
-		<string _locid="801454">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta Palma (decorazione)</string>
-		<string _locid="801455">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Fontana (decorazione)</string>
-		<string _locid="801456">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Fontana (decorazione)</string>
-		<string _locid="801457">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta una pianta modellata a lupo (decorazione)</string>
-		<string _locid="801458">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta una pianta modellata a mucca (decorazione)</string>
-		<string _locid="801459">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta una pianta modellata a orso (decorazione)</string>
-		<string _locid="801460">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta una pianta modellata a pecora (decorazione)</string>
-		<string _locid="801461">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta una pianta modellata a cinghiale (decorazione)</string>
-		<string _locid="801462">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta una pianta modellata a coccodrillo (decorazione)</string>
-		<string _locid="801463">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta una pianta modellata a leone (decorazione)</string>
-		<string _locid="801464">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta una pianta modellata a cavallo (decorazione)</string>
-		<string _locid="801465">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta una pianta modellata a cammello (decorazione)</string>
-		<string _locid="801466">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: pianta una pianta modellata a elefante (decorazione)</string>
-		<string _locid="801467">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Gazebo (decorazione)</string>
-		<string _locid="801468">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Asta per bandiere (decorazione)</string>
-		<string _locid="801469">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Statua di ipaspista (decorazione)</string>
-		<string _locid="801470">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Statua di sacerdote (decorazione)</string>
-		<string _locid="801471">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Statua di arciere (decorazione)</string>
-		<string _locid="801472">&lt;color=1.0,1.0,0.0&gt;Non può essere scambiato&lt;/color&gt;\nUso: costruisce Statua di guerriero a cavallo (decorazione) </string>
+		<string _locid="801428">Uso: pianta Cespugli (decorazione)</string>
+		<string _locid="801429">Uso: pianta Cespugli (decorazione)</string>
+		<string _locid="801430">Uso: costruisce Gazebo (decorazione)</string>
+		<string _locid="801431">Uso: pianta Cipresso (decorazione)</string>
+		<string _locid="801432">Uso: pianta Cipresso (decorazione)</string>
+		<string _locid="801433">Uso: pianta Cipresso (decorazione)</string>
+		<string _locid="801434">Uso: pianta Cipresso (decorazione)</string>
+		<string _locid="801435">Uso: costruisce Fontana (decorazione)</string>
+		<string _locid="801436">Uso: costruisce Fontana (decorazione)</string>
+		<string _locid="801437">Uso: costruisce Statua di lanciere (decorazione)</string>
+		<string _locid="801438">Uso: costruisce Asta per bandiere (decorazione)</string>
+		<string _locid="801439">Uso: costruisce Vasi (decorazione)</string>
+		<string _locid="801440">Uso: costruisce Statua di fromboliere (decorazione)</string>
+		<string _locid="801441">Uso: costruisce Statua di guerriero con ascia (decorazione)</string>
+		<string _locid="801442">Uso: costruisce Statua di sacerdotessa (decorazione)</string>
+		<string _locid="801443">Uso: costruisce Statua di cammelliere (decorazione)</string>
+		<string _locid="801444">Uso: costruisce Statua di elefante da guerra (decorazione)</string>
+		<string _locid="801445">Uso: costruisce Statua del faraone (decorazione)</string>
+		<string _locid="801446">Uso: costruisce Statua del faraone seduto (decorazione)</string>
+		<string _locid="801447">Uso: pianta Cespugli (decorazione)</string>
+		<string _locid="801448">Uso: pianta Cespugli (decorazione)</string>
+		<string _locid="801449">Uso: costruisce Gazebo (decorazione)</string>
+		<string _locid="801450">Uso: costruisce Gazebo (decorazione)</string>
+		<string _locid="801451">Uso: pianta Palma (decorazione)</string>
+		<string _locid="801452">Uso: pianta Palma (decorazione)</string>
+		<string _locid="801453">Uso: pianta Palma (decorazione)</string>
+		<string _locid="801454">Uso: pianta Palma (decorazione)</string>
+		<string _locid="801455">Uso: costruisce Fontana (decorazione)</string>
+		<string _locid="801456">Uso: costruisce Fontana (decorazione)</string>
+		<string _locid="801457">Uso: pianta una pianta modellata a lupo (decorazione)</string>
+		<string _locid="801458">Uso: pianta una pianta modellata a mucca (decorazione)</string>
+		<string _locid="801459">Uso: pianta una pianta modellata a orso (decorazione)</string>
+		<string _locid="801460">Uso: pianta una pianta modellata a pecora (decorazione)</string>
+		<string _locid="801461">Uso: pianta una pianta modellata a cinghiale (decorazione)</string>
+		<string _locid="801462">Uso: pianta una pianta modellata a coccodrillo (decorazione)</string>
+		<string _locid="801463">Uso: pianta una pianta modellata a leone (decorazione)</string>
+		<string _locid="801464">Uso: pianta una pianta modellata a cavallo (decorazione)</string>
+		<string _locid="801465">Uso: pianta una pianta modellata a cammello (decorazione)</string>
+		<string _locid="801466">Uso: pianta una pianta modellata a elefante (decorazione)</string>
+		<string _locid="801467">Uso: costruisce Gazebo (decorazione)</string>
+		<string _locid="801468">Uso: costruisce Asta per bandiere (decorazione)</string>
+		<string _locid="801469">Uso: costruisce Statua di ipaspista (decorazione)</string>
+		<string _locid="801470">Uso: costruisce Statua di sacerdote (decorazione)</string>
+		<string _locid="801471">Uso: costruisce Statua di arciere (decorazione)</string>
+		<string _locid="801472">Uso: costruisce Statua di guerriero a cavallo (decorazione) </string>
+		<string _locid="801473">Wilted Aloe</string>
+		<string _locid="801474"/>
+		<string _locid="801475">Lifeless Aloe</string>
+		<string _locid="801476"/>
+		<string _locid="801477">Dried Aloe</string>
+		<string _locid="801478">Green Aloe</string>
+		<string _locid="801479">Fresh Aloe</string>
+		<string _locid="801480">Shattered Bust</string>
+		<string _locid="801481">Cracked Bust</string>
+		<string _locid="801482">Chipped Bust</string>
+		<string _locid="801483">Old Bust</string>
+		<string _locid="801484">Stone Bust</string>
+		<string _locid="801485">Marble Bust</string>
+		<string _locid="801486"/>
+		<string _locid="801487"/>
+		<string _locid="801488"/>
+		<string _locid="801489"/>
+		<string _locid="801490"/>
+		<string _locid="801491"/>
+		<string _locid="801492">Used Candles</string>
+		<string _locid="801493">Aged Candles</string>
+		<string _locid="801494">Broken Candles</string>
+		<string _locid="801495">Large Candles</string>
+		<string _locid="801496">Scented Candles</string>
+		<string _locid="801497">Thick Candles</string>
+		<string _locid="801498"/>
+		<string _locid="801499"/>
+		<string _locid="801500"/>
+		<string _locid="801501"/>
+		<string _locid="801502"/>
+		<string _locid="801503"/>
+		<string _locid="801504">Moldy Cheese</string>
+		<string _locid="801505">Foul Cheese</string>
+		<string _locid="801506">Spoiled Cheese</string>
+		<string _locid="801507">Stinky Cheese</string>
+		<string _locid="801508">Unsavory Cheese</string>
+		<string _locid="801509">Flavorful Cheese</string>
+		<string _locid="801510"/>
+		<string _locid="801511"/>
+		<string _locid="801512"/>
+		<string _locid="801513"/>
+		<string _locid="801514"/>
+		<string _locid="801515"/>
+		<string _locid="801516">Noisy Chickens</string>
+		<string _locid="801517">Feathered Chickens</string>
+		<string _locid="801518">Dirty Chickens</string>
+		<string _locid="801519">Old Chickens</string>
+		<string _locid="801520">Chickens</string>
+		<string _locid="801521">Plump Chickens</string>
+		<string _locid="801522"/>
+		<string _locid="801523"/>
+		<string _locid="801524"/>
+		<string _locid="801525"/>
+		<string _locid="801526"/>
+		<string _locid="801527"/>
+		<string _locid="801528">White Feathers</string>
+		<string _locid="801529">Ruffled Feathers</string>
+		<string _locid="801530">Wet Feathers</string>
+		<string _locid="801531">Dry Feathers</string>
+		<string _locid="801532">Small Feathers</string>
+		<string _locid="801533">Light Feathers</string>
+		<string _locid="801534"/>
+		<string _locid="801535"/>
+		<string _locid="801536"/>
+		<string _locid="801537"/>
+		<string _locid="801538"/>
+		<string _locid="801539"/>
+		<string _locid="801540">Bitter Honey</string>
+		<string _locid="801541">Flavorless Honey</string>
+		<string _locid="801542">Bland Honey</string>
+		<string _locid="801543">Delicious Honey</string>
+		<string _locid="801544">Pure Honey</string>
+		<string _locid="801545">Sweet Honey</string>
+		<string _locid="801546"/>
+		<string _locid="801547"/>
+		<string _locid="801548"/>
+		<string _locid="801549"/>
+		<string _locid="801550"/>
+		<string _locid="801551"/>
+		<string _locid="801552"/>
+		<string _locid="801553">Aromatic Incense</string>
+		<string _locid="801554"/>
+		<string _locid="801555">Crumbling Incense</string>
+		<string _locid="801556"/>
+		<string _locid="801557">Reeking Incense</string>
+		<string _locid="801558"/>
+		<string _locid="801559">Pungent Incense</string>
+		<string _locid="801560"/>
+		<string _locid="801561">Strong Incense</string>
+		<string _locid="801562"/>
+		<string _locid="801563">Fragrant Incense</string>
+		<string _locid="801564"/>
+		<string _locid="801565">Rusty Lamp</string>
+		<string _locid="801566"/>
+		<string _locid="801567">Metal Lamp</string>
+		<string _locid="801568"/>
+		<string _locid="801569">Dull Lamp</string>
+		<string _locid="801570"/>
+		<string _locid="801571">Silver Lamp</string>
+		<string _locid="801572"/>
+		<string _locid="801573">Golden Lamp</string>
+		<string _locid="801574"/>
+		<string _locid="801575">Gemmed Lamp</string>
+		<string _locid="801576"/>
+		<string _locid="801577">Small Bag of Mice</string>
+		<string _locid="801578"/>
+		<string _locid="801579">Worn Bag of Mice</string>
+		<string _locid="801580"/>
+		<string _locid="801581">Ripped Bag of Mice</string>
+		<string _locid="801582"/>
+		<string _locid="801583">Full Bag of Mice</string>
+		<string _locid="801584"/>
+		<string _locid="801585">Bag of Mice</string>
+		<string _locid="801586"/>
+		<string _locid="801587">Large Bag of Mice</string>
+		<string _locid="801588"/>
+		<string _locid="801589">Bad Perfume</string>
+		<string _locid="801590"/>
+		<string _locid="801591">Odorless Perfume</string>
+		<string _locid="801592"/>
+		<string _locid="801593">Rich Perfume</string>
+		<string _locid="801594"/>
+		<string _locid="801595">Flowery Perfume</string>
+		<string _locid="801596"/>
+		<string _locid="801597">Musky Perfume</string>
+		<string _locid="801598"/>
+		<string _locid="801599">Fine Perfume</string>
+		<string _locid="801600"/>
+		<string _locid="801601">Damaged Figurine</string>
+		<string _locid="801602"/>
+		<string _locid="801603">Split Figurine</string>
+		<string _locid="801604"/>
+		<string _locid="801605">Wooden Figurine</string>
+		<string _locid="801606"/>
+		<string _locid="801607">Solid Figurine</string>
+		<string _locid="801608"/>
+		<string _locid="801609">Horse Figurine</string>
+		<string _locid="801610"/>
+		<string _locid="801611">Ornate Figurine</string>
+		<string _locid="801612">Dull Animal Claws</string>
+		<string _locid="801613">Claw Necklace</string>
+		<string _locid="801614">Sharp Claw Necklace</string>
+		<string _locid="801615">Small Hay Bale</string>
+		<string _locid="801616">Hay Bale</string>
+		<string _locid="801617">Large Hay Bale</string>
+		<string _locid="801618">Rodent Bones</string>
+		<string _locid="801619">Wolf Bones</string>
+		<string _locid="801620">Horse Bones</string>
+		<string _locid="801621">Light Feather Fan</string>
+		<string _locid="801622">Feather Fan</string>
+		<string _locid="801623">Ornate Feather Fan</string>
+		<string _locid="801624">Old Art</string>
+		<string _locid="801625">Common Art</string>
+		<string _locid="801626">Fine Art</string>
+		<string _locid="801627">Buttons</string>
+		<string _locid="801628">Ivory Buttons</string>
+		<string _locid="801629">Rare Buttons</string>
+		<string _locid="801630">Sickened Cats</string>
+		<string _locid="801631">Box of Cats</string>
+		<string _locid="801632">Large Box of Cats</string>
+		<string _locid="801633">Rough Gems</string>
+		<string _locid="801634">Shiny Things</string>
+		<string _locid="801635">Fine Jewels</string>
+		<string _locid="801636">Dirty Soap</string>
+		<string _locid="801637">Used Soap</string>
+		<string _locid="801638">Soap</string>
+		<string _locid="801639">Coarse Thread</string>
+		<string _locid="801640">Thread</string>
+		<string _locid="801641">Fine Thread</string>
+		<string _locid="801642">Sundial</string>
+		<string _locid="801643">Fine Timepiece</string>
+		<string _locid="801644">Precision Timepiece</string>
+		<string _locid="801645">Dirty Wig</string>
+		<string _locid="801646">Wig</string>
+		<string _locid="801647">Noble Wig</string>
+		<string _locid="801648"/>
+		<string _locid="801649"/>
+		<string _locid="801650"/>
+		<string _locid="801651"/>
+		<string _locid="801652"/>
+		<string _locid="801653"/>
+		<string _locid="801654"/>
+		<string _locid="801655"/>
+		<string _locid="801656"/>
+		<string _locid="801657"/>
+		<string _locid="801658"/>
+		<string _locid="801659"/>
+		<string _locid="801660"/>
+		<string _locid="801661"/>
+		<string _locid="801662"/>
+		<string _locid="801663"/>
+		<string _locid="801664"/>
+		<string _locid="801665"/>
+		<string _locid="801666"/>
+		<string _locid="801667"/>
+		<string _locid="801668"/>
+		<string _locid="801669"/>
+		<string _locid="801670"/>
+		<string _locid="801671"/>
+		<string _locid="801672"/>
+		<string _locid="801673"/>
+		<string _locid="801674"/>
+		<string _locid="801675"/>
+		<string _locid="801676"/>
+		<string _locid="801677"/>
+		<string _locid="801678"/>
+		<string _locid="801679"/>
+		<string _locid="801680"/>
+		<string _locid="801681"/>
+		<string _locid="801682"/>
+		<string _locid="801683"/>
+		<string _locid="801684"/>
+		<string _locid="801685">Use: Builds a Statue of Apollo (decoration)</string>
+		<string _locid="801686"/>
+		<string _locid="801687">Use: Builds a Statue of Ares (decoration)</string>
+		<string _locid="801688"/>
+		<string _locid="801689">Use: Builds a Statue of Dionysus (decoration)</string>
+		<string _locid="801690"/>
+		<string _locid="801691">Use: Builds a Statue of Hades (decoration)</string>
+		<string _locid="801692"/>
+		<string _locid="801693">Use: Builds a Statue of Hera (decoration)</string>
+		<string _locid="801694"/>
+		<string _locid="801695">Use: Builds a Statue of Hermes (decoration)</string>
+		<string _locid="801696"/>
+		<string _locid="801697">Use: Builds a Statue of Poseidon (decoration)</string>
+		<string _locid="801698"/>
+		<string _locid="801699">Use: Builds a Statue of Zeus (decoration)</string>
+		<string _locid="801700"/>
+		<string _locid="801701">Use: Builds a Statue of Athena (decoration)</string>
+		<string _locid="801702"/>
+		<string _locid="801703">Use: Builds a Statue of Aphrodite (decoration)</string>
+		<string _locid="801704"/>
+		<string _locid="801705">Use: Builds a Statue of Ptah (decoration)</string>
+		<string _locid="801706"/>
+		<string _locid="801707">Use: Builds a Statue of Ra (decoration)</string>
+		<string _locid="801708"/>
+		<string _locid="801709">Use: Builds a Statue of Sekhmet (decoration)</string>
+		<string _locid="801710"/>
+		<string _locid="801711">Use: Builds a Statue of Sobek (decoration)</string>
+		<string _locid="801712"/>
+		<string _locid="801713">Use: Builds a Statue of Khepri (decoration)</string>
+		<string _locid="801714"/>
+		<string _locid="801715">Use: Builds a Statue of Hathor (decoration)</string>
+		<string _locid="801716"/>
+		<string _locid="801717">Use: Builds a Statue of Atum (decoration)</string>
+		<string _locid="801718"/>
+		<string _locid="801719">Use: Builds a Statue of Isis (decoration)</string>
+		<string _locid="801720"/>
+		<string _locid="801721">Use: Builds a Statue of Thoth (decoration)</string>
+		<string _locid="801722"/>
+		<string _locid="801723">Use: Builds a Statue of Anubis (decoration)</string>
+		<string _locid="801724">Vanity Ticket</string>
+		<string _locid="801725"/>
+		<string _locid="801726">Golden Ticket</string>
+		<string _locid="801727"/>
+		<string _locid="801728">Use: Builds the Advisor Hall (seats Advisors)</string>
+		<string _locid="801729"/>
+		<string _locid="801730">Use: Builds the Arena (PvP combat)</string>
+		<string _locid="801731"/>
+		<string _locid="801732">Use: Builds the General Store (buy and sell common goods)</string>
+		<string _locid="801733"/>
+		<string _locid="801734">Use: Builds a Decrepit Building</string>
+		<string _locid="801735"/>
+		<string _locid="801736">Use: Builds the Embassy (mail and trade)</string>
+		<string _locid="801737"/>
+		<string _locid="801738">Use: Builds the Trade Dock</string>
+		<string _locid="801739"/>
+		<string _locid="801740">Use: Builds a Large Babylonian Residence (decoration)</string>
+		<string _locid="801741"/>
+		<string _locid="801742">Use: Builds a Babylonian Residence (decoration)</string>
+		<string _locid="801743"/>
+		<string _locid="801744">Use: Builds a Small Babylonian Residence (decoration)</string>
+		<string _locid="801745"/>
+		<string _locid="801746">Use: Builds the Gear Hall (equip gear for units)</string>
+		<string _locid="801747"/>
+		<string _locid="801748">Use: Builds the Blueprint Store (sells crafting recipe stores)</string>
+		<string _locid="801749"/>
+		<string _locid="801750">Use: Builds the Treasury (displays Coin and Faction Points totals)</string>
+		<string _locid="801751"/>
+		<string _locid="801752">Use: Builds Gilgashed (8-slot Warehouse)</string>
+		<string _locid="801753"/>
+		<string _locid="801754">Use: Builds Nebuchadepot (12-slot Warehouse)</string>
+		<string _locid="801755"/>
+		<string _locid="801756">Use: Builds Repositamia (16-slot Warehouse)</string>
+		<string _locid="801757"/>
+		<string _locid="801758">Use: Builds Repositamia (16-slot Warehouse)</string>
+		<string _locid="801759"/>
+		<string _locid="801760">Use: Builds Stashur (20-slot Warehouse)</string>
+		<string _locid="801761"/>
+		<string _locid="801762">Use: Builds the Crafting Hall (Craft School selection)</string>
+		<string _locid="801763"/>
+		<string _locid="801764">Use: Builds a Recipe Store</string>
+		<string _locid="801765"/>
+		<string _locid="801766">Use: Builds a General Store</string>
+		<string _locid="801767"/>
+		<string _locid="801768">Use: Builds a Recipe Store</string>
+		<string _locid="801769"/>
+		<string _locid="801770">Fungal Growth</string>
+		<string _locid="801771">Open Sesame Seeds</string>
+		<string _locid="801772">Rare Spices</string>
+		<string _locid="801773">Queen Bee&apos;s Honey</string>
+		<string _locid="801774">Tears of Isis</string>
+		<string _locid="801775">Tiny Umbrellas</string>
+		<string _locid="801776"/>
+		<string _locid="801777"/>
+		<string _locid="801778"/>
+		<string _locid="801779"/>
+		<string _locid="801780"/>
+		<string _locid="801781"/>
+		<string _locid="801782"/>
+		<string _locid="801783">Use: Builds the Fireworks Stand</string>
+		<string _locid="801784"/>
+		<string _locid="801785"/>
+		<string _locid="801786"/>
+		<string _locid="801787"/>
+		<string _locid="801788"/>
+		<string _locid="801789"/>
+		<string _locid="801790"/>
+		<string _locid="801791"/>
+		<string _locid="801792"/>
+		<string _locid="801793"/>
+		<string _locid="801794"/>
+		<string _locid="801795">Use: Builds the Crafting Hall (Craft School selection)</string>
+		<string _locid="801796"/>
+		<string _locid="801797">Use: Builds the Advisor Hall (seats Advisors)</string>
+		<string _locid="801798"/>
+		<string _locid="801799">Use: Builds the Arena (PvP combat)</string>
+		<string _locid="801800"/>
+		<string _locid="801801">Use: Builds the General Store (buy and sell common goods)</string>
+		<string _locid="801802"/>
+		<string _locid="801803">Use: Builds a Recipe Store</string>
+		<string _locid="801804"/>
+		<string _locid="801805">Use: Builds a General Store</string>
+		<string _locid="801806"/>
+		<string _locid="801807">Use: Builds a Recipe Store</string>
+		<string _locid="801808"/>
+		<string _locid="801809">Use: Builds the Embassy (mail and trade)</string>
+		<string _locid="801810"/>
+		<string _locid="801811">Use: Builds a Large Norse Residence (decoration)</string>
+		<string _locid="801812"/>
+		<string _locid="801813">Use: Builds a Norse Residence (decoration)</string>
+		<string _locid="801814"/>
+		<string _locid="801815">Use: Builds a Small Norse Residence (decoration)</string>
+		<string _locid="801816"/>
+		<string _locid="801817">Use: Builds the Gear Hall (equip gear for units)</string>
+		<string _locid="801818"/>
+		<string _locid="801819">Use: Builds the Trade Dock</string>
+		<string _locid="801820"/>
+		<string _locid="801821">Use: Builds the Treasury (displays Coin and Faction Points totals)</string>
+		<string _locid="801822"/>
+		<string _locid="801823">Use: Builds Vaulthalla (16-slot Warehouse)</string>
+		<string _locid="801824"/>
+		<string _locid="801825">Use: Builds Vaulthalla (16-slot Warehouse)</string>
+		<string _locid="801826"/>
+		<string _locid="801827">Use: Builds Storagnarok (20-slot Warehouse)</string>
+		<string _locid="801828"/>
+		<string _locid="801829">Use: Builds Baldurstash (8-slot Warehouse)</string>
+		<string _locid="801830"/>
+		<string _locid="801831">Use: Builds Lokeep (12-slot Warehouse)</string>
+		<string _locid="801832"/>
+		<string _locid="801833">Use: Builds the Blueprint Store (sells crafting recipe stores)</string>
+		<string _locid="801834"/>
+		<string _locid="801835"/>
+		<string _locid="801836"/>
+		<string _locid="801837">Use: Builds a Greek-themed Grand Warehouse (24-slot Warehouse). Must be built on water</string>
+		<string _locid="801838"/>
+		<string _locid="801839">Use: Builds an Egyptian-themed Grand Warehouse (24-slot Warehouse). Must be built on water</string>
+		<string _locid="801840"/>
+		<string _locid="801841">Use: Builds a Persian-themed Grand Warehouse (24-slot Warehouse). Must be built on water</string>
+		<string _locid="801842"/>
+		<string _locid="801843">Use: Builds a Celtic-themed Grand Warehouse (24-slot Warehouse). Must be built on water</string>
+		<string _locid="801844"/>
+		<string _locid="801845">Use: Builds a Babylonian-themed Grand Warehouse (24-slot Warehouse). Must be built on water</string>
+		<string _locid="801846"/>
+		<string _locid="801848"/>
+		<string _locid="801849">Use: Builds a Norse-themed Grand Warehouse (24-slot Warehouse). Must be built on water</string>
+		<string _locid="801850"/>
+		<string _locid="801851">Use: Builds a Ship Statue (decoration)</string>
+		<string _locid="801852"/>
+		<string _locid="801853">Use: Builds an Ornate Urn (decoration)</string>
+		<string _locid="801854"/>
+		<string _locid="801855">Use: Builds a Statue of Anubis (decoration)</string>
+		<string _locid="801856"/>
+		<string _locid="801857">Use: Builds a Statue of Bastet (decoration)</string>
+		<string _locid="801858"/>
+		<string _locid="801859">Use: Builds a Statue of a War Elephant (decoration)</string>
+		<string _locid="801860"/>
+		<string _locid="801861">Use: Builds a Statue of a Soldier (decoration)</string>
+		<string _locid="801862"/>
+		<string _locid="801863">Use: Builds a Sarcophagus of Imhotep (decoration)</string>
+		<string _locid="801864"/>
+		<string _locid="801865">Use: Builds a Small Delian Residence (decoration)</string>
+		<string _locid="801866"/>
+		<string _locid="801867">Use: Builds a Medium Delian Residence (decoration)</string>
+		<string _locid="801868"/>
+		<string _locid="801869">Use: Builds a Large Delian Residence (decoration)</string>
+		<string _locid="801870"/>
+		<string _locid="801871">Use: Builds a Small Council Residence (decoration)</string>
+		<string _locid="801872"/>
+		<string _locid="801873">Use: Builds a Medium Council Residence (decoration)</string>
+		<string _locid="801874"/>
+		<string _locid="801875">Use: Builds a Large Council Residence (decoration)</string>
+		<string _locid="801876"/>
+		<string _locid="801877">Use: Builds a Small Carthage Residence (decoration)</string>
+		<string _locid="801878"/>
+		<string _locid="801879">Use: Builds a Medium Carthage Residence (decoration)</string>
+		<string _locid="801880"/>
+		<string _locid="801881">Use: Builds a Large Carthage Residence (decoration)</string>
+		<string _locid="801882"/>
+		<string _locid="801883">Use: Builds a Statue of Zeus (decoration)</string>
+		<string _locid="801884"/>
+		<string _locid="801885">Use: Builds a Great Pyramid (decoration)</string>
+		<string _locid="801886"/>
+		<string _locid="801887">Use: Builds a Tree of Life (decoration)</string>
+		<string _locid="801888"/>
+		<string _locid="801889">Use: Builds a Gate of All Nations (decoration)</string>
+		<string _locid="801890"/>
+		<string _locid="801891">Use: Builds a Hanging Garden (decoration)</string>
+		<string _locid="801892"/>
+		<string _locid="801893">Use: Builds a Dragonship (decoration)</string>
+		<string _locid="801894"/>
+		<string _locid="801895">Use: Builds a Ghoulish Graveyard (decoration)\n&lt;color=&quot;0.0 1.0 0.0&quot;&gt;Limited Release&lt;/color&gt;</string>
+		<string _locid="801896"/>
+		<string _locid="801897">Use: Builds a Haunted Werehouse (24-slot warehouse)\n&lt;color=&quot;0.0 1.0 0.0&quot;&gt;Limited Release&lt;/color&gt;</string>
+		<string _locid="801898"/>
+		<string _locid="801899">Use: Builds Repersiatory (20-slot Warehouse)</string>
+		<string _locid="801900"/>
+		<string _locid="801901">Use: Builds Stashur (20-slot Warehouse)</string>
+		<string _locid="801902"/>
+		<string _locid="801903">Use: Builds Storagnarok (20-slot Warehouse)</string>
+		<string _locid="801904"/>
+		<string _locid="801905">Use: Builds a Hoplite (decoration)</string>
+		<string _locid="801906"/>
+		<string _locid="801907">Use: Builds a Hippikon (decoration)</string>
+		<string _locid="801908"/>
+		<string _locid="801909">Use: Builds a Gastraphetes (decoration)</string>
+		<string _locid="801910"/>
+		<string _locid="801911">Use: Builds a Ballista (decoration)</string>
+		<string _locid="801912"/>
+		<string _locid="801913">Use: Builds a Fire Ship (decoration)</string>
+		<string _locid="801914"/>
+		<string _locid="801915">Use: Builds a War Elephant (decoration)</string>
+		<string _locid="801916"/>
+		<string _locid="801917">Use: Builds a Slinger (decoration)</string>
+		<string _locid="801918"/>
+		<string _locid="801919">Use: Builds a Priest of Ptah (decoration)</string>
+		<string _locid="801920"/>
+		<string _locid="801921">Use: Builds a Camel Rider (decoration)</string>
+		<string _locid="801922"/>
+		<string _locid="801923">Use: Builds a Trireme (decoration)</string>
+		<string _locid="801924"/>
+		<string _locid="801925">Use: Builds an Immortal (decoration)</string>
+		<string _locid="801926"/>
+		<string _locid="801927">Use: Builds a Cataphract (decoration)</string>
+		<string _locid="801928"/>
+		<string _locid="801929">Use: Builds a War Wagon (decoration)</string>
+		<string _locid="801930"/>
+		<string _locid="801931">Use: Builds a Ram Ship (decoration)</string>
+		<string _locid="801932"/>
+		<string _locid="801933">Use: Builds a Woad Raider (decoration)</string>
+		<string _locid="801934"/>
+		<string _locid="801935">Use: Builds a Champion (decoration)</string>
+		<string _locid="801936"/>
+		<string _locid="801937">Use: Builds a Druid (decoration)</string>
+		<string _locid="801938"/>
+		<string _locid="801939">Use: Builds a Ram (decoration)</string>
+		<string _locid="801940"/>
+		<string _locid="801941">Use: Builds a Swanship (decoration)</string>
+		<string _locid="801942"/>
+		<string _locid="801943">Use: Builds an Ox Cart (decoration)</string>
+		<string _locid="801944"/>
+		<string _locid="801945">Use: Builds a Lancer (decoration)</string>
+		<string _locid="801946"/>
+		<string _locid="801947">Use: Builds a Siege Tower (decoration)</string>
+		<string _locid="801948"/>
+		<string _locid="801949">Use: Builds a Sapper (decoration)</string>
+		<string _locid="801950"/>
+		<string _locid="801951">Use: Builds a Bireme (decoration)</string>
+		<string _locid="801952"/>
+		<string _locid="801953">Use: Builds a Berserker (decoration)</string>
+		<string _locid="801954"/>
+		<string _locid="801955">Use: Builds a Chief (decoration)</string>
+		<string _locid="801956"/>
+		<string _locid="801957">Use: Builds a War Dog (decoration)</string>
+		<string _locid="801958"/>
+		<string _locid="801959">Use: Builds a Raider (decoration)</string>
+		<string _locid="801960"/>
+		<string _locid="801961">Use: Builds a Longship (decoration)</string>
+		<string _locid="801962"/>
+		<string _locid="801963">Use: Builds a Sparabara (decoration)</string>
+		<string _locid="801966"/>
+		<string _locid="801967">Use: Builds a Celtic Fountain (decoration)</string>
+		<string _locid="801968"/>
+		<string _locid="801969">Use: Builds a Celtic Pillar (decoration)</string>
+		<string _locid="801970"/>
+		<string _locid="801971">Use: Builds a Small Celtic Rock (decoration)</string>
+		<string _locid="801972"/>
+		<string _locid="801973">Use: Builds a Large Celtic Rock (decoration)</string>
+		<string _locid="801974"/>
+		<string _locid="801975">Use: Builds a Woad Raider Statue (decoration)</string>
+		<string _locid="801976"/>
+		<string _locid="801977">Use: Builds a Large Norse Bush (decoration)</string>
+		<string _locid="801978"/>
+		<string _locid="801979">Use: Builds a Small Norse Bush (decoration)</string>
+		<string _locid="801980"/>
+		<string _locid="801981">Use: Builds a Norse Fountain (decoration)</string>
+		<string _locid="801982"/>
+		<string _locid="801983">Use: Builds a Norse Pillar (decoration)</string>
+		<string _locid="801984"/>
+		<string _locid="801985">Use: Builds a Statue of a Farbjoðr (decoration)</string>
+		<string _locid="801986"/>
+		<string _locid="801987">Use: Builds a Large Persian Bush (decoration)</string>
+		<string _locid="801988"/>
+		<string _locid="801989">Use: Builds a Small Persian Bush (decoration)</string>
+		<string _locid="801990"/>
+		<string _locid="801991">Use: Builds a Persian Fountain (decoration)</string>
+		<string _locid="801992"/>
+		<string _locid="801993">Use: Builds a Persian Pillar (decoration)</string>
+		<string _locid="801994"/>
+		<string _locid="801995">Use: Builds a Statue of an Immortal (decoration)</string>
+		<string _locid="801996"/>
+		<string _locid="801997">Use: Builds a Large Babylonian Bush (decoration)</string>
+		<string _locid="801998"/>
+		<string _locid="801999">Use: Builds a Small Babylonian Bush (decoration)</string>
+		<string _locid="802000"/>
+		<string _locid="802001">Use: Builds a Babylonian Fountain (decoration)</string>
+		<string _locid="802002"/>
+		<string _locid="802003">Use: Builds a Babylonian Pillar (decoration)</string>
+		<string _locid="802004"/>
+		<string _locid="802005">Use: Builds a Statue of a Sapper (decoration)</string>
+		<string _locid="802006"/>
+		<string _locid="802007">Use: Builds Allied Assault (decoration)</string>
+		<string _locid="802008"/>
+		<string _locid="802009">Use: Builds Defender of the Universe (decoration)</string>
+		<string _locid="802010"/>
+		<string _locid="802011">Use: Builds Flawless Conquest (decoration)</string>
+		<string _locid="802012"/>
+		<string _locid="802013">Use: Builds a Snow Fort (decoration)\n&lt;color=&quot;0.0 1.0 0.0&quot;&gt;Limited Release&lt;/color&gt;</string>
+		<string _locid="802014"/>
+		<string _locid="802015">Use: Builds a Winter Warehouse (24-slot warehouse)\n&lt;color=&quot;0.0 1.0 0.0&quot;&gt;Limited Release&lt;/color&gt;</string>
+		<string _locid="802016"/>
+		<string _locid="802017">Use: Builds Caracalla&apos;s Bath (decoration)</string>
+		<string _locid="802018"/>
+		<string _locid="802019">Use: Builds Temple of Jupiter (decoration)</string>
+		<string _locid="802020"/>
+		<string _locid="802021">Use: Builds Lapis Niger (decoration)</string>
+		<string _locid="802022"/>
+		<string _locid="802023">Use: Builds Maritime Theater (decoration)</string>
+		<string _locid="802024"/>
+		<string _locid="802025">Use: Builds Triumphal Column (decoration)</string>
+		<string _locid="802026"/>
+		<string _locid="802027">Use: Builds Temple of Vesta (decoration)</string>
+		<string _locid="802028"/>
+		<string _locid="802029">Use: Builds Curia Hostilia (decoration)</string>
 	</language>
 </stringtable>

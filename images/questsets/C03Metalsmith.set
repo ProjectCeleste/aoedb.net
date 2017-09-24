@@ -1,0 +1,5 @@
+<artset>
+   <newquest textureCoords="0 0 1 1">UserInterface/Quest/QuestGivers/C03MetalsmithQGNewQuest_ua</newquest>
+   <inprogress textureCoords="0 0 1 1">UserInterface/Quest/QuestGivers/C03MetalsmithQGInProgress_ua</inprogress>
+   <complete textureCoords="0 0 1 1">UserInterface/Quest/QuestGivers/C03MetalsmithQGCompleted_ua</complete>
+</artset>

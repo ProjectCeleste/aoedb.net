@@ -3386,6 +3386,10 @@
 		<string _locid="13308">[PH] Count</string>
 		<string _locid="13318">No des formación</string>
 		<string _locid="13319">No pierdas fábricas</string>
+		<string _locid="13332">Fortresses Must Survive</string>
+		<string _locid="13401">Defeat the Marauding Force</string>
+		<string _locid="13402">TEXT NEEDED: We need to raise funds. / We can only get resources from the nearby trading centers. Our enemies are also trying to trade with them. / Send military envoys to secure trading agreements with the trading centers so we can raise the funds we need.  Watch out for the marauding enemy force!</string>
+		<string _locid="13403">[PH] TEXT NEEDED</string>
 		
 		<!-- Custom Quest Strings -->
 		<!-- ALLIANCE TRIBUTE WARS V1-->
@@ -3400,29 +3404,190 @@
 		<string _locid="14007">Buen trabajo, los traidores fueron derrotados y sólo pudieron huir de la batalla.</string>
 		<string _locid="14008">¡Si permitimos triunfar a los traidores, toda la Alianza estará en peligro !.</string>
 		<string _locid="14009">Demuestra que puedes proteger la alianza, y derrotar a los traidores.</string>
-		<!-- CYPRUS CHALLENGE START QUEST -->
-		<string _locid="19994">Celeste Desafio Pack1</string>
-		<string _locid="19995">Un nuevo contenido esta disponible gratis. Viaja a Chipre y habla con el Maestro de los Desafios</string>
-		<string _locid="19996">Un campeon ha llegado!\n \nEl Maestro de los desafios siempre esta en busca de un verdadero guerrero.</string>
-		<string _locid="19997">Un campeon ha llegado!\n \nEl Maestro de los desafios siempre esta en busca de un verdadero guerrero.</string>
-		<string _locid="19998">Habla con el Maestro de los desafios en Chipre.</string>
-		<string _locid="19999">Viaja a Chipre y habla con el Maestro de los desafios</string>
-		<!-- CYPRUS CHALLENGE -->
-		<string _locid="20000">Demuestra tu valor ante los dioses, y derrota a todos los enemigos a tiempo.</string>
-		<string _locid="20001">Legendario: La Recaptura de Soli - Solo</string>
-		<string _locid="20002">Legendario: La Recaptura de Pafos - Solo</string>
-		<string _locid="20003">Legendario: La Recaptura de Marion - Solo</string>
-		<string _locid="20004">Legendario: Tres veces Tamiat - Solo</string>
-		<string _locid="20005">Legendario: Renegados, El gran final - Solo</string>
-		<!-- CYPRUS FAST SKIRMISH -->
-		<string _locid="20006">1v1 Unstoppable Skirmish Match </string>
-		<string _locid="20007">1v2 Unstoppable Skirmish Match </string>
-		<string _locid="20008">1v3 Unstoppable Skirmish Match </string>
-		<string _locid="20009">1v4 Unstoppable Skirmish Match </string>
-		<string _locid="20010">1v2 Legendary Skirmish Match </string>
-		<string _locid="20011">1v1 Standard Skirmish Match </string>
-		<string _locid="20012">1v2 Standard Skirmish Match </string>
-		<string _locid="20013">1v3 Standard Skirmish Match </string>
-		<string _locid="20014">1v4 Standard Skirmish Match </string>
+		<string _locid="14010">Vence a tus enemigos y para la rebelion</string>
+		<string _locid="14011">Elimina a los lideres traidores</string>
+		
+		<!-- ALL MUST BE CHANGED FROM HERE -->
+		<!-- ATHENS CELESTE PDLC SPECIAL EDITION GREEK - La revuelta Griega -->
+		<string _locid="20015">Celeste Contenido Especial: La Revuelta Griega</string>
+		<string _locid="20016">Nuevo contenido gratis disponible. Viaja hacia Atenas y descubre nuevas aventuras</string>
+		<string _locid="20017">Bienvenido a Atenas, Contempla el esplendor de nuestra ciudad. \n \nLuego, si todavia andas por aqui, talvez necesite tu ayuda. Que dices?</string>
+		<string _locid="20018">Bienvenido a Atenas, Contempla el esplendor de nuestra ciudad. \n \nLuego, si todavia andas por aqui, talvez necesite tu ayuda. Que dices?</string>
+		<string _locid="20019">Habla con el Lider Hoplita en Atenas</string>
+		<string _locid="20020">Viaja hacia Atenas y habla con el Lider Hoplita</string>
+		<!-- ATHENS START INCURSION -->
+		<string _locid="20021">Incursion</string>
+		<string _locid="20022">Bienvenido mi amigo necesitamos tu ayuda para dar apoyo a nuestros aliados y recuperar algunas regiones dominadas por los persas, sólo tendremos un grupo mínimo de trabajadores para no llamar la atención.\n \nSi las cosas salen bien tendremos una posicion favorable y podremos asaltar sus ciudades. Contamos contigo.</string>
+		<string _locid="20023">Algunos Persas sospechan de nuestros planes. Necesitamos asaltar esas Regiones rapido, si lo conseguimos podremos asediarlos por tierra. Nuestro Capataz del Muelle te dara las coordenadas</string>
+		<string _locid="20024">Algunos Persas sospechan de nuestros planes. Necesitamos asaltar esas Regiones rapido, si lo conseguimos podremos asediarlos por tierra. Nuestro Capataz del Muelle te dara las coordenadas</string>
+		<string _locid="20025">Habla con el Lider Hoplita y el Capataz del Muelle</string>
+		<!-- INCURSION NAVAL -->
+		<string _locid="20026">Incursion en Quios</string>
+		<string _locid="20027">Tenemos informacion de algunos asentamientos que intentaran interceptarnos en las afueras de sus costas.\n \nEstablecete en alguna pequeña isla y derrotalos, si lo consigues nuestras tropas desembarcaran es sus costas y terminaran con el trabajo.</string>
+		<string _locid="20028">Buen trabajo! creo que lo conseguiremos!</string>
+		<string _locid="20029">Trata de no ser descubierto y derrota a tus enemigos rapido.</string>
+		<string _locid="20030">Construye tu centro urbano y elimina a los enemigos en el area.</string>
+		<string _locid="20031">Incursion en Clazomene</string>
+		<string _locid="20032">Incursion en Lebedos</string>
+		<string _locid="20033">Incursion en Samos</string>
+		<!-- Personality Incursion -->
+		<string _locid="20034">Recolectores Imperiales</string>
+		<string _locid="20035">Exploradores Persas</string>
+		<!-- Objectives -->
+		<string _locid="20036">Centro urbano construido</string>
+		<string _locid="20037">Centros urbanos destruidos</string>
+		<string _locid="20038">Centro urbano aliado descubierto</string>
+		<string _locid="20039">General persa eliminado</string>
+		<string _locid="20040">Fortalezas destruidas</string>
+		<string _locid="20041">Tropa avanzada derrotada</string>
+		<string _locid="20042">Completado 20 minutos antes</string>	
+		<!-- There i left some spaces for future string or fixes -->
+		<string _locid="20043">Aliado sometido</string>
+		<string _locid="20044">Enemigos derrotados</string>	
+		<string _locid="20045">El centro urbano del aliado debe resistir</string>
+		<string _locid="20046">Aliado Rebelde</string>
+		<string _locid="20047">Maravilla Destruida</string>
+		<string _locid="20048">Completado 15 minutos antes</string>
+		<string _locid="20049">Guardianes Eliminados a tiempo</string>
+		<string _locid="20050">Centro urbano construido a tiempo</string>	
+		<!-- Personality Land -->
+		<string _locid="20051">Defensores de Eritrea</string>
+		<string _locid="20052">Defensores de Teos</string>
+		<string _locid="20053">Defensores de Priene</string>
+		<string _locid="20054">Defensores de Colofon</string>
+		<string _locid="20055">Defensores de Focea</string>
+		<string _locid="20056">Defensores de Éfeso</string>
+		<string _locid="20057">Defensores de Myus</string>
+		<string _locid="20058">Defensores de Sardes</string>
+		<string _locid="20059">Defensores de Mileto</string>
+		<string _locid="20060">Avanzada Elite</string>
+		<!-- GLOBAL INCURSION LAND -->
+		<string _locid="20061">Nuevas fronteras</string>
+		<string _locid="20062">Necesitamos mejores rutas de comercio maritimo, si logras liberar estas regiones de los persas seria excelente!</string>
+		<string _locid="20063">Bien hecho muchacho, ahora podremos expandirnos</string>
+		<string _locid="20064">Recuerda que para expandirnos necesitamos nuevas rutas</string>
+		<string _locid="20065">Liberar las regiones</string>
+		
+		<!-- ATHENS ERITREA QUEST -->
+		<string _locid="20066">Eritrea</string>
+		<string _locid="20067">Eritrea es una buena posicion inicial para el asedio, debemos tomarla rapidamente y encontrar nuestros aliados en la zona.</string>
+		<string _locid="20068">Buen trabajo, sigue asi y nuestro objetivo sera favorable.</string>
+		<string _locid="20069">Malditos persas, debemos terminar con esta tirania.</string>
+		<string _locid="20070">Asalta Eritrea y explora el area en busca de aliados.</string>
+
+		<!-- ATHENS TEOS QUEST -->
+		<string _locid="20071">Teos</string>
+		<string _locid="20072">Debemos tomar Teos, de esta forma facilitara el desembarco de nuestras tropas.</string>
+		<string _locid="20073">Bien hecho, acabaste con estos tiranos.</string>
+		<string _locid="20074">Esto es extraño, es el segundo General persa que vemos.</string>
+		<string _locid="20075">Asalta teos y elimina a nuestros enemigos.</string>
+		
+		<!-- ATHENS PRIENE QUEST -->
+		<string _locid="20076">Priene</string>
+		<string _locid="20077">Mientras nuestras tropas se acomodan en la parte norte de la costa, seria buen momento para asaltar Priene por sorpresa.</string>
+		<string _locid="20078">Buen trabajo, deberemos estar atentos para lo que viene.</string>
+		<string _locid="20079">Ten cuidado, por lo visto sus tropas son avanzadas</string>
+		<string _locid="20080">Asalta Priene y elimina a nuestros enemigos.</string>
+		
+		<!-- ATHENS COLOFON QUEST -->
+		<string _locid="20081">Colofon</string>
+		<string _locid="20082">Uno de nuestros aliados se ha revelado en Colofon. Ve hacia alli, asalta la region y defiende a nuestro aliado</string>
+		<string _locid="20083">Los Dioses te sonrien amigo. Nuestro aliado sobrevivio y logro escapar hacia grecia.</string>
+		<string _locid="20084">Nuestro aliado esta solo y desprotegido, ve rapido en su ayuda.</string>
+		<string _locid="20085">Asalta Colofon y protege a nuestro aliado.</string>
+		
+		<!-- ATHENS FOCEA QUEST -->
+		<string _locid="20086">Focea</string>
+		<string _locid="20087">Focea es una region clave para nuestro cometido, si la tomamos, podremos incursionar por el rio.</string>
+		<string _locid="20088">Bien hecho, con esta victoria tenemos asegurada la costa norte.</string>
+		<string _locid="20089">Apurate, necesitamos todas la costa norte a nuestro favor.</string>
+		<string _locid="20090">Asalta focea y elimina a sus tropas</string>
+		
+		<!-- ATHENS EFESO QUEST -->
+		<string _locid="20091">Efeso</string>
+		<string _locid="20092">Efeso es una ciudad cercana a Mileto, debemos asegurarla.</string>
+		<string _locid="20093">Bien hecho, con esta victoria evitaremos ser flanqueados</string>
+		<string _locid="20094">Debenmos asegurarnos de conseguir esta ciudad</string>
+		<string _locid="20095">Asalta Efeso y derrota a nuestros enemigos</string>
+		
+		<!-- ATHENS MYUS QUEST -->
+		<string _locid="20096">Myus</string>
+		<string _locid="20097">Myus es una region estrategiga para tomar mileto, si logramos asaltarla podremos atacar desde dos frentes.</string>
+		<string _locid="20098">Bien hecho, casi podemos saborear nuestra victoria.</string>
+		<string _locid="20099">Debemos tener el control de las regiones de las costas.</string>
+		<string _locid="20100">Asalta Myus y elimina a sus tropas</string>
+		
+		<!-- ATHENS SARDES QUEST -->
+		<string _locid="20101">Sardes</string>
+		<string _locid="20102">Maldita sea!, Aristagoras ataco solo Mileto y fue emboscado, debemos dar un golpe sorpresa en su ciudad de Sardes asi desviaremos la atencion y Aristagoras podra escapar.</string>
+		<string _locid="20103">Bien hecho, talvez Aristagoras tenga una oportunidad</string>
+		<string _locid="20104">Debemos derrotar al enemigo a como de lugar.</string>
+		<string _locid="20105">Asalta la ciudad de Sardes</string>
+		
+		<!-- ATHENS MILETO QUEST -->
+		<string _locid="20106">Mileto: Escape desesperado</string>
+		<string _locid="20107">Aristagoras ha perdido Mileto y necesita escapar de la region. Deten a la armada persa mientras.</string>
+		<string _locid="20108">Bien hecho, Aristagoras perdio su ciudad pero por lo menos sigue vivo.</string>
+		<string _locid="20109">Maldita sea!, esto traera la guerra a Grecia</string>
+		<string _locid="20110">Derrota al enemigo o muere con gloria.</string>
+		
+		<!-- MESSENGER OF ARISTAGORAS GLOBAL -->
+		<string _locid="20111">Quios</string>
+		<string _locid="20112">Clazomene</string>
+		<string _locid="20113">Lebedos</string>
+		<string _locid="20114">Samos</string>
+		<string _locid="20115">Mileto</string>
+		<string _locid="20116">Revuelta Griega</string>
+		<string _locid="20117">Nuestros hermanos se han revelado contra el Imperio Persa. Aristagoras solicita nuestra ayuda</string>
+		<string _locid="20118">Bien hecho!, has demostrado ser un verdadero guerrero Griego.</string>
+		<string _locid="20119">Debemos asaltar todas las regiones posibles de jonia.</string>
+		<string _locid="20120">Completa todas las regiones de Jonia</string>
+		
+		<!-- MESSENGER OF ARISTAGORAS - GLOBAL PERSIAN GENERAL -->
+		<string _locid="20121">Caceria</string>
+		<string _locid="20122">¡Muchas personas están felices de que Atenas haya sido unificada! Sus vidas son pacíficas, y pueden centrarse en sus hogares y familias sin temor.\n \nDesgraciadamente, no todo el mundo prospera bajo la paz. El ejército de los Aliados está aburrido, y eso hace que sea un blanco fácil. Las facciones rebeldes están asegurando la ayuda de los Generales y se vuelven más peligrosas que nunca.\n \nEstos generales han perdido su camino y no volverán. ¡Castigarlos!</string>
+		<string _locid="20123">Debemos cazar a estos Generales</string>
+		
+		<!-- REPEATABLES -->
+		<string _locid="20124">Asalto en Quios</string>
+		<string _locid="20125">Elite: Asalto en Quios</string>
+		<string _locid="20126">Asalto en Clazomene</string>
+		<string _locid="20127">Elite: Asalto en Clazomene</string>
+		<string _locid="20128">Asalto en Lebedos</string>
+		<string _locid="20129">Elite: Asalto en Lebedos</string>
+		<string _locid="20130">Asalto en Samos</string>
+		<string _locid="20131">Elite: Asalto en Samos</string>
+		<string _locid="20132">Asalto en Eritrea</string>
+		<string _locid="20133">Elite: Asalto en Eritrea</string>
+		<string _locid="20134">Asalto en Teos</string>
+		<string _locid="20135">Elite: Asalto en Teos</string>
+		<string _locid="20136">Asalto en Priene</string>
+		<string _locid="20137">Elite: Asalto en Priene</string>
+		<string _locid="20138">Asalto en Colofon</string>
+		<string _locid="20139">Elite: Asalto en Colofon</string>
+		<string _locid="20140">Asalto en Focea</string>
+		<string _locid="20141">Elite: Asalto en Focea</string>
+		<string _locid="20142">Legendario: Efeso</string>
+		<string _locid="20143">Legendario: Myus</string>
+		<string _locid="20144">Legendario: Sardes</string>
+		<string _locid="20145">Legendario: Mileto</string>
+		
+		<!-- MESSENGER OF ARISTAGORAS - GLOBAL Athens Challenge -->
+		<string _locid="20146">Celeste: Desafio Ateniense</string>
+		<string _locid="20147">Como buen guerrero Ateniense no deberias tener problemas en asaltar todas las regiones de la revuelta en el modo Elite y Legendario. Crees que puedas lograrlo?</string>
+		<string _locid="20148">Bien Hecho! Tu esfuerzo valio la pena. Tienes tu merecido Premio.</string>
+		<string _locid="20149">Que paso? Te diste por Vencido? Es muy dificil para ti?</string>		
+		
+		<!-- SKIRMISH CHAMPION -->
+		<string _locid="20150">1vs1 AI: Escaramuza modo Campeon</string>
+		<string _locid="20151">2vs2 AI: Escaramuza modo Campeon</string>
+		<string _locid="20152">Legendario 1vs1 AI: Escaramuza modo Campeon</string>
+		<string _locid="20153">Legendario 2vs2 AI: Escaramuza modo Campeon</string>
+		<string _locid="20154">Vencete a ti mismo en 1vs1 AI: Escaramuza modo Campeon</string>
+		<string _locid="20155">Vencete a ti mismo en 2vs2 AI: Escaramuza modo Campeon</string>
+		<string _locid="20156">Vencete a ti mismo en Legendario 1vs1 AI: Escaramuza modo Campeon</string>
+		<string _locid="20157">Vencete a ti mismo en Legendario 2vs2 AI: Escaramuza modo Campeon</string>
+		<string _locid="20158">Vencete a ti mismo</string>
+		<string _locid="20159">Vencete a ti mismo Coop</string>
 	</language>
 </stringtable>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<stringtable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="0" locstart="800000" locend="899999" loccurrent="802016">
+<stringtable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="0" locstart="800000" locend="899999" loccurrent="802030">
 	<language name="English">
 		<string _locid="800000">Tierhäute</string>
 		<string _locid="800001">Bronzebarren</string>

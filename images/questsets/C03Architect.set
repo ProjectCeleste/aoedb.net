@@ -1,0 +1,5 @@
+<artset>
+   <newquest textureCoords="0 0 1 1">UserInterface/Quest/QuestGivers/C03ArchitectQGBeginQuest_ua</newquest>
+   <inprogress textureCoords="0 0 1 1">UserInterface/Quest/QuestGivers/C03ArchitectQGInProgress_ua</inprogress>
+   <complete textureCoords="0 0 1 1">UserInterface/Quest/QuestGivers/C03ArchitectQGCompleted_ua</complete>
+</artset>

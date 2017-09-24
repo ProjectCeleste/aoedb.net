@@ -7,6 +7,8 @@ $config = array(
 					'AbstractArcher' => 'Archer',
 					'AbstractCavalry' => 'Cavalry'
 					),
+
+	'attackTypes' => array(),
 					
 	'civs' =>
 			array(
@@ -14,7 +16,8 @@ $config = array(
 				'gr' => 'Greece',
 				'pe' => 'Persia',
 				'ce' => 'Celts',
-				'ba' => 'Babylon'
+				'ba' => 'Babylon',
+				'no' => 'Norse'
 				)
 
 );

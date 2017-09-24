@@ -16566,13 +16566,13 @@
 		<string _locid="68594">DesapariciónMovimientoEdificioPequeño__</string>
 		
 		<!-- Custom Strings -->
+		<string _locid="68595">General Persa</string>
+		<string _locid="68596">General</string>
+		<string _locid="68597">NPC_PersianGeneral__</string>
+		<string _locid="68598">FXObject_Env_Waterfall_Top2__</string>
+		<string _locid="68599">FXObject_Env_Waterfall_Middle2__</string>
+		<string _locid="68600">FXObject_Env_Waterfall_Bottom2__</string>
 		
-		<!-- Quest Givers -->
-		
-		<!-- Master Challenge DisplayNameId-->
-		<string _locid="70000">Maestro de los Desafíos</string>
-		<!-- Master Challenge GreetingsStringId -->
-		<string _locid="70001">Estas listo para los desafios?</string>
 		<!-- Celeste Gear Pack -->
 		<string _locid="100000">Guantes del Maestro Asesino</string>
 		<string _locid="100001">Lanza pesada del sacrificio</string>
@@ -16587,12 +16587,57 @@
 		<string _locid="100010">Toga divina del alto vizir</string>
 		<string _locid="100011">Flechas de la oscuridad</string>
 		<string _locid="100012">Toga del recolector</string>
-		<string _locid="100013">Capucha del estudioso</string>
+		<string _locid="100013">Comida Bendecida por Athenas</string>
 		<string _locid="100014">Vigas Divinas de Cedro Pesado</string>
 		<string _locid="100015">Armadura pesada del destructor</string>
 		<string _locid="100016">Arma arrojadiza divina de dyionisio</string>
 		<!-- CELESTE ISLAND -->
-		<string _locid="100017">Celeste Island</string>
-		<string _locid="100018">Under Construction</string>
+		<string _locid="100017">Isla Celeste</string>
+		<string _locid="100018">En Construccion</string>
+		<!-- NEW ATHENS -->
+		<string _locid="100019">Atenas</string>
+		<string _locid="100020">Atenas fue la principal ciudad de la antigua Grecia en la región llamada Ática, situada al sureste de Grecia continental. Es una península rocosa y triangular que penetra en el mar Egeo.\n \nA pesar de ser una región montañosa, tiene tres llanuras importantes. Eleusis, Atenas y Maratón. El puerto de Atenas fue el Pireo.\n \nSu ubicación segura en la Acrópolis y su acceso al mar proporcionó una ventaja natural sobre los rivales potenciales como Tebas y Esparta.\n \nLa leyenda más extendida fue que el primer rey había sido Aegeus, cuyo hijo-sucesor Teseo dio esplendor a la ciudad de Atenas.</string>
+		<string _locid="100021">Lider Hoplita</string>
+		<string _locid="100022">Profesor Socrates</string>
+		<string _locid="100023">Saludo extraño, necesito tu ayuda, ¿estás interesado?</string>
+		<string _locid="100024">Mensajero de Aristagoras</string>
+		<!-- ATHENS LEGENDARY VENDOR -->
+		<string _locid="100025">At_Cap_BasicStore01__</string>
+		<string _locid="100026">Tienda básica de Atenas</string>
+		<string _locid="100027">Lanza larga de Atena</string>
+		<string _locid="100028">Manual de Entrenamiento Ateniense</string>
+		<!-- MAP Page Aegean Sea -->
+		<string _locid="100029">Mar Egeo</string>
+		
+		<!-- =================================================================== -->
+		<!-- Celeste PVP Balance Changes -->
+		<string _locid="110028">Mejora el &lt;color=0.32 0.65 1.0&gt;zapador&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de daño adicional contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;edificios&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% de velocidad&lt;/color&gt;</string>
+		<string _locid="110029">Mejora el &lt;color=0.32 0.65 1.0&gt;lancero&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Otorga ataque de carga\n(x3,0 de daño adicional)&lt;/color&gt;</string>
+		<string _locid="110030">Mejora la &lt;color=0.32 0.65 1.0&gt;torre de asedio&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga un mayor daño zonal&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga inmunidad contra ralentización&lt;/color&gt;</string>
+		<string _locid="110031">Mejora el &lt;color=0.32 0.65 1.0&gt;campeón&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+35% de daño&lt;/color&gt;*&lt;</string>
+		<string _locid="110032">Freyja's Blessing</string>
+		<string _locid="110033">Improves &lt;color=0.32 0.65 1.0&gt;Guard Tower&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Ranged&lt;/color&gt;</string>
+		<string _locid="110034">Mejora los &lt;color=0.32 0.65 1.0&gt;lanceros&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% de daño&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% de ralentización&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+8.5% de salud&lt;/color&gt;</string>
+		<string _locid="110035">Avanza la civilización a la Edad de Oro y mejora el &lt;color=0.32 0.65 1.0&gt;centro urbano&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Avanza a Edad de Oro&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% de daño&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+1&lt;/color&gt; &lt;color=0.32 0.65 1.0&gt;Centro urbano&lt;/color&gt; &lt;color=0.0 1.0 0.0&gt;Límite de construcción&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+6&lt;/color&gt; &lt;color=0.32 0.65 1.0&gt;Jardín&lt;/color&gt; &lt;color=0.0 1.0 0.0&gt;Límite de construcción&lt;/color&gt;</string>
+		<string _locid="110036">Hace avanzar la civilización a la Edad de Plata y mejora el &lt;color=0.32 0.65 1.0&gt;centro urbano&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Avanza a Edad de Plata&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% de daño&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+1&lt;/color&gt; &lt;color=0.32 0.65 1.0&gt;centro urbano&lt;/color&gt; &lt;color=0.0 1.0 0.0&gt;límite de construcción&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+2&lt;/color&gt; &lt;color=0.32 0.65 1.0&gt;jardín&lt;/color&gt; &lt;color=0.0 1.0 0.0&gt;límite de construcción&lt;/color&gt;</string>
+		<string _locid="110037">Mejora el &lt;color=0.32 0.65 1.0&gt;Jardin&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+2 de límite de construcción&lt;/color&gt;</string>
+		<string _locid="110038">Agricultura</string>
+		<string _locid="110039">Agricultura real</string>
+		<string _locid="110040">Hace avanzar la civilización a la Edad de Plata y mejora el &lt;color=0.32 0.65 1.0&gt;centro urbano&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Avanza a Edad de Plata&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% de salud&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+33% de daño&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+1 límite de construcción&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% Torre de vigilancia de daño adicional contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;unidades a distancia&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;</string>
+		<string _locid="110041">Mejora el &lt;color=0.32 0.65 1.0&gt;asaltante&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% de daño adicional contra &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga 75% contra ralentización&lt;/color&gt;</string>
+		<string _locid="110042">Aumenta la capacidad de los &lt;color=0.32 0.65 1.0&gt;Gold Mine&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+5 de capacidad de villageros&lt;/color&gt;</string>		
+		<string _locid="110043">Fiebre del Oro</string>	
+		<string _locid="110044">Mejora el &lt;color=0.32 0.65 1.0&gt;arquero en elefante&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-1 de población&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% armadura contra infantería cuerpo a cuerpo&lt;/color&gt;</string>	
+		<string _locid="110045">Reduce el tiempo de formación de los &lt;color=0.32 0.65 1.0&gt;aldeanos&lt;/color&gt;, pero cambia su coste a oro.*&lt;color=0.0 1.0 0.0&gt;-33% de tiempo de formación&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-40 de coste de comida&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;+40 de coste en oro&lt;/color&gt;*&lt;color=1.0 1.0 0.0&gt;Puede activarse y desactivarse&lt;/color&gt;</string>		
+		<string _locid="110046">Activar la mano de obra pagada: los aldeanos se forman en un 45% menos de tiempo pero cambia su coste a oro</string>		
+		<string _locid="110047">Mejora el &lt;color=0.32 0.65 1.0&gt;berserker&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+2 de regeneración de salud por segundo&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga carga&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Otorga inmunidad contra ralentización&lt;/color&gt;</string>		
+		<!-- Celeste Chat Channel -->
+		<string _locid="160121">PVP</string>
+		<string _locid="160122">DE</string>
+		<string _locid="160123">ES</string>
+		<string _locid="160124">FR</string>
+		<string _locid="160125">IT</string>
+		<string _locid="160127">NL</string>
+		<string _locid="160126">PT</string>
 	</language>
 </stringtable>

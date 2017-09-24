@@ -100,7 +100,6 @@ class string extends model
 		$replace = "(icon=$1)";
 		$xmlstring = preg_replace($pattern, $replace, $xmlstring);
 		$xmlstring = str_replace('\<', '<', $xmlstring);
-		$xmlstring = str_replace("&", 'and', $xmlstring);
 		
 		return $xmlstring;
 		

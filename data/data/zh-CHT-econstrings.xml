@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<stringtable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="0" locstart="800000" locend="899999" loccurrent="801468">
+<stringtable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="0" locstart="800000" locend="899999" loccurrent="802030">
 	<language name="English">
 		<string _locid="800000">動物毛皮</string>
 		<string _locid="800001">青銅錠</string>
@@ -29,33 +29,33 @@
 		<string _locid="800024">酒</string>
 		<string _locid="800025">羊毛織物</string>
 		<string _locid="800026"/>
-		<string _locid="800027">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造競技場（玩家對戰）</string>
+		<string _locid="800027">用途：建造競技場（玩家對戰）</string>
 		<string _locid="800028"/>
-		<string _locid="800029">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造使館（郵遞和商貿）</string>
+		<string _locid="800029">用途：建造使館（郵遞和商貿）</string>
 		<string _locid="800030"/>
-		<string _locid="800031">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造雜貨店（買賣普通商品）</string>
+		<string _locid="800031">用途：建造雜貨店（買賣普通商品）</string>
 		<string _locid="800032"/>
-		<string _locid="800033">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造工藝大廳（工藝學校選項）</string>
+		<string _locid="800033">用途：建造工藝大廳（工藝學校選項）</string>
 		<string _locid="800034"/>
 		<string _locid="800035">工藝兌換卷</string>
 		<string _locid="800036">用途：建造作坊（生產松木板和其他材料）</string>
 		<string _locid="800037">用途：建造作坊（生產石塊和其他材料）</string>
 		<string _locid="800038">用途：建造作坊（生產動物毛皮和其他材料）</string>
 		<string _locid="800039">用途：建造作坊（生產銅錠和其他材料）</string>
-		<string _locid="800040">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造神諭所</string>
+		<string _locid="800040">用途：建造神諭所</string>
 		<string _locid="800041">吉薩石灰石</string>
 		<string _locid="800042">用途：建造作坊（生產石榴石和其他材料）</string>
 		<string _locid="800043">用途：建造作坊（生產勞動工具和其他材料）</string>
 		<string _locid="800044">用途：建造作坊（生產樹脂和其他材料）</string>
 		<string _locid="800045">用途：建造作坊（生產羊毛織物和其他材料）</string>
 		<string _locid="800046">用途：建造作坊（生產傳說卷軸和其他材料）</string>
-		<string _locid="800047">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造建築學校</string>
-		<string _locid="800048">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造騎術學校</string>
-		<string _locid="800049">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造工程學校</string>
-		<string _locid="800050">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造工匠學校</string>
-		<string _locid="800051">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造箭術學校</string>
+		<string _locid="800047">用途：建造建築學校</string>
+		<string _locid="800048">用途：建造騎術學校</string>
+		<string _locid="800049">用途：建造工程學校</string>
+		<string _locid="800050">用途：建造工匠學校</string>
+		<string _locid="800051">用途：建造箭術學校</string>
 		<string _locid="800052">用途：建造港口（旅行建築物）</string>
-		<string _locid="800053">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造宗教學校</string>
+		<string _locid="800053">用途：建造宗教學校</string>
 		<string _locid="800054">用途：建造拉神地窖（8 格倉庫）</string>
 		<string _locid="800055">用途：建造儲物石棺（12 格倉庫）</string>
 		<string _locid="800056">用途：建造材料墓庫（16 格倉庫）</string>
@@ -65,33 +65,33 @@
 		<string _locid="800060">用途：大賣場儲物倉（16 格倉庫）</string>
 		<string _locid="800061">用途：建造大型希臘宅邸（裝飾）</string>
 		<string _locid="800062">用途：建造希臘宅邸（裝飾）</string>
-		<string _locid="800063">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造寶庫（顯示錢幣和寶物總數）</string>
-		<string _locid="800064">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造使館（郵遞和商貿）</string>
+		<string _locid="800063">用途：建造寶庫（顯示錢幣和寶物總數）</string>
+		<string _locid="800064">用途：建造使館（郵遞和商貿）</string>
 		<string _locid="800065">用途：建造巴特農神殿（裝飾）</string>
-		<string _locid="800066">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造雜貨店（買賣普通商品）</string>
-		<string _locid="800067">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造商貿碼頭</string>
+		<string _locid="800066">用途：建造雜貨店（買賣普通商品）</string>
+		<string _locid="800067">用途：建造商貿碼頭</string>
 		<string _locid="800068">用途：建造樹林（裝飾）</string>
-		<string _locid="800069">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\nn用途：建造競技場（玩家對戰）</string>
-		<string _locid="800070">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\nn用途：建造顧問大廳（安置顧問）</string>
-		<string _locid="800071">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造步兵學校</string>
+		<string _locid="800069">n用途：建造競技場（玩家對戰）</string>
+		<string _locid="800070">n用途：建造顧問大廳（安置顧問）</string>
+		<string _locid="800071">用途：建造步兵學校</string>
 		<string _locid="800072">用途：建造建築商店（出售設計圖）</string>
 		<string _locid="800073">用途：建造高等護甲商店（出售裝備）</string>
 		<string _locid="800074">用途：建造高等武器商店（出售裝備）</string>
 		<string _locid="800075">用途：建造歷史拱門（裝飾）</string>
 		<string _locid="800076">用途：建造港口（旅行建築物）</string>
-		<string _locid="800077">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造裝備大廳（用於裝備單位）</string>
+		<string _locid="800077">用途：建造裝備大廳（用於裝備單位）</string>
 		<string _locid="800078">用途：建造圖坦卡門的閣樓（20 格倉庫）</string>
 		<string _locid="800079">用途：建造高等武器商店（出售裝備）</string>
-		<string _locid="800080"/>
+		<string _locid="800080">Use: Builds a Pen of Herodotus (decoration)</string>
 		<string _locid="800081">用途：建造高等護甲商店（出售裝備）</string>
 		<string _locid="800082"/>
 		<string _locid="800083">用途：建造高等護甲商店（出售裝備）</string>
 		<string _locid="800084">用途：建造建築商店（出售設計圖）</string>
 		<string _locid="800085">用途：建造高等武器商店（出售裝備）</string>
 		<string _locid="800086"/>
-		<string _locid="800087">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造工藝大廳（工藝學校選項）</string>
+		<string _locid="800087">用途：建造工藝大廳（工藝學校選項）</string>
 		<string _locid="800088">用途：建造儲物庫（20 格倉庫）</string>
-		<string _locid="800089">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造裝備大廳（用於裝備單位）</string>
+		<string _locid="800089">用途：建造裝備大廳（用於裝備單位）</string>
 		<string _locid="800090"/>
 		<string _locid="800091"/>
 		<string _locid="800092">德爾福石灰石</string>
@@ -99,7 +99,7 @@
 		<string _locid="800094"/>
 		<string _locid="800095">用途：建造木材工坊（生產松木板）</string>
 		<string _locid="800096"/>
-		<string _locid="800097">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造特洛伊木馬（裝飾）</string>
+		<string _locid="800097">用途：建造特洛伊木馬（裝飾）</string>
 		<string _locid="800098"/>
 		<string _locid="800099">用途：建造旗桿（裝飾）</string>
 		<string _locid="800100"/>
@@ -133,20 +133,20 @@
 		<string _locid="800128"/>
 		<string _locid="800129">用途：種柏樹（裝飾）</string>
 		<string _locid="800130"/>
-		<string _locid="800131">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造雕像創意商店（出售裝飾）</string>
+		<string _locid="800131">用途：建造雕像創意商店（出售裝飾）</string>
 		<string _locid="800132"/>
-		<string _locid="800133">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造花園創意商店（出售裝飾）</string>
+		<string _locid="800133">用途：建造花園創意商店（出售裝飾）</string>
 		<string _locid="800134"/>
-		<string _locid="800135">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造傭兵大廳（用於隨機玩家對戰）</string>
+		<string _locid="800135">用途：建造傭兵大廳（用於隨機玩家對戰）</string>
 		<string _locid="800136">用途：建造作坊（生產糧食和其他材料）</string>
 		<string _locid="800137"/>
 		<string _locid="800138">用途：植物園（裝飾）</string>
 		<string _locid="800139"/>
 		<string _locid="800140">用途：植物園（裝飾）</string>
 		<string _locid="800141"/>
-		<string _locid="800142">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造顧問大廳（安置顧問）</string>
+		<string _locid="800142">用途：建造顧問大廳（安置顧問）</string>
 		<string _locid="800143"/>
-		<string _locid="800144">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造寶庫（顯示錢幣和寶物總數）</string>
+		<string _locid="800144">用途：建造寶庫（顯示錢幣和寶物總數）</string>
 		<string _locid="800145"/>
 		<string _locid="800146">用途：建造老費雪的房舍（自訂任務建築物）</string>
 		<string _locid="800147"/>
@@ -165,8 +165,8 @@
 		<string _locid="800160">用途：建造花瓶（裝飾）</string>
 		<string _locid="800161"/>
 		<string _locid="800162">用途：建造花瓶（裝飾）</string>
-		<string _locid="800163">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造飾品創意商店（出售裝飾）</string>
-		<string _locid="800164">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造灌木叢創意商店（出售裝飾）</string>
+		<string _locid="800163">用途：建造飾品創意商店（出售裝飾）</string>
+		<string _locid="800164">用途：建造灌木叢創意商店（出售裝飾）</string>
 		<string _locid="800165">用途：建造花瓶（裝飾）</string>
 		<string _locid="800166">用途：建造花瓶（裝飾）</string>
 		<string _locid="800167">用途：建造花瓶（裝飾）</string>
@@ -191,27 +191,27 @@
 		<string _locid="800186">用途：建造小型埃及宅邸（裝飾）</string>
 		<string _locid="800187">用途：建造小型希臘宅邸（裝飾）</string>
 		<string _locid="800188"/>
-		<string _locid="800189">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n用途：建造獅身人面像（裝飾）</string>
-		<string _locid="800190">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造大型階梯金字塔（裝飾）</string>
+		<string _locid="800189">用途：建造獅身人面像（裝飾）</string>
+		<string _locid="800190">用途：建造大型階梯金字塔（裝飾）</string>
 		<string _locid="800191">用途：建造小型階梯金字塔（裝飾）</string>
-		<string _locid="800192">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n用途：建造墓室（裝飾）</string>
+		<string _locid="800192">用途：建造墓室（裝飾）</string>
 		<string _locid="800193">用途：建造古老王國神殿（裝飾）</string>
 		<string _locid="800194">用途：建造大型方尖碑（裝飾）</string>
 		<string _locid="800195">用途：建造方尖碑（裝飾）</string>
 		<string _locid="800196">用途：建造小型方尖碑（裝飾）</string>
 		<string _locid="800197"/>
-		<string _locid="800198">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造大型金字塔（裝飾）</string>
+		<string _locid="800198">用途：建造大型金字塔（裝飾）</string>
 		<string _locid="800199">用途：建造希臘神殿（裝飾）</string>
 		<string _locid="800200">用途：建造希臘要塞（裝飾）</string>
 		<string _locid="800201">用途：建造神聖樹林（裝飾）</string>
 		<string _locid="800202">用途：建造李奧尼達之屋（裝飾）</string>
-		<string _locid="800203">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n用途：建造圖書館（裝飾）</string>
+		<string _locid="800203">用途：建造圖書館（裝飾）</string>
 		<string _locid="800204"/>
 		<string _locid="800205">用途：建造瑪姆和皮伯的房舍（自訂任務建築物）</string>
 		<string _locid="800206"/>
 		<string _locid="800207">楓樹汁</string>
 		<string _locid="800208"/>
-		<string _locid="800209">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造海洋民族旗艦（裝飾）</string>
+		<string _locid="800209">用途：建造海洋民族旗艦（裝飾）</string>
 		<string _locid="800210"/>
 		<string _locid="800211">用途：建造雕像（裝飾）</string>
 		<string _locid="800212"/>
@@ -227,7 +227,7 @@
 		<string _locid="800222"/>
 		<string _locid="800223">用途：建造奧秘神殿（裝飾）</string>
 		<string _locid="800224"/>
-		<string _locid="800225">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n用途：建造斯巴達學院</string>
+		<string _locid="800225">用途：建造斯巴達學院</string>
 		<string _locid="800226">用途：建造配方商店</string>
 		<string _locid="800227">凱爾特染料</string>
 		<string _locid="800228">用途：建造配方商店</string>
@@ -237,19 +237,19 @@
 		<string _locid="800232">用途：建造配方商店</string>
 		<string _locid="800233">用途：建造配方商店</string>
 		<string _locid="800234">用途：建造配方商店</string>
-		<string _locid="800235">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造金屬工藝學校</string>
+		<string _locid="800235">用途：建造金屬工藝學校</string>
 		<string _locid="800236">用途：建造配方商店</string>
-		<string _locid="800237">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造裝備大廳（用於裝備單位）</string>
+		<string _locid="800237">用途：建造裝備大廳（用於裝備單位）</string>
 		<string _locid="800238">用途：建造配方商店</string>
-		<string _locid="800239">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造雜貨店（購買和出售普通商品）</string>
+		<string _locid="800239">用途：建造雜貨店（購買和出售普通商品）</string>
 		<string _locid="800240"/>
-		<string _locid="800241">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造使館（郵遞和商貿）</string>
+		<string _locid="800241">用途：建造使館（郵遞和商貿）</string>
 		<string _locid="800242"/>
-		<string _locid="800243">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造競技場（玩家對戰）</string>
+		<string _locid="800243">用途：建造競技場（玩家對戰）</string>
 		<string _locid="800244"/>
-		<string _locid="800245">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造顧問大廳（安置顧問）</string>
+		<string _locid="800245">用途：建造顧問大廳（安置顧問）</string>
 		<string _locid="800246"/>
-		<string _locid="800247">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造寶庫（顯示錢幣和寶物總數）</string>
+		<string _locid="800247">用途：建造寶庫（顯示錢幣和寶物總數）</string>
 		<string _locid="800248"/>
 		<string _locid="800249"/>
 		<string _locid="800250"/>
@@ -725,13 +725,13 @@
 		<string _locid="800720"/>
 		<string _locid="800721">用途：建造 PDLC 兄弟會之家</string>
 		<string _locid="800722"/>
-		<string _locid="800723">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途： 建造德爾福神殿（裝飾）</string>
+		<string _locid="800723">用途： 建造德爾福神殿（裝飾）</string>
 		<string _locid="800724"/>
-		<string _locid="800725">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造翻越阿爾卑斯山雕像（裝飾）</string>
+		<string _locid="800725">用途：建造翻越阿爾卑斯山雕像（裝飾）</string>
 		<string _locid="800726"/>
-		<string _locid="800727">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造柳條公豬雕像（裝飾）</string>
+		<string _locid="800727">用途：建造柳條公豬雕像（裝飾）</string>
 		<string _locid="800728"/>
-		<string _locid="800729">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造色雷斯騎兵雕像（裝飾）</string>
+		<string _locid="800729">用途：建造色雷斯騎兵雕像（裝飾）</string>
 		<string _locid="800730"/>
 		<string _locid="800731">用途：建造大建築師傑作（裝飾）</string>
 		<string _locid="800732"/>
@@ -769,7 +769,7 @@
 		<string _locid="800764"/>
 		<string _locid="800765">用途：建造商貿碼頭</string>
 		<string _locid="800766">用途：建造步兵設計圖商店（要求帝國點數）</string>
-		<string _locid="800767">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造工藝大廳（工藝學校選項）</string>
+		<string _locid="800767">用途：建造工藝大廳（工藝學校選項）</string>
 		<string _locid="800768">用途：建造箭術學校設計圖商店（要求帝國點數）</string>
 		<string _locid="800769">用途：建造工程學校設計圖商店（要求帝國點數）</string>
 		<string _locid="800770">用途：建造建築學校設計圖商店（要求帝國點數）</string>
@@ -787,18 +787,18 @@
 		<string _locid="800782"/>
 		<string _locid="800783">用途：建造獨角獸騎士雕像（裝飾）</string>
 		<string _locid="800784"/>
-		<string _locid="800785">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造米諾斯奇觀（裝飾）</string>
+		<string _locid="800785">用途：建造米諾斯奇觀（裝飾）</string>
 		<string _locid="800786"/>
-		<string _locid="800787">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造米諾斯奇觀（裝飾）</string>
+		<string _locid="800787">用途：建造米諾斯奇觀（裝飾）</string>
 		<string _locid="800788"/>
-		<string _locid="800789">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造米諾斯奇觀（裝飾）</string>
+		<string _locid="800789">用途：建造米諾斯奇觀（裝飾）</string>
 		<string _locid="800790">用途：建造配方商店</string>
 		<string _locid="800791">用途：建造配方商店</string>
 		<string _locid="800792">用途：建造配方商店</string>
 		<string _locid="800793"/>
-		<string _locid="800794">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造文迪的野外小工具商店</string>
+		<string _locid="800794">用途：建造文迪的野外小工具商店</string>
 		<string _locid="800795"/>
-		<string _locid="800796">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造獨角獸騎士雕像（裝飾）</string>
+		<string _locid="800796">用途：建造獨角獸騎士雕像（裝飾）</string>
 		<string _locid="800797"/>
 		<string _locid="800798">香料</string>
 		<string _locid="800799"/>
@@ -881,13 +881,13 @@
 		<string _locid="800876"/>
 		<string _locid="800877"/>
 		<string _locid="800878"/>
-		<string _locid="800879">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造帝國雜貨店</string>
+		<string _locid="800879">用途：建造帝國雜貨店</string>
 		<string _locid="800880"/>
-		<string _locid="800881">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造設計圖商店（出售工藝配方商店）</string>
+		<string _locid="800881">用途：建造設計圖商店（出售工藝配方商店）</string>
 		<string _locid="800882"/>
-		<string _locid="800883">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造設計圖商店（出售工藝配方商店）</string>
+		<string _locid="800883">用途：建造設計圖商店（出售工藝配方商店）</string>
 		<string _locid="800884"/>
-		<string _locid="800885">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造設計圖商店（出售工藝配方商店）</string>
+		<string _locid="800885">用途：建造設計圖商店（出售工藝配方商店）</string>
 		<string _locid="800886"/>
 		<string _locid="800887">吉薩石灰石</string>
 		<string _locid="800888"/>
@@ -1122,14 +1122,14 @@
 		<string _locid="801117">用途：建造配方商店</string>
 		<string _locid="801118"/>
 		<string _locid="801119">用途：建造配方商店</string>
-		<string _locid="801120">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造材料墓庫（16 格倉庫）</string>
-		<string _locid="801121">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：大賣場儲物倉（16 格倉庫）</string>
+		<string _locid="801120">用途：建造材料墓庫（16 格倉庫）</string>
+		<string _locid="801121">用途：大賣場儲物倉（16 格倉庫）</string>
 		<string _locid="801122"/>
-		<string _locid="801123">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造大型倉庫（16 格倉庫）</string>
+		<string _locid="801123">用途：建造大型倉庫（16 格倉庫）</string>
 		<string _locid="801124"/>
-		<string _locid="801125">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n用途：修建顧問大廳（顧問位置）</string>
+		<string _locid="801125">用途：修建顧問大廳（顧問位置）</string>
 		<string _locid="801126"/>
-		<string _locid="801127">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\nn用途：修建競技場（PvP 戰鬥）</string>
+		<string _locid="801127">n用途：修建競技場（PvP 戰鬥）</string>
 		<string _locid="801128"/>
 		<string _locid="801129">用途：建造配方商店</string>
 		<string _locid="801130"/>
@@ -1145,13 +1145,13 @@
 		<string _locid="801140"/>
 		<string _locid="801141">用途：建造配方商店</string>
 		<string _locid="801142"/>
-		<string _locid="801143">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：修建雜貨店（購買和出售普通貨物）</string>
+		<string _locid="801143">用途：修建雜貨店（購買和出售普通貨物）</string>
 		<string _locid="801144"/>
 		<string _locid="801145">用途：修建建築商店（出售設計圖）</string>
 		<string _locid="801146"/>
-		<string _locid="801147">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造使館（郵遞和商貿）</string>
+		<string _locid="801147">用途：建造使館（郵遞和商貿）</string>
 		<string _locid="801148"/>
-		<string _locid="801149">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：修建商貿碼頭</string>
+		<string _locid="801149">用途：修建商貿碼頭</string>
 		<string _locid="801150"/>
 		<string _locid="801151">用途：修建大型波斯人住宅區（裝飾物）</string>
 		<string _locid="801152"/>
@@ -1159,11 +1159,11 @@
 		<string _locid="801154"/>
 		<string _locid="801155">用途：修建小型波斯人住宅區（裝飾物）</string>
 		<string _locid="801156"/>
-		<string _locid="801157">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：修建裝備大廳（供部隊裝上裝備）</string>
+		<string _locid="801157">用途：修建裝備大廳（供部隊裝上裝備）</string>
 		<string _locid="801158"/>
-		<string _locid="801159">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：修建設計圖商店（出售工藝配方商店）</string>
+		<string _locid="801159">用途：修建設計圖商店（出售工藝配方商店）</string>
 		<string _locid="801160"/>
-		<string _locid="801161">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：修建寶庫（顯示錢幣以及派別點的總數）</string>
+		<string _locid="801161">用途：修建寶庫（顯示錢幣以及派別點的總數）</string>
 		<string _locid="801162"/>
 		<string _locid="801163">用途：建造 Inventorxes（8 格倉庫）</string>
 		<string _locid="801164"/>
@@ -1171,19 +1171,19 @@
 		<string _locid="801166"/>
 		<string _locid="801167">用途：建造 Perstockolis（16 格倉庫）</string>
 		<string _locid="801168"/>
-		<string _locid="801169">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造倉庫（16 格倉庫）</string>
+		<string _locid="801169">用途：建造倉庫（16 格倉庫）</string>
 		<string _locid="801170"/>
 		<string _locid="801171">用途：建造 Repersiatory（20 格倉庫）</string>
 		<string _locid="801172">用途：建造配方商店</string>
 		<string _locid="801173">用途：建造配方商店</string>
 		<string _locid="801174"/>
-		<string _locid="801175">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造工藝大廳（工藝學校選項）</string>
+		<string _locid="801175">用途：建造工藝大廳（工藝學校選項）</string>
 		<string _locid="801176"/>
-		<string _locid="801177">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n用途：建造配方商店</string>
+		<string _locid="801177">用途：建造配方商店</string>
 		<string _locid="801178"/>
-		<string _locid="801179">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n用途：建造雜貨店</string>
+		<string _locid="801179">用途：建造雜貨店</string>
 		<string _locid="801180"/>
-		<string _locid="801181">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n用途：建造配方商店</string>
+		<string _locid="801181">用途：建造配方商店</string>
 		<string _locid="801182"/>
 		<string _locid="801183">用途：種植熊狀植物（裝飾）</string>
 		<string _locid="801184"/>
@@ -1205,29 +1205,29 @@
 		<string _locid="801200"/>
 		<string _locid="801201">用途：種植狼狀植物（裝飾）</string>
 		<string _locid="801202"/>
-		<string _locid="801203">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法被摧毀&lt;/color&gt;\n用途：建造植物雕塑豪華商店（出售裝飾）</string>
+		<string _locid="801203">用途：建造植物雕塑豪華商店（出售裝飾）</string>
 		<string _locid="801204"/>
 		<string _locid="801205">用途：建造配方商店</string>
 		<string _locid="801206"/>
-		<string _locid="801207">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造小規模戰鬥獎盃（裝飾）</string>
+		<string _locid="801207">用途：建造小規模戰鬥獎盃（裝飾）</string>
 		<string _locid="801208"/>
-		<string _locid="801209">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造小規模戰鬥獎盃（裝飾）</string>
+		<string _locid="801209">用途：建造小規模戰鬥獎盃（裝飾）</string>
 		<string _locid="801210"/>
-		<string _locid="801211">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造小規模戰鬥獎盃（裝飾）</string>
+		<string _locid="801211">用途：建造小規模戰鬥獎盃（裝飾）</string>
 		<string _locid="801212"/>
-		<string _locid="801213">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造小規模戰鬥獎盃（裝飾）</string>
+		<string _locid="801213">用途：建造小規模戰鬥獎盃（裝飾）</string>
 		<string _locid="801214"/>
-		<string _locid="801215">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造小規模戰鬥獎盃（裝飾）</string>
+		<string _locid="801215">用途：建造小規模戰鬥獎盃（裝飾）</string>
 		<string _locid="801216"/>
-		<string _locid="801217">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造小規模戰鬥獎盃（裝飾）</string>
+		<string _locid="801217">用途：建造小規模戰鬥獎盃（裝飾）</string>
 		<string _locid="801218"/>
-		<string _locid="801219">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造小規模戰鬥獎盃（裝飾）</string>
+		<string _locid="801219">用途：建造小規模戰鬥獎盃（裝飾）</string>
 		<string _locid="801220"/>
-		<string _locid="801221">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造小規模戰鬥獎盃（裝飾）</string>
+		<string _locid="801221">用途：建造小規模戰鬥獎盃（裝飾）</string>
 		<string _locid="801222"/>
-		<string _locid="801223">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n用途：修建顧問大廳（顧問位置）</string>
+		<string _locid="801223">用途：修建顧問大廳（顧問位置）</string>
 		<string _locid="801224"/>
-		<string _locid="801225">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：修建競技場（PvP 戰鬥）</string>
+		<string _locid="801225">用途：修建競技場（PvP 戰鬥）</string>
 		<string _locid="801226"/>
 		<string _locid="801227">用途：建造配方商店</string>
 		<string _locid="801228"/>
@@ -1243,28 +1243,28 @@
 		<string _locid="801238"/>
 		<string _locid="801239">用途：建造配方商店</string>
 		<string _locid="801240"/>
-		<string _locid="801241">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：修建雜貨店（購買和出售普通貨物）</string>
+		<string _locid="801241">用途：修建雜貨店（購買和出售普通貨物）</string>
 		<string _locid="801242"/>
 		<string _locid="801243">用途：修建建築商店（出售設計圖）</string>
 		<string _locid="801244"/>
-		<string _locid="801245">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n用途：建造配方商店</string>
+		<string _locid="801245">用途：建造配方商店</string>
 		<string _locid="801246"/>
-		<string _locid="801247">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n用途：建造雜貨店</string>
+		<string _locid="801247">用途：建造雜貨店</string>
 		<string _locid="801248"/>
-		<string _locid="801249">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n用途：建造配方商店</string>
+		<string _locid="801249">用途：建造配方商店</string>
 		<string _locid="801250"/>
-		<string _locid="801251">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造使館（郵遞和商貿）</string>
+		<string _locid="801251">用途：建造使館（郵遞和商貿）</string>
 		<string _locid="801252"/>
 		<string _locid="801254"/>
 		<string _locid="801256"/>
 		<string _locid="801258"/>
-		<string _locid="801259">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：修建裝備大廳（供部隊裝上裝備）</string>
+		<string _locid="801259">用途：修建裝備大廳（供部隊裝上裝備）</string>
 		<string _locid="801260"/>
-		<string _locid="801261">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：修建設計圖商店（出售工藝配方商店）</string>
+		<string _locid="801261">用途：修建設計圖商店（出售工藝配方商店）</string>
 		<string _locid="801262"/>
-		<string _locid="801263">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：修建商貿碼頭</string>
+		<string _locid="801263">用途：修建商貿碼頭</string>
 		<string _locid="801264"/>
-		<string _locid="801265">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：修建寶庫（顯示錢幣以及派別點的總數）</string>
+		<string _locid="801265">用途：修建寶庫（顯示錢幣以及派別點的總數）</string>
 		<string _locid="801266"/>
 		<string _locid="801267">用途：建造小型倉庫（8 格倉庫）</string>
 		<string _locid="801268"/>
@@ -1272,11 +1272,11 @@
 		<string _locid="801270"/>
 		<string _locid="801271">用途：建造大型倉庫（16 格倉庫）</string>
 		<string _locid="801272"/>
-		<string _locid="801273">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造大型倉庫（16 格倉庫）</string>
+		<string _locid="801273">用途：建造大型倉庫（16 格倉庫）</string>
 		<string _locid="801274"/>
 		<string _locid="801275">用途：建造超大型倉庫（20 格倉庫）</string>
 		<string _locid="801276"/>
-		<string _locid="801277">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法摧毀&lt;/color&gt;\n用途：建造工藝大廳（工藝學校選項）</string>
+		<string _locid="801277">用途：建造工藝大廳（工藝學校選項）</string>
 		<string _locid="801278">火山灰混凝土</string>
 		<string _locid="801279"/>
 		<string _locid="801280"/>
@@ -1295,7 +1295,7 @@
 		<string _locid="801295"/>
 		<string _locid="801296"/>
 		<string _locid="801297"/>
-		<string _locid="801298">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n&lt;color=1.0,1.0,0.0&gt;無法出售&lt;/color&gt;\n用途：建造大型倉庫 （24格倉庫）</string>
+		<string _locid="801298">用途：建造大型倉庫 （24格倉庫）</string>
 		<string _locid="801299"/>
 		<string _locid="801300"/>
 		<string _locid="801301"/>
@@ -1324,15 +1324,15 @@
 		<string _locid="801324"/>
 		<string _locid="801325"/>
 		<string _locid="801326"/>
-		<string _locid="801327">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n用途：建造花瓶（裝飾）</string>
+		<string _locid="801327">用途：建造花瓶（裝飾）</string>
 		<string _locid="801328"/>
-		<string _locid="801329">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n用途：建造重裝步兵雕像（裝飾）</string>
+		<string _locid="801329">用途：建造重裝步兵雕像（裝飾）</string>
 		<string _locid="801330"/>
-		<string _locid="801331">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n用途：建造輕裝步兵雕像（裝飾）</string>
+		<string _locid="801331">用途：建造輕裝步兵雕像（裝飾）</string>
 		<string _locid="801332"/>
-		<string _locid="801333">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n用途：建造突襲騎兵雕像（裝飾）</string>
+		<string _locid="801333">用途：建造突襲騎兵雕像（裝飾）</string>
 		<string _locid="801334"/>
-		<string _locid="801335">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：建造帶翼雕像（裝飾）</string>
+		<string _locid="801335">用途：建造帶翼雕像（裝飾）</string>
 		<string _locid="801336"/>
 		<string _locid="801337"/>
 		<string _locid="801338"/>
@@ -1425,50 +1425,604 @@
 		<string _locid="801425"/>
 		<string _locid="801426"/>
 		<string _locid="801427"/>
-		<string _locid="801428">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n用途：種植灌木（裝飾）</string>
-		<string _locid="801429">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n用途：種植灌木（裝飾）</string>
-		<string _locid="801430">&lt;color=1.0,1.0,0.0&gt;無法交易&lt;/color&gt;\n用途：建造觀景亭（裝飾）</string>
-		<string _locid="801431">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：種植柏樹（裝飾）</string>
-		<string _locid="801432">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：種植柏樹（裝飾）</string>
-		<string _locid="801433">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：種植柏樹（裝飾）</string>
-		<string _locid="801434">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：種植柏樹（裝飾）</string>
-		<string _locid="801435">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：建造噴泉（裝飾）</string>
-		<string _locid="801436">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：建造噴泉（裝飾）</string>
-		<string _locid="801437">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：建造長矛兵雕像（裝飾）</string>
-		<string _locid="801438">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：建造旗杆（裝飾）</string>
-		<string _locid="801439">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：建造花瓶（裝飾）</string>
-		<string _locid="801440">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：建造投石手雕像（裝飾）</string>
-		<string _locid="801441">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：建造斧手雕像（裝飾）</string>
-		<string _locid="801442">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：建造女祭司雕像（裝飾）</string>
-		<string _locid="801443">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：建造駱駝騎兵雕像（裝飾）</string>
-		<string _locid="801444">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：建造戰象雕像（裝飾）</string>
-		<string _locid="801445">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：建造法老雕像（裝飾）</string>
-		<string _locid="801446">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：建造法老坐姿雕像（裝飾）</string>
-		<string _locid="801447">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：種植灌木（裝飾）</string>
-		<string _locid="801448">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：種植灌木（裝飾）</string>
-		<string _locid="801449">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：建造觀景亭（裝飾）</string>
-		<string _locid="801450">&lt;color=1.0,1.0,0.0&gt;C無法交易&lt;/color&gt;\n用途：建造觀景亭（裝飾）</string>
-		<string _locid="801451">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：種植棕櫚樹（裝飾）</string>
-		<string _locid="801452">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：種植棕櫚樹（裝飾）</string>
-		<string _locid="801453">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：種植棕櫚樹（裝飾）</string>
-		<string _locid="801454">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：種植棕櫚樹（裝飾）</string>
-		<string _locid="801455">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：建造噴泉（裝飾）</string>
-		<string _locid="801456">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：建造噴泉（裝飾）</string>
-		<string _locid="801457">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：種植狼狀植物雕像（裝飾）</string>
-		<string _locid="801458">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：種植牛狀植物雕像（裝飾）</string>
-		<string _locid="801459">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：種植熊狀植物雕像（裝飾）</string>
-		<string _locid="801460">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：種植羊狀植物雕像（裝飾）</string>
-		<string _locid="801461">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：種植公豬狀植物雕像（裝飾）</string>
-		<string _locid="801462">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：種植鱷魚狀植物雕像（裝飾）</string>
-		<string _locid="801463">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：種植獅子狀植物雕像（裝飾）</string>
-		<string _locid="801464">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：種植馬狀植物雕像（裝飾）</string>
-		<string _locid="801465">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：種植駱駝狀植物雕像（裝飾）</string>
-		<string _locid="801466">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：種植象狀植物雕塑（裝飾）</string>
-		<string _locid="801467">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：建造觀景亭（裝飾0</string>
-		<string _locid="801468">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：建造旗杆（裝飾）</string>
-		<string _locid="801469">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：建造盾兵雕像（裝飾）</string>
-		<string _locid="801470">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：建造祭司雕像（裝飾）</string>
-		<string _locid="801471">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途建造弓兵雕像（裝飾）</string>
-		<string _locid="801472">&lt;color=1.0,1.0,0.0&gt; 無法交易&lt;/color&gt;\n用途：建造騎兵雕像（裝飾）</string>
+		<string _locid="801428">用途：種植灌木（裝飾）</string>
+		<string _locid="801429">用途：種植灌木（裝飾）</string>
+		<string _locid="801430">用途：建造觀景亭（裝飾）</string>
+		<string _locid="801431">用途：種植柏樹（裝飾）</string>
+		<string _locid="801432">用途：種植柏樹（裝飾）</string>
+		<string _locid="801433">用途：種植柏樹（裝飾）</string>
+		<string _locid="801434">用途：種植柏樹（裝飾）</string>
+		<string _locid="801435">用途：建造噴泉（裝飾）</string>
+		<string _locid="801436">用途：建造噴泉（裝飾）</string>
+		<string _locid="801437">用途：建造長矛兵雕像（裝飾）</string>
+		<string _locid="801438">用途：建造旗杆（裝飾）</string>
+		<string _locid="801439">用途：建造花瓶（裝飾）</string>
+		<string _locid="801440">用途：建造投石手雕像（裝飾）</string>
+		<string _locid="801441">用途：建造斧手雕像（裝飾）</string>
+		<string _locid="801442">用途：建造女祭司雕像（裝飾）</string>
+		<string _locid="801443">用途：建造駱駝騎兵雕像（裝飾）</string>
+		<string _locid="801444">用途：建造戰象雕像（裝飾）</string>
+		<string _locid="801445">用途：建造法老雕像（裝飾）</string>
+		<string _locid="801446">用途：建造法老坐姿雕像（裝飾）</string>
+		<string _locid="801447">用途：種植灌木（裝飾）</string>
+		<string _locid="801448">用途：種植灌木（裝飾）</string>
+		<string _locid="801449">用途：建造觀景亭（裝飾）</string>
+		<string _locid="801450">用途：建造觀景亭（裝飾）</string>
+		<string _locid="801451">用途：種植棕櫚樹（裝飾）</string>
+		<string _locid="801452">用途：種植棕櫚樹（裝飾）</string>
+		<string _locid="801453">用途：種植棕櫚樹（裝飾）</string>
+		<string _locid="801454">用途：種植棕櫚樹（裝飾）</string>
+		<string _locid="801455">用途：建造噴泉（裝飾）</string>
+		<string _locid="801456">用途：建造噴泉（裝飾）</string>
+		<string _locid="801457">用途：種植狼狀植物雕像（裝飾）</string>
+		<string _locid="801458">用途：種植牛狀植物雕像（裝飾）</string>
+		<string _locid="801459">用途：種植熊狀植物雕像（裝飾）</string>
+		<string _locid="801460">用途：種植羊狀植物雕像（裝飾）</string>
+		<string _locid="801461">用途：種植公豬狀植物雕像（裝飾）</string>
+		<string _locid="801462">用途：種植鱷魚狀植物雕像（裝飾）</string>
+		<string _locid="801463">用途：種植獅子狀植物雕像（裝飾）</string>
+		<string _locid="801464">用途：種植馬狀植物雕像（裝飾）</string>
+		<string _locid="801465">用途：種植駱駝狀植物雕像（裝飾）</string>
+		<string _locid="801466">用途：種植象狀植物雕塑（裝飾）</string>
+		<string _locid="801467">用途：建造觀景亭（裝飾0</string>
+		<string _locid="801468">用途：建造旗杆（裝飾）</string>
+		<string _locid="801469">用途：建造盾兵雕像（裝飾）</string>
+		<string _locid="801470">用途：建造祭司雕像（裝飾）</string>
+		<string _locid="801471">用途建造弓兵雕像（裝飾）</string>
+		<string _locid="801472">用途：建造騎兵雕像（裝飾）</string>
+		<string _locid="801473">Wilted Aloe</string>
+		<string _locid="801474"/>
+		<string _locid="801475">Lifeless Aloe</string>
+		<string _locid="801476"/>
+		<string _locid="801477">Dried Aloe</string>
+		<string _locid="801478">Green Aloe</string>
+		<string _locid="801479">Fresh Aloe</string>
+		<string _locid="801480">Shattered Bust</string>
+		<string _locid="801481">Cracked Bust</string>
+		<string _locid="801482">Chipped Bust</string>
+		<string _locid="801483">Old Bust</string>
+		<string _locid="801484">Stone Bust</string>
+		<string _locid="801485">Marble Bust</string>
+		<string _locid="801486"/>
+		<string _locid="801487"/>
+		<string _locid="801488"/>
+		<string _locid="801489"/>
+		<string _locid="801490"/>
+		<string _locid="801491"/>
+		<string _locid="801492">Used Candles</string>
+		<string _locid="801493">Aged Candles</string>
+		<string _locid="801494">Broken Candles</string>
+		<string _locid="801495">Large Candles</string>
+		<string _locid="801496">Scented Candles</string>
+		<string _locid="801497">Thick Candles</string>
+		<string _locid="801498"/>
+		<string _locid="801499"/>
+		<string _locid="801500"/>
+		<string _locid="801501"/>
+		<string _locid="801502"/>
+		<string _locid="801503"/>
+		<string _locid="801504">Moldy Cheese</string>
+		<string _locid="801505">Foul Cheese</string>
+		<string _locid="801506">Spoiled Cheese</string>
+		<string _locid="801507">Stinky Cheese</string>
+		<string _locid="801508">Unsavory Cheese</string>
+		<string _locid="801509">Flavorful Cheese</string>
+		<string _locid="801510"/>
+		<string _locid="801511"/>
+		<string _locid="801512"/>
+		<string _locid="801513"/>
+		<string _locid="801514"/>
+		<string _locid="801515"/>
+		<string _locid="801516">Noisy Chickens</string>
+		<string _locid="801517">Feathered Chickens</string>
+		<string _locid="801518">Dirty Chickens</string>
+		<string _locid="801519">Old Chickens</string>
+		<string _locid="801520">Chickens</string>
+		<string _locid="801521">Plump Chickens</string>
+		<string _locid="801522"/>
+		<string _locid="801523"/>
+		<string _locid="801524"/>
+		<string _locid="801525"/>
+		<string _locid="801526"/>
+		<string _locid="801527"/>
+		<string _locid="801528">White Feathers</string>
+		<string _locid="801529">Ruffled Feathers</string>
+		<string _locid="801530">Wet Feathers</string>
+		<string _locid="801531">Dry Feathers</string>
+		<string _locid="801532">Small Feathers</string>
+		<string _locid="801533">Light Feathers</string>
+		<string _locid="801534"/>
+		<string _locid="801535"/>
+		<string _locid="801536"/>
+		<string _locid="801537"/>
+		<string _locid="801538"/>
+		<string _locid="801539"/>
+		<string _locid="801540">Bitter Honey</string>
+		<string _locid="801541">Flavorless Honey</string>
+		<string _locid="801542">Bland Honey</string>
+		<string _locid="801543">Delicious Honey</string>
+		<string _locid="801544">Pure Honey</string>
+		<string _locid="801545">Sweet Honey</string>
+		<string _locid="801546"/>
+		<string _locid="801547"/>
+		<string _locid="801548"/>
+		<string _locid="801549"/>
+		<string _locid="801550"/>
+		<string _locid="801551"/>
+		<string _locid="801552"/>
+		<string _locid="801553">Aromatic Incense</string>
+		<string _locid="801554"/>
+		<string _locid="801555">Crumbling Incense</string>
+		<string _locid="801556"/>
+		<string _locid="801557">Reeking Incense</string>
+		<string _locid="801558"/>
+		<string _locid="801559">Pungent Incense</string>
+		<string _locid="801560"/>
+		<string _locid="801561">Strong Incense</string>
+		<string _locid="801562"/>
+		<string _locid="801563">Fragrant Incense</string>
+		<string _locid="801564"/>
+		<string _locid="801565">Rusty Lamp</string>
+		<string _locid="801566"/>
+		<string _locid="801567">Metal Lamp</string>
+		<string _locid="801568"/>
+		<string _locid="801569">Dull Lamp</string>
+		<string _locid="801570"/>
+		<string _locid="801571">Silver Lamp</string>
+		<string _locid="801572"/>
+		<string _locid="801573">Golden Lamp</string>
+		<string _locid="801574"/>
+		<string _locid="801575">Gemmed Lamp</string>
+		<string _locid="801576"/>
+		<string _locid="801577">Small Bag of Mice</string>
+		<string _locid="801578"/>
+		<string _locid="801579">Worn Bag of Mice</string>
+		<string _locid="801580"/>
+		<string _locid="801581">Ripped Bag of Mice</string>
+		<string _locid="801582"/>
+		<string _locid="801583">Full Bag of Mice</string>
+		<string _locid="801584"/>
+		<string _locid="801585">Bag of Mice</string>
+		<string _locid="801586"/>
+		<string _locid="801587">Large Bag of Mice</string>
+		<string _locid="801588"/>
+		<string _locid="801589">Bad Perfume</string>
+		<string _locid="801590"/>
+		<string _locid="801591">Odorless Perfume</string>
+		<string _locid="801592"/>
+		<string _locid="801593">Rich Perfume</string>
+		<string _locid="801594"/>
+		<string _locid="801595">Flowery Perfume</string>
+		<string _locid="801596"/>
+		<string _locid="801597">Musky Perfume</string>
+		<string _locid="801598"/>
+		<string _locid="801599">Fine Perfume</string>
+		<string _locid="801600"/>
+		<string _locid="801601">Damaged Figurine</string>
+		<string _locid="801602"/>
+		<string _locid="801603">Split Figurine</string>
+		<string _locid="801604"/>
+		<string _locid="801605">Wooden Figurine</string>
+		<string _locid="801606"/>
+		<string _locid="801607">Solid Figurine</string>
+		<string _locid="801608"/>
+		<string _locid="801609">Horse Figurine</string>
+		<string _locid="801610"/>
+		<string _locid="801611">Ornate Figurine</string>
+		<string _locid="801612">Dull Animal Claws</string>
+		<string _locid="801613">Claw Necklace</string>
+		<string _locid="801614">Sharp Claw Necklace</string>
+		<string _locid="801615">Small Hay Bale</string>
+		<string _locid="801616">Hay Bale</string>
+		<string _locid="801617">Large Hay Bale</string>
+		<string _locid="801618">Rodent Bones</string>
+		<string _locid="801619">Wolf Bones</string>
+		<string _locid="801620">Horse Bones</string>
+		<string _locid="801621">Light Feather Fan</string>
+		<string _locid="801622">Feather Fan</string>
+		<string _locid="801623">Ornate Feather Fan</string>
+		<string _locid="801624">Old Art</string>
+		<string _locid="801625">Common Art</string>
+		<string _locid="801626">Fine Art</string>
+		<string _locid="801627">Buttons</string>
+		<string _locid="801628">Ivory Buttons</string>
+		<string _locid="801629">Rare Buttons</string>
+		<string _locid="801630">Sickened Cats</string>
+		<string _locid="801631">Box of Cats</string>
+		<string _locid="801632">Large Box of Cats</string>
+		<string _locid="801633">Rough Gems</string>
+		<string _locid="801634">Shiny Things</string>
+		<string _locid="801635">Fine Jewels</string>
+		<string _locid="801636">Dirty Soap</string>
+		<string _locid="801637">Used Soap</string>
+		<string _locid="801638">Soap</string>
+		<string _locid="801639">Coarse Thread</string>
+		<string _locid="801640">Thread</string>
+		<string _locid="801641">Fine Thread</string>
+		<string _locid="801642">Sundial</string>
+		<string _locid="801643">Fine Timepiece</string>
+		<string _locid="801644">Precision Timepiece</string>
+		<string _locid="801645">Dirty Wig</string>
+		<string _locid="801646">Wig</string>
+		<string _locid="801647">Noble Wig</string>
+		<string _locid="801648"/>
+		<string _locid="801649"/>
+		<string _locid="801650"/>
+		<string _locid="801651"/>
+		<string _locid="801652"/>
+		<string _locid="801653"/>
+		<string _locid="801654"/>
+		<string _locid="801655"/>
+		<string _locid="801656"/>
+		<string _locid="801657"/>
+		<string _locid="801658"/>
+		<string _locid="801659"/>
+		<string _locid="801660"/>
+		<string _locid="801661"/>
+		<string _locid="801662"/>
+		<string _locid="801663"/>
+		<string _locid="801664"/>
+		<string _locid="801665"/>
+		<string _locid="801666"/>
+		<string _locid="801667"/>
+		<string _locid="801668"/>
+		<string _locid="801669"/>
+		<string _locid="801670"/>
+		<string _locid="801671"/>
+		<string _locid="801672"/>
+		<string _locid="801673"/>
+		<string _locid="801674"/>
+		<string _locid="801675"/>
+		<string _locid="801676"/>
+		<string _locid="801677"/>
+		<string _locid="801678"/>
+		<string _locid="801679"/>
+		<string _locid="801680"/>
+		<string _locid="801681"/>
+		<string _locid="801682"/>
+		<string _locid="801683"/>
+		<string _locid="801684"/>
+		<string _locid="801685">Use: Builds a Statue of Apollo (decoration)</string>
+		<string _locid="801686"/>
+		<string _locid="801687">Use: Builds a Statue of Ares (decoration)</string>
+		<string _locid="801688"/>
+		<string _locid="801689">Use: Builds a Statue of Dionysus (decoration)</string>
+		<string _locid="801690"/>
+		<string _locid="801691">Use: Builds a Statue of Hades (decoration)</string>
+		<string _locid="801692"/>
+		<string _locid="801693">Use: Builds a Statue of Hera (decoration)</string>
+		<string _locid="801694"/>
+		<string _locid="801695">Use: Builds a Statue of Hermes (decoration)</string>
+		<string _locid="801696"/>
+		<string _locid="801697">Use: Builds a Statue of Poseidon (decoration)</string>
+		<string _locid="801698"/>
+		<string _locid="801699">Use: Builds a Statue of Zeus (decoration)</string>
+		<string _locid="801700"/>
+		<string _locid="801701">Use: Builds a Statue of Athena (decoration)</string>
+		<string _locid="801702"/>
+		<string _locid="801703">Use: Builds a Statue of Aphrodite (decoration)</string>
+		<string _locid="801704"/>
+		<string _locid="801705">Use: Builds a Statue of Ptah (decoration)</string>
+		<string _locid="801706"/>
+		<string _locid="801707">Use: Builds a Statue of Ra (decoration)</string>
+		<string _locid="801708"/>
+		<string _locid="801709">Use: Builds a Statue of Sekhmet (decoration)</string>
+		<string _locid="801710"/>
+		<string _locid="801711">Use: Builds a Statue of Sobek (decoration)</string>
+		<string _locid="801712"/>
+		<string _locid="801713">Use: Builds a Statue of Khepri (decoration)</string>
+		<string _locid="801714"/>
+		<string _locid="801715">Use: Builds a Statue of Hathor (decoration)</string>
+		<string _locid="801716"/>
+		<string _locid="801717">Use: Builds a Statue of Atum (decoration)</string>
+		<string _locid="801718"/>
+		<string _locid="801719">Use: Builds a Statue of Isis (decoration)</string>
+		<string _locid="801720"/>
+		<string _locid="801721">Use: Builds a Statue of Thoth (decoration)</string>
+		<string _locid="801722"/>
+		<string _locid="801723">Use: Builds a Statue of Anubis (decoration)</string>
+		<string _locid="801724">Vanity Ticket</string>
+		<string _locid="801725"/>
+		<string _locid="801726">Golden Ticket</string>
+		<string _locid="801727"/>
+		<string _locid="801728">Use: Builds the Advisor Hall (seats Advisors)</string>
+		<string _locid="801729"/>
+		<string _locid="801730">Use: Builds the Arena (PvP combat)</string>
+		<string _locid="801731"/>
+		<string _locid="801732">Use: Builds the General Store (buy and sell common goods)</string>
+		<string _locid="801733"/>
+		<string _locid="801734">Use: Builds a Decrepit Building</string>
+		<string _locid="801735"/>
+		<string _locid="801736">Use: Builds the Embassy (mail and trade)</string>
+		<string _locid="801737"/>
+		<string _locid="801738">Use: Builds the Trade Dock</string>
+		<string _locid="801739"/>
+		<string _locid="801740">Use: Builds a Large Babylonian Residence (decoration)</string>
+		<string _locid="801741"/>
+		<string _locid="801742">Use: Builds a Babylonian Residence (decoration)</string>
+		<string _locid="801743"/>
+		<string _locid="801744">Use: Builds a Small Babylonian Residence (decoration)</string>
+		<string _locid="801745"/>
+		<string _locid="801746">Use: Builds the Gear Hall (equip gear for units)</string>
+		<string _locid="801747"/>
+		<string _locid="801748">Use: Builds the Blueprint Store (sells crafting recipe stores)</string>
+		<string _locid="801749"/>
+		<string _locid="801750">Use: Builds the Treasury (displays Coin and Faction Points totals)</string>
+		<string _locid="801751"/>
+		<string _locid="801752">Use: Builds Gilgashed (8-slot Warehouse)</string>
+		<string _locid="801753"/>
+		<string _locid="801754">Use: Builds Nebuchadepot (12-slot Warehouse)</string>
+		<string _locid="801755"/>
+		<string _locid="801756">Use: Builds Repositamia (16-slot Warehouse)</string>
+		<string _locid="801757"/>
+		<string _locid="801758">Use: Builds Repositamia (16-slot Warehouse)</string>
+		<string _locid="801759"/>
+		<string _locid="801760">Use: Builds Stashur (20-slot Warehouse)</string>
+		<string _locid="801761"/>
+		<string _locid="801762">Use: Builds the Crafting Hall (Craft School selection)</string>
+		<string _locid="801763"/>
+		<string _locid="801764">Use: Builds a Recipe Store</string>
+		<string _locid="801765"/>
+		<string _locid="801766">Use: Builds a General Store</string>
+		<string _locid="801767"/>
+		<string _locid="801768">Use: Builds a Recipe Store</string>
+		<string _locid="801769"/>
+		<string _locid="801770">Fungal Growth</string>
+		<string _locid="801771">Open Sesame Seeds</string>
+		<string _locid="801772">Rare Spices</string>
+		<string _locid="801773">Queen Bee&apos;s Honey</string>
+		<string _locid="801774">Tears of Isis</string>
+		<string _locid="801775">Tiny Umbrellas</string>
+		<string _locid="801776"/>
+		<string _locid="801777"/>
+		<string _locid="801778"/>
+		<string _locid="801779"/>
+		<string _locid="801780"/>
+		<string _locid="801781"/>
+		<string _locid="801782"/>
+		<string _locid="801783">Use: Builds the Fireworks Stand</string>
+		<string _locid="801784"/>
+		<string _locid="801785"/>
+		<string _locid="801786"/>
+		<string _locid="801787"/>
+		<string _locid="801788"/>
+		<string _locid="801789"/>
+		<string _locid="801790"/>
+		<string _locid="801791"/>
+		<string _locid="801792"/>
+		<string _locid="801793"/>
+		<string _locid="801794"/>
+		<string _locid="801795">Use: Builds the Crafting Hall (Craft School selection)</string>
+		<string _locid="801796"/>
+		<string _locid="801797">Use: Builds the Advisor Hall (seats Advisors)</string>
+		<string _locid="801798"/>
+		<string _locid="801799">Use: Builds the Arena (PvP combat)</string>
+		<string _locid="801800"/>
+		<string _locid="801801">Use: Builds the General Store (buy and sell common goods)</string>
+		<string _locid="801802"/>
+		<string _locid="801803">Use: Builds a Recipe Store</string>
+		<string _locid="801804"/>
+		<string _locid="801805">Use: Builds a General Store</string>
+		<string _locid="801806"/>
+		<string _locid="801807">Use: Builds a Recipe Store</string>
+		<string _locid="801808"/>
+		<string _locid="801809">Use: Builds the Embassy (mail and trade)</string>
+		<string _locid="801810"/>
+		<string _locid="801811">Use: Builds a Large Norse Residence (decoration)</string>
+		<string _locid="801812"/>
+		<string _locid="801813">Use: Builds a Norse Residence (decoration)</string>
+		<string _locid="801814"/>
+		<string _locid="801815">Use: Builds a Small Norse Residence (decoration)</string>
+		<string _locid="801816"/>
+		<string _locid="801817">Use: Builds the Gear Hall (equip gear for units)</string>
+		<string _locid="801818"/>
+		<string _locid="801819">Use: Builds the Trade Dock</string>
+		<string _locid="801820"/>
+		<string _locid="801821">Use: Builds the Treasury (displays Coin and Faction Points totals)</string>
+		<string _locid="801822"/>
+		<string _locid="801823">Use: Builds Vaulthalla (16-slot Warehouse)</string>
+		<string _locid="801824"/>
+		<string _locid="801825">Use: Builds Vaulthalla (16-slot Warehouse)</string>
+		<string _locid="801826"/>
+		<string _locid="801827">Use: Builds Storagnarok (20-slot Warehouse)</string>
+		<string _locid="801828"/>
+		<string _locid="801829">Use: Builds Baldurstash (8-slot Warehouse)</string>
+		<string _locid="801830"/>
+		<string _locid="801831">Use: Builds Lokeep (12-slot Warehouse)</string>
+		<string _locid="801832"/>
+		<string _locid="801833">Use: Builds the Blueprint Store (sells crafting recipe stores)</string>
+		<string _locid="801834"/>
+		<string _locid="801835"/>
+		<string _locid="801836"/>
+		<string _locid="801837">Use: Builds a Greek-themed Grand Warehouse (24-slot Warehouse). Must be built on water</string>
+		<string _locid="801838"/>
+		<string _locid="801839">Use: Builds an Egyptian-themed Grand Warehouse (24-slot Warehouse). Must be built on water</string>
+		<string _locid="801840"/>
+		<string _locid="801841">Use: Builds a Persian-themed Grand Warehouse (24-slot Warehouse). Must be built on water</string>
+		<string _locid="801842"/>
+		<string _locid="801843">Use: Builds a Celtic-themed Grand Warehouse (24-slot Warehouse). Must be built on water</string>
+		<string _locid="801844"/>
+		<string _locid="801845">Use: Builds a Babylonian-themed Grand Warehouse (24-slot Warehouse). Must be built on water</string>
+		<string _locid="801846"/>
+		<string _locid="801848"/>
+		<string _locid="801849">Use: Builds a Norse-themed Grand Warehouse (24-slot Warehouse). Must be built on water</string>
+		<string _locid="801850"/>
+		<string _locid="801851">Use: Builds a Ship Statue (decoration)</string>
+		<string _locid="801852"/>
+		<string _locid="801853">Use: Builds an Ornate Urn (decoration)</string>
+		<string _locid="801854"/>
+		<string _locid="801855">Use: Builds a Statue of Anubis (decoration)</string>
+		<string _locid="801856"/>
+		<string _locid="801857">Use: Builds a Statue of Bastet (decoration)</string>
+		<string _locid="801858"/>
+		<string _locid="801859">Use: Builds a Statue of a War Elephant (decoration)</string>
+		<string _locid="801860"/>
+		<string _locid="801861">Use: Builds a Statue of a Soldier (decoration)</string>
+		<string _locid="801862"/>
+		<string _locid="801863">Use: Builds a Sarcophagus of Imhotep (decoration)</string>
+		<string _locid="801864"/>
+		<string _locid="801865">Use: Builds a Small Delian Residence (decoration)</string>
+		<string _locid="801866"/>
+		<string _locid="801867">Use: Builds a Medium Delian Residence (decoration)</string>
+		<string _locid="801868"/>
+		<string _locid="801869">Use: Builds a Large Delian Residence (decoration)</string>
+		<string _locid="801870"/>
+		<string _locid="801871">Use: Builds a Small Council Residence (decoration)</string>
+		<string _locid="801872"/>
+		<string _locid="801873">Use: Builds a Medium Council Residence (decoration)</string>
+		<string _locid="801874"/>
+		<string _locid="801875">Use: Builds a Large Council Residence (decoration)</string>
+		<string _locid="801876"/>
+		<string _locid="801877">Use: Builds a Small Carthage Residence (decoration)</string>
+		<string _locid="801878"/>
+		<string _locid="801879">Use: Builds a Medium Carthage Residence (decoration)</string>
+		<string _locid="801880"/>
+		<string _locid="801881">Use: Builds a Large Carthage Residence (decoration)</string>
+		<string _locid="801882"/>
+		<string _locid="801883">Use: Builds a Statue of Zeus (decoration)</string>
+		<string _locid="801884"/>
+		<string _locid="801885">Use: Builds a Great Pyramid (decoration)</string>
+		<string _locid="801886"/>
+		<string _locid="801887">Use: Builds a Tree of Life (decoration)</string>
+		<string _locid="801888"/>
+		<string _locid="801889">Use: Builds a Gate of All Nations (decoration)</string>
+		<string _locid="801890"/>
+		<string _locid="801891">Use: Builds a Hanging Garden (decoration)</string>
+		<string _locid="801892"/>
+		<string _locid="801893">Use: Builds a Dragonship (decoration)</string>
+		<string _locid="801894"/>
+		<string _locid="801895">Use: Builds a Ghoulish Graveyard (decoration)\n&lt;color=&quot;0.0 1.0 0.0&quot;&gt;Limited Release&lt;/color&gt;</string>
+		<string _locid="801896"/>
+		<string _locid="801897">Use: Builds a Haunted Werehouse (24-slot warehouse)\n&lt;color=&quot;0.0 1.0 0.0&quot;&gt;Limited Release&lt;/color&gt;</string>
+		<string _locid="801898"/>
+		<string _locid="801899">Use: Builds Repersiatory (20-slot Warehouse)</string>
+		<string _locid="801900"/>
+		<string _locid="801901">Use: Builds Stashur (20-slot Warehouse)</string>
+		<string _locid="801902"/>
+		<string _locid="801903">Use: Builds Storagnarok (20-slot Warehouse)</string>
+		<string _locid="801904"/>
+		<string _locid="801905">Use: Builds a Hoplite (decoration)</string>
+		<string _locid="801906"/>
+		<string _locid="801907">Use: Builds a Hippikon (decoration)</string>
+		<string _locid="801908"/>
+		<string _locid="801909">Use: Builds a Gastraphetes (decoration)</string>
+		<string _locid="801910"/>
+		<string _locid="801911">Use: Builds a Ballista (decoration)</string>
+		<string _locid="801912"/>
+		<string _locid="801913">Use: Builds a Fire Ship (decoration)</string>
+		<string _locid="801914"/>
+		<string _locid="801915">Use: Builds a War Elephant (decoration)</string>
+		<string _locid="801916"/>
+		<string _locid="801917">Use: Builds a Slinger (decoration)</string>
+		<string _locid="801918"/>
+		<string _locid="801919">Use: Builds a Priest of Ptah (decoration)</string>
+		<string _locid="801920"/>
+		<string _locid="801921">Use: Builds a Camel Rider (decoration)</string>
+		<string _locid="801922"/>
+		<string _locid="801923">Use: Builds a Trireme (decoration)</string>
+		<string _locid="801924"/>
+		<string _locid="801925">Use: Builds an Immortal (decoration)</string>
+		<string _locid="801926"/>
+		<string _locid="801927">Use: Builds a Cataphract (decoration)</string>
+		<string _locid="801928"/>
+		<string _locid="801929">Use: Builds a War Wagon (decoration)</string>
+		<string _locid="801930"/>
+		<string _locid="801931">Use: Builds a Ram Ship (decoration)</string>
+		<string _locid="801932"/>
+		<string _locid="801933">Use: Builds a Woad Raider (decoration)</string>
+		<string _locid="801934"/>
+		<string _locid="801935">Use: Builds a Champion (decoration)</string>
+		<string _locid="801936"/>
+		<string _locid="801937">Use: Builds a Druid (decoration)</string>
+		<string _locid="801938"/>
+		<string _locid="801939">Use: Builds a Ram (decoration)</string>
+		<string _locid="801940"/>
+		<string _locid="801941">Use: Builds a Swanship (decoration)</string>
+		<string _locid="801942"/>
+		<string _locid="801943">Use: Builds an Ox Cart (decoration)</string>
+		<string _locid="801944"/>
+		<string _locid="801945">Use: Builds a Lancer (decoration)</string>
+		<string _locid="801946"/>
+		<string _locid="801947">Use: Builds a Siege Tower (decoration)</string>
+		<string _locid="801948"/>
+		<string _locid="801949">Use: Builds a Sapper (decoration)</string>
+		<string _locid="801950"/>
+		<string _locid="801951">Use: Builds a Bireme (decoration)</string>
+		<string _locid="801952"/>
+		<string _locid="801953">Use: Builds a Berserker (decoration)</string>
+		<string _locid="801954"/>
+		<string _locid="801955">Use: Builds a Chief (decoration)</string>
+		<string _locid="801956"/>
+		<string _locid="801957">Use: Builds a War Dog (decoration)</string>
+		<string _locid="801958"/>
+		<string _locid="801959">Use: Builds a Raider (decoration)</string>
+		<string _locid="801960"/>
+		<string _locid="801961">Use: Builds a Longship (decoration)</string>
+		<string _locid="801962"/>
+		<string _locid="801963">Use: Builds a Sparabara (decoration)</string>
+		<string _locid="801966"/>
+		<string _locid="801967">Use: Builds a Celtic Fountain (decoration)</string>
+		<string _locid="801968"/>
+		<string _locid="801969">Use: Builds a Celtic Pillar (decoration)</string>
+		<string _locid="801970"/>
+		<string _locid="801971">Use: Builds a Small Celtic Rock (decoration)</string>
+		<string _locid="801972"/>
+		<string _locid="801973">Use: Builds a Large Celtic Rock (decoration)</string>
+		<string _locid="801974"/>
+		<string _locid="801975">Use: Builds a Woad Raider Statue (decoration)</string>
+		<string _locid="801976"/>
+		<string _locid="801977">Use: Builds a Large Norse Bush (decoration)</string>
+		<string _locid="801978"/>
+		<string _locid="801979">Use: Builds a Small Norse Bush (decoration)</string>
+		<string _locid="801980"/>
+		<string _locid="801981">Use: Builds a Norse Fountain (decoration)</string>
+		<string _locid="801982"/>
+		<string _locid="801983">Use: Builds a Norse Pillar (decoration)</string>
+		<string _locid="801984"/>
+		<string _locid="801985">Use: Builds a Statue of a Farbjoðr (decoration)</string>
+		<string _locid="801986"/>
+		<string _locid="801987">Use: Builds a Large Persian Bush (decoration)</string>
+		<string _locid="801988"/>
+		<string _locid="801989">Use: Builds a Small Persian Bush (decoration)</string>
+		<string _locid="801990"/>
+		<string _locid="801991">Use: Builds a Persian Fountain (decoration)</string>
+		<string _locid="801992"/>
+		<string _locid="801993">Use: Builds a Persian Pillar (decoration)</string>
+		<string _locid="801994"/>
+		<string _locid="801995">Use: Builds a Statue of an Immortal (decoration)</string>
+		<string _locid="801996"/>
+		<string _locid="801997">Use: Builds a Large Babylonian Bush (decoration)</string>
+		<string _locid="801998"/>
+		<string _locid="801999">Use: Builds a Small Babylonian Bush (decoration)</string>
+		<string _locid="802000"/>
+		<string _locid="802001">Use: Builds a Babylonian Fountain (decoration)</string>
+		<string _locid="802002"/>
+		<string _locid="802003">Use: Builds a Babylonian Pillar (decoration)</string>
+		<string _locid="802004"/>
+		<string _locid="802005">Use: Builds a Statue of a Sapper (decoration)</string>
+		<string _locid="802006"/>
+		<string _locid="802007">Use: Builds Allied Assault (decoration)</string>
+		<string _locid="802008"/>
+		<string _locid="802009">Use: Builds Defender of the Universe (decoration)</string>
+		<string _locid="802010"/>
+		<string _locid="802011">Use: Builds Flawless Conquest (decoration)</string>
+		<string _locid="802012"/>
+		<string _locid="802013">Use: Builds a Snow Fort (decoration)\n&lt;color=&quot;0.0 1.0 0.0&quot;&gt;Limited Release&lt;/color&gt;</string>
+		<string _locid="802014"/>
+		<string _locid="802015">Use: Builds a Winter Warehouse (24-slot warehouse)\n&lt;color=&quot;0.0 1.0 0.0&quot;&gt;Limited Release&lt;/color&gt;</string>
+		<string _locid="802016"/>
+		<string _locid="802017">Use: Builds Caracalla&apos;s Bath (decoration)</string>
+		<string _locid="802018"/>
+		<string _locid="802019">Use: Builds Temple of Jupiter (decoration)</string>
+		<string _locid="802020"/>
+		<string _locid="802021">Use: Builds Lapis Niger (decoration)</string>
+		<string _locid="802022"/>
+		<string _locid="802023">Use: Builds Maritime Theater (decoration)</string>
+		<string _locid="802024"/>
+		<string _locid="802025">Use: Builds Triumphal Column (decoration)</string>
+		<string _locid="802026"/>
+		<string _locid="802027">Use: Builds Temple of Vesta (decoration)</string>
+		<string _locid="802028"/>
+		<string _locid="802029">Use: Builds Curia Hostilia (decoration)</string>
 	</language>
 </stringtable>

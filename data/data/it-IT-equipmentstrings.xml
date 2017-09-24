@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<stringtable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="0" locstart="700000" locend="799999" loccurrent="700927">
+<stringtable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="0" locstart="700000" locend="799999" loccurrent="701212">
 	<language name="English">
 		<string _locid="700000">Telaio</string>
 		<string _locid="700001">Aumenta la salute dell&apos;&lt;color=0.32 0.65 1.0&gt;abitante&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% salute&lt;/color&gt;</string>
@@ -351,5 +351,248 @@
 		<string _locid="700793">Migliora molto i &lt;color=0.32 0.65 1.0&gt;lanciatori di pietre&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% salute&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% danno&lt;/color&gt;</string>
 		<string _locid="700794">[NOT USED]</string>
 		<string _locid="700830">Addestra le unità &lt;color=0.32 0.65 1.0&gt;a distanza&lt;/color&gt; e di &lt;color=0.32 0.65 1.0&gt;cavalleria&lt;/color&gt;.</string>
+		<string _locid="700927">Hand Saw</string>
+		<string _locid="700929">Two-man Saw</string>
+		<string _locid="700930">Pickaxe</string>
+		<string _locid="700931">Placer Mining</string>
+		<string _locid="700932">Chisel</string>
+		<string _locid="700934">Stone Splitting</string>
+		<string _locid="700935">Plow</string>
+		<string _locid="700937">Irrigation</string>
+		<string _locid="700938">Barbed Arrows</string>
+		<string _locid="700939">Broadhead Arrows</string>
+		<string _locid="700940">Iron Smelting</string>
+		<string _locid="700941">Damascus Steel</string>
+		<string _locid="700943">Bodkin Arrows</string>
+		<string _locid="700944">Chain Mail</string>
+		<string _locid="700946">Net Lures</string>
+		<string _locid="700947">Net Weights</string>
+		<string _locid="700948">Net Landline</string>
+		<string _locid="700949">Scale Mail</string>
+		<string _locid="700950">Temper</string>
+		<string _locid="700951">Shield Rim</string>
+		<string _locid="700952">Shield Truss</string>
+		<string _locid="700954">Laminar Armor</string>
+		<string _locid="700956">Shield Boss</string>
+		<string _locid="700957">Picker&apos;s Gloves</string>
+		<string _locid="700958">Conditioning</string>
+		<string _locid="700959">Hydraulic Mining</string>
+		<string _locid="700960">Combined Arms</string>
+		<string _locid="700961">Close Combat Expertise</string>
+		<string _locid="700962">Marksmanship</string>
+		<string _locid="700963">Stone Saw</string>
+		<string _locid="700964">Improved Fletching</string>
+		<string _locid="700965">Horsemanship</string>
+		<string _locid="700966">Purebred</string>
+		<string _locid="700971">Improves &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Hypaspist&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Hoplite&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-20% Training Time&lt;/color&gt;</string>
+		<string _locid="700972">Improves &lt;color=0.32 0.65 1.0&gt;Toxotes&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Peltast&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Gastraphetes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% Line-of-Sight&lt;/color&gt;</string>
+		<string _locid="700973">Improves &lt;color=0.32 0.65 1.0&gt;Sarissophoroi&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Prodromos&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Hippikon&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Movement Speed&lt;/color&gt;</string>
+		<string _locid="700975">Increases melee armor for all &lt;color=0.32 0.65 1.0&gt;Military&lt;/color&gt; units.*&lt;color=0.0 1.0 0.0&gt;+20% Melee-Infantry Armor&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% Melee-Cavalry Armor&lt;/color&gt;</string>
+		<string _locid="700976">Town Watch</string>
+		<string _locid="700977">Increases pierce armor for all &lt;color=0.32 0.65 1.0&gt;Military&lt;/color&gt; units.*&lt;color=0.0 1.0 0.0&gt;+20% Pierce Armor&lt;/color&gt;</string>
+		<string _locid="700978">Composite Bow</string>
+		<string _locid="700979">Horseshoes</string>
+		<string _locid="700980">Improves &lt;color=0.32 0.65 1.0&gt;Toxotes&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Peltast&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Gastraphetes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+30% Line-of-Sight&lt;/color&gt;</string>
+		<string _locid="700981">Improves &lt;color=0.32 0.65 1.0&gt;Toxotes&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Peltast&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Gastraphetes&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% Maximum Range&lt;/color&gt;</string>
+		<string _locid="700982">Improves &lt;color=0.32 0.65 1.0&gt;Sarissophoroi&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Prodromos&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Hippikon&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Movement Speed&lt;/color&gt;</string>
+		<string _locid="700983">Improves &lt;color=0.32 0.65 1.0&gt;Sarissophoroi&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Prodromos&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Hippikon&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+5% Movement Speed&lt;/color&gt;</string>
+		<string _locid="700984">Improves &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Hypaspist&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Hoplite&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-30% Training Time&lt;/color&gt;</string>
+		<string _locid="700985">Improves &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Hypaspist&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Hoplite&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% Damage&lt;/color&gt;</string>
+		<string _locid="700987">Improves &lt;color=0.32 0.65 1.0&gt;Buildings&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% Line-of-Sight&lt;/color&gt;</string>
+		<string _locid="700989">Mounted Training</string>
+		<string _locid="700990">Desert Conditioning</string>
+		<string _locid="700994">Scale Mail and Hide Armor</string>
+		<string _locid="700995">Chain Mail and Boiled-Leather Armor</string>
+		<string _locid="700996">Lamellar and Lacquered-Leather Armor</string>
+		<string _locid="700997">Improves &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Axeman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Slinger&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-20% Training Time&lt;/color&gt;</string>
+		<string _locid="700998">Improves &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Axeman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Slinger&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-30% Training Time&lt;/color&gt;</string>
+		<string _locid="700999">Improves &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Axeman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Slinger&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% Damage&lt;/color&gt;</string>
+		<string _locid="701001">Increases melee and pierce armor for all &lt;color=0.32 0.65 1.0&gt;Military&lt;/color&gt; units.*&lt;color=0.0 1.0 0.0&gt;+20% Melee-Infantry Armor&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% Melee-Cavalry Armor&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% Pierce Armor&lt;/color&gt;</string>
+		<string _locid="701002">Crop Rotation</string>
+		<string _locid="701003">Brewing</string>
+		<string _locid="701004">Headhunting</string>
+		<string _locid="701005">Improves &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Cavalry&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Buildings&lt;/color&gt;</string>
+		<string _locid="701006">Improves &lt;color=0.32 0.65 1.0&gt;Slinger&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Villagers&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% Movement Speed&lt;/color&gt;</string>
+		<string _locid="701007">Improves &lt;color=0.32 0.65 1.0&gt;Bowman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% Maximum Range&lt;/color&gt;</string>
+		<string _locid="701008">Egypt&apos;s weapon specialist, the Axeman dispatches Infantry units with ease.</string>
+		<string _locid="701009">Adept in mobility, the Camel Rider easily defeats other Cavalry units but is vulnerable to attacks from Spearmen.</string>
+		<string _locid="701010">Combining both siege and naval capabilities, the Catapult Trireme rains terror on enemy fortifications from offshore.</string>
+		<string _locid="701011">A slow but sturdy war machine, the Siege Tower smashes into Walls and Buildings with incredible force.</string>
+		<string _locid="701012">A basic archer, the Bowman deals massive amounts of damage from afar, especially when in large numbers.</string>
+		<string _locid="701013">Armed against piercing attacks, the javelin-wielding Takabara excels at taking out other Ranged units.</string>
+		<string _locid="701014">An early warship before the invention of the Trireme, the Galley rocks the boat in any naval engagement.</string>
+		<string _locid="701015">Combining both siege and naval capabilities, the Mangonel Galley rains terror on enemy fortifications from offshore.</string>
+		<string _locid="701016">Built for head-on collisions, the Ram Ship smashes into enemy Ships and Buildings to deal massive structural damage.</string>
+		<string _locid="701017">Providing support in and out of combat, the Magus converts enemy units and heals friendly units out of combat.</string>
+		<string _locid="701018">Renowned for its bravery, the Long Swordsman hacks through Infantry with a feverous vigor.</string>
+		<string _locid="701019">A hearty mounted warrior, the Horseman excels at keeping other Cavalry units at bay.</string>
+		<string _locid="701020">Built from the strongest of oak, the Swanship sails the seas with exceptional power.</string>
+		<string _locid="701021">Harnessing incredible strength, the Stone Thrower hurls large stones at its victims.</string>
+		<string _locid="701022">Improves &lt;color=0.32 0.65 1.0&gt;Camel Rider&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Chariot Archer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Movement Speed&lt;/color&gt;</string>
+		<string _locid="701023">Improves &lt;color=0.32 0.65 1.0&gt;Camel Rider&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Chariot Archer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Movement Speed&lt;/color&gt;</string>
+		<string _locid="701024">Improves &lt;color=0.32 0.65 1.0&gt;Camel Rider&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Chariot Archer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+5% Movement Speed&lt;/color&gt;</string>
+		<string _locid="701025">Improves &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Long Swordsman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Woad Raider&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Champion&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-20% Training Time&lt;/color&gt;</string>
+		<string _locid="701026">Improves &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Long Swordsman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Woad Raider&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Champion&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-30% Training Time&lt;/color&gt;</string>
+		<string _locid="701027">Improves &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Long Swordsman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Woad Raider&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Champion&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% Damage&lt;/color&gt;</string>
+		<string _locid="701028">Improves &lt;color=0.32 0.65 1.0&gt;Slinger&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Bowman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% Line-of-Sight&lt;/color&gt;</string>
+		<string _locid="701029">Improves &lt;color=0.32 0.65 1.0&gt;Slinger&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Bowman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+30% Line-of-Sight&lt;/color&gt;</string>
+		<string _locid="701030">Improves &lt;color=0.32 0.65 1.0&gt;Slinger&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Bowman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% Maximum Range&lt;/color&gt;</string>
+		<string _locid="701031">Improves &lt;color=0.32 0.65 1.0&gt;Horseman&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Carpentom&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Movement Speed&lt;/color&gt;</string>
+		<string _locid="701032">Improves &lt;color=0.32 0.65 1.0&gt;Horseman&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Carpentom&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+5% Movement Speed&lt;/color&gt;</string>
+		<string _locid="701033">Improves &lt;color=0.32 0.65 1.0&gt;Sparabara&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-20% Training Time&lt;/color&gt;</string>
+		<string _locid="701034">Improves &lt;color=0.32 0.65 1.0&gt;Sparabara&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-30% Training Time&lt;/color&gt;</string>
+		<string _locid="701035">Improves &lt;color=0.32 0.65 1.0&gt;Sparabara&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% Damage&lt;/color&gt;</string>
+		<string _locid="701036">Improves &lt;color=0.32 0.65 1.0&gt;Bowman&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Takabara&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% Line-of-Sight&lt;/color&gt;</string>
+		<string _locid="701037">Greatly improves &lt;color=0.32 0.65 1.0&gt;Wall&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+125% Health&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;Converts Cost to Stone&lt;/color&gt;</string>
+		<string _locid="701038">Improves &lt;color=0.32 0.65 1.0&gt;Bowman&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Takabara&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+30% Line-of-Sight&lt;/color&gt;</string>
+		<string _locid="701039">Improves &lt;color=0.32 0.65 1.0&gt;Bowman&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Takabara&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% Maximum Range&lt;/color&gt;</string>
+		<string _locid="701040">Improves &lt;color=0.32 0.65 1.0&gt;Asabara&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Mounted Archer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Cataphract&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Movement Speed&lt;/color&gt;</string>
+		<string _locid="701041">Improves &lt;color=0.32 0.65 1.0&gt;Asabara&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Mounted Archer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Cataphract&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Movement Speed&lt;/color&gt;</string>
+		<string _locid="701042">Improves &lt;color=0.32 0.65 1.0&gt;Asabara&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Mounted Archer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Cataphract&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+5% Movement Speed&lt;/color&gt;</string>
+		<string _locid="701043">Shield Bearer</string>
+		<string _locid="701044">Shield Bearer Champion</string>
+		<string _locid="701045">Sapper</string>
+		<string _locid="701046">Sapper Champion</string>
+		<string _locid="701047">Royal Guard</string>
+		<string _locid="701048">Royal Guard Champion</string>
+		<string _locid="701049">Improves &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Shield Bearer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Sapper&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Royal Guard&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-20% Training Time&lt;/color&gt;</string>
+		<string _locid="701050">Improves &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Shield Bearer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Sapper&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Royal Guard&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-30% Training Time&lt;/color&gt;</string>
+		<string _locid="701051">Improves &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Shield Bearer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Sapper&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Royal Guard&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% Damage&lt;/color&gt;</string>
+		<string _locid="701052">Improves &lt;color=0.32 0.65 1.0&gt;Slinger&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Bowman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% Line-of-Sight&lt;/color&gt;</string>
+		<string _locid="701053">Improves &lt;color=0.32 0.65 1.0&gt;Slinger&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Bowman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+30% Line-of-Sight&lt;/color&gt;</string>
+		<string _locid="701054">Improves &lt;color=0.32 0.65 1.0&gt;Slinger&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Bowman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% Maximum Range&lt;/color&gt;</string>
+		<string _locid="701055">Lancer</string>
+		<string _locid="701056">Champion Lancer</string>
+		<string _locid="701057">War Chariot</string>
+		<string _locid="701058">War Chariot Champion</string>
+		<string _locid="701059">Improves &lt;color=0.32 0.65 1.0&gt;Lancer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Mounted Archer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Chariot Archer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;War Chariot&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Movement Speed&lt;/color&gt;</string>
+		<string _locid="701060">Improves &lt;color=0.32 0.65 1.0&gt;Lancer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Mounted Archer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Chariot Archer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;War Chariot&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Movement Speed&lt;/color&gt;</string>
+		<string _locid="701061">Improves &lt;color=0.32 0.65 1.0&gt;Lancer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Mounted Archer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Chariot Archer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;War Chariot&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+5% Movement Speed&lt;/color&gt;</string>
+		<string _locid="701062">Reinforced Cart</string>
+		<string _locid="701063">Cargo Expansion</string>
+		<string _locid="701064">Bireme</string>
+		<string _locid="701065">Bireme Champion</string>
+		<string _locid="701066">Ox Cart</string>
+		<string _locid="701067">Garden</string>
+		<string _locid="701069">Ziggurat</string>
+		<string _locid="701070">Resourcefulness</string>
+		<string _locid="701071">Pharmacology</string>
+		<string _locid="701072">Arithmetic</string>
+		<string _locid="701073">Iron Wheels</string>
+		<string _locid="701074">Cultivation</string>
+		<string _locid="701075">Code of Hammurabi</string>
+		<string _locid="701076">Total War</string>
+		<string _locid="701077">Clay Wall</string>
+		<string _locid="701078">Improves &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% Snare&lt;/color&gt;</string>
+		<string _locid="701079">Improves &lt;color=0.32 0.65 1.0&gt;Shield Bearer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% Pierce Armor&lt;/color&gt;</string>
+		<string _locid="701080">Improves &lt;color=0.32 0.65 1.0&gt;Sapper&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-100% Food Cost&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Buildings&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% Movement Speed&lt;/color&gt;</string>
+		<string _locid="701081">Improves &lt;color=0.32 0.65 1.0&gt;Slinger&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Grants Bonus Damage Immunity&lt;/color&gt;</string>
+		<string _locid="701082">Improves &lt;color=0.32 0.65 1.0&gt;Bowman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-100% Gold Cost&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-20% Training Time&lt;/color&gt;</string>
+		<string _locid="701083">Improves &lt;color=0.32 0.65 1.0&gt;Lancer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Grants Charge Attack\n(x3.0 Bonus Damage)&lt;/color&gt;</string>
+		<string _locid="701084">Improves &lt;color=0.32 0.65 1.0&gt;Mounted Archer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+25% Snare&lt;/color&gt;</string>
+		<string _locid="701085">Improves &lt;color=0.32 0.65 1.0&gt;Chariot Archer&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-50% Cost&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;-20% Health&lt;/color&gt;</string>
+		<string _locid="701086">Improves &lt;color=0.32 0.65 1.0&gt;War Chariot&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+500% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Siege&lt;/color&gt;</string>
+		<string _locid="701087">Improves &lt;color=0.32 0.65 1.0&gt;Siege Tower&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+100% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Grants Larger Area Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Grants Snare Immunity&lt;/color&gt;</string>
+		<string _locid="701088">Improves &lt;color=0.32 0.65 1.0&gt;Ox Cart&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% Health&lt;/color&gt;</string>
+		<string _locid="701089">Improves &lt;color=0.32 0.65 1.0&gt;Ox Cart&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Grants Ability to Garrison 8 &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Villagers&lt;/color&gt;</string>
+		<string _locid="701090">Improves &lt;color=0.32 0.65 1.0&gt;Guard Tower&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Fortress&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Town Center&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-25% Cost&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-25% Build Time&lt;/color&gt;</string>
+		<string _locid="701091">Improves &lt;color=0.32 0.65 1.0&gt;Infantry&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Ranged&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Cavalry&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+1 Health Regen. Per Second&lt;/color&gt;</string>
+		<string _locid="701092">Improves &lt;color=0.32 0.65 1.0&gt;Villager&lt;/color&gt; gathering from &lt;color=0.32 0.65 1.0&gt;Berry Bushes&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Trees&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% Conservation&lt;/color&gt;</string>
+		<string _locid="701093">Improves &lt;color=0.32 0.65 1.0&gt;Ox Cart&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Chariot Archer&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;War Chariot&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Siege Tower&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% Movement Speed&lt;/color&gt;&lt;color=0.0 1.0 0.0&gt;\n(+20% &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Ox Cart&lt;/color&gt;&lt;color=0.0 1.0 0.0&gt;)&lt;/color&gt;</string>
+		<string _locid="701094">Enables a small trickle of Food at the &lt;color=0.32 0.65 1.0&gt;Garden&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+0.5 Food per Second&lt;/color&gt;</string>
+		<string _locid="701095">Improves &lt;color=0.32 0.65 1.0&gt;Priest&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% Conversion Rate&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% Conversion Range&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% Line-of-Sight&lt;/color&gt;</string>
+		<string _locid="701096">Improves &lt;color=0.32 0.65 1.0&gt;Military&lt;/color&gt; units.*&lt;color=0.0 1.0 0.0&gt;+10% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Villagers&lt;/color&gt;</string>
+		<string _locid="701097">Improves &lt;color=0.32 0.65 1.0&gt;Royal Guard&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% Attack Rate&lt;/color&gt;*&lt;color=1.0 0.0 0.0&gt;-50% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Buildings&lt;/color&gt;</string>
+		<string _locid="701098">Able to absorb large amounts of pierce damage, the Shield Bearer provides a near impenetrable line of defense. </string>
+		<string _locid="701099">A mobile Storehouse, used to shorten gathering distances.</string>
+		<string _locid="701100">Equipped with a variety of armaments, the Sapper specializes in undermining fortifications.</string>
+		<string _locid="701101">A protector of kings, the Royal Guard seldom meets its equal in hand-to-hand combat.</string>
+		<string _locid="701102">Boasting an exceptionally long spear, the Lancer slams into Infantry lines, dealing incredible damage.</string>
+		<string _locid="701103">A durable chariot, the War Chariot excels at defeating other large Ranged units.</string>
+		<string _locid="701104">Capable of garrisoning large armies, the Siege Tower often surprises its enemy while laying siege.</string>
+		<string _locid="701105">Empowers all &lt;color=0.32 0.65 1.0&gt;Buildings&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-3% Training Time&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-3% Research Time&lt;/color&gt;</string>
+		<string _locid="701106">Improves &lt;color=0.32 0.65 1.0&gt;Bireme&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% Maximum Range&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% Movement Speed&lt;/color&gt;</string>
+		<string _locid="701107">Predecessor to the Trireme, the Bireme effectively battles in the open sea.</string>
+		<string _locid="701108">Trains &lt;color=0.32 0.65 1.0&gt;Priests&lt;/color&gt;. Researches advanced upgrades. Advances civilization to Bronze, Silver, and Golden Age.</string>
+		<string _locid="701109">Large Garden</string>
+		<string _locid="701110">Royal Garden</string>
+		<string _locid="701111">Improves &lt;color=0.32 0.65 1.0&gt;Garden&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+1% Training Time Reduction&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+1% Research Time Reduction&lt;/color&gt;</string>
+		<string _locid="701112">Improves &lt;color=0.32 0.65 1.0&gt;Garden&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+1% Training Time Reduction&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+1% Research Time Reduction&lt;/color&gt;</string>
+		<string _locid="701113">Improves &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+25% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Cavalry&lt;/color&gt;</string>
+		<string _locid="701114">Throwing Axeman</string>
+		<string _locid="701115">Throwing Axeman Champion</string>
+		<string _locid="701116">Improves &lt;color=0.32 0.65 1.0&gt;Throwing Axeman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+40% Ignore Armor&lt;/color&gt;</string>
+		<string _locid="701117">Skilled in the art of axe throwing, the Throwing Axeman cuts down Infantry units before they even lift their weapon. Builds military and defensive &lt;color=0.32 0.65 1.0&gt;Buildings&lt;/color&gt;.</string>
+		<string _locid="701118">Harjar</string>
+		<string _locid="701119">Hardened by war and cold winters, the Harjar makes it tough for any foe to break the front line. Builds military and defensive &lt;color=0.32 0.65 1.0&gt;Buildings&lt;/color&gt;.</string>
+		<string _locid="701120">Harjar Champion</string>
+		<string _locid="701121">Improves &lt;color=0.32 0.65 1.0&gt;Harjar&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% Melee-Infantry Armor&lt;/color&gt;</string>
+		<string _locid="701122">Berserker</string>
+		<string _locid="701123">Having an unquenchable thirst for battle, the Berserker cleaves its enemies in a maniacal fury. Builds military and defensive &lt;color=0.32 0.65 1.0&gt;Buildings&lt;/color&gt;.</string>
+		<string _locid="701124">Berserker Champion</string>
+		<string _locid="701125">Improves &lt;color=0.32 0.65 1.0&gt;Berserker&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+4 Health Regen. Per Second&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Grants Charge&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Grants Snare Immunity&lt;/color&gt;</string>
+		<string _locid="701126">Ulfheðinn</string>
+		<string _locid="701127">Clad only in wolfskins, the Ulfheðinn wastes Ranged and Cavalry units with incredible speed and agility. Builds military and defensive &lt;color=0.32 0.65 1.0&gt;Buildings&lt;/color&gt;.</string>
+		<string _locid="701128">Ulfheðinn Champion</string>
+		<string _locid="701129">Improves &lt;color=0.32 0.65 1.0&gt;Ulfheðinn&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+100% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Ranged&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+100% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Priests&lt;/color&gt;</string>
+		<string _locid="701130">Raider</string>
+		<string _locid="701131">Cheap and expendable, the Raider is as dangerous on the battlefield as it is when raiding.</string>
+		<string _locid="701132">Raider Champion</string>
+		<string _locid="701133">Improves &lt;color=0.32 0.65 1.0&gt;Raider&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+100% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Villagers&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;Grants Snare Immunity&lt;/color&gt;</string>
+		<string _locid="701134">Skirmisher</string>
+		<string _locid="701135">With plenty of javelins to spare, the Skirmisher excels at taking out other Ranged units.</string>
+		<string _locid="701136">Skirmisher Champion</string>
+		<string _locid="701137">Improves &lt;color=0.32 0.65 1.0&gt;Skirmisher&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Ranged&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-25% Training Time&lt;/color&gt;</string>
+		<string _locid="701138">Improves &lt;color=0.32 0.65 1.0&gt;Bowman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% Snare&lt;/color&gt;</string>
+		<string _locid="701139">Improves &lt;color=0.32 0.65 1.0&gt;Horseman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Cavalry&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+100% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Siege&lt;/color&gt;</string>
+		<string _locid="701140">Improves &lt;color=0.32 0.65 1.0&gt;Farbjoðr&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;Grants Ability to Attack Mobile Units&lt;/color&gt;</string>
+		<string _locid="701141">Improves &lt;color=0.32 0.65 1.0&gt;Log Thrower&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% Bonus Damage vs. &lt;/color&gt;&lt;color=0.32 0.65 1.0&gt;Siege&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% Movement Speed&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;-1 Population Count&lt;/color&gt;</string>
+		<string _locid="701142">Improves &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Throwing Axeman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Harjar&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Berserker&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Ulfheðinn&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-20% Training Time&lt;/color&gt;</string>
+		<string _locid="701143">Improves &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Throwing Axeman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Harjar&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Berserker&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Ulfheðinn&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-30% Training Time&lt;/color&gt;</string>
+		<string _locid="701144">Improves &lt;color=0.32 0.65 1.0&gt;Spearman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Throwing Axeman&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Harjar&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Berserker&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Ulfheðinn&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+15% Damage&lt;/color&gt;</string>
+		<string _locid="701145">Improves &lt;color=0.32 0.65 1.0&gt;Skirmisher&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Bowman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+20% Line-of-Sight&lt;/color&gt;</string>
+		<string _locid="701146">Improves &lt;color=0.32 0.65 1.0&gt;Skirmisher&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Bowman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+30% Line-of-Sight&lt;/color&gt;</string>
+		<string _locid="701147">Improves &lt;color=0.32 0.65 1.0&gt;Skirmisher&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Bowman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+20% Maximum Range&lt;/color&gt;</string>
+		<string _locid="701148">Improves &lt;color=0.32 0.65 1.0&gt;Raider&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Horseman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Movement Speed&lt;/color&gt;</string>
+		<string _locid="701149">Improves &lt;color=0.32 0.65 1.0&gt;Raider&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Horseman&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+10% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+10% Damage&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+5% Movement Speed&lt;/color&gt;</string>
+		<string _locid="701150">Great Hall</string>
+		<string _locid="701151">Longship</string>
+		<string _locid="701152">Graceful, light, and narrow, the Longship rivals some of the toughest ships on the sea, while also providing a sizeable transport.</string>
+		<string _locid="701153">Longship Champion</string>
+		<string _locid="701154">Improves &lt;color=0.32 0.65 1.0&gt;Longship&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+15% Damage&lt;/color&gt;</string>
+		<string _locid="701155">Seer</string>
+		<string _locid="701156">Rhapsode</string>
+		<string _locid="701157">Longhouse</string>
+		<string _locid="701158">Improves &lt;color=0.32 0.65 1.0&gt;Seer&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Raven&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% Line-of-Sight&lt;/color&gt;</string>
+		<string _locid="701159">Improves &lt;color=0.32 0.65 1.0&gt;Rhapsode&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+30% Healing Rate&lt;/color&gt;</string>
+		<string _locid="701160">Chief</string>
+		<string _locid="701161">Chief Champion</string>
+		<string _locid="701162">Eye of Wodan</string>
+		<string _locid="701163">Drink of Aegir</string>
+		<string _locid="701164">Improves &lt;color=0.32 0.65 1.0&gt;Chief&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+50% Health&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+50% Damage&lt;/color&gt;</string>
+		<string _locid="701165">Outpost</string>
+		<string _locid="701166">Trains &lt;color=0.32 0.65 1.0&gt;War Dogs&lt;/color&gt;. Provides line-of-sight.</string>
+		<string _locid="701167">War Dog</string>
+		<string _locid="701168">Ready at a moment&apos;s notice, the War Dog keeps enemies from fleeing the battlefield.</string>
+		<string _locid="701169">Dog Training</string>
+		<string _locid="701170">Improves &lt;color=0.32 0.65 1.0&gt;War Dog&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;-30% Training Time&lt;/color&gt;*&lt;color=0.0 1.0 0.0&gt;+12 Build Limit&lt;/color&gt;</string>
+		<string _locid="701171">Capable of converting enemy units, the Seer also summons Ravens to fly around and gather critical information.</string>
+		<string _locid="701172">A talented musician and poet, the Rhapsode serenates its enemies and brings comfort and healing to large groups of friendly units out of combat.</string>
+		<string _locid="701173">A fearsome war leader, the Chief boosts the health and courage of all nearby friendly units.</string>
+		<string _locid="701174">Burning Pitch</string>
+		<string _locid="701175">Improves &lt;color=0.32 0.65 1.0&gt;Fortress&lt;/color&gt;.*&lt;color=0.0 1.0 0.0&gt;+80 Burning Damage Over 8 Seconds&lt;/color&gt;</string>
+		<string _locid="701176">Log Thrower</string>
+		<string _locid="701177">Log Thrower Champion</string>
+		<string _locid="701178">Harnessing incredible strength, the Log Thrower hurls large wooden logs at its victims.</string>
+		<string _locid="701179">Increases population limit by 10. Provides garrison for &lt;color=0.32 0.65 1.0&gt;Villagers&lt;/color&gt;.</string>
+		<string _locid="701180">Trains &lt;color=0.32 0.65 1.0&gt;Chief&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Priest&lt;/color&gt; units.</string>
+		<string _locid="701181">A fast-moving unit with exceptional sight, the Scout specializes in exploring the map and scouting enemy territory. Builds &lt;color=0.32 0.65 1.0&gt;Outposts&lt;/color&gt;.</string>
+		<string _locid="701182">A fast-moving unit with exceptional sight, the Scout specializes in exploring the map and scouting enemy territory. Builds &lt;color=0.32 0.65 1.0&gt;Barracks&lt;/color&gt;.</string>
+		<string _locid="701183">Farbjoðr</string>
+		<string _locid="701185">Dragging a giant boulder by hand, the Farbjoðr makes quick work of any Building in its way.</string>
+		<string _locid="701186">Farbjoðr Champion</string>
+		<string _locid="701209">A strong defensive building. Trains &lt;color=0.32 0.65 1.0&gt;Farbjoðr&lt;/color&gt;, &lt;color=0.32 0.65 1.0&gt;Log Throwers&lt;/color&gt;, and Advisor units.</string>
+		<string _locid="701210">The most basic military unit, the Spearman excels at overcoming Cavalry. Builds military and defensive &lt;color=0.32 0.65 1.0&gt;Buildings&lt;/color&gt;.</string>
+		<string _locid="701211">Trains &lt;color=0.32 0.65 1.0&gt;Infantry&lt;/color&gt; and &lt;color=0.32 0.65 1.0&gt;Slinger&lt;/color&gt; units.</string>
 	</language>
 </stringtable>

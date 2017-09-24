@@ -19,6 +19,10 @@
 <div class="inside" id="news">
 
 
+<h1>09/23/17: Athens Update</h1>
+<img src="/images/Art/UserInterface/Icons/Equipment/Generic/Arrows/Arrow_E61_ua.png" alt="newsicon" style="float:left;margin:0 5px 0 0;" />
+<p>Updated database for latest celeste changes, including our new celeste exclusive items! The dreaded apostrophe issue is now resolved - no more andapos.<br /><br /><br /></p>
+
 <h1>07/10/17: Patch Update</h1>
 <img src="/images/sword.png" alt="newsicon" style="float:left;margin:0 5px 0 0;" />
 <p>Images are fixed and the Items database is updated with the latest Celeste patch.<br /><br /><br /></p>
@@ -29,11 +33,11 @@
 <img src="/images/Art/UserInterface/Icons/Consumable/ConBandEliteCav4_ua.png" alt="newsicon" style="float:left;margin:0 5px 0 0;" />
 <p>Updated to the latest game version. Added the Norse civilization and all the new consumables and etc. Enjoy!<br /><br /><br /></p>
 
-
+<!-- 
 <h1>08/14/12: Patch Update</h1>
 <img src="/images/Art/UserInterface/Icons/Equipment/Vanity/102_ElGourdo_Gear_ua.png" width="64px" alt="newsicon" style="float:left;margin:0 5px 0 0;" />
 <p>Updated to Anniversary Patch! As usual artwork is taking up a bit of time to upload but will be completely up tonight. We're excited about the anniversary update as it introduces a whole new civs and more quests. As usual if you have any questions/comments/concerns contact us!
-<br /> It's no longer Dave's fault.</p>
+<br /> It's no longer Dave's fault.</p> -->
 
 <!--
 <h1>03/27/12: Patch Update</h1>

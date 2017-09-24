@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<loadingscreens xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" locstart="200000" locend="200999" loccurrent="200077">
+<loadingscreens xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" locstart="200000" locend="200999" loccurrent="200101">
 	<loadscreen name="LOAD_StartingPlayer_Chat_01" filename="" _locid="200000" minlevel="0" maxlevel="4">Se rimani bloccato, chiedi aiuto agli altri giocatori nella chat.</loadscreen>
 	<loadscreen name="LOAD_StartingPlayer_Food_01" filename="" _locid="200001" minlevel="0" maxlevel="4">Il cibo è necessario per addestrare gli abitanti e le unità militari.</loadscreen>
 	<loadscreen name="LOAD_StartingPlayer_Wood_01" filename="" _locid="200002" minlevel="0" maxlevel="4">Il legname è necessario per costruire edifici.</loadscreen>
@@ -94,4 +94,40 @@
 	<loadscreen name="Load_Random_Upsell_VanityGear_v1" filename="loadscreentips\Randoms\Load_Random_Upsell_VanityGear_v1.xml" _locid="200916" minlevel="1" maxlevel="99"/>
 	<loadscreen name="Load_Random_Upsell_VanityGear_v2" filename="loadscreentips\Randoms\Load_Random_Upsell_VanityGear_v2.xml" _locid="200917" minlevel="1" maxlevel="99"/>
 	<loadscreen name="Load_Random_Upsell_EmpirePoints" filename="loadscreentips\Randoms\Load_Random_Upsell_EmpirePoints.xml" _locid="200918" minlevel="1" maxlevel="99"/>
+	<loadscreen name="Load_Random_Upsell_VanityIsland" filename="loadscreentips\Randoms\Load_Random_Upsell_VanityIsland.xml" _locid="200919" minlevel="1" maxlevel="99"/>
+	<loadscreen name="Load_Random_Upsell_Consumables" filename="loadscreentips\Randoms\Load_Random_Upsell_Consumables.xml" _locid="200920" minlevel="1" maxlevel="99"/>
+	<loadscreen name="Load_Random_Alliance_Carthage" filename="loadscreentips\Randoms\Load_Random_Alliance_Carthage.xml" _locid="200921" minlevel="30" maxlevel="39"/>
+	<loadscreen name="Load_Random_Alliance_Imhotep" filename="loadscreentips\Randoms\Load_Random_Alliance_Imhotep.xml" _locid="200922" minlevel="30" maxlevel="39"/>
+	<loadscreen name="Load_Random_Alliance_Delian" filename="loadscreentips\Randoms\Load_Random_Alliance_Delian.xml" _locid="200923" minlevel="30" maxlevel="39"/>
+	<loadscreen name="Load_Random_Alliances_Metagame" filename="loadscreentips\Randoms\Load_Random_Alliances_Metagame.xml" _locid="200923" minlevel="10" maxlevel="39"/>
+	<loadscreen name="Load_Random_Upsell_B03" filename="loadscreentips\Randoms\Load_Random_Upsell_B03.xml" _locid="200924" minlevel="1" maxlevel="99" excludeoffertype="cOfferBooster3"/>
+	<loadscreen name="Load_Random_Upsell_C06" filename="loadscreentips\Randoms\Load_Random_Upsell_C06.xml" _locid="200925" minlevel="1" maxlevel="99" excludeoffertype="cOfferCivBabylonian"/>
+	<loadscreen name="Load_Random_Feature_EmpireVault" filename="loadscreentips\Randoms\Load_Random_Feature_EmpireVault.xml" _locid="200926" minlevel="1" maxlevel="99" excludeoffertype="cOfferEmpireInventory"/>
+	<loadscreen name="Load_Random_Upsell_C07" filename="loadscreentips\Randoms\Load_Random_Upsell_C07.xml" _locid="200927" minlevel="1" maxlevel="99" excludeoffertype="cOfferCivNorse"/>
+	<loadscreen name="Load_Random_Upsell_B04" filename="loadscreentips\Randoms\Load_Random_Upsell_C07.xml" _locid="200928" minlevel="1" maxlevel="99" excludeoffertype="cOfferBooster4"/>
+	<loadscreen name="Load_Random_Upsell_CityConsumables" filename="loadscreentips\Randoms\Load_Random_Upsell_CityConsumables.xml" _locid="200929" minlevel="1" maxlevel="99"/>
+	<loadscreen name="Load_Celtic_WoadRaider" _locid="200077" minlevel="10" maxlevel="99">The Celtic Woad Raider is a highly effective raiding unit, due to its mobility and high attack damage.</loadscreen>
+	<loadscreen name="Load_Celtic_Champion" _locid="200078" minlevel="10" maxlevel="99">The Celtic Champion is most effective when using its cleave attack against packs of enemies.</loadscreen>
+	<loadscreen name="Load_Celtic_Druid" _locid="200079" minlevel="10" maxlevel="99">Celtic Druids empower friendly units while healing, granting them bonus attack damage.</loadscreen>
+	<loadscreen name="Load_Celtic_LongSwordman" _locid="200080" minlevel="10" maxlevel="99">The Long Swordsman is the heart of the Celtic army with its unrivaled attack strength.</loadscreen>
+	<loadscreen name="Load_Celtic_General01" _locid="200081" minlevel="10" maxlevel="99">The Celts are an Infantry-focused civilization.</loadscreen>
+	<loadscreen name="Load_Celtic_General02" _locid="200082" minlevel="10" maxlevel="99">The Celts can gain powerful buffs through animal sacrifices.</loadscreen>
+	<loadscreen name="Load_Persian_Immortal" _locid="200083" minlevel="10" maxlevel="99">The Persian Immortal is the only Infantry unit that possesses both melee and ranged attacks.</loadscreen>
+	<loadscreen name="Load_Persian_Cataphract" _locid="200084" minlevel="10" maxlevel="99">The Persian Cataphract is a powerful Cavalry unit, effective against both Infantry and Siege units.</loadscreen>
+	<loadscreen name="Load_Persian_WarWagon" _locid="200085" minlevel="10" maxlevel="99">Unlike the Ballista and Catapult, the Persian War Wagon can attack enemy units at close range.</loadscreen>
+	<loadscreen name="Load_Persian_Sparabara" _locid="200086" minlevel="10" maxlevel="99">The Persian Sparabara is best used as a defensive line while Bowmen shower the enemy with deadly arrows.</loadscreen>
+	<loadscreen name="Load_Persian_General01" _locid="200087" minlevel="10" maxlevel="99">The Persians possess powerful Toggle Techs that can be activated and deactivated at anytime.</loadscreen>
+	<loadscreen name="Load_Persian_General02" _locid="200088" minlevel="10" maxlevel="99">The Persian Aid Tent technology upgrades their Storehouses to heal nearby friendly units.</loadscreen>
+	<loadscreen name="Load_Babylonian_OxCart" _locid="200089" minlevel="10" maxlevel="99">The Babylonians do not have a Storehouse; instead, they train Ox Carts that serve as mobile drop sites.</loadscreen>
+	<loadscreen name="Load_Babylonian_ShieldBearer" _locid="200090" minlevel="10" maxlevel="99">The Babylonian Shield Bearer is exceptional at absorbing enemy pierce damage.</loadscreen>
+	<loadscreen name="Load_Babylonian_Lancer" _locid="200091" minlevel="10" maxlevel="99">Upgrade the Babylonian Lancer to employ devastating charge attacks, dealing 3x the normal damage on impact.</loadscreen>
+	<loadscreen name="Load_Babylonian_SiegeTower" _locid="200092" minlevel="10" maxlevel="99">Garrison units inside the Babylonian Siege Tower to gain a ranged attack whose damage is based on the number of sheltered units.</loadscreen>
+	<loadscreen name="Load_Babylonian_General01" _locid="200093" minlevel="10" maxlevel="99">Babylonian Gardens increase the rate at which all units and upgrades are trained or researched.</loadscreen>
+	<loadscreen name="Load_Babylonian_General02" _locid="200094" minlevel="10" maxlevel="99">Command Babylonian Ox Carts to follow gathering Villagers by including them in the selection.</loadscreen>
+	<loadscreen name="Load_Norse_ThrowingAxeman" _locid="200095" minlevel="0" maxlevel="0">Unlike typical Ranged units, like Bowman and Slingers, the Norse Throwing Axeman deals melee-infantry damage from range.</loadscreen>
+	<loadscreen name="Load_Norse_WarDog" _locid="200096" minlevel="0" maxlevel="0">The Norse War Dog moves with great speed and snares its enemies, making it perfect for catching retreating enemies.</loadscreen>
+	<loadscreen name="Load_Norse_Berserker" _locid="200097" minlevel="0" maxlevel="0">The Norse Berserker is an extremely powerful unit, but comes at a hefty cost.</loadscreen>
+	<loadscreen name="Load_Norse_Chief" _locid="200098" minlevel="0" maxlevel="0">The Norse Chief grants extra health to friendly units around him.</loadscreen>
+	<loadscreen name="Load_Norse_General01" _locid="200099" minlevel="0" maxlevel="0">Norse Infantry units can build military production and defensive Buildings.</loadscreen>
+	<loadscreen name="Load_Norse_Gereral02" _locid="200100" minlevel="0" maxlevel="0">The Norse start with two Scouts, one of which can build a Barracks.</loadscreen>
 </loadingscreens>
