@@ -55,19 +55,25 @@
 	<!-- Celeste Balance Changes New Techs  -->
 	
 	<!-- UNIT - GE -->
+
+	<Tech name="GreekTechRam_Upgrade1">PVP_GreekTechRam_Upgrade1</Tech>		
+	<Tech name="GreekTechPriestRange1">PVP_GreekTechPriestRange1</Tech>	
 	
 	<!-- UNIT - EG -->
 
 	<Tech name="EgyptTechElephantArcher_Upgrade1">PVP_EgyptTechElephantArcher_Upgrade1</Tech>
+	<Tech name="EgyptTechSiegeTower_Upgrade1">PVP_EgyptTechSiegeTower_Upgrade1</Tech>	
 	
 	<!-- UNIT - PE -->
 	
 	<Tech name="PersiaTechArcRange1">PVP_PersiaTechArcRange1</Tech>
 	<Tech name="PersiaTechBatteringRam_Upgrade1">PVP_PersiaTechBatteringRam_Upgrade1</Tech>	
+	<Tech name="PersiaTechZorostrianConvert1">PVP_PersiaTechZorostrianConvert1</Tech>	
 	
 	<!-- UNIT - CE -->	
 	
 	<Tech name="CeltTechBardHall3">PVP_CeltTechBardHall3</Tech>
+	<Tech name="CeltTechDruidHeal">PVP_CeltTechDruidHeal</Tech>	
 	
 	<!-- UNIT - BA -->
 	
@@ -80,6 +86,7 @@
 	<Tech name="BabylonTechSlinger_Upgrade1">PVP_BabylonTechSlinger_Upgrade1</Tech>
 	<Tech name="BabylonTechGarden_Upgrade1">PVP_BabylonTechGarden_Upgrade1</Tech>
 	<Tech name="BabylonTechGarden_Upgrade2">PVP_BabylonTechGarden_Upgrade2</Tech>
+	<Tech name="BabylonTechPriest1">PVP_BabylonTechPriest1</Tech>	
 
 	<!-- UNIT - NO -->
 	
@@ -87,5 +94,6 @@
 	<Tech name="NorseTechRaider_Upgrade1">PVP_NorseTechRaider_Upgrade1</Tech>
 	<Tech name="NorseCapAge2">PVP_NorseCapAge2</Tech>
 	<Tech name="NorseTechBerserker_Upgrade1">PVP_NorseTechBerserker_Upgrade1</Tech>	
+	<Tech name="NorseTechWarDog_Upgrade1">PVP_NorseTechWarDog_Upgrade1</Tech>		
 	
 </TechTreeOverrides>

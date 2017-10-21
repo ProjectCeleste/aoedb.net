@@ -50,10 +50,10 @@
 		<ProtoAction>
 			<Name>Convert</Name>
 			<MaxRange>22.000000</MaxRange>
-			<Rate type="StandardConvertable">16.000000</Rate>
-			<Rate type="ConvertableCavalry">16.000000</Rate>
-			<Rate type="ConvertableInfantry">16.000000</Rate>
-			<Rate type="ConvertableSiege">16.000000</Rate>
+			<Rate type="StandardConvertable">15.000000</Rate> <!--edit org 16-->
+			<Rate type="ConvertableCavalry">15.000000</Rate> <!--edit org 16-->
+			<Rate type="ConvertableInfantry">15.000000</Rate> <!--edit org 16-->
+			<Rate type="ConvertableSiege">15.000000</Rate> <!--edit org 16-->
 		</ProtoAction>
 		<ProtoAction> <!--edit add-->
 			<Name>Heal</Name>
@@ -71,13 +71,14 @@
 		</ProtoAction>
 	</ProtoUnitOverride>
 	<ProtoUnitOverride name="Pe_Spc_Magus">
+		<MaxHitpoints>140.0000</MaxHitpoints> <!-- edit add-->
 		<ProtoAction>
 			<Name>Convert</Name>
 			<MaxRange>22.000000</MaxRange>&gt;
-			<Rate type="StandardConvertable">16.000000</Rate>
-			<Rate type="ConvertableCavalry">16.000000</Rate>
-			<Rate type="ConvertableInfantry">16.000000</Rate>
-			<Rate type="ConvertableSiege">16.000000</Rate>
+			<Rate type="StandardConvertable">15.000000</Rate> <!--edit org 16-->
+			<Rate type="ConvertableCavalry">15.000000</Rate> <!--edit org 16-->
+			<Rate type="ConvertableInfantry">15.000000</Rate> <!--edit org 16-->
+			<Rate type="ConvertableSiege">15.000000</Rate> <!--edit org 16-->
 		</ProtoAction>
 		<ProtoAction> <!--edit add-->
 			<Name>Heal</Name>
@@ -89,10 +90,10 @@
 		<ProtoAction>
 			<Name>Convert</Name>
 			<MaxRange>22.000000</MaxRange>&gt;
-			<Rate type="StandardConvertable">16.000000</Rate>
-			<Rate type="ConvertableCavalry">16.000000</Rate>
-			<Rate type="ConvertableInfantry">16.000000</Rate>
-			<Rate type="ConvertableSiege">16.000000</Rate>
+			<Rate type="StandardConvertable">15.000000</Rate> <!--edit org 16-->
+			<Rate type="ConvertableCavalry">15.000000</Rate> <!--edit org 16-->
+			<Rate type="ConvertableInfantry">15.000000</Rate> <!--edit org 16-->
+			<Rate type="ConvertableSiege">15.000000</Rate> <!--edit org 16-->
 		</ProtoAction>
 		<ProtoAction> <!--edit add-->
 			<Name>Heal</Name>
@@ -104,10 +105,10 @@
 		<ProtoAction>
 			<Name>Convert</Name>
 			<MaxRange>22.000000</MaxRange>&gt;
-			<Rate type="StandardConvertable">16.000000</Rate>
-			<Rate type="ConvertableCavalry">16.000000</Rate>
-			<Rate type="ConvertableInfantry">16.000000</Rate>
-			<Rate type="ConvertableSiege">16.000000</Rate>
+			<Rate type="StandardConvertable">15.000000</Rate> <!--edit org 16-->
+			<Rate type="ConvertableCavalry">15.000000</Rate> <!--edit org 16-->
+			<Rate type="ConvertableInfantry">15.000000</Rate> <!--edit org 16-->
+			<Rate type="ConvertableSiege">15.000000</Rate> <!--edit org 16-->
 		</ProtoAction>
 		<ProtoAction> <!--edit add-->
 			<Name>Heal</Name>
@@ -119,20 +120,20 @@
 		<ProtoAction>
 			<Name>Convert</Name>
 			<MaxRange>22.000000</MaxRange>&gt;
-			<Rate type="StandardConvertable">16.000000</Rate>
-			<Rate type="ConvertableCavalry">16.000000</Rate>
-			<Rate type="ConvertableInfantry">16.000000</Rate>
-			<Rate type="ConvertableSiege">16.000000</Rate>
+			<Rate type="StandardConvertable">15.000000</Rate> <!--edit org 16-->
+			<Rate type="ConvertableCavalry">15.000000</Rate> <!--edit org 16-->
+			<Rate type="ConvertableInfantry">15.000000</Rate> <!--edit org 16-->
+			<Rate type="ConvertableSiege">15.000000</Rate> <!--edit org 16-->
 		</ProtoAction>
 	</ProtoUnitOverride>
 	<ProtoUnitOverride name="No_Spc_Bard">
 		<ProtoAction>
 			<Name>Convert</Name>
 			<MaxRange>22.000000</MaxRange>&gt;
-			<Rate type="StandardConvertable">16.000000</Rate>
-			<Rate type="ConvertableCavalry">16.000000</Rate>
-			<Rate type="ConvertableInfantry">16.000000</Rate>
-			<Rate type="ConvertableSiege">16.000000</Rate>
+			<Rate type="StandardConvertable">15.000000</Rate> <!--edit org 16-->
+			<Rate type="ConvertableCavalry">15.000000</Rate> <!--edit org 16-->
+			<Rate type="ConvertableInfantry">15.000000</Rate> <!--edit org 16-->
+			<Rate type="ConvertableSiege">15.000000</Rate> <!--edit org 16-->
 		</ProtoAction>
 	</ProtoUnitOverride>
 	<ProtoUnitOverride name="Gr_Bldg_SiegeWorkshop">
@@ -444,6 +445,11 @@
 			<Rate type="ConvertableInfantry">13.000000</Rate>
 			<Rate type="ConvertableSiege">13.000000</Rate>
 		</ProtoAction>
+		<ProtoAction> <!--edit add-->
+			<Name>Heal</Name>
+			<Rate type ='LogicalTypeHealed'>40.000000</Rate>
+			<MaxRange>16.000000</MaxRange>
+		</ProtoAction>			
 	</ProtoUnitOverride>
 	<ProtoUnitOverride name="Eg_Spc_PriestPtah">
 		<TrainPoints>30.0000</TrainPoints>
@@ -466,6 +472,15 @@
 		<Cost resourcetype="Gold">60.0000</Cost>
 		<MaxVelocity>10.0000</MaxVelocity>
 		<MaxRunVelocity>15.00000</MaxRunVelocity>
+		<ProtoAction> <!--EDIT ADD-->
+			<Name>RangedAttack</Name>
+			<Damage>14.000000</Damage>
+			<ROF>0.000000</ROF>
+			<MaxRange>15.000000</MaxRange>
+			<DamageType>Ranged</DamageType>
+			<MaxHeight>0.200000</MaxHeight>
+			<DamageBonus type ='AbstractCavalry'>2.300000</DamageBonus>
+		</ProtoAction>		
 	</ProtoUnitOverride>
 	<ProtoUnitOverride name="Pe_Cav_Cataphract">
 		<MaxVelocity>9.0000</MaxVelocity> <!--EDIT +1-->
@@ -648,7 +663,7 @@
 		</ProtoAction>
 	</ProtoUnitOverride>
 	<ProtoUnitOverride name="Ce_Inf_Champion">
-		<MaxHitpoints>420.0000</MaxHitpoints>
+		<MaxHitpoints>450.0000</MaxHitpoints>
 		<MaxVelocity>5.5000</MaxVelocity>
 		<MaxRunVelocity>8.2500</MaxRunVelocity>
 	</ProtoUnitOverride>

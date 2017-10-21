@@ -15734,7 +15734,7 @@
 			<Effect type="Data" amount="40.0000" scaling="0.0000" subtype="Cost" resource="Gold" relativity="Absolute">
 				<Target type="ProtoUnit">Pe_Civ_Villager</Target>
 			</Effect>
-			<Effect type="Data" amount="0.5500" scaling="0.0000" subtype="TrainPoints" relativity="Percent">
+			<Effect type="Data" amount="0.6667" scaling="0.0000" subtype="TrainPoints" relativity="Percent"> <!-- edit org 0.5500-->
 				<Target type="ProtoUnit">Pe_Civ_Villager</Target>
 			</Effect>
 		</Effects>
@@ -18155,7 +18155,7 @@
 		<ResearchPoints>1.0000</ResearchPoints>
 		<Status>UNOBTAINABLE</Status>
 		<Icon>\UserInterface\Icons\Techs\C04TechPaidLabor_ua</Icon>
-		<RolloverTextID>62116</RolloverTextID>
+		<RolloverTextID>110045</RolloverTextID> <!--edit org 62116-->
 		<ContentPack>6</ContentPack>
 		<Flag>IsAward</Flag>
 		<Prereqs>
@@ -29408,6 +29408,7 @@
 			<SpecificAge>Age3</SpecificAge>
 		</Prereqs>
 		<Effects>
+			<Effect type="SetName" proto="No_Inf_Chief" culture="none" newName="67598"/>		
 			<Effect type="Data" amount="1.5000" scaling="0.0000" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">No_Inf_Chief</Target>
 			</Effect>
@@ -31489,8 +31490,8 @@
 	<Tech name="PVP_PersiaTechBatteringRam_Upgrade1" type="Normal">
 		<DBID>5743</DBID>
 		<DisplayNameID>64601</DisplayNameID>
-		<Cost resourcetype="Gold">400.0000</Cost>
-		<ResearchPoints>60.0000</ResearchPoints>
+		<Cost resourcetype="Gold">300.0000</Cost>
+		<ResearchPoints>30.0000</ResearchPoints>
 		<Status>UNOBTAINABLE</Status>
 		<Icon>UserInterface\Icons\Techs\GreekTechRamS_ua</Icon>
 		<RolloverTextID>64600</RolloverTextID>
@@ -31592,4 +31593,500 @@
 			</Effect>
 		</Effects>
 	</Tech>		
+
+	<Tech name="PVP_GreekTechRam_Upgrade1" type="Normal">
+		<DBID>5747</DBID>
+		<DisplayNameID>64470</DisplayNameID>
+		<Cost resourcetype="Gold">300.0000</Cost>
+		<ResearchPoints>30.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>UserInterface\Icons\Techs\GreekTechRamS_ua</Icon>
+		<RolloverTextID>64469</RolloverTextID>
+		<ContentPack>1</ContentPack>
+		<Flag>IsAward</Flag>
+		<Prereqs>
+			<SpecificAge>Age3</SpecificAge>
+		</Prereqs>
+		<Effects>
+			<Effect type="Data" amount="1.5000" scaling="0.0000" subtype="Damage" allactions="1" relativity="Percent">
+				<Target type="ProtoUnit">Gr_Sie_BatteringRam</Target>
+			</Effect>
+			<Effect type="Data" amount="1000.0000" scaling="0.0000" subtype="TargetSpeedBoostResist" relativity="Percent">
+				<Target type="ProtoUnit">Gr_Sie_BatteringRam</Target>
+			</Effect>
+			<Effect type="SetName" proto="Gr_Sie_BatteringRam" culture="none" newName="64471"/>
+		</Effects>
+	</Tech>
+
+	<Tech name="PVP_EgyptTechSiegeTower_Upgrade1" type="Normal">
+		<DBID>5748</DBID>
+		<DisplayNameID>64566</DisplayNameID>
+		<Cost resourcetype="Gold">300.0000</Cost>
+		<ResearchPoints>30.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>UserInterface\Icons\Techs\EgyptTechSiegeTowerS_ua</Icon>
+		<RolloverTextID>64565</RolloverTextID>
+		<ContentPack>2</ContentPack>
+		<Flag>IsAward</Flag>
+		<Prereqs>
+			<SpecificAge>Age3</SpecificAge>
+		</Prereqs>
+		<Effects>
+			<Effect type="Data" amount="1000.0000" scaling="0.0000" subtype="TargetSpeedBoostResist" relativity="Percent">
+				<Target type="ProtoUnit">Eg_Sie_SiegeTower</Target>
+			</Effect>
+			<Effect type="Data" amount="1.5000" scaling="0.0000" subtype="Hitpoints" relativity="Percent">
+				<Target type="ProtoUnit">Eg_Sie_SiegeTower</Target>
+			</Effect>
+			<Effect type="SetName" proto="Eg_Sie_SiegeTower" culture="none" newName="64567"/>
+		</Effects>
+	</Tech>	
+	
+	<Tech name="PVP_PersiaTechZorostrianConvert1" type="Normal">
+		<DBID>5749</DBID>
+		<DisplayNameID>61348</DisplayNameID>
+		<Cost resourcetype="Gold">800.0000</Cost>
+		<ResearchPoints>60.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>\UserInterface\Icons\Techs\C04WithoutNumber_ua</Icon>
+		<RolloverTextID>110048</RolloverTextID>
+		<ContentPack>6</ContentPack>
+		<Flag>IsAward</Flag>
+		<Prereqs>
+			<SpecificAge>Age3</SpecificAge>
+		</Prereqs>
+		<Effects>
+			<Effect type="Data" action="Convert" amount="0.6668" scaling="0.0000" subtype="WorkRate" unittype="StandardConvertable" relativity="Percent">
+				<Target type="ProtoUnit">Pe_Spc_Magus</Target>
+			</Effect>
+			<Effect type="Data" action="Convert" amount="0.6668" scaling="0.0000" subtype="WorkRate" unittype="ConvertableInfantry" relativity="Percent">
+				<Target type="ProtoUnit">Pe_Spc_Magus</Target>
+			</Effect>
+			<Effect type="Data" action="Convert" amount="0.6668" scaling="0.0000" subtype="WorkRate" unittype="ConvertableCavalry" relativity="Percent">
+				<Target type="ProtoUnit">Pe_Spc_Magus</Target>
+			</Effect>
+			<Effect type="Data" action="Convert" amount="0.6668" scaling="0.0000" subtype="WorkRate" unittype="ConvertableSiege" relativity="Percent">
+				<Target type="ProtoUnit">Pe_Spc_Magus</Target>
+			</Effect>
+			<Effect type="SetName" proto="Pe_Spc_Magus" culture="none" newName="110051"/>							
+		</Effects>
+	</Tech>
+	
+	<Tech name="PVP_BabylonTechPriest1" type="Normal">
+		<DBID>5750</DBID>
+		<DisplayNameID>66214</DisplayNameID>
+		<Cost resourcetype="Gold">1000.0000</Cost>
+		<ResearchPoints>60.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>\UserInterface\Icons\Techs\C06TechCodeofHammurabi_ua</Icon>
+		<RolloverTextID>110049</RolloverTextID>
+		<ContentPack>22</ContentPack>
+		<Flag>IsAward</Flag>
+		<Prereqs>
+			<SpecificAge>Age3</SpecificAge>
+		</Prereqs>
+		<Effects>
+			<Effect type="Data" action="Convert" amount="0.8500" scaling="0.0000" subtype="WorkRate" unittype="StandardConvertable" relativity="Percent">
+				<Target type="ProtoUnit">Ba_Spc_Priest</Target>
+			</Effect>
+			<Effect type="Data" action="Convert" amount="0.8500" scaling="0.0000" subtype="WorkRate" unittype="ConvertableInfantry" relativity="Percent">
+				<Target type="ProtoUnit">Ba_Spc_Priest</Target>
+			</Effect>
+			<Effect type="Data" action="Convert" amount="0.8500" scaling="0.0000" subtype="WorkRate" unittype="ConvertableCavalry" relativity="Percent">
+				<Target type="ProtoUnit">Ba_Spc_Priest</Target>
+			</Effect>
+			<Effect type="Data" action="Convert" amount="0.8500" scaling="0.0000" subtype="WorkRate" unittype="ConvertableSiege" relativity="Percent">
+				<Target type="ProtoUnit">Ba_Spc_Priest</Target>
+			</Effect>
+			<Effect type="Data" action="Convert" amount="1.1000" scaling="0.0000" subtype="MaximumRange" relativity="Percent">
+				<Target type="ProtoUnit">Ba_Spc_Priest</Target>
+			</Effect>
+			<Effect type="Data" amount="1.1000" scaling="0.0000" subtype="LOS" relativity="Percent">
+				<Target type="ProtoUnit">Ba_Spc_Priest</Target>
+			</Effect>
+			<Effect type="SetName" proto="Ba_Spc_Priest" culture="none" newName="110050"/>				
+		</Effects>
+	</Tech>	
+	
+	<Tech name="PVP_CeltTechDruidHeal" type="Normal">
+		<DBID>5751</DBID>
+		<DisplayNameID>59028</DisplayNameID>
+		<Cost resourcetype="Food">200.0000</Cost>
+		<Cost resourcetype="Gold">300.0000</Cost>
+		<ResearchPoints>60.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>\UserInterface\Icons\Techs\C03TechGiftofSequana_ua</Icon>
+		<RolloverTextID>59027</RolloverTextID>
+		<ContentPack>5</ContentPack>
+		<Flag>IsAward</Flag>
+		<Prereqs>
+			<SpecificAge>Age2</SpecificAge>
+		</Prereqs>
+		<Effects>
+			<Effect type="Data" action="Heal" amount="1.4000" scaling="0.0000" subtype="WorkRate" unittype="LogicalTypeHealed" relativity="Percent">
+				<Target type="ProtoUnit">Ce_Spc_Druid</Target>
+			</Effect>
+			<Effect type="Data" action="Heal" amount="1.4000" scaling="0.0000" subtype="WorkRate" unittype="LogicalTypeHealed" relativity="Percent">
+				<Target type="ProtoUnit">Ce_Spc_DruidAugur</Target>
+			</Effect>
+			<Effect type="SetName" proto="Ce_Spc_Druid" culture="none" newName="110052"/>	
+			<Effect type="SetName" proto="Ce_Spc_DruidAugur" culture="none" newName="110053"/>				
+		</Effects>
+	</Tech>	
+	
+	<Tech name="PVP_GreekTechPriestRange1" type="Normal">
+		<DBID>5752</DBID>
+		<DisplayNameID>52290</DisplayNameID>
+		<Cost resourcetype="Gold">800.0000</Cost>
+		<ResearchPoints>60.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>UserInterface\Icons\Techs\GrE_GreekTechPriestRange1_ua</Icon>
+		<RolloverTextID>52289</RolloverTextID>
+		<ContentPack>1</ContentPack>
+		<Flag>IsAward</Flag>
+		<Prereqs>
+			<SpecificAge>Age3</SpecificAge>
+		</Prereqs>
+		<Effects>
+			<Effect type="Data" action="Convert" amount="1.2000" scaling="0.0000" subtype="MaximumRange" relativity="Percent">
+				<Target type="ProtoUnit">Gr_Spc_Priest</Target>
+			</Effect>
+			<Effect type="Data" amount="1.2000" scaling="0.0000" subtype="LOS" relativity="Percent">
+				<Target type="ProtoUnit">Gr_Spc_Priest</Target>
+			</Effect>
+			<Effect type="SetName" proto="Gr_Spc_Priest" culture="none" newName="110050"/>			
+		</Effects>
+	</Tech>
+	
+	<Tech name="PVP_NorseTechWarDog_Upgrade1" type="Normal">
+		<DBID>5753</DBID>
+		<DisplayNameID>67600</DisplayNameID>
+		<Cost resourcetype="Food">100.0000</Cost>
+		<Cost resourcetype="Wood">150.0000</Cost>
+		<ResearchPoints>40.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>\UserInterface\Icons\Techs\C07TechWarDogChampion_ua</Icon>
+		<RolloverTextID>67599</RolloverTextID>
+		<ContentPack>24</ContentPack>
+		<Flag>IsAward</Flag>
+		<Prereqs>
+			<SpecificAge>Age1</SpecificAge>
+		</Prereqs>
+		<Effects>
+			<Effect type="Data" amount="12.0000" scaling="0.0000" subtype="BuildLimit" relativity="Absolute">
+				<Target type="ProtoUnit">No_Cav_WarDog</Target>
+			</Effect>
+			<Effect type="Data" amount="0.7000" scaling="0.0000" subtype="TrainPoints" relativity="Percent">
+				<Target type="ProtoUnit">No_Cav_WarDog</Target>
+			</Effect>
+		</Effects>
+		<Effect type="SetName" proto="No_Cav_WarDog" culture="none" newName="110054"/>			
+	</Tech>	
+	
+	
+	<!--Celeste New Advisor Techs  -->	
+	
+	<Tech name="Advisor_Xerxes_L" type="Normal">
+		<DBID>6601</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>UserInterface\Icons\Techs\GreekFarmUpgrade64_ua</Icon>
+		<ContentPack>6</ContentPack>
+		<Effects>
+			<Effect type="Data" amount="1.2500" scaling="0.0000" subtype="LOS" relativity="Percent">
+				<Target type="ProtoUnit">Pe_Sie_WarWagon</Target>
+			</Effect>
+			<Effect type="Data" amount="1.2500" scaling="0.0000" subtype="MaximumVelocity" relativity="Percent">
+				<Target type="ProtoUnit">Pe_Sie_WarWagon</Target>
+			</Effect>
+		</Effects>
+	</Tech>	
+
+	<Tech name="Advisor_Alexander_L" type="Normal">
+		<DBID>6602</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>UserInterface\Icons\Techs\GreekFarmUpgrade64_ua</Icon>
+		<ContentPack>1</ContentPack>
+		<Effects>
+			<Effect type="Data" action="BuildingAttack" amount="1.1200" scaling="0.0000" subtype="Haste" relativity="Percent">
+				<Target type="ProtoUnit">Gr_Arc_Toxotai</Target>
+			</Effect>
+			<Effect type="Data" action="MeleeAttack" amount="1.1200" scaling="0.0000" subtype="Haste" relativity="Percent">
+				<Target type="ProtoUnit">Gr_Arc_Toxotai</Target>
+			</Effect>
+			<Effect type="Data" action="RangedAttack" amount="1.1200" scaling="0.0000" subtype="Haste" relativity="Percent">
+				<Target type="ProtoUnit">Gr_Arc_Toxotai</Target>
+			</Effect>	
+			<Effect type="Data" action="BuildingAttack" amount="1.1200" scaling="0.0000" subtype="Haste" relativity="Percent">
+				<Target type="ProtoUnit">Gr_Arc_Peltast</Target>
+			</Effect>
+			<Effect type="Data" action="MeleeAttack" amount="1.1200" scaling="0.0000" subtype="Haste" relativity="Percent">
+				<Target type="ProtoUnit">Gr_Arc_Peltast</Target>
+			</Effect>
+			<Effect type="Data" action="RangedAttack" amount="1.1200" scaling="0.0000" subtype="Haste" relativity="Percent">
+				<Target type="ProtoUnit">Gr_Arc_Peltast</Target>
+			</Effect>			
+		</Effects>
+	</Tech>		
+	
+	<Tech name="Advisor_Beorix_L" type="Normal">
+		<DBID>6603</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>UserInterface\Icons\Techs\GreekFarmUpgrade64_ua</Icon>
+		<ContentPack>24</ContentPack>
+		<Effects>
+			<Effect type="Data" amount="20.0000" scaling="0.0000" subtype="ResourceTrickleRate" resource="Gold" relativity="Absolute">
+				<Target type="Player"/>
+			</Effect>			
+		</Effects>
+	</Tech>	
+
+	<Tech name="Advisor_Brann_L" type="Normal">
+		<DBID>6604</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>UserInterface\Icons\Techs\GreekFarmUpgrade64_ua</Icon>
+		<ContentPack>5</ContentPack>
+		<Effects>
+			<Effect type="Data" amount="1.3000" scaling="0.0000" subtype="Hitpoints" relativity="Percent">
+				<Target type="ProtoUnit">Ce_Inf_WoadRaider</Target>
+			</Effect>	
+			<Effect type="Data" action="MeleeAttack" amount="1.3000" scaling="0.0000" subtype="HitPercent" relativity="Percent">
+				<Target type="ProtoUnit">Ce_Inf_WoadRaider</Target>
+			</Effect>			
+		</Effects>
+	</Tech>		
+	
+	<Tech name="Advisor_Nebuchednezzar_L" type="Normal">
+		<DBID>6605</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>UserInterface\Icons\Techs\GreekFarmUpgrade64_ua</Icon>
+		<ContentPack>22</ContentPack>
+		<Effects>
+			<Effect type="Data" amount="1.1200" scaling="0.0000" subtype="Damage" allactions="1" relativity="Percent">
+				<Target type="ProtoUnit">Ba_Cav_Lancer</Target>
+			</Effect>
+			<Effect type="Data" amount="1.1200" scaling="0.0000" subtype="Damage" allactions="1" relativity="Percent">
+				<Target type="ProtoUnit">Ba_Arc_MountedArcher</Target>
+			</Effect>
+			<Effect type="Data" amount="1.1200" scaling="0.0000" subtype="Damage" allactions="1" relativity="Percent">
+				<Target type="ProtoUnit">Ba_Arc_ChariotArcher</Target>
+			</Effect>
+			<Effect type="Data" amount="1.1200" scaling="0.0000" subtype="Damage" allactions="1" relativity="Percent">
+				<Target type="ProtoUnit">Ba_Arc_WarChariot</Target>
+			</Effect>
+		</Effects>
+	</Tech>		
+	
+	<Tech name="Advisor_Khepri_L" type="Normal">
+		<DBID>6606</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>UserInterface\Icons\Techs\GreekFarmUpgrade64_ua</Icon>
+		<ContentPack>2</ContentPack>
+		<Effects>
+			<Effect type="Data" amount="-300.0000" scaling="0.0000" subtype="Cost" resource="Food" relativity="Absolute">
+				<Target type="ProtoUnit">Eg_Cav_WarElephant</Target>
+			</Effect>
+			<Effect type="Data" amount="300.0000" scaling="0.0000" subtype="Cost" resource="Gold" relativity="Absolute">
+				<Target type="ProtoUnit">Eg_Cav_WarElephant</Target>
+			</Effect>
+			<Effect type="Data" amount="0.8000" scaling="0.0000" subtype="TrainPoints" relativity="Percent">
+				<Target type="ProtoUnit">Eg_Cav_WarElephant</Target>
+			</Effect>
+			<Effect type="Data" amount="1.1500" scaling="0.0000" subtype="Hitpoints" relativity="Percent">
+				<Target type="ProtoUnit">Eg_Cav_WarElephant</Target>
+			</Effect>			
+		</Effects>
+	</Tech>		
+	
+	<Tech name="Advisor_Leucon_E" type="Normal">
+		<DBID>6607</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>UserInterface\Icons\Techs\GreekFarmUpgrade64_ua</Icon>
+		<ContentPack>1</ContentPack>
+		<Effects>
+			<Effect type="Data" amount="1.1000" scaling="0.0000" subtype="LOS" relativity="Percent">
+				<Target type="ProtoUnit">UnitTypeScout1</Target>
+			</Effect>
+			<Effect type="Data" amount="1.1000" scaling="0.0000" subtype="MaximumVelocity" relativity="Percent">
+				<Target type="ProtoUnit">UnitTypeScout1</Target>
+			</Effect>	
+			<Effect type="Data" action="RangedAttack" amount="2.0000" scaling="0.0000" subtype="DamageBonus" unittype="Huntable" relativity="Percent">
+				<Target type="ProtoUnit">UnitTypeScout1</Target>
+			</Effect>
+			<Effect type="Data" action="MeleeAttack" amount="2.0000" scaling="0.0000" subtype="DamageBonus" unittype="Huntable" relativity="Percent">
+				<Target type="ProtoUnit">UnitTypeScout1</Target>
+			</Effect>			
+		</Effects>
+	</Tech>
+
+	<Tech name="Advisor_Leucon_R" type="Normal">
+		<DBID>6608</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>UserInterface\Icons\Techs\GreekFarmUpgrade64_ua</Icon>
+		<ContentPack>1</ContentPack>
+		<Effects>
+			<Effect type="Data" amount="1.0800" scaling="0.0000" subtype="LOS" relativity="Percent">
+				<Target type="ProtoUnit">UnitTypeScout1</Target>
+			</Effect>
+			<Effect type="Data" amount="1.0800" scaling="0.0000" subtype="MaximumVelocity" relativity="Percent">
+				<Target type="ProtoUnit">UnitTypeScout1</Target>
+			</Effect>	
+			<Effect type="Data" action="RangedAttack" amount="1.8500" scaling="0.0000" subtype="DamageBonus" unittype="Huntable" relativity="Percent">
+				<Target type="ProtoUnit">UnitTypeScout1</Target>
+			</Effect>
+			<Effect type="Data" action="MeleeAttack" amount="1.8500" scaling="0.0000" subtype="DamageBonus" unittype="Huntable" relativity="Percent">
+				<Target type="ProtoUnit">UnitTypeScout1</Target>
+			</Effect>			
+		</Effects>
+	</Tech>
+
+	<Tech name="Advisor_Leucon_U" type="Normal">
+		<DBID>6609</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>UserInterface\Icons\Techs\GreekFarmUpgrade64_ua</Icon>
+		<ContentPack>1</ContentPack>
+		<Effects>
+			<Effect type="Data" amount="1.0600" scaling="0.0000" subtype="LOS" relativity="Percent">
+				<Target type="ProtoUnit">UnitTypeScout1</Target>
+			</Effect>
+			<Effect type="Data" amount="1.0600" scaling="0.0000" subtype="MaximumVelocity" relativity="Percent">
+				<Target type="ProtoUnit">UnitTypeScout1</Target>
+			</Effect>	
+			<Effect type="Data" action="RangedAttack" amount="1.7000" scaling="0.0000" subtype="DamageBonus" unittype="Huntable" relativity="Percent">
+				<Target type="ProtoUnit">UnitTypeScout1</Target>
+			</Effect>
+			<Effect type="Data" action="MeleeAttack" amount="1.7000" scaling="0.0000" subtype="DamageBonus" unittype="Huntable" relativity="Percent">
+				<Target type="ProtoUnit">UnitTypeScout1</Target>
+			</Effect>			
+		</Effects>
+	</Tech>
+
+	<Tech name="Advisor_Leucon_C" type="Normal">
+		<DBID>6610</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>UserInterface\Icons\Techs\GreekFarmUpgrade64_ua</Icon>
+		<ContentPack>1</ContentPack>
+		<Effects>
+			<Effect type="Data" amount="1.0400" scaling="0.0000" subtype="LOS" relativity="Percent">
+				<Target type="ProtoUnit">UnitTypeScout1</Target>
+			</Effect>
+			<Effect type="Data" amount="1.0400" scaling="0.0000" subtype="MaximumVelocity" relativity="Percent">
+				<Target type="ProtoUnit">UnitTypeScout1</Target>
+			</Effect>	
+			<Effect type="Data" action="RangedAttack" amount="1.5500" scaling="0.0000" subtype="DamageBonus" unittype="Huntable" relativity="Percent">
+				<Target type="ProtoUnit">UnitTypeScout1</Target>
+			</Effect>
+			<Effect type="Data" action="MeleeAttack" amount="1.5500" scaling="0.0000" subtype="DamageBonus" unittype="Huntable" relativity="Percent">
+				<Target type="ProtoUnit">UnitTypeScout1</Target>
+			</Effect>			
+		</Effects>
+	</Tech>
+	
+	<Tech name="Advisor_Andrasta_E" type="Normal">
+		<DBID>6611</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>UserInterface\Icons\Techs\GreekFarmUpgrade64_ua</Icon>
+		<ContentPack>1</ContentPack>
+		<Effects>
+			<Effect type="Data" amount="1.0700" scaling="0.0000" subtype="MaximumVelocity" relativity="Percent">
+				<Target type="ProtoUnit">Military</Target>
+			</Effect>
+			<Effect type="Data" amount="1.0700" scaling="0.0000" subtype="MaximumVelocity" relativity="Percent">
+				<Target type="ProtoUnit">UnitTypeShipUtility1</Target>
+			</Effect>
+		</Effects>
+	</Tech>	
+	
+	<Tech name="Advisor_Andrasta_R" type="Normal">
+		<DBID>6612</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>UserInterface\Icons\Techs\GreekFarmUpgrade64_ua</Icon>
+		<ContentPack>1</ContentPack>
+		<Effects>
+			<Effect type="Data" amount="1.0600" scaling="0.0000" subtype="MaximumVelocity" relativity="Percent">
+				<Target type="ProtoUnit">Military</Target>
+			</Effect>
+			<Effect type="Data" amount="1.0600" scaling="0.0000" subtype="MaximumVelocity" relativity="Percent">
+				<Target type="ProtoUnit">UnitTypeShipUtility1</Target>
+			</Effect>
+		</Effects>
+	</Tech>	
+
+	<Tech name="Advisor_Andrasta_U" type="Normal">
+		<DBID>6613</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>UserInterface\Icons\Techs\GreekFarmUpgrade64_ua</Icon>
+		<ContentPack>1</ContentPack>
+		<Effects>
+			<Effect type="Data" amount="1.0500" scaling="0.0000" subtype="MaximumVelocity" relativity="Percent">
+				<Target type="ProtoUnit">Military</Target>
+			</Effect>
+			<Effect type="Data" amount="1.0500" scaling="0.0000" subtype="MaximumVelocity" relativity="Percent">
+				<Target type="ProtoUnit">UnitTypeShipUtility1</Target>
+			</Effect>
+		</Effects>
+	</Tech>	
+
+	<Tech name="Advisor_Andrasta_C" type="Normal">
+		<DBID>6614</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>UserInterface\Icons\Techs\GreekFarmUpgrade64_ua</Icon>
+		<ContentPack>1</ContentPack>
+		<Effects>
+			<Effect type="Data" amount="1.0400" scaling="0.0000" subtype="MaximumVelocity" relativity="Percent">
+				<Target type="ProtoUnit">Military</Target>
+			</Effect>
+			<Effect type="Data" amount="1.0400" scaling="0.0000" subtype="MaximumVelocity" relativity="Percent">
+				<Target type="ProtoUnit">UnitTypeShipUtility1</Target>
+			</Effect>
+		</Effects>
+	</Tech>	
+
+	<Tech name="Advisor_Sohrab_E" type="Normal">
+		<DBID>6615</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>UserInterface\Icons\Techs\GreekFarmUpgrade64_ua</Icon>
+		<ContentPack>1</ContentPack>
+		<Effects>
+			<Effect type="Data" amount="1.5000" scaling="0.0000" subtype="DamageBonus" unittype="Building" allactions="1" relativity="Percent">
+				<Target type="ProtoUnit">AbstractArcher</Target>
+			</Effect>
+		</Effects>
+	</Tech>		
+	
+	<Tech name="Advisor_Sohrab_R" type="Normal">
+		<DBID>6616</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>UserInterface\Icons\Techs\GreekFarmUpgrade64_ua</Icon>
+		<ContentPack>1</ContentPack>
+		<Effects>
+			<Effect type="Data" amount="1.4000" scaling="0.0000" subtype="DamageBonus" unittype="Building" allactions="1" relativity="Percent">
+				<Target type="ProtoUnit">AbstractArcher</Target>
+			</Effect>
+		</Effects>
+	</Tech>	
+
+	<Tech name="Advisor_Sohrab_U" type="Normal">
+		<DBID>6617</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>UserInterface\Icons\Techs\GreekFarmUpgrade64_ua</Icon>
+		<ContentPack>1</ContentPack>
+		<Effects>
+			<Effect type="Data" amount="1.3000" scaling="0.0000" subtype="DamageBonus" unittype="Building" allactions="1" relativity="Percent">
+				<Target type="ProtoUnit">AbstractArcher</Target>
+			</Effect>
+		</Effects>
+	</Tech>	
+
+	<Tech name="Advisor_Sohrab_C" type="Normal">
+		<DBID>6618</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>UserInterface\Icons\Techs\GreekFarmUpgrade64_ua</Icon>
+		<ContentPack>1</ContentPack>
+		<Effects>
+			<Effect type="Data" amount="1.2000" scaling="0.0000" subtype="DamageBonus" unittype="Building" allactions="1" relativity="Percent">
+				<Target type="ProtoUnit">AbstractArcher</Target>
+			</Effect>
+		</Effects>
+	</Tech>		
+	
 </TechTree>

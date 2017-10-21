@@ -23,48 +23,47 @@ class item extends model
 	public function db_update()
 	{
 		
-	$this->xmlpath = $this->config['aoeo']['traitspath'];
-    $XMLReader = new XMLReader();
-    $XMLReader->open($this->xmlpath);
-    
-    
-    $this->delete_all();
-    $this->db->clear_table('traiteffects');
-    
-    $traitlevels = $this->fetch_levels();
-    
-    $techfields = array('dbid',
-          'displaynameid',
-          'rarity',
-          'traittype',
-          //'visualfactor',
-          'icon',
-          'offertype',
-	      'tradeable',
-    	  'destroyable',
-    	  'sellable',
-	      'rollovertextid');
-          
-    $techEffectAttributes = array('type',
-          'amount',
-          'scaling',
-          'subtype',
-          'allactions',
-          'relativity',
-          'action',
-          'bonus',
-          'unittype',
-          'resource',
-    	  'damagetype');
+		$this->xmlpath = $this->config['aoeo']['traitspath'];
+		$XMLReader = new XMLReader();
+		$XMLReader->open($this->xmlpath);
+		
+		
+		$this->delete_all();
+		$this->db->clear_table('traiteffects');
+		
+		$traitlevels = $this->fetch_levels();
+		
+		$techfields = array('dbid',
+			'displaynameid',
+			'rarity',
+			'traittype',
+			//'visualfactor',
+			'icon',
+			'offertype',
+			'tradeable',
+			'destroyable',
+			'sellable',
+			'rollovertextid');
+			
+		$techEffectAttributes = array('type',
+			'amount',
+			'scaling',
+			'subtype',
+			'allactions',
+			'relativity',
+			'action',
+			'bonus',
+			'unittype',
+			'resource',
+			'damagetype');
     
 	    while ($XMLReader->read())
-	     {
-	      
-	     	if ($XMLReader->nodeType == XMLReader::END_ELEMENT || $XMLReader->name != "trait")
-	       	 continue;
-	      
-	     	 $doc = new DomDocument('1.0');
-	     	 $doc->loadXML($XMLReader->readOuterXml());
+	    {
+			if ($XMLReader->nodeType == XMLReader::END_ELEMENT || $XMLReader->name != "trait")
+				continue;
+				
+	     	$doc = new DomDocument('1.0');
+	     	$doc->loadXML($XMLReader->readOuterXml());
 	      
 	      	$trait['name'] = $doc->documentElement->getAttribute('name');
 	      	//$trait['type'] = $doc->documentElement->getAttribute('type');
@@ -72,53 +71,53 @@ class item extends model
 	      	// Most of the easy stuff
 	     	foreach ($doc->documentElement->childNodes as $node) 
 	      	{
-	       	 if ($node->nodeType != 1)
-	          	continue;
+	       		if ($node->nodeType != 1)
+	          		continue;
 	        
-	       	 if (in_array($node->tagName, $techfields))
-	          	$trait[$node->tagName] = $node->nodeValue;
-	      }
+	       	 	if (in_array($node->tagName, $techfields))
+	          		$trait[$node->tagName] = $node->nodeValue;
+	    	}
 	      
 	      
-	      // Effects
-	      $techEffects = $doc->documentElement->getElementsByTagName('effects');
-	      if ($techEffects->length > 0) {
-	        $techEffects = $techEffects->item(0);
-	        $techEffects = $techEffects->getElementsByTagName('effect');
-	        if ($techEffects->length > 0) {
+	     	// Effects
+	      	$techEffects = $doc->documentElement->getElementsByTagName('effects');
+	    	if ($techEffects->length > 0) {
+	        	$techEffects = $techEffects->item(0);
+	        	$techEffects = $techEffects->getElementsByTagName('effect');
+				
+				if ($techEffects->length > 0) {
 	        	
-	          foreach ($techEffects as $techEffectElement) {
-	            $techEffect['dbid'] = $trait['dbid'];
-	            
-	            foreach ($techEffectAttributes as $techEffectAttribute) 
-	            {
-	              $techEffect[$techEffectAttribute] = $techEffectElement->getAttribute($techEffectAttribute);
-	            }
-	            
-	            $this->db->insert('traiteffects', $techEffect);
-	            
-	            //print_r($techEffect);
-	            
-	            unset($techEffect);
-	            
-	          }
-	        }
-	      }
+					foreach ($techEffects as $techEffectElement) {
+						$techEffect['dbid'] = $trait['dbid'];
+					
+						foreach ($techEffectAttributes as $techEffectAttribute) 
+						{
+							$techEffect[$techEffectAttribute] = $techEffectElement->getAttribute($techEffectAttribute);
+						}
+					
+						$this->db->insert('traiteffects', $techEffect);
+					
+						//print_r($techEffect);
+					
+						unset($techEffect);
+					}
+	       		}
+	    	}
 	      
-	      // Fix icon filenames
-	      $trait = str_replace('\\', '/', $trait);
-	      
-	      //if we have the levels
-	      if(isset($traitlevels[$trait['name']]))
-	     	 $trait['levels'] = $traitlevels[$trait['name']];
-	      else if(stripos($trait['traittype'], 'Vanity') === false)
-	      	continue;
-	      
-		$this->quicksave($trait);
-		echo '<pre>';
-		print_r($trait);
-		echo '</pre>';
-		unset($trait);
+	      	// Fix icon filenames
+			$trait = str_replace('\\', '/', $trait);
+			
+			//if we have the levels
+			if(isset($traitlevels[$trait['name']]))
+				$trait['levels'] = $traitlevels[$trait['name']];
+			else if(stripos($trait['traittype'], 'Vanity') === false)
+			continue;
+			
+			$this->quicksave($trait);
+			echo '<pre>';
+			print_r($trait);
+			echo '</pre>';
+			unset($trait);
 		}
     
 	}
@@ -138,6 +137,9 @@ class item extends model
 			 
 			$doc = new DomDocument('1.0');
 			$doc->loadXML($XMLReader->readOuterXml());
+			
+			if ($doc->documentElement->getAttribute('isdeprecated') == "true")
+				continue;
 
 			$levels = array();
 			
