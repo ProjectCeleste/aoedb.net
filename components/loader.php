@@ -84,6 +84,7 @@ class loader extends component
 		
 		$this->loaded[] = array('view' => $viewname);
 	}
+
 	
 	/**
 	 * Loads a database

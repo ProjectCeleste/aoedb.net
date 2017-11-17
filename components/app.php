@@ -109,7 +109,18 @@ class app extends component
 	{
 		$this->load->view($name, $data);
 	}
-	
+
+	/**
+	 * Displays a json representation
+	 * @param $viewname
+	 * @return unknown_type
+	 */
+	public function json($data)
+	{	
+		header('Content-Type: application/json');
+
+		echo json_encode($data, JSON_PARTIAL_OUTPUT_ON_ERROR | JSON_PRETTY_PRINT | JSON_NUMERIC_CHECK | JSON_BIGINT_AS_STRING );
+	}
 	
 	/**
 	 * Get a property

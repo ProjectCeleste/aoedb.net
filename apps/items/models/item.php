@@ -235,7 +235,7 @@ class item extends model
 	
 	public function get($id)
 	{
-		$arr = $this->db->query("SELECT *,
+		$arr = $this->db->query("SELECT traits.*,
 					    displayname.string as DisplayName, rollovertext.string as RolloverText
 					    FROM traits
 					    LEFT JOIN strings as displayname on displayname.stringid = traits.DisplayNameID
@@ -280,9 +280,10 @@ class item extends model
 		return $effect_strings;
 	}
 	
+	
 	public function get_all()
 	{
-		$arr = $this->db->query("select *,
+		$arr = $this->db->query("select traits.*,
 				    displayname.string as DisplayName, rollovertext.string as RolloverText
 				    FROM traits
 				    LEFT JOIN strings as displayname on displayname.stringid = traits.DisplayNameID
@@ -296,6 +297,31 @@ class item extends model
 		}
 			
 		return $arr;
+	}
+
+	public function get_paginated($page=1, $page_size = 25)
+	{
+		$startAt = ($page-1) * $page_size;
+		$arr = $this->db->query("select traits.*,
+				    displayname.string as DisplayName, rollovertext.string as RolloverText
+				    FROM traits
+				    LEFT JOIN strings as displayname on displayname.stringid = traits.DisplayNameID
+					LEFT JOIN strings as rollovertext on rollovertext.stringid = traits.RolloverTextID
+					ORDER BY displayname ASC
+					LIMIT {$startAt},{$page_size}")->results();
+		
+		foreach($arr as $k=>$item)
+		{
+			$arr[$k]['effectstrings'] = $this->get_effects($item['dbid']);
+			$arr[$k]['type'] = $this->config[$item['traittype']];
+		}
+			
+		return $arr;
+	}
+
+	public function get_count() {
+		// SELECT COUNT(*) FROM `table` WHERE `some_condition`
+		return $this->db->query("select COUNT(*) FROM traits")->results()["COUNT(*)"];
 	}
 	
 	public function search($term)

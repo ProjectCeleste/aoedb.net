@@ -2,6 +2,7 @@
 class traiteffect extends model
 {
   protected $xmlpath;
+  public $info;
   
 	function __construct(&$parent, $level = 43)
 	{
