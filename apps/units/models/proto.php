@@ -30,10 +30,7 @@ class proto extends model
 	 */
 	public function load($dbid) {
 	
-		$this->info = $this->db->query("select id,name,DBID,MaxVelocity,MaxRunVelocity,MovementType,Icon,
-	    PortraitIcon,InitialHitPoints,MaxHitPoints,LOS,PopulationCount,PopulationCapAddition,TrainPoints,
-	    CostFood,CostGold,CostWood,CostStone,Bounty,Trait1,Trait2,Trait3,Trait4,AllowedAge,UnitTypes,
-	    ArmorRanged,ArmorHand,ArmorCavalry,ArmorSiege,Flags,
+		$this->info = $this->db->query("select proto.*,
 	    displayname.string as DisplayName, rollovertext.string as RolloverText, shortrollovertext.string as ShortRolloverText
 	    from proto
 	    left join strings as displayname on displayname.stringid = proto.DisplayNameID
@@ -41,9 +38,11 @@ class proto extends model
 	    left join strings as shortrollovertext on shortrollovertext.stringid = proto.RolloverTextID
 	    where DBID = {$dbid} LIMIT 1")->results();
 		
-		$this->info['protoactions'] = $this->db->query('SELECT * FROM protoactions WHERE DBID = '.$this->info['DBID'].' ')->results(null, true);
-		$this->info['attacks'] = $this->attackTable();
-		
+			if(isset($this->info['DBID']))
+			{
+				$this->info['protoactions'] = $this->db->query('SELECT * FROM protoactions WHERE DBID = '.$this->info['DBID'].' ')->results(null, true);
+				$this->info['attacks'] = $this->attackTable();
+			}
 		//foreach($this->info as $key=>$info)
 			//$this->$key = $info;
 	
@@ -79,6 +78,33 @@ class proto extends model
 			return null;
 		}
 		
+	}
+
+		
+	public function GetAllPaginated($page, $page_size = 25)
+	{
+		$startAt = ($page-1) * $page_size;
+		$results = $this->db->query("SELECT proto.*, 
+				    displayname.string as DisplayName, rollovertext.string as RolloverText, shortrollovertext.string as ShortRolloverText
+				    FROM proto
+				    LEFT JOIN strings as displayname on displayname.stringid = proto.DisplayNameID
+				    LEFT JOIN strings as rollovertext on rollovertext.stringid = proto.RolloverTextID
+				    LEFT JOIN strings as shortrollovertext on shortrollovertext.stringid = proto.RolloverTextID
+				    ORDER BY displayname ASC
+						LIMIT {$startAt},{$page_size}")->results();
+	
+		foreach($results as $key=>$unit)
+		{
+			$results[$key]['protoactions'] = $this->GetProtoActions($unit['DBID']);
+			$results[$key]['attacks'] = $this->attackTable($results[$key]['protoactions']);
+		}
+	
+		return $results;
+	}
+
+	
+	public function get_total_count() {
+		return $this->db->query("select COUNT(*) FROM proto")->results()["COUNT(*)"];
 	}
 	
 	public function GetAllByType($type)

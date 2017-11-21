@@ -4,7 +4,8 @@ class api extends app
 	function __construct(&$parent)
 	{
 		parent::__construct($parent);
-		$this->load->app('items');
+        $this->load->app('items');
+        $this->load->app('units');
 	}
 		
 	public function c_item($id = null, $level = null)
@@ -32,6 +33,46 @@ class api extends app
         }
 
         $this->json($result);
+    }
+
+	public function c_unit($id = null)
+	{	
+        if(!$id)
+        {
+            return $this->json([]);
+        }
+        $unit = $this->units->m_proto->load($id)->info;
+        $unit = $this->simplifyUnit($unit);
+
+        $this->json($unit);
+    }
+
+    public function c_units($page = 1){
+        $units = $this->units->m_proto->GetAllPaginated($page);
+        $result = [];
+        
+        $result["page"] = $page;
+        $result["total"] = $this->units->m_proto->get_total_count();
+        $result["pages"] = ceil($result["total"]/25);
+        
+        foreach($units as $unit){
+            $result["items"][] = $this->simplifyUnit($unit);
+        }
+       
+       $this->json($result);
+    }
+
+    protected function simplifyUnit($proto){
+
+        if(!isset($proto['DBID']))
+        {
+            return [];
+        }
+
+        unset($proto["id"]);
+        $proto["UnitTypes"] = explode(",", $proto["UnitTypes"]);
+        $proto["Flags"] = explode(",", $proto["Flags"]);
+        return $proto;
     }
 
     protected function simplifyItem($item) {
