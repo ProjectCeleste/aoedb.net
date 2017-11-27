@@ -299,16 +299,22 @@ class item extends model
 		return $arr;
 	}
 
-	public function get_paginated($page=1, $page_size = 25)
+	public function GetPaginated($type, $page=1, $page_size = 25)
 	{
 		$startAt = ($page-1) * $page_size;
-		$arr = $this->db->query("select traits.*,
-				    displayname.string as DisplayName, rollovertext.string as RolloverText
-				    FROM traits
-				    LEFT JOIN strings as displayname on displayname.stringid = traits.DisplayNameID
-					LEFT JOIN strings as rollovertext on rollovertext.stringid = traits.RolloverTextID
-					ORDER BY displayname ASC
-					LIMIT {$startAt},{$page_size}")->results();
+		$q = 'select traits.*,
+			displayname.string as DisplayName, rollovertext.string as RolloverText
+			FROM traits
+			LEFT JOIN strings as displayname on displayname.stringid = traits.DisplayNameID
+			LEFT JOIN strings as rollovertext on rollovertext.stringid = traits.RolloverTextID';
+		
+		if ($type !== null){
+			$q.=" WHERE traittype='{$type}'";
+		}
+
+		$q.=" ORDER BY displayname ASC LIMIT {$startAt},{$page_size}";
+
+		$arr = $this->db->query($q)->results();
 		
 		foreach($arr as $k=>$item)
 		{
@@ -319,9 +325,12 @@ class item extends model
 		return $arr;
 	}
 
-	public function get_count() {
-		// SELECT COUNT(*) FROM `table` WHERE `some_condition`
-		return $this->db->query("select COUNT(*) FROM traits")->results()["COUNT(*)"];
+	public function GetCount($type) {
+		$q = 'SELECT COUNT(*) FROM traits';
+		if ($type !== null){
+			$q.=" WHERE traittype='{$type}'";
+		}
+		return $this->db->query($q)->results()["COUNT(*)"];
 	}
 	
 	public function search($term)

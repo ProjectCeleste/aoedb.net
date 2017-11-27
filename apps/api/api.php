@@ -6,7 +6,11 @@ class api extends app
 		parent::__construct($parent);
         $this->load->app('items');
         $this->load->app('units');
-	}
+    }
+    
+    public function c_index() {
+
+    }
 		
 	public function c_item($id = null, $level = null)
 	{	
@@ -21,11 +25,13 @@ class api extends app
 
     public function c_items()
 	{	
-        $page = $this->uri->query_params('page');
-        $items = $this->items->m_item->get_paginated($page);
+        $page = $this->uri->query_param('page') ? $this->uri->query_param('page') : 1;
+        $page_size = $this->uri->query_param('page_size') ? $this->uri->query_param('page_size') : 100;
+        $type = $this->uri->query_param('type');
+        $items = $this->items->m_item->GetPaginated($type, $page, $page_size);
         $result["page"] = $page;
-        $result["total"] =  $this->items->m_item->get_count();
-        $result["pages"] = ceil($result["total"]/25);
+        $result["total"] =  $this->items->m_item->GetCount($type);
+        $result["pages"] = ceil($result["total"]/$page_size);
         $result["items"] = [];
 
         foreach($items as $item){
