@@ -42,7 +42,7 @@ class defaultxml extends model
 				if($XML->nodeType != 1)
 					continue;
 				
-				if(strcmp($XML->name, $file['mainelement']) == 0)
+				if(strcasecmp($XML->name, $file['mainelement']) == 0)
 				{
 					
 					if (isset($file['nameelement']))

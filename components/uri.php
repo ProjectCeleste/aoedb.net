@@ -24,6 +24,7 @@ class uri extends component
 		$s = $_SERVER['REQUEST_URI'];
 		$this->uristring = $s;
 		$this->segments = explode('/', $s);
+		$this->query_params = $this->get_query_params();
 		//print_r($this->segments);
 		//print_r($_SERVER);
 	}
@@ -51,9 +52,13 @@ class uri extends component
 		//shorthand
 		$c = $this->parent->config;	
 		$method = $c['method_prefix'].$c['index_method'];
+		$segment = !empty($this->segments[2]) ? $this->segments[2] : null;
 
-		if(!empty($this->segments[2]))
-			$method = $c['method_prefix'].$this->segments[2];	
+		if(strpos($segment, '?') !== false) {
+			$segment = substr($segment,0, strpos($segment, '?'));
+		}
+		
+		$method = $c['method_prefix'].$segment;	
 		
 		return $method;
 	}
@@ -74,6 +79,30 @@ class uri extends component
 		return $app;
 	}
 
+	public function query_param($name) {
+		return isset($this->query_params[$name]) ? $this->query_params[$name] : null;
+	}
+
+	public function get_query_params($name=null)
+	{
+		$params = null;
+		$return = array();
+		$queryString = '';
+		
+		if(strpos($this->uristring, '?') !== false) {
+			$queryString = substr($this->uristring, strpos($this->uristring, '?')+1);
+		}
+
+		$paramsList = explode('&', $queryString);
+
+		foreach($paramsList as $param){
+			$paramKeyValue = explode('=', $param);
+			$value = isset($paramKeyValue[1]) ? $paramKeyValue[1] : null;
+			$return[$paramKeyValue[0]] =  urldecode($value);
+		}
+
+		return $return;
+	}
 	
 	/**
 	 * Returns the passed URI parameters
@@ -88,9 +117,18 @@ class uri extends component
 		if(isset($this->segments[3]))
 			$params = array_slice($this->segments, 3);
 		
-		if(isset($params))
-			foreach($params as $param)
-				$return[] = urldecode($param);
+		if(isset($params)){
+			foreach($params as $param) {
+				if(strpos($param, '?') === false) {
+					$return[] = urldecode($param);
+				}
+				else {
+					print_r(substr($param,0, strpos($param, '?')));
+					$return[] = urldecode(substr($param,0, strpos($param, '?')));
+				}
+			}
+		}
+		
 		
 		return $return;
 	}

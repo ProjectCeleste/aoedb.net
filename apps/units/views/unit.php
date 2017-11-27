@@ -140,7 +140,6 @@ foreach($traits as $trait)
 	
 	$traitstring .= "<a href='/traits/type/{$trait}'><img class='equipmentslot' alt='{$traitimg}Slot.png' src='/images/GearSlots/{$traitimg}Slot.png'/></a>";
 }
-
 ?>
 
 <br />
@@ -159,7 +158,7 @@ foreach($traits as $trait)
       <p><?=$data['RolloverText']?></p>
     </div>
     <ul id="itemeffects" class="itembonuses">
-      <li>HP: <?=$data['MaxHitPoints']?></li>
+      <li>HP: <?=$data['MaxHitpoints']?></li>
       <?=$cost?>
       <?=$buildtimestring?>
       <?=$losstring?>
@@ -173,7 +172,7 @@ foreach($traits as $trait)
   Portrait Icon: <br>
   <img src="/images/Art/<?=$data['PortraitIcon']?>.png" width="128px">
   <br>
-  dbid: <a href="/units/<?=$data['DBID']?>"><?=$data['DBID']?></a> | <span class="scriptlink" onClick="xmldiag(this, 'proto', '<?=$data['name']?>')">[xml]</span> | <span style="text-decoration:none"><?=$data['name']?></span>
+  dbid: <a href="/units/<?=$data['DBID']?>"><?=$data['DBID']?></a> | <span class="scriptlink" onClick="xmldiag(this, 'unit', '<?=$data['name']?>')">[xml]</span> | <span style="text-decoration:none"><?=$data['name']?></span>
 </div>
 <? make_tooltip(); ?>
 </div>

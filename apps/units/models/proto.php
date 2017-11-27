@@ -48,6 +48,45 @@ class proto extends model
 	
 		return $this;
 	}
+
+	public function GetPaginated ($civ=null, $type=null, $page=1, $page_size=100) {
+
+		if ($civ === null){
+			$civ = '%';
+		}
+		if ($page < 1){
+			$page = 1;
+		}
+
+		$startAt = ($page-1) * $page_size;
+
+		$q = "select id,name,DBID,MaxVelocity,MaxRunVelocity,MovementType,Icon,
+					    PortraitIcon,InitialHitPoints,MaxHitPoints,LOS,PopulationCount,PopulationCapAddition,TrainPoints,
+					    CostFood,CostGold,CostWood,CostStone,Bounty,Trait1,Trait2,Trait3,Trait4,AllowedAge,UnitTypes,
+					    ArmorRanged,ArmorHand,ArmorCavalry,ArmorSiege,Flags,
+					    displayname.string as DisplayName, rollovertext.string as RolloverText, shortrollovertext.string as ShortRolloverText
+					    FROM proto
+					    left join strings as displayname on displayname.stringid = proto.DisplayNameID
+					    left join strings as rollovertext on rollovertext.stringid = proto.RolloverTextID
+					    left join strings as shortrollovertext on shortrollovertext.stringid = proto.RolloverTextID
+					    WHERE name LIKE '{$civ}\_%' AND name NOT LIKE '%\_e' AND name NOT LIKE '%\_r' AND name NOT LIKE '%\_u'";
+		
+		if($type != null)
+			$q.= " AND name LIKE '%\_{$type}\_%'";
+		
+		$q.= ' ORDER BY displayname';
+		$q.= " LIMIT {$startAt},{$page_size}";
+
+		$results = $this->db->query($q)->results(null, true);
+	
+		foreach($results as $key=>$unit)
+		{
+			$results[$key]['protoactions'] = $this->GetProtoActions($unit['DBID']);
+			$results[$key]['attacks'] = $this->attackTable($results[$key]['protoactions']);
+		}
+	
+		return $results;
+	}
 	
 	public function GetProtoActions($unitId)
 	{
@@ -80,31 +119,21 @@ class proto extends model
 		
 	}
 
-		
-	public function GetAllPaginated($page, $page_size = 25)
-	{
-		$startAt = ($page-1) * $page_size;
-		$results = $this->db->query("SELECT proto.*, 
-				    displayname.string as DisplayName, rollovertext.string as RolloverText, shortrollovertext.string as ShortRolloverText
-				    FROM proto
-				    LEFT JOIN strings as displayname on displayname.stringid = proto.DisplayNameID
-				    LEFT JOIN strings as rollovertext on rollovertext.stringid = proto.RolloverTextID
-				    LEFT JOIN strings as shortrollovertext on shortrollovertext.stringid = proto.RolloverTextID
-				    ORDER BY displayname ASC
-						LIMIT {$startAt},{$page_size}")->results();
-	
-		foreach($results as $key=>$unit)
-		{
-			$results[$key]['protoactions'] = $this->GetProtoActions($unit['DBID']);
-			$results[$key]['attacks'] = $this->attackTable($results[$key]['protoactions']);
-		}
-	
-		return $results;
-	}
+	public function get_total_count($civ=null, $type=null, $page_size=100) {
 
-	
-	public function get_total_count() {
-		return $this->db->query("select COUNT(*) FROM proto")->results()["COUNT(*)"];
+		if($civ === null) {
+			$civ = '%';
+		}
+
+		$q = "SELECT COUNT(*)
+					FROM proto
+					WHERE name LIKE '{$civ}\_%' AND name NOT LIKE '%\_e' AND name NOT LIKE '%\_r' AND name NOT LIKE '%\_u'";
+		
+		if($type != null)
+			$q.= " AND name LIKE '%\_{$type}\_%'";
+
+		return $this->db->query($q)->results()["COUNT(*)"];
+		
 	}
 	
 	public function GetAllByType($type)
@@ -118,7 +147,7 @@ class proto extends model
 				    left join strings as displayname on displayname.stringid = proto.DisplayNameID
 				    left join strings as rollovertext on rollovertext.stringid = proto.RolloverTextID
 				    left join strings as shortrollovertext on shortrollovertext.stringid = proto.RolloverTextID
-				    WHERE name LIKE '%\_{$type}\_%'")->results();
+						WHERE name LIKE '%\_{$type}\_%'")->results();
 	
 		foreach($results as $key=>$unit)
 		{
@@ -160,7 +189,7 @@ class proto extends model
 			$q.= " AND name LIKE '%\_{$type}\_%'";
 		
 		$q.= ' ORDER BY displayname';
-		
+
 		$results = $this->db->query($q)->results(null, true);
 	
 		foreach($results as $key=>$unit)

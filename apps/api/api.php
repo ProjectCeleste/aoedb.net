@@ -19,9 +19,9 @@ class api extends app
         $this->json($item);
     }
 
-    public function c_items($page = 1)
+    public function c_items()
 	{	
-        $page = $page > 1 ? $page : 1; 
+        $page = $this->uri->query_params('page');
         $items = $this->items->m_item->get_paginated($page);
         $result["page"] = $page;
         $result["total"] =  $this->items->m_item->get_count();
@@ -47,13 +47,22 @@ class api extends app
         $this->json($unit);
     }
 
-    public function c_units($page = 1){
-        $units = $this->units->m_proto->GetAllPaginated($page);
+    public function c_units($id=null) {
+
+        if ($id !== null){
+            return $this->c_unit($id);
+        }
+
+        $page = $this->uri->query_param('page');
+        $page_size = $this->uri->query_param('page_size') ? $this->uri->query_param('page_size') : 100;
+        $civ = $this->uri->query_param('civ');
+        $type = $this->uri->query_param('type');
+        $units = $this->units->m_proto->GetPaginated($civ, $type, $page, $page_size);
         $result = [];
         
-        $result["page"] = $page;
-        $result["total"] = $this->units->m_proto->get_total_count();
-        $result["pages"] = ceil($result["total"]/25);
+        $result["page"] = $page > 0 ? $page : 1;
+        $result["total"] = $this->units->m_proto->get_total_count($civ, $type, $page_size);
+        $result["pages"] = ceil($result["total"]/$page_size);
         
         foreach($units as $unit){
             $result["items"][] = $this->simplifyUnit($unit);

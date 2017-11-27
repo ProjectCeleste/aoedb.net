@@ -13,6 +13,7 @@ $config = array(
 				array('file' => 'econmaterials.xml', 'mainelement' => 'material', 'nameattribute' => 'name'),
 				array('file' => 'EconVendors.xml', 'mainelement' => 'vendor', 'nameattribute' => 'name'),
 				array('file' => 'equipment.xml', 'mainelement' => 'equipment', 'nameattribute' => 'id'),
-				array('file' => 'traits.xml', 'mainelement' => 'trait', 'nameattribute' => 'name')
+				array('file' => 'traits.xml', 'mainelement' => 'trait', 'nameattribute' => 'name'),
+				array('file' => 'protoAge4.xml', 'mainelement' => 'unit', 'nameattribute' => 'name')
 				)
 );

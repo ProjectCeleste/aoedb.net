@@ -8,7 +8,9 @@ $config = array(
 					'AbstractCavalry' => 'Cavalry'
 					),
 
-	'attackTypes' => array(),
+	'attackTypes' => array(
+		'Hand' => 'Melee (infantry)',
+		'Cavalry' => 'Melee (cavalry)'),
 					
 	'civs' =>
 			array(
