@@ -45,7 +45,7 @@ else
   $losstring = '';
 
 if (strlen($data['MaxVelocity']) && $data['MaxVelocity'] > 0)
-  $speedstring = "<li>Speed: {$data['MaxVelocity']}</li>";
+  $speedstring = "<li>Movement Speed: {$data['MaxVelocity']}</li>";
 else
   $speedstring = '';
   
@@ -65,10 +65,11 @@ $attackstring = '';
 $armorstring = '';
 
 $armortypes = array('ArmorRanged', 'ArmorHand', 'ArmorCavalry', 'ArmorSiege');
-$armornames = array('ArmorRanged' => 'Ranged Armor',
-'ArmorHand' => 'Infantry Armor',
-'ArmorCavalry' => 'Cavalry Armor',
-'ArmorSiege' => 'Siege Armor');
+$armornames = array(
+  'ArmorRanged' => 'Ranged Armor',
+  'ArmorHand' => 'Melee-Infantry Armor',
+  'ArmorCavalry' => 'Melee-Cavalry Armor',
+  'ArmorSiege' => 'Crush Armor');
 
 foreach ($armortypes as $armortype) {
   if ($data[$armortype]) {
@@ -115,7 +116,7 @@ foreach($data['attacks'] as $attack)
 }
 
 if(strlen($attackstring) > 3)
-	$attackstring = "<li>Damage: {$attackstring} </li>";
+	$attackstring = "<li>DPS: {$attackstring} </li>";
 
 $traitstring = '';
 $traits = array();
@@ -138,7 +139,7 @@ foreach($traits as $trait)
 	else
 		$traitimg = $trait;
 	
-	$traitstring .= "<a href='/traits/type/{$trait}'><img class='equipmentslot' alt='{$traitimg}Slot.png' src='/images/GearSlots/{$traitimg}Slot.png'/></a>";
+	$traitstring .= "<a href='/items/type/{$trait}'><img class='equipmentslot' alt='{$traitimg}Slot.png' src='/images/GearSlots/{$traitimg}Slot.png'/></a>";
 }
 ?>
 

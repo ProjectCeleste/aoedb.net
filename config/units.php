@@ -9,9 +9,16 @@ $config = array(
 					),
 
 	'attackTypes' => array(
-		'Hand' => 'Melee (infantry)',
-		'Cavalry' => 'Melee (cavalry)'),
-					
+		'Hand' => 'Melee-Infantry',
+		'Cavalry' => 'Melee-Cavalry',
+		'Crush' => 'Siege'),
+	
+	'armorTypes' => array(
+		'ArmorRanged' => 'Ranged Armor',
+		'ArmorHand' => 'Melee-Infantry Armor',
+		'ArmorCavalry' => 'Melee-Cavalry Armor',
+		'ArmorSiege' => 'Crush Armor'),
+		
 	'civs' =>
 			array(
 				'eg' => 'Egypt',
